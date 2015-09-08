@@ -24,7 +24,7 @@ import net.sf.json.util.JSONStringer;
 public class Add {
 	private static String postUrl = "http://myoffer.cn/external/api/courses";
 
-	private static int index=1;
+	private static int index=1;//对应页面id
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -33,7 +33,7 @@ public class Add {
 		// TODO Auto-generated method stub
 		try {
 			System.out.println("work start");
-			List<Major> list=POIReadAndPost.getData(null);
+			List<Major> list=POIReadAndPost.getData();
 			for(;index<=list.size();){
 				add(postUrl,list.get(index-1));
 			}
@@ -55,16 +55,10 @@ public class Add {
 	    connection.setRequestMethod("POST");
 	    connection.setUseCaches(false);
 	    connection.setInstanceFollowRedirects(true);
-	    //connection.setRequestProperty("Host", "myoffer.cn");
-	    //connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-<<<<<<< HEAD
-	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=436580706-1440482499-http%253A%252F%252Fmyoffer.cn%252F%7C1441087693; connect.sid=s%3AkmPA2lJJjDsGR4Ag60QDFLl21VbxrP7_.oEtXldNCyVcbQsodvVe%2FsCXE7X%2BEJ7zxr3pxcZgmFlQ");
-=======
 	    connection.setRequestProperty("Cookie", "");
->>>>>>> e3275fb7d54ecee39dd0d82536621b720be0323a
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -120,20 +114,20 @@ public class Add {
 		    course.put("length", major.getLength());
 		    course.put("month", major.getMonthOfEntry());
 
-		    /*
+		    LinkedHashMap<String, String> scholarshipMap=major.getScholarship();
 		    JSONObject scholarshipItem;
 		    List<JSONObject> scholarshipList=new ArrayList<JSONObject>();
-		   	for(int i=0;i<3;i++){//i个长度为奖学金个数
+		   	for(Map.Entry<String, String>e:scholarshipMap.entrySet()){
 		   		scholarshipItem=new JSONObject();
-		   		scholarshipItem.put("name", ""+i);
-		   		scholarshipItem.put("value", ""+i+""+i+""+i);
+		   		scholarshipItem.put("name", e.getKey());
+		   		scholarshipItem.put("value", e.getValue());
 		   		scholarshipList.add(scholarshipItem);
 		   	}
 		   	if(scholarshipList.size()>0)
-		   		course.put("scholarship", scholarshipList);*/
+		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "STRATH");
+		    value.put("university", "Keele");
 		    value.put("course", course);
 		   	entry.put("value", value);
 		    out.write(entry.toString().getBytes("utf8"));

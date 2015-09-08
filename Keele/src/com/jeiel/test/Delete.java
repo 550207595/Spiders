@@ -22,7 +22,7 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=43;){//index为网页上显示的id号
+		for(;index<=70;){//index为网页上显示的id号
 			
 			delete(postUrl,index);
 		}
@@ -37,16 +37,10 @@ public class Delete {
 	    connection.setRequestMethod("POST");
 	    connection.setUseCaches(false);
 	    connection.setInstanceFollowRedirects(true);
-	    //connection.setRequestProperty("Host", "myoffer.cn");
-	    //connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-<<<<<<< HEAD
-	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=436580706-1440482499-http%253A%252F%252Fmyoffer.cn%252F%7C1441087693; connect.sid=s%3AkmPA2lJJjDsGR4Ag60QDFLl21VbxrP7_.oEtXldNCyVcbQsodvVe%2FsCXE7X%2BEJ7zxr3pxcZgmFlQ");
-=======
 	    connection.setRequestProperty("Cookie", "");
->>>>>>> e3275fb7d54ecee39dd0d82536621b720be0323a
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -67,7 +61,7 @@ public class Delete {
 		    
 		    //自定义值
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "saos");
+		    value.put("university", "Keele");
 		    value.put("id", id);
 		   	entry.put("value", value);
 		    
