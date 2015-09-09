@@ -1,0 +1,159 @@
+Course content 
+ Year 1
+ 
+ Classes cover foundation skills, such as programming and computer systems organisation and look at the concepts of computation and information. In addition, you’ll take a business technology class.
+  
+ Machines, Languages & Computation
+ 
+   This class will help you achieve a broad knowledge of the essence of computation and computational systems, as embodied by the notions of computable functions, formal languages and recursion, logic and computability and abstract machines. 
+ 
+ Information & Information Systems
+ 
+   This class will help you understand a broad knowledge of information systems and how information is created, used and disseminated within an information society. 
+ 
+ Programming Foundations
+ 
+   This class will provide you with a solid foundation in the principles of computer programming. On completing this class you should have the necessary skills to be able to design, build and test a small system in a high-level language (Java in the current incarnation of the class). 
+ 
+ Computer Systems & Organisation
+  
+  Semester 1:  you'll develop an understanding and appreciation of a computer system's functional components – both hardware and software, their characteristics, their interactions, and their fundamental role in the manipulation of data. 
+  Semester 2: you'll further your knowledge of the design parameters of a typical computer system and the impact these have on the functionality, and implementation, of the hardware and software components. 
+ 
+ Combinatorics for Computer Science 1
+ 
+   The aim of this class is to introduce the basic combinatorial tools of computer science, to train students in mathematical thinking and reasoning that is pertinent to computer science, and to present that reasoning in rigorous written text. 
+ 
+ Topics in Computing 1 
+ 
+   This class will help you to develop a broader perspective of computer science and to develop problem solving, team working, presentational skills, as well as personal and professional development skills. 
+ 
+ Business Analysis & Technology
+  
+  This class will help raise awareness of the real world problems encountered by industry that can be solved through Management Science methodology. You'll: 
+   
+   develop an understanding of the tools and techniques used by business analysts 
+   highlight the integrative role of technology within organisations 
+   demonstrate the dynamic nature of technology 
+   
+ 
+ Elective Class
+ 
+   In first year most students take an elective class, from a range of topics are offered, normally by other departments, to give a taste of other subjects and broaden your curriculum. 
+ 
+ Year 2
+ 
+ Subjects covered include algorithms, databases, logic, the analysis and design of large systems, and how to ensure that the systems are usable. You’ll also undertake an individual programming project and further programming skills.
+  
+ Advanced Programming
+  
+  This class will further your skills in object-oriented programming, provide knowledge of key abstract data types along with their implementation and usage, and to provide experience in the development of larger scale software and an introduction to design. 
+  Your main goal is to be able to develop larger programs with specialized data structures and utilizing APIs from a specification, and being able to ensure and show how the system they developed matches the specification. 
+ 
+ Topics in Computing 2
+ 
+   This class will help you to develop further their perspective of computer science and to enhance your problem solving, team working, and presentational skills. 
+ 
+ Combinatorics for Computer Science 2
+ 
+   The aim of this class is to introduce the combinatorics of discrete objects that are ubiquitous in theoretical computer science, namely graphs and relations. For both these objects, the overarching aim is to develop your skills in mathematical thinking and reasoning, and to be able to present that reasoning in rigorous written text. 
+ 
+ Logic & Algorithms
+ 
+   This class will equip you with the tools to model and measure computation. To build on the module Machines, Languages and Computation, and develop further understanding of the mathematical foundations of computation. To foster an analytical and empirical appreciation of the behaviour of algorithms and the use of abstract data types. 
+ 
+ User & Data Modelling
+ 
+   This class will provide you with a critical appreciation and understanding of how to model user activities and the data to support them, together with how to implement systems and databases to support user activities. 
+ 
+ Computer Systems & Architecture
+ 
+   This class will allow you to develop a deeper understanding of typical computer architectures and their instruction sets and the complex tradeoffs between CPU clock speed, cache size, bus organisation, number of core processors, etc, that influence their design and have a fundamental impact on their performance. 
+ 
+ Professional Issues in Computing
+ 
+   This class will ensure you're aware of the legal, social, ethical and professional issues commensurate with the practice of Information Systems Engineering. 
+ 
+ Elective class
+ 
+   In second year most students take an optional class, from a range of topics are offered, normally by other departments to give a taste of other subjects and broaden your curriculum. 
+ 
+ Year 3
+ 
+ You’ll study more specialised areas such as communications, how new programming languages can be designed, the variety of internal machine architectures, artificial intelligence, graphics, and the technologies behind web-based applications. You’ll also take part in a large group-based software development project.
+  
+ Compulsory classes 
+ Building Software Systems
+  
+  This class will extend and deepen your understanding of the analysis, design and implementation of software systems; to provide further experience in the activity of designing and implementing non-trivial systems; and to enable you to demonstrate practical competence in a group environment. 
+  Your goal is the development in a group setting of significant systems from scratch aiming not just at any solution but a good solution, and to be introduced to more general Software Engineering topics. 
+ 
+ Computer Systems & Concurrency
+  
+  This class will allow you to develop a deeper understanding of highly concurrent hardware and software systems. The class will also further your knowledge of the need for, and the design and implementation of, those other vital hardware and software components of a concurrent system, namely multiprocessors and their interconnections, operating systems and networks. 
+  The interactions between many of these components will be investigated by means of significant practical work that consolidates the lecture content in the context of: (i) multiprocessor architectures, (ii) concurrency, (iii) protection and security and (iv) networked and concurrent applications. Software developed in appropriate programming languages will form the basis of much of the practical work thus enabling the student to enhance their software design and implementation skills in this domain. 
+  
+ Optional classes 
+ Functional Programming
+  
+  Pre-requisites: Basic programming skills, as might be gained by taking the class Programming Foundations or a similar introductory programming class. 
+  To aim is to provide you with skills in basic functional programming and experience in integrated deployment of those skills. 
+ 
+ Mobile App Development
+  
+  Pre-requisites: Advanced Programming 
+  You should gain a good understanding of the issues in developing for mobile environments, approaches to handling these issues and skills in developing for a widespread mobile platform. 
+ 
+ Foundations of Artificial Intelligence
+  
+  Pre-requisites: Advanced Programming, Logic & Algorithms. 
+  This class will help to give you a broad appreciation of the scale and nature of the problems within Artificial Intelligence and to a detailed understanding of some of the fundamental techniques used to address those problems. 
+ 
+ Web Applications Development
+  
+  Pre-requisites: Advanced Programming, User & Data Modelling. 
+  This class will give you an understanding of the technologies used in the development of N-tier Internet-based applications. 
+ 
+ Programming Language Definition & Implementation
+ 
+   The aim of this class is to provide familiarisation with the definition of programming language syntax and semantics, and the translation of these definitions into an implementation of a programming language. 
+ 
+ Year 4 
+ Compulsory class 
+ Individual Project
+ 
+   This class will allow you to demonstrate practical and documentary competence. You'll also be expected to give a demonstration of your work. 
+  
+ Optional classes
+ 
+ In fourth year, you'll undertake a major individual practical project, along with four classes chosen the options below.
+  
+ Software Architecture & Design
+  
+  This class aims to: 
+   
+   enable you to understand the challenges of advanced software design and the issues associated with large-scale software architectures, frameworks, patterns and components 
+   develop your understanding of the tools and techniques that may be used for the automatic analysis and evaluation of software 
+   
+ 
+ Advanced Functional Programming
+ 
+   This class will provide you with further skills in functional programming and an appreciation of the mathematical structures which underpin powerful general programming concepts and techniques. 
+ 
+ Theory of Computation
+ 
+   Building on the previous material in software development, you'll extend and formalise your abilities in the area of computational complexity. 
+ 
+ Information Access & Mining
+ 
+   This class will allow you to understand the fundamentals of information access and information mining. The class will cover a range of techniques for extracting information from textual and non-textual resources, modelling the information content of resources, detecting patterns within information resources and making use of these patterns. 
+ 
+ Embedded Systems
+ 
+   This class allows you to undertake the design and development process for embedded (dedicated) computer systems in relation to the environment in which they operate and to know how to integrate embedded hardware, software, and operating systems to meet the functional requirements of embedded applications. 
+ 
+ Digital Forensics
+ 
+   This class allows you to understand issues associated with the nature of cybercrime, digital evidence, detection methods and proof, in a variety of digital forensic contexts, including computers, networks and portable digital devices. 
+  
+ 

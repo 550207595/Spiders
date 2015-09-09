@@ -1,0 +1,84 @@
+Course content 
+ Diploma and MSc students follow the same instructional course for the first two semesters. 
+ If you meet the standard required to proceed to MSc you’ll undertake a dissertation in the following three months. 
+ Compulsory classes 
+ Information Systems Architecture
+  
+  The aims of this class are to: 
+   
+   apply systems thinking, and manage and communicate information systems complexity 
+   apply strategic analysis tools and techniques to ISA planning 
+   demonstrate functional knowledge of the individual architectural components of an ISA, and the technical relationship between components 
+   demonstrate methodological understanding of ISA frameworks, including methods of architectural representation 
+   model and analyse services and business processes 
+   
+ 
+ Database & Web Systems Development
+  
+  Students will learn to: 
+   
+   display knowledge of the process of designing a database system, starting from an informal specification 
+   display skill in formulating database queries using SQL 
+   show an appreciation of the facilities and services which should be provided by a fully featured database management system 
+   demonstrate knowledge of commonly occurring data models 
+   demonstrate experience of using a relational database management system in a client-server environment 
+   display knowledge of potential future developments in database technology 
+   understand the typical topology of internet applications 
+   develop simple internet-based applications that make use of server-side technologies and back-end technologies for storing server-side data 
+   
+ 
+ Information Retrieval & Access
+  
+  Students will learn how to: 
+   
+   demonstrate the ability to critically examine a number of influential information seeking models 
+   demonstrate an understanding of research methodologies for studying human information behaviour 
+   demonstrate an advanced understanding of important concepts, such as relevance, in the context of information seeking and retrieval 
+   demonstrate the ability to show how findings from information seeking theory and practice can inform the design of information access systems 
+   demonstrate an advanced understanding of the theory and technology used to construct modern Information Retrieval and Information Access systems 
+   demonstrate the ability to critically evaluate the assumptions behind the evaluation of Information Retrieval systems 
+   be familiar with a wide range of free and commercial information services and how to use them professionally for the benefit of users 
+   understand the role of the information professional in selecting and acquiring appropriate information sources for user queries 
+   understand how the internet impacts on the role of the information professional 
+   
+ 
+ Information Law
+  
+  The aims of this class are to help students: 
+   
+   understand the laws relating to the delivery of information services 
+   be aware of the implications for society of the various legal issues related to information and computing work 
+   understand the legal framework in which criminal investigations involving digital evidence are carried out 
+   
+ 
+ Business Analytics
+  
+  The aims of this class are to: 
+   
+   develop a critical awareness of the range of tools being marketed under the label 'Decision Support' or more generally 'Business Intelligence' 
+   provide an understanding of the key algorithms and techniques which are embodied in Business Intelligence solutions 
+   
+ 
+ Research Methods
+  
+  This class will enable students to: 
+   
+   appreciate the nature and application of selected statistical methods 
+   appreciate the range of qualitative research methods 
+   write a research proposal 
+   develop a research methodology for a given research problem 
+   
+ 
+ Organisation of Knowledge
+  
+  This class provides students with an understanding of the theory involved in analysing, representing and organising knowledge. It also provides practical skills in the application of this theory to domains of knowledge. 
+ 
+ MSc students only 
+ Dissertation
+  
+  MSc students prepare a dissertation of up to 20,000 words on an approved topic. 
+  This takes the form of an individual project on an approved topic, which allows you to pursue an area of specific interest, providing scope for original thought, research and presentation. 
+  
+ Learning & teaching 
+ Teaching methods include lectures, tutorials and practical laboratories. Dissertation is by supervision. 
+ 

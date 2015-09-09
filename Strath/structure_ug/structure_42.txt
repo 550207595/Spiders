@@ -1,0 +1,138 @@
+Course content 
+ Year 1 
+ Machines, Languages & Computation
+ 
+   You'll achieve a broad knowledge of the essence of computation and computational systems, as embodied by the notions of computable functions, formal languages and recursion, logic and computability and abstract machines. 
+ 
+ Information & Information Systems
+ 
+   You'll gain an understanding and a broad knowledge of information systems and how information is created, used and disseminated within an information society. 
+ 
+ Programming Foundations
+ 
+   This class will provide you with a solid foundation in the principles of computer programming. On completing this class you should have the necessary skills to be able to design, build and test a small system in a high-level language (Java in the current incarnation of the class). 
+ 
+ Computer Systems & Organisation
+  
+  Semester 1:  aims to enable you to develop an understanding and appreciation of a computer system's functional components – both hardware and software, their characteristics, their interactions, and their fundamental role in the manipulation of data. 
+  Semester 2:  aims to further your knowledge of the design parameters of a typical computer system and the impact these have on the functionality, and implementation, of the hardware and software components. 
+ 
+ Topics in Computing 1 
+ 
+   This class will help you to develop a broader perspective of computer science and to develop problem solving, team working, presentational skills, as well as personal and professional development skills. 
+ 
+ Business Analysis & Technology
+  
+  To raise awareness of the real world problems encountered by industry that can be solved through Management Science methodology. You'll: 
+   
+   develop an understanding of the tools and techniques used by business analysts 
+   highlight the integrative role of technology within organisations 
+   demonstrate the dynamic nature of technology 
+   
+ 
+ Elective Class
+ 
+   In first year most students take an elective class from a range of topics are offered, normally by other departments to give you a taste of other subjects and broaden your curriculum. 
+ 
+ Year 2 
+ Advanced Programming
+ 
+   This course aims to further your skills in object-oriented programming, provide knowledge of key abstract data types along with their implementation and usage, and to provide experience in the development of larger scale software and an introduction to design. The main goal is for you to be able to develop larger programs with specialized data structures and utilizing APIs from a specification, and being able to ensure and show how the system they developed matches the specification. 
+ 
+ User & Data Modelling
+ 
+   This class will provide you with a critical appreciation and understanding of how to model user activities and the data to support them, together with how to implement systems and databases to support user activities. 
+ 
+ Computer Systems & Architecture
+ 
+   This class will allow you to develop a deeper understanding of typical computer architectures and their instruction sets and the complex trade-offs between CPU clock speed, cache size, bus organisation, number of core processors, etc, that influence their design and have a fundamental impact on their performance. 
+ 
+ Professional Issues in Computing
+ 
+   To class will ensure you're aware of the legal, social, ethical and professional issues commensurate with the practice of Information Systems Engineering. 
+ 
+ Analysing & Improving Operations 
+  
+  The class aims to provide basic understanding of the principles of Operations Management in both manufacturing and service industries. 
+  Management decisions and factors influencing these decisions in a variety of areas of Operations Management are discussed. These include Operations Strategy, Product and Process Design, Quality Management, Control and Improvement. Basic management science tools and approaches will be introduced to aid decision making. 
+  Decision analysis techniques are developed and are applied to some of the operations management subjects to illustrate how managers can be supported with analytical tools to reach justifiable decisions about their operations. Special attention will be given to modelling with simulation as a strong and relevant management science tool in the context of operations management. 
+ 
+ Managing Business Processes & Information Systems
+  
+  This class aims to provide you with an understanding of the key issues in the management of business processes and information systems within the wider context of the advent of the in formation/knowledge economy, including: mapping & modelling of business processes, business process measurement and improvement, business process implementation, Enterprise Resource Planning, and company-wide IS. 
+  The class will also provide you with the opportunity to use an industry-standard ERP system to explore practical solutions to problems of business process integration. 
+ 
+ Elective Class
+ 
+   In second year, most students take an elective class - classes from a range of topics are offered, normally by other departments to give a taste of other subjects and broaden your curriculum. 
+ 
+ Year 3 
+ Building Software Systems
+  
+  This class aims to extend and deepen your understanding of the analysis, design and implementation of software systems; to provide further experience in the activity of designing and implementing non-trivial systems; and to enable you to demonstrate practical competence in a group environment. 
+  Your goal is to development in a group setting of significant systems from scratch aiming not just at any solution but a good solution, and to be introduced to more general Software Engineering topics. 
+ 
+ Mobile App Development 
+  
+  Pre-requisite: Advanced Programming module. 
+  In this class, you'll gain a good understanding of the issues in developing for mobile environments, approaches to handling these issues and skills in developing for a widespread mobile platform. 
+ 
+ Web Applications Development
+  
+  Pre-requisite: Advanced Programming & User and Data Modelling modules. 
+  To class will help you gain an understanding of the technologies used in the development of N-tier Internet-based applications. 
+ 
+ Computer Systems & Concurrency
+  
+  This class will enable you to develop a deeper understanding of highly concurrent hardware and software systems. The class will also further your knowledge of the need for, and the design and implementation of, those other vital hardware and software components of a concurrent system, namely multiprocessors and their interconnections, operating systems and networks. The interactions between many of these components will be investigated by means of significant practical work that consolidates the lecture content in the context of: (i) multiprocessor architectures, (ii) concurrency, (iii) protection and security and (iv) networked and concurrent applications. 
+  Software developed in appropriate programming languages will form the basis of much of the practical work thus enabling you to enhance their software design and implementation skills in this domain. 
+ 
+ Working in Today's Virtual World
+  
+  The class will initially look at the background to ‘virtual’ working and examine how it is currently being used in a range of organisations. Following this, the existing tools and processes will be presented – where possible providing examples or hands on experiences. 
+  The class will conclude with a discussion of organisational implications ranging from legal, financial and human resource issues. A project, run in collaboration with 3 other universities worldwide, aims to ensure you can gain a practical appreciation of the conceptual material (through taking part in a ‘virtual’ team) thus completing the learning loop. 
+  The overarching aim of the class is to give you a thorough understanding of virtual working. More specifically the class aims to: 
+   
+   provide an understanding of the background and current practice of virtual working 
+   let you experience the pros and cons of cooperating in a distributed team, with members from different cultures and backgrounds 
+   allow you to become familiar with several applications of ICT (Information and Communication Technologies), which can be valuable to your study and (future) work, for example Group Support Systems 
+   let you gain insight into the current situation of IT developments in Europe and Asia and increase the understanding of the global differences and similarities 
+   
+ 
+ Knowledge Management
+  
+  Knowledge is of immense importance to all organisations today, yet, the employees have total control over it: they own it. 
+  To gain advantage of the knowledge of its employees, which is the purpose of knowledge management, the organisation needs understanding of the nature of personal knowledge and more broadly of cognition in terms of structures and processes. Then the leaders and the managers of the knowledge workers can understand their roles and thus create and support the organisational structures and processes which facilitate making use of knowledge. 
+  This class will provide you with understanding of the nature of knowledge in terms of structures and processes as well as the appreciation of the role and importance of knowledge for organisations. On this basis, you'll be introduced the knowledge-related management and leadership issues and the techniques that may be used to support these. 
+ 
+ Year 4 
+ Compulsory class 
+ Individual Project
+ 
+   This class will allow you to demonstrate practical and documentary competence and you'll also be expected to give a demonstration of your work. 
+  
+ Elective classes
+ 
+ In 4th year, you'll undertake a major individual practical project, along with four classes chosen from a range of specialist electives, including:
+  
+ Software Architecture & Design
+  
+  This class will allow you to: 
+   
+   understand the challenges of advanced software design and the issues associated with large-scale software architectures, frameworks, patterns and components 
+   develop your understanding of the tools and techniques that may be used for the automatic analysis and evaluation of software 
+   
+ 
+ Information Access & Mining
+ 
+   This class will allow you to understand the fundamentals of information access and information mining. It will cover a range of techniques for extracting information from textual and non-textual resources, modelling the information content of resources, detecting patterns within information resources and making use of these patterns. 
+ 
+ Embedded Systems
+ 
+   This class allows you to undertake the design and development process for embedded (dedicated) computer systems in relation to the environment in which they operate. You'll learn to integrate embedded hardware, software, and operating systems to meet the functional requirements of embedded applications. 
+ 
+ Digital Forensics
+ 
+   This class allows you to understand issues associated with the nature of cybercrime, digital evidence, detection methods and proof, in a variety of digital forensic contexts, including computers, networks and portable digital devices. 
+  
+ 

@@ -1,0 +1,185 @@
+Course content 
+ Year 1 
+ Maths 
+ Introduction to Calculus
+ 
+   You'll  study the basic concepts and standard methods of mathematical notation and proof, polynomial equations and inequalities, sequences and series, functions, limits and continuity, differentiation and integration. 
+ 
+ Applications of Calculus
+  
+  The fundamental concepts of calculus (differentiation and integration) presented in Applications of Calculus will be examined in more detail, extended to a larger class of functions by means of more sophisticated methods, including an introduction to complex numbers and variables, all demonstrated in application to practical problems including solving basic first and second-order differential equations.     
+ 
+ Geometry & Algebra with Applications
+  
+  This class will introduce you to vectors and matrices, along with the idea of mathematical modelling through their application to real-world problems. 
+  
+ Computer Science 
+ Machines, Languages & Computation
+ 
+   This class will help you achieve a broad knowledge of the essence of computation and computational systems, as embodied by the notions of computable functions, formal languages and recursion, logic and computability and abstract machines. 
+ 
+ Information & Information Systems
+ 
+   This class will help you understand a broad knowledge of information systems and how information is created, used and disseminated within an information society. 
+ 
+ Programming Foundations
+ 
+   This class will provide you with a solid foundation in the principles of computer programming. On completing this class you should have the necessary skills to be able to design, build and test a small system in a high-level language (Java in the current incarnation of the class). 
+ 
+ Year 2 
+ Maths 
+ Linear Algebra & Differential Equations
+  
+  This class will introduce you to the basic ideas of linear algebra, such as matrices and determinants, vector spaces, bases, eigenvalues and eigenvectors. You'll study various standard methods for solving ordinary differential equations and understand their relevance. 
+ 
+ Advanced Calculus
+  
+  Basic ideas, techniques and results for calculus of two and three variables, along with differentiation and integration over curves, surfaces and volumes of both scalar and vector fields will be presented. 
+ 
+ Applicable Analysis
+  
+  This class will give a rigorous treatment of convergence of sequences and infinite series of real numbers and of continuity, differentiability and integrability of functions of a real variable, and will illustrate the importance of these concepts in the analysis of problems arising in applications. 
+  
+ Computer Science 
+ Advanced Programming
+  
+  This class will further your skills in object-oriented programming, provide knowledge of key abstract data types along with their implementation and usage, and to provide experience in the development of larger scale software and an introduction to design. 
+  Your main goal is to be able to develop larger programs with specialized data structures and utilizing APIs from a specification, and being able to ensure and show how the system they developed matches the specification. 
+ 
+ Logic & Algorithms
+ 
+   This class will equip you with the tools to model and measure computation. To build on the module Machines, Languages and Computation, and develop further understanding of the mathematical foundations of computation. To foster an analytical and empirical appreciation of the behaviour of algorithms and the use of abstract data types. 
+ 
+ User & Data Modelling
+ 
+   This class will provide you with a critical appreciation and understanding of how to model user activities and the data to support them, together with how to implement systems and databases to support user activities. 
+ 
+ Year 3 
+ Maths 
+ Compulsory classes
+ Linear Algebra
+  
+  Here we'll introduce basic algebraic structures, with particular emphasis on those pertaining to finite dimensional linear spaces and deepen your understanding of linear mappings. We'll also provide an introduction to inner product spaces and bilinear forms. 
+ 
+ Differential Equations
+  
+  We'll introduce you to analytical methods for solving ordinary and partial differential equations so you'll develop an understanding along with technical skills in this area. 
+  
+ Optional classes
+ Applicable Analysis
+  
+  We'll introduce you to the basic theory and applications of metric spaces, normed vector spaces and Banach spaces, inner product spaces and Hilbert spaces, and bounded linear operators on normed linear spaces. 
+ 
+ Numerical Analysis
+  
+  This module will motivate the need for numerical algorithms to approximate the solution of problems that can't be solved with pen and paper. It'll develop your skills in performing detailed analysis of the performance of numerical methods and will continue to develop your skills in the implementation of numerical algorithms using R. 
+  
+ Computer Science 
+ Compulsory class
+ Building Software Systems
+  
+  This class will extend and deepen your understanding of the analysis, design and implementation of software systems; to provide further experience in the activity of designing and implementing non-trivial systems; and to enable you to demonstrate practical competence in a group environment. 
+  Your goal is the development in a group setting of significant systems from scratch aiming not just at any solution but a good solution, and to be introduced to more general Software Engineering topics. 
+  
+ Optional classes
+ Foundations of Artificial Intelligence
+  
+  Pre-requisites: Advanced Programming, Logic & Algorithms. 
+  This class will help to give you a broad appreciation of the scale and nature of the problems within Artificial Intelligence and to a detailed understanding of some of the fundamental techniques used to address those problems. 
+ 
+ Programming Language Definition & Implementation 
+  
+  The class will provide familiarisation with the definition of programming language syntax and semantics, and the translation of these definitions into an implementation of a programming language. 
+ 
+ Web Applications Development
+  
+  Pre-requisites: Advanced Programming, User & Data Modelling. 
+  This class will give you an understanding of the technologies used in the development of N-tier Internet-based applications. 
+ 
+ Functional Programming
+  
+  Pre-requisites: Basic programming skills, as might be gained by taking the class Programming Foundations or a similar introductory programming class. 
+  To aim is to provide you with skills in basic functional programming and experience in integrated deployment of those skills. 
+ 
+ Year 4 
+ Maths 
+ Compulsory class
+ Communicating Mathematics & Statistics
+  
+  This class provides you with experience of the skills required to undertake project work, and to communicate the findings in written and oral form using a variety of sources, such as books, journals and the internet. 
+  
+ Optional classes
+ Modelling & Simulation with Applications to Financial Derivatives
+  
+  Here you'll get an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. This module places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). In both cases, in addition to theoretical analysis, appropriate computational algorithms are introduced. The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+ 
+ Applicable Analysis 3
+  
+  This class will present the main results in Functional Analysis, give an introduction to linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+ 
+ Statistical Modelling & Analysis
+  
+  This class will provide you with a range of applied statistical techniques that can be used in professional life. 
+ 
+ Fluids & Waves
+  
+  You'll be introduced to the theory of Newtonian fluids and its application to flow problems and the dynamics of waves on water and in other contexts. 
+ 
+ Finite Element Methods for Boundary Value Problems & Approximation
+  
+  You'll be presented with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory. 
+ 
+ Applied Statistics in Society
+  
+  You'll be introduced to a range of modern statistical methods and practices used in industry, commerce and research, and will develop skills in your application and presentation. 
+ 
+ Mathematical Introduction to Networks
+  
+  This class will demonstrate the central role network theory plays in mathematical modelling. It'll also show the intimate connection between linear algebra and graph theory and how to use this connection to develop a sound theoretical understanding of network theory. Finally, it'll apply this theory as a tool for revealing structure in networks. 
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  Here you'll learn the application of mathematical models to a variety of problems in biology, medicine, and ecology. It'll show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that will explore a real-world application of an ecosystem model. 
+ 
+ Elasticity & Complex Materials
+  
+  We'll introduce you to general continuum theory with applications to Newtonian and non-Newtonian fluids and elastic materials. 
+ 
+ Optimisation: Theory & Practice
+  
+  We'll provide you with a basic mathematical understanding of modern approaches to optimisation and the calculus of variations. 
+ 
+ Statistical Mechanics
+  
+  Here you'll develop approaches to understanding complex or random systems in or out of equilibrium, based on ideas from statistical mechanics that incorporate familiar concepts and methods from neighbouring subjects like classical mechanics and probability and statistics. 
+  You'll also be able to describe, through various examples and techniques, how macroscopic properties of systems arise from the ensemble action of many microscopic ingredients, and, specifically, how deterministic 'laws' may arise from basic randomness of a system with many variables or degrees of freedom. Fundamental examples include Brownian motion and the ideal gas. 
+ 
+ Dynamical Models in Epidemiology
+  
+  We'll introduce mathematical models which arise in epidemiology and population dynamics, and help you develop techniques for analysing the qualitative behaviour of the associated dynamical systems. 
+     
+  
+ Computer Science 
+ Compulsory class
+ Individual Project
+ 
+   This class will allow you to demonstrate practical and documentary competence. You'll also be expected to give a demonstration of your work. 
+  
+ Optional classes
+ Software Architecture & Design
+  
+  This class aims to: 
+   
+   enable you to understand the challenges of advanced software design and the issues associated with large-scale software architectures, frameworks, patterns and components 
+   develop your understanding of the tools and techniques that may be used for the automatic analysis and evaluation of software 
+   
+ 
+ Theory of Computation
+ 
+   Building on the previous material in software development, you'll extend and formalise your abilities in the area of computational complexity. 
+ 
+ Information Access & Mining
+ 
+   This class will allow you to understand the fundamentals of information access and information mining. The class will cover a range of techniques for extracting information from textual and non-textual resources, modelling the information content of resources, detecting patterns within information resources and making use of these patterns. 
+  
+ 

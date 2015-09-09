@@ -1,0 +1,233 @@
+Course content 
+ Year 1 - Core Engineering & Science Skills
+ 
+ In first year you'll learn the essential skills and disciplines required to provide a strong foundation for future learning in electronic engineering, maths and computing science. You'll study subjects such as the principles of electronic circuits, software engineering, relevant mathematics and business skills. These skills will be reinforced by practical laboratory sessions which will help to develop your ability to translate concepts into reality.
+  
+ Compulsory classes 
+ Engineering Industry & Profession 
+  
+  To provide an overview of industry and give you some understanding of the industry environment that you would enter as well as the types of roles you would/could undertake. To explain role and responsibility of the engineering profession and individual engineer. 
+  The class is delivered to first-year undergraduate students in the specific context of electronic and electrical engineering together with relationship to mechanical engineering and computer systems. 
+ 
+ Machines, Languages & Computation
+ 
+   This class will help you achieve a broad knowledge of the essence of computation and computational systems, as embodied by the notions of computable functions, formal languages and recursion, logic and computability and abstract machines. 
+ 
+ Programming Foundations
+ 
+   This class will provide you with a solid foundation in the principles of computer programming. On completing this class you should have the necessary skills to be able to design, build and test a small system in a high-level language (Java in the current incarnation of the class). 
+ 
+ Fundamentals of Computer Systems
+  
+  This class will further your knowledge of the design parameters of a typical computer system and the impact these have on the functionality, and implementation, of the hardware and software components. 
+ 
+ Electronic & Electrical Principles 1 
+ 
+   To provide you with a foundational understanding of the analysis and design of both analogue and digital electronic circuits. 
+ 
+ Engineering Mathematics 1E
+ 
+   To give a basic understanding of the concepts and applications of mathematical functions, differentiation, integration and complex numbers.   The class also provides an introductory experience of using mathematical tools to apply these concepts to practical engineering examples. 
+ 
+ Engineering Mathematics 2E
+ 
+   To give a basic understanding of the concepts and applications of calculus, geometry, vectors, matrices and numerical methods. 
+ 
+ Year 2 - Core Engineering & Technology Skills
+ 
+ In second year you'll build on the strong foundations of the first year and further broaden your knowledge through the introduction to a range of programming techniques and languages, and computer communications. More analysis of both hardware and software systems will be undertaken to enable you to see the bigger picture. Small scale projects will be introduced to allow you to hone the skills and techniques you have developed in the first two years of the course.
+  
+ Compulsory classes 
+ Engineering Design & Manufacture 
+ 
+   This class aims to introduce you to concepts and methodology required to undertake effective design and development of engineering systems. The product development process will be introduced and through practice, a working knowledge of appropriate engineering design processes, tools and techniques will be gained.
+  
+  An overview of manufacturing and the manufacturing industry will provide a general appreciation of the range of processes employed in manufacturing together with an understanding of how components can be manufactured economically and reliably. 
+ 
+ Advanced Programming
+  
+  This class will further your skills in object-oriented programming, provide knowledge of key abstract data types along with their implementation and usage, and to provide experience in the development of larger scale software and an introduction to design. 
+  Your main goal is to be able to develop larger programs with specialized data structures and utilizing APIs from a specification, and being able to ensure and show how the system they developed matches the specification. 
+ 
+ Computer Systems & Architecture
+ 
+   This class will allow you to develop a deeper understanding of typical computer architectures and their instruction sets and the complex tradeoffs between CPU clock speed, cache size, bus organisation, number of core processors, etc, that influence their design and have a fundamental impact on their performance. 
+ 
+ Electronic & Electrical Principles 2 
+ 
+   To introduce you to the analysis and design of analogue circuits and systems as used in electronics, energy & power systems, communications, control and analogue signal processing applications. 
+ 
+ Digital Electronic Systems 
+ 
+   To introduce you to the use of digital electronics and the rudiments of digital signal processing systems. 
+ 
+ Engineering Mathematics 3E
+  
+  
+   The aims of this class are:
+   
+   
+   to develop the means of solving certain differential equations 
+   to consider applications of Taylor and Maclaurin series 
+   to generalise earlier ideas in calculus to deal with functions of several variables 
+   to discuss in more detail matrices, determinants and functions of a complex variable 
+   to introduce vector calculus and eigenvalues/eigenvectors 
+   
+  
+ Elective classes
+ A maximum of two classes are to be chosen. 
+ Logic & Algorithms
+ 
+   This class will equip you with the tools to model and measure computation. To build on the module Machines, Languages and Computation, and develop further understanding of the mathematical foundations of computation. To foster an analytical and empirical appreciation of the behaviour of algorithms and the use of abstract data types. 
+ 
+ Physical Electronics 
+ 
+   Following completion of this class you'll be able to demonstrate knowledge of following topics: 
+  
+   Basic Quantum Theory
+   Early experiments – e/m, photo-electric effect 
+   Structure of the atom
+   Wave-particle duality
+   Schrodinger equation and application in simple systems
+   Basic Semiconductor Physics
+   Crystal structure Electron mobility Band theory
+   Doping of semiconductors
+   Physics of p-n junctions
+   Basic Device Physics
+   Diode operation
+   LED and laser diodes
+   .
+   
+ 
+ Electromagnetism 
+ 
+   You'll gain an understanding of the application of electromagnetic effects in practical devices and develop the mathematical skills necessary to analyse these effects in simple geometries. 
+ 
+ Year 3 - Specialist Engineering Skills
+ 
+ In third year you'll be given the opportunity to choose from a range of specialist modules. You'll also study a carefully designed core curriculum which will cover aspects of computer communications and interfacing hardware and software systems.
+  
+ Compulsory classes 
+ Building Software Systems
+  
+  This class will extend and deepen your understanding of the analysis, design and implementation of software systems; to provide further experience in the activity of designing and implementing non-trivial systems; and to enable you to demonstrate practical competence in a group environment. 
+  Your goal is the development in a group setting of significant systems from scratch aiming not just at any solution but a good solution, and to be introduced to more general Software Engineering topics. 
+ 
+ Computer Systems & Concurrency
+  
+  This class will allow you to develop a deeper understanding of highly concurrent hardware and software systems. The class will also further your knowledge of the need for, and the design and implementation of, those other vital hardware and software components of a concurrent system, namely multiprocessors and their interconnections, operating systems and networks. 
+  The interactions between many of these components will be investigated by means of significant practical work that consolidates the lecture content in the context of: (i) multiprocessor architectures, (ii) concurrency, (iii) protection and security and (iv) networked and concurrent applications. Software developed in appropriate programming languages will form the basis of much of the practical work thus enabling the student to enhance their software design and implementation skills in this domain. 
+ 
+ Signals & Communications Systems 
+ 
+   The aim of this class is to introduce you to the fundamentals of continuous and discrete signals and linear systems for baseband applications and further describe how these principles are applied in modern communications and bandpass systems. 
+ 
+ Engineering Innovation & Management 
+  
+  This class aims to provide you with an understanding of the importance of innovation in today’s business environment. The class aims to also develop understanding and skills in the area of innovation management. It aims to develop practical skills for you to integrate a number of themes including: 
+   
+   product development 
+   IP 
+   product finances 
+   project management 
+   market analysis with a view to successfully exploiting new ideas 
+   
+ 
+ CES mini project
+  
+  
+ Elective classes
+ One to be chosen. 
+ Foundations of Artificial Intelligence
+  
+  Pre-requisites: Advanced Programming, Logic & Algorithms. 
+  This class will help to give you a broad appreciation of the scale and nature of the problems within Artificial Intelligence and to a detailed understanding of some of the fundamental techniques used to address those problems. 
+ 
+ Programming Language Definition & Implementation 
+  
+  The class will provide familiarisation with the definition of programming language syntax and semantics, and the translation of these definitions into an implementation of a programming language. 
+ 
+ Instrumentation & Microcontrollers 
+  
+  INSTRUMENTATION To develop techniques for system modelling based on block diagrams and transfer functions and to use such techniques in the context of analysis and design. To introduce you to instrumentation and measurement as an interdisciplinary engineering activity. To explain the basic principles of feedback and control systems.
+   
+  To enable understanding of the dependence of measurement and control on a wide variety of scientific and engineering disciplines; to provide appreciation of the universal application of measurement and control within the same range of disciplines. 
+  To demonstrate engineering design as applied to instrumentation systems and control engineering; in particular, to explain the important contribution of electrical, mechanical and software engineering to this process. 
+  MICROCONTROLLERS 
+  To allow you to gain practical design, implementation and test experience of the techniques required to create combined hardware/software systems with an emphasis on measurement. 
+ 
+ Analogue & Digital System Design 
+ 
+   Expand your knowledge in the fundamental electrical and electronic engineering areas of analogue and digital design. 
+ 
+ Engineering Analysis 
+ 
+   It is important for you to see mathematics and statistics in the context of the computational problems they will be exposed to in their discipline. 
+  
+  The aim of this class is to further develop your skills and abilities in advanced mathematical concepts in the field of engineering. This will be achieved through contextualised problem solving using applicable mathematical and statistical techniques and tools on problems of moderate complexity. 
+ 
+ Year 4 - Engineering for Your Professional Future
+ 
+ In Year 4 you undertake an individual research project, which will help you gain valuable technical and project management skills, along with a selection of advanced technical modules of your choice.
+  
+ Compulsory class 
+ Individual Project
+ 
+   You undertake an individual research project.   This will help you gain valuable technical and project management skills. 
+  
+ Elective classes
+ At least four classes to be chosen. 
+ Software Architecture & Design
+  
+  This class aims to: 
+   
+   enable you to understand the challenges of advanced software design and the issues associated with large-scale software architectures, frameworks, patterns and components 
+   develop your understanding of the tools and techniques that may be used for the automatic analysis and evaluation of software 
+   
+ 
+ Theory of Computation
+ 
+   Building on the previous material in software development, you'll extend and formalise your abilities in the area of computational complexity. 
+ 
+ Communications Networks 
+ 
+   To provide an understanding of the principles and key transport technologies which underpin high-speed heterogeneous broadband communications networks and architectures while giving an insight to the technical and strategic challenges associated with the provision of a Quality of Service (QoS)-based integrated future-network platform. 
+ 
+ Digital Signal Processing Principles 
+ 
+   Develop necessary tools that will allow you to design, analyse and simulate (Matlab/Simulink) DSP systems by introducing core mathematical concepts, algorithms and fundamental properties of discrete signal and systems with applications 
+ 
+ Embedded Systems
+ 
+   This class allows you to undertake the design and development process for embedded (dedicated) computer systems in relation to the environment in which they operate and to know how to integrate embedded hardware, software, and operating systems to meet the functional requirements of embedded applications. 
+ 
+ Digital Forensics
+ 
+   This class allows you to understand issues associated with the nature of cybercrime, digital evidence, detection methods and proof, in a variety of digital forensic contexts, including computers, networks and portable digital devices. 
+ 
+ Information Transmission & Security 
+ 
+   Impart an understanding of the principles by which information can transmitted with varying levels of security and the techniques by which communication systems can be analysed and designed. 
+ 
+ Control Principles 
+  
+  
+   This class aims:
+   
+   
+   to introduce you to the basic concepts, mathematical tools and design methods of classical control theory 
+   to enable you to use analysis and design tools used in control engineering and appreciate the industrial applications of control systems 
+   to enable you to analyse and design closed loop control system specifically using industrial three-term (PID) controllers 
+   to introduce you to advanced control methods and to provide a basic understanding of a time-domain approach to control analysis and design of industrial processes 
+   to appreciate the application of control theory in industrial applications 
+   
+ 
+ Photonic Systems 
+ 
+   The primary aim of this class is to enable you to develop a basic conceptual understanding and working knowledge of fibre optic communications systems and their component parts addressing basic principles, engineering, design and performance limits. All of the fundamental principles of light, optics and photonic components necessary to achieve this are dealt with, giving a broad appreciation of photonics in general. 
+ 
+ Analogue Systems 
+ 
+   This class will provide you with an appreciation and understanding of analogue electronic circuit design, relating to high frequency amplifiers and low noise design of electronic systems. 
+  
+ 

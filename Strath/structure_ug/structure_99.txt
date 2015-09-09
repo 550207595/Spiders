@@ -1,0 +1,231 @@
+Course content 
+ Year 1 
+ Management Development Programme 1 
+  
+  Topics 
+  First Year aims to help you make the transition to the university context. Semester 1 is the Thematic Semester: The World of Business Today and covers topics such as: 
+   
+   Social-Ethical-Environmental Governance (SEEG) 
+   Business Ethics 
+   Disruptive Technologies 
+   
+  Semester 2: Functional Semester: Organisations Today covers topics such as: 
+   
+   Creativity & Responsibility 
+   Marketing & Sustainability across Domains 
+   
+  Class description 
+  The first year of the programme is centred on the construction of knowledge in classroom setting with theoretical constructs developed. For each topic we’ve recorded a video by a Strathclyde academic who is a leading expert in the field. 
+  You’ll watch these lectures in advance of each session and complete a pre-sessional activity. The pre-sessional work then forms the basis of team based activities work in the classroom (groups of 50 and teams of six-seven) where you develop an agreed understanding of the topic and present this to the group. 
+  The feedback gained from this activity then feeds directly into the assessment for the block. You’ll complete 16 assignments in the two semesters of the class. 
+  
+ Finance 
+ Course summary
+  
+  Students will receive an introduction to: 
+   
+   finance and accounting, which covers the basic principles of investment and value 
+   the valuation of bonds and shares 
+   investment decisions in business companies 
+   accounting methods 
+   
+  
+ Mathematics & Statistics 
+ Introduction to Calculus
+ 
+   You'll  study the basic concepts and standard methods of mathematical notation and proof, polynomial equations and inequalities, sequences and series, functions, limits and continuity, differentiation and integration. 
+ 
+ Applications of Calculus
+  
+  The fundamental concepts of calculus (differentiation and integration) presented in Applications of Calculus will be examined in more detail, extended to a larger class of functions by means of more sophisticated methods, including an introduction to complex numbers and variables, all demonstrated in application to practical problems including solving basic first and second-order differential equations.     
+ 
+ Geometry & Algebra with Applications
+  
+  This class will introduce you to vectors and matrices, along with the idea of mathematical modelling through their application to real-world problems. 
+ 
+ Statistics & Data Presentation
+  
+  Some basic ideas and techniques of statistics will be presented while introducing some essential study skills, allowing you to develop and practice personal and technical skills eg self-study, teamwork, analysing data, writing reports and making presentations. 
+     
+ 
+ Year 2 
+ Management Development Programme 2 
+  
+  Topics 
+  Semester 1 topics include: 
+   
+   Working in Business Organisations 
+   Working Business Research & Consultancy 
+   Working Internationally 
+   Working in the Third Sector 
+   Rhetorics & Oratory 
+   
+  Semester 2 is about developing the proposal of MDP3; with a presentation and a final report. 
+  Class description 
+  The second year concentrates on developing understanding through industry-specific contextualisation. Sessions are weekly and three hours in length. 
+  The sessions are thematically linked to the pathways for individualised experience in third year whilst also drawing on the theoretical knowledge developed in MDP 1. In order to develop understanding, organisations will deliver a half-day session. This consists of a one hour plenary introduction where the company and case study are introduced. This is followed by the group sessions where you undertake activities in relation to the case study set by the company. 
+  
+ Finance 
+ Course summary
+  
+  Second year classes cover: 
+   
+   investment and financial decision-making and policies in business 
+   risk and return and the pricing of company shares 
+   portfolio selection and the efficiency of financial markets 
+   the valuation of bonds and bond portfolio management 
+   equity trading strategies 
+   statistical and spreadsheet methods of analysing financial problems and strategies 
+   
+  
+ Mathematics & Statistics 
+ Linear Algebra & Differential Equations
+  
+  This class will introduce you to the basic ideas of linear algebra, such as matrices and determinants, vector spaces, bases, eigenvalues and eigenvectors. You'll study various standard methods for solving ordinary differential equations and understand their relevance. 
+ 
+ Advanced Calculus
+  
+  Basic ideas, techniques and results for calculus of two and three variables, along with differentiation and integration over curves, surfaces and volumes of both scalar and vector fields will be presented. 
+ 
+ Probability & Statistical Inference
+  
+  Presentation of the basic concepts of probability theory and statistical inference will be covered to provide you with the tools to appropriately analyse a given data set and effectively communicate the results of such analysis. 
+ 
+ Mathematical & Statistical Computing
+  
+  This class will introduce you to the R computing environment. It'll enable you to use R to import data and perform statistical tests, allow you to understand the concept of an algorithm and what makes a good algorithm and will equip you for implementing simple algorithms in R. 
+ 
+ Year 3 
+ Management Development Programme 3
+  
+  The third year of centres on individualised experience in an organisational context through one of the following pathways: 
+   
+   Internship/Charities - gain practical experience in a private or third sector organisation. You need to negotiate and locate your own organisation and experience – this is one of the key learning points of the pathway. 
+   Research and consultancy - a facility for local small businesses to gain from the experience and expertise of those within SBS. You work on two live business consultancy projects (one in each semester) and, as a team of 6, develop solutions and strategic initiatives for the local SME economy. 
+   International experience – only available for students who are undertaking an international exchange for either one semester or full year. 
+   Vertically Integrated Projects - working on a cross-faculty basis to research longitudinal projects (including the ‘Bill Gates Toilet Challenge, Solar Panels for Gambia and Enterprise in Schools) you work with a team of students from all levels of study (first year undergraduate to final year PhD) to further the work of the project. 
+   
+  In addition, you’re required to undertake a social responsibility element (this accounts for one quarter of the overall workload). 
+  These have been designed to provide support to the Curriculum for Excellence and the Widening Access to Higher Education programme. There are no formal classes for MDP3 although there is pathway support with the pathway leads and tutor support. 
+  
+ Finance 
+ Course summary
+  
+  Areas covered in third year classes include: 
+   
+   advanced corporate finance and financial markets issues 
+   valuation of derivatives, such as options and futures and swaps 
+   the operations of derivatives markets 
+   hedging strategies 
+   treasury and international financial risk management in business 
+   
+  Advanced methods of empirical analysis, such as event studies, and access to historic and live data are also included. 
+  
+ Mathematics & Statistics 
+ Differential Equations
+  
+  We'll introduce you to analytical methods for solving ordinary and partial differential equations so you'll develop an understanding along with technical skills in this area. 
+ 
+ Inference & Regression Modelling
+  
+  This class will: 
+   
+   review the concepts of probability distributions and how to work with these 
+   present approaches to parameter estimation, focusing on maximum likelihood estimation, bootstrap estimation, and properties of estimators 
+   present hypothesis testing procedures, including classical likelihood ratio tests and computer-based methods for testing parameter values, and goodness-of-fit tests. 
+   introduce and provide understanding of the least squares multiple regression model, general linear model, transformations and variable selection procedures 
+   present use of R functions for regression and interpretation of R output 
+   
+  
+ Optional classes
+ Complex Variables & Integral Transforms
+  
+  This class will introduce functions of a complex variable, define concepts such as continuity, differentiability, analyticity, line integration, singular points, etc. It'll examine some important properties of such functions, and consider some applications of them, eg conformal mappings, and the evaluation of real integrals using the Residue Theorem. It'll also introduce you to Fourier and Laplace transform methods for solving linear ordinary differential equations and convolution type integral equations. 
+ 
+ Linear Algebra
+  
+  Here we'll introduce basic algebraic structures, with particular emphasis on those pertaining to finite dimensional linear spaces and deepen your understanding of linear mappings. We'll also provide an introduction to inner product spaces and bilinear forms. 
+ 
+ Numerical Analysis
+  
+  This module will motivate the need for numerical algorithms to approximate the solution of problems that can't be solved with pen and paper. It'll develop your skills in performing detailed analysis of the performance of numerical methods and will continue to develop your skills in the implementation of numerical algorithms using R. 
+ 
+ Stochastics & Financial Econometrics
+  
+  You'll  be introduced to the basic concepts of random phenomena evolving in time, from two complementary points of view: probabilistic modelling and data-driven analysis. Presentation of underlying ideas of simple stochastic processes, time series models, and the associated probability theory and statistical techniques will be covered. In addition to applications of the methods to financial and economic systems, including modelling, data analysis, and forecasting. 
+ 
+ Year 4 
+ Finance 
+ Course summary
+  
+  You can either specialise in Finance as a Single Honours subject or continue to a Joint Honours degree in Finance and your other principal subject. In order to gain entry to Honours year, you must meet specified performance criteria in Years 2 and 3. 
+  Students taking Single Honours in Finance will do a research dissertation in Finance, while Joint Honours students typically have the choice of doing their dissertation in either Finance or their other subject. Honours classes cover advanced topics in the following areas: 
+   
+   corporate investment 
+   corporate financing 
+   asset pricing 
+   portfolio analysis 
+   derivatives 
+   international financial management 
+   behavioural finance 
+   international corporate governance 
+   financial quantitative methods 
+   
+  
+ Mathematics & Statistics 
+ Communicating Mathematics & Statistics
+  
+  This class provides you with experience of the skills required to undertake project work, and to communicate the findings in written and oral form using a variety of sources, such as books, journals and the internet. 
+  
+ Optional classes
+ Modelling & Simulation with Applications to Financial Derivatives
+  
+  Here you'll get an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. This module places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). In both cases, in addition to theoretical analysis, appropriate computational algorithms are introduced. The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+ 
+ Statistical Modelling & Analysis
+  
+  This class will provide you with a range of applied statistical techniques that can be used in professional life. 
+ 
+ Applied Statistics in Society
+  
+  You'll be introduced to a range of modern statistical methods and practices used in industry, commerce and research, and will develop skills in your application and presentation. 
+ 
+ Applicable Analysis 3
+  
+  This class will present the main results in Functional Analysis, give an introduction to linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+ 
+ Fluids & Waves
+  
+  You'll be introduced to the theory of Newtonian fluids and its application to flow problems and the dynamics of waves on water and in other contexts. 
+ 
+ Finite Element Methods for Boundary Value Problems & Approximation
+  
+  You'll be presented with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory. 
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  Here you'll learn the application of mathematical models to a variety of problems in biology, medicine, and ecology. It'll show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that will explore a real-world application of an ecosystem model. 
+ 
+ Elasticity & Complex Materials
+  
+  We'll introduce you to general continuum theory with applications to Newtonian and non-Newtonian fluids and elastic materials. 
+ 
+ Optimisation: Theory & Practice
+  
+  We'll provide you with a basic mathematical understanding of modern approaches to optimisation and the calculus of variations. 
+ 
+ Statistical Mechanics
+  
+  Here you'll develop approaches to understanding complex or random systems in or out of equilibrium, based on ideas from statistical mechanics that incorporate familiar concepts and methods from neighbouring subjects like classical mechanics and probability and statistics. 
+  You'll also be able to describe, through various examples and techniques, how macroscopic properties of systems arise from the ensemble action of many microscopic ingredients, and, specifically, how deterministic 'laws' may arise from basic randomness of a system with many variables or degrees of freedom. Fundamental examples include Brownian motion and the ideal gas. 
+ 
+ Dynamical Models in Epidemiology
+  
+  We'll introduce mathematical models which arise in epidemiology and population dynamics, and help you develop techniques for analysing the qualitative behaviour of the associated dynamical systems. 
+     
+ 
+ Introduction to Econometrics
+  
+  This class builds upon the empirical content of Macroeconomics 2 and further develops your ability to analyse economic data. In addition, this class lays the foundations for further study of econometrics at Honours level. 
+  
+ 

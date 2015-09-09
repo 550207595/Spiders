@@ -1,0 +1,118 @@
+Course content 
+ 
+    
+  
+ 
+  
+  
+ jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+ 
+	jwplayer('videoContainer_938436').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/Criminal_Justice_and_Penal_Change_course_overview.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/Criminal_Justice_and_Penal_Change_course_overview_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/Criminal_Justice_and_Penal_Change_course_overview_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/Criminal_Justice_and_Penal_Change_course_overview_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/Criminal_Justice_and_Penal_Change_course_overview.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/Criminal_Justice_and_Penal_Change_course_overview.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+  
+ The LLM/MSc in Criminal Justice and Penal Change provides students flexibility within an overall framework. 
+ In addition to the core and optional classes listed below, you may also be able to take options from a range of postgraduate courses including: 
+  
+  Human Rights Law 
+  Internet Law & Policy 
+  Mediation & Conflict Resolution 
+  
+ Compulsory classes 
+ Criminal Justice & Penal Decision-Making
+  
+  In this module we examine the moral and empirical bases of decision-making around the globe. How are traditional theories of justice being challenged, and what are the alternatives?   In the light of the international evidence, is it time for a re-think?   Illustrative topics include: 
+   
+   legitimacy 
+   discretion 
+   rehabilitation & desistance 
+   restorative justice 
+   public attitudes to and knowledge of criminal justice 
+   the trial 
+   access to justice 
+   prosecution & defence 
+   sentencing 
+   parole 
+   release from prison 
+   community sentences 
+   human dignity 
+   participation 
+   rights 
+   therapeutic jurisprudence 
+   criminal procedure 
+   predictive justice 
+   equality 
+   reform & democratisation 
+   
+  Learning is conducted through a range of methods including student-led debates, role plays, scenarios and simulations. The module is accompanied by visits to key institutions, including courts, prisons, new Third Sector projects, innovations such as the Drug Court as well as conferences with key practitioners and policy makers.   
+ 
+ Punishment & Processes of Penal Change
+  
+  The western world’s “penal crisis” has, over the past thirty years, posed specific challenges to the reform tradition. 
+  In this module we explore the nature, dimensions and national permutations of that crisis, putative solutions to it and likely obstacles to their realisation. We draw on theoretical developments in the study of justice and punishment and explore their potential to illuminate and inform processes of progressive penal change. 
+  The module examines contemporary changes, international evidence and policy transfer, and technological challenges and considers reform across the globe. The module draws on insights and perspectives including law, the sociology of punishment, history and the social sciences 
+  Learning is conducted through a range of innovative methods such as debates and media representations. The module is supplemented by visits to key institutions' prisons, women’s justice centres, as well as conferences with key practitioners and policy makers. 
+ 
+ Research Methods
+  
+  In this module you'll gain and develop a secure knowledge and understanding of the range of legal, social scientific and other research methods. This will better equip you not only to undertake your dissertation in your chosen field of study, but also add a further dimension to your skill set, increasingly sought after by employers. 
+  In this newly enhanced module as well as legal research,  ﻿there will be a strong emphasis on how social science and other disciplines can be used to study criminal justice.   The module will help you to be better placed to create your own study. Also you'll be well equipped to evaluate the claims made by a range of governmental, non-governmental, media, academic and other bodies.      
+ 
+ Dissertation Research Project 
+  
+  Your Master’s will culminate in a dissertation. This is an extended project of enquiry into an area of your own choice. You'll create knowledge in answer to a question which really intrigues you. 
+  While you'll be very much in the driving seat, your work is nurtured and guided by a member of our academic staff team. You'll be guided by some of the world’s foremost experts. 
+ 
+ Elective modules
+ 
+ Choose from a range of advanced option modules including:
+  
+ Restorative Justice
+  
+  Restorative justice as applied to criminal harms, has grown and spread rapidly across the world in the last twenty years or so. Research indicates that in comparison with formal or retributive justice there can be more positive outcomes for both offender and victims. Yet the adoption of restorative justice within or alongside criminal justice systems has been patchy. 
+  Experience has shown that restorative justice is a popular topic and this module provides an opportunity for advanced learning. Your learning will be accompanied by practical exercises, such as simulations led by leading practitioners. 
+ 
+ Childhood & Crime
+  
+  Youth justice attracts interest across society, politically, socially and legally. Some issues – from the murder of two year old James Bulger in 1993 by two 10 year old children to the riots in 2011 in England –  spark moral panic and demonstrate the extent to which such matters cut across disciplinary boundaries and influence legal and societal responses to children who offend. 
+  Youth justice generates its own philosophical approaches eg in the welfare / justice debate. It also provides a context within which to examine broader issues affecting criminal justice as a whole such as the need to balance the rights of the accused against the public interest. 
+  This class will provide an opportunity for you to critically examine some key aspects of youth justice law, policy and philosophy from a number of perspectives. Your learning will be supplemented by visits to custodial and innovative community settings, as well as a visit to and a simulation of Scotland’s unique system of ‘Children’s Hearings’ (a decision-making system based on the best needs of the child). 
+ 
+ Surveillance, Technology & Control
+  
+  Surveillance and the use of technology in criminal justice is becoming increasingly important. 
+  This module focuses on aspects of surveillance studies that inform the study criminal justice and penal change. If it's true that surveillance is ethically and politically problematic, how can or should it be used? Contemporary forms are stimulated by technological developments that were unavailable in earlier eras, whose deployment and consequences are, as yet, only beginning to be understood. Is increased surveillance inevitable? What is its impact on privacy and patterns of social exclusion? How can it be used for benign, even progressive objectives? 
+  The module focuses on theoretical understandings of surveillance, selected substantive aspects of it, patterns of resistance to it, and forms of regulation of it that have emerged in relation to it, including privacy and human rights concerns. Learning is supplemented by visits to the CCTV monitoring centre and Electronic Monitoring centre. 
+ 
+ Offender Supervision & Management
+  
+  In this module you'll gain a critical understanding of core contexts and critical arguments, theories and debates in offender supervision and management. It's designed to provide you with relevant knowledge, understanding and skills to critically engage with theory, research and contemporary debates about the management of offenders and to apply this knowledge to professional and practice contexts. 
+  We'll address 'real world' policy and practice issues from a range of perspectives. This module specifically focuses on current policies and practices in an era of penal change. We'll also engage in critical debates on contemporary practices in order to encourage you in thinking more critically about more radical approaches to penal change in the context of offender management and criminal justice. 
+ 
+ Homicide
+  
+  This module examines the legal, historical and social science perspectives on homicide. 
+  As well as legal-philosophical scrutiny of key issues in criminal law and procedure, technology and homicide, you'll also gain the latest evidence on homicide. 
+  
+ Learning & teaching 
+ As well as seminars, you’ll be asked to take part in role play exercises, presentations and other forms of learning. 
+ We've an active programme of public lectures from eminent visiting speakers on contemporary topics. There'll be a programme of visits to local justice agencies designed to stimulate your academic learning.

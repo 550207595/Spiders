@@ -1,0 +1,84 @@
+Course content 
+ Research Skills
+  
+  This course introduces core skills needed to obtain research funding and successfully manage the resulting research in both an academic and a commercial environment. 
+ 
+ Project Training
+  
+  This course develops your transferable skills (communication skills, literature survey)﻿  in preparation for the project undertaken on the course. 
+  It also helps you in developing an understanding of the management of projects in an industrial setting and preparation for successful working in technological industries. 
+ 
+ Project
+  
+  You'll undertake a cutting edge research project in either one of the research groups of the Department of Physics or with collaborating departments and institutions (Chemistry, Institute of Photonics, Fraunhofer Centre for Applied Photonics, Electronic & Electrical Engineering, Centre for Biophotonics). 
+ 
+ Introductory Nanoscience
+  
+  The course addresses basic concepts relating to nanoscale physics before progressing to the techniques associated with production and characterisation of nanomaterials/nanostructures, and their potential impact in engineering, energy and healthcare. 
+ 
+ Advanced Nanoscience 1: Imaging & Microscopy
+  
+  The aim of this course is to introduce the spectroscopy, imaging and microscopy techniques associated with modern nanoscience such as: 
+   
+   Fluorescence methods 
+   Single molecule imaging and microscopic techniques 
+   Atomic force microscopy (AFM) 
+   Electron microscopy﻿ 
+   
+ 
+ Advanced Nanoscience 2: Solid State Nanoscience
+  
+  This course introduces advanced key concepts in modern nano-scale condensed matter physics and optics. 
+  Modern computational methods to investigate these systems will then be introduced to illustrate methods of applying these concepts to realistic nanosystems. 
+ 
+ Topics in Photonics: Laser & Nonlinear Optics
+  
+  The course provides an introduction to laser physics, laser optics and nonlinear optics as required for the work in many photonic labs. 
+ 
+ Optical Design
+  
+  The course provides an introduction to lens design and the characterisation and optimisation of system performance including practical exercises with Oslo software. 
+ 
+ Experimental Quantum & Atom Optics
+  
+  The course provides an introduction to basic phenomena and experimental techniques in quantum and atom optics with a focus on laser cooling and Bose-Einstein condensation. 
+ 
+ Advanced Topics in Photonics: Ultrafast Physics & Plasmas
+  
+  The course provides an introduction to laser-plasma interaction, in particular with very high power and ultrashort pulses, and the resulting applications in radiation sources from the terahertz to the X-ray region, laser fusion and laser-based particle acceleration. 
+ 
+ Device Microfabrication-Principle & Practice
+  
+  This course introduces the principles, facilities and processes for device fabrication and cleanroom operation underpinning modern semiconductor photonics and other optical technologies. 
+ 
+ Photonics Materials & Devices (topics in solid state physics)
+  
+  The course provides an introduction into semiconductor physics, semiconductor electronics and semiconductor photonics with an outlook on micro and nano-structures and current hot topics. 
+ 
+ Advanced Photonics Devices
+  
+  This introduces advanced photonics devices including their principles and applications (quantum confinement, waveguide optics, photonic and electronic bandgaps, photonic crystals). 
+ 
+ Theoretical Quantum Information
+  
+  The course provides an introduction to the basic concepts and theoretical ideas of quantum information processing. 
+ 
+ Quantum Optics, Nonlinearity & Open Quantum Systems
+  
+  The course provides an introduction to the basic concepts and theoretical ideas of quantum optics, open quantum systems and nonlinear optics. 
+ 
+ Advanced Topics in Complex Systems
+  
+  The course introduces concepts of complexity science as the synchronisation of nonlinear oscillators, nonlinear waves and solitons and self-organisation and pattern formation in spatially extended nonlinear systems. 
+ 
+ Advanced Topics In Theoretical Physics
+  
+  The class covers topics in advanced mechanics both classical and quantum by introducing you to the concepts of Lagrangians, Hamiltonians and more in depth study of fields. 
+ 
+ Advanced Topics In Electromagnetism And Plasma Physics
+  
+  The class introduces you to the primary methods for transmitting, storing and manipulating electromagnetic waves and the interaction of these waves with plasmas and plasma physics. It will look at both theoretical and practical considerations for a range of applications.   
+  
+ Learning & teaching 
+ Our teaching is based on lectures, tutorials, workshops, laboratory experiments, and research projects. 
+ 

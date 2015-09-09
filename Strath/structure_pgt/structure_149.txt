@@ -1,0 +1,49 @@
+Course content 
+ Specialist classes 
+ Energy Resources & Policy 
+  
+  Against the background of international commitments on atmospheric emissions, diminishing fossil fuel resources and the liberalisation of energy markets, this class examines sustainable options for energy production, supply and consumption. 
+  The aim is to give you an understanding of current trends and to enable a critical evaluation of emerging ideas, technologies and policies. 
+ 
+ Electrical Power Systems 
+  
+  This class aims to provide you with an understanding of the operation of modern electrical power systems along with the techniques to undertake a basic technical analysis of key electrical devices and systems. 
+ 
+ Finite Element Analysis of Floating Structures
+  
+  This class aims to provide you with a theoretical and practical knowledge of the finite element method and the skills required to analyse floating structures with ANSYS, a commercially available finite element analysis program. Particular emphasis will be given to ANSYS graphical user interface (GUI) and Workbench platform. 
+ 
+ Renewable Marine Energy Systems 
+  
+  This class provides you with an understanding of the ways in which the maritime environment can offer a significant contribution, in a sustainable manner, to global energy demands. 
+  You'll undertake engineering assessments of the design and operation of wave, tidal stream, tidal barrage and wind energy systems. 
+ 
+ Generic classes 
+ Sustainability 
+  
+  This class aims to provide you with an understanding of the concepts of sustainability and sustainable development. The social, environmental and economic impact of development strategies will be identified and the mitigation of negative impacts discussed. 
+ 
+ Design Management 
+  
+  This class provides a structured introduction to the design management process, issues and tools. 
+ 
+ Financial Engineering 
+  
+  The class aims to introduce elements of financial engineering that are applied to reduce risk of business insolvency and enhance the financial robustness of business enterprises. 
+ 
+ Information Management 
+  
+  This class aims to give you an understanding of the types of different approaches, techniques and systems used in building information based systems. In particular to introduce you to the software engineering process, identifying information requirements and visual modelling. Also to acquire a basic understanding of information storage, retrieval, and systems. 
+  In addition to this it will provide an appreciation and basic skills in the process of developing information systems. It will also familiarise you with information technology, how to model and use information and an introduction into a way of representing information on a computer based system. 
+ 
+ Risk Management 
+  
+  Under Health and Safety legislation, and under the wider European Post-Seveso Directives, it's mandatory for many industries to carry out risk assessments with the aim of showing that risk is “As Low As Reasonably Practicable”. 
+  This class aims to introduce the fundamental techniques of risk analysis and risk-informed decision making. You'll have the opportunity to learn the general principles of methods and their place in risk management, as well as the chance to develop skills in applying these methods to variety of engineering examples. 
+  
+ Learning & teaching 
+ There are two teaching periods (semesters) of 12 weeks each. The first semester is usually from the beginning of October and the second semester starts at the end of January. 
+ Some of the second semester subjects are taught over eight weeks so that you can devote as much time as possible to your individual project work. 
+ Each year about 15 experts from the industry give talks and seminars on wide-ranging topics. Industrial visits are made to a variety of companies. 
+ You’re required to attend an induction prior to the start of the course. 
+ 

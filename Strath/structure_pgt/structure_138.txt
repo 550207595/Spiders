@@ -1,0 +1,89 @@
+Course content 
+ Year 1 - University of Strathclyde 
+ Offshore Engineering Practice 
+  
+  This class aims to provide an overview of offshore hydrocarbon production processes. The emphasis is on the technical developments, particularly in the last 20 years. It also aims to provide in-depth understanding of some selected technical aspects through a series of seminars delivered by practicing experts from the industry. 
+ 
+ Risers & Mooring Lines
+  
+  This class aims to provide an overview of the current deepwater oil and gas developments around the world and the technical challenges in terms of riser and mooring line design. It will also demonstrate methods for modelling and analysing risers and mooring lines. 
+ 
+ Marine Pipelines 
+  
+  This class aims to provide you with an in-depth insight into marine pipelines with emphasis on: 
+   
+   the overall design process 
+   pipeline hydraulics analysis 
+   installation methods 
+   environmental loading and stability 
+   materials selection and corrosion prevention 
+   
+ 
+ Dynamics of Floating Offshore Installations 
+  
+  This class aims to provide knowledge in order to understand the factors influencing the dynamic behaviour of fixed and floating offshore structures due to environmental forces. 
+  It also aims to develop skills in order to predict the dynamic motion and structural response of fixed and floating offshore platforms and to design and analyse foundations for fixed offshore structures. 
+ 
+ Maritime Safety & Risk
+  
+  This class aims to enhance the conceptual understanding on safety and risk in the maritime context. It will also provide state-of-the-art knowledge, tools and techniques to enable practicing professionals in marine technology sector to deal with marine safety as a life-cycle issue, cost effectively. 
+ 
+ Design & Construction of Floating, Production, Storage & Offloading Vessels 
+  
+  This class aims to provide an introduction to the shipbuilding technologies and equipment used in the construction of FPSO vessels. It will also provide an introduction to the ship design process as applied to FPSO vessels. 
+ 
+ Theory & Practice of Marine Computational Fluid Dynamics (CFD) 
+  
+  This class aims to: 
+   
+   introduce you to the theoretical background of marine CFD using the finite volume method 
+   illustrate the key ides related to discretisation and solution of the Navier-Stokes equations for incompressible flows 
+   discuss some practical issues related to the use of CFD packages in marine applications 
+   
+ 
+ Inspection & Survey 
+  
+  This class provides you with an insight into 'marine' materials, their properties, failure and protection and an understanding of how defects and degradation affect the life-cycle of marine and offshore structures. 
+  Particular emphasis is on corrosion, fatigue and fracture of steel and the corrosion properties of high strength and stainless alloy streels. 
+ 
+ Group Project 
+  
+  This class aims to give you a good understanding of all aspects of research work. In addition, the technological study must be accompanied by survey of the relevance and applicability of the findings to the maritime industries at large. 
+  You'll learn efficient ways to gather information, to distribute workload and to delegate, to analyse your results and to appreciate the broader implications of the whole project. 
+  In-depth technological studies will be accompanied by increasingly important competence in managerial skills, quality assurance and a sound appreciation of the economic, political, social and environmental issues crucial to professional success. 
+ 
+ Research Project 
+  
+  The research project is a “mini” MSc individual project, aiming at developing your research skills with the main focus on critical review, identifying and selecting research areas/topics and planning. 
+  This will lead to a delivery of the MSc thesis in full in the second year. 
+ 
+ Year 2 - Hamburg University of Technology 
+ Classes
+  
+   
+   Structural Analysis of Ships & Offshore Structures 
+   Ship Design 
+   Ship Vibration 
+   Master Thesis 
+   
+  
+ Elective classes 
+ Classes
+  
+   
+   Non-Linear Structural Analysis 
+   Fatigue Strength of Ships & Offshore Structures 
+   Arctic Technology 
+   Innovative CFD Approaches 
+   Manoeuvrability & Shallow Water Ship Hydrodynamics 
+   Seakeeping of Ships & Laboratory on Naval Architecture 
+   
+  
+ Learning & teaching 
+ You’ll study at University of Strathclyde in Year 1. 
+ Between the end of Year 1, April/May and October you’ll do a research project, move to Hamburg and complete a German Language course. 
+ This is offered as a four- week summer school in August or as a three-week course in October. 
+ You can choose the moving date which may depend on your research project. This can be supervised in conjunction with a TUHH professor. 
+ Lectures in Hamburg are held in English. You’ll attend lectures between October and February and then complete exams between February and March. 
+ Following March, you’ll complete your dissertation. 
+ 

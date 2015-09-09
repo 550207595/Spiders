@@ -1,0 +1,179 @@
+Course content 
+ Year 1 
+ Compulsory classes 
+ Engineering Analysis 1
+  
+  You'll be given an introduction to the use of Microsoft Windows- based PCs and to relevant application software in an engineering context.   More specifically you'll be introduced to Microsoft Office applications, PTC Creo three dimensional modelling system and MathCAD and Matlab engineering software.   Basic numerical methods will also be introduced. 
+ 
+ Anatomy and Physiology for Biomedical Engineers
+  
+  You'll be given a basic knowledge of the anatomical structure of the major body systems together with an understanding of their physiological functioning.   This knowledge is fundamental to understand and to develop specific topics that will be taught later in the course. 
+ 
+ Biomedical Engineering
+  
+  The aim of this class is to provide an insight into these areas and in doing so will deal with two applications: 
+   
+   prostheses & orthoses (eg artificial limbs & splints) 
+   artificial kidneys 
+   
+  The process of evolving the design specification from knowledge of normal body function and the matching of material properties to the body environment will be described. 
+ 
+ Analytical and Numerical Methods in Biomedical Engineering
+  
+  You'll learn the essential and basic numerical and analytical techniques for biomedical engineering problems.   On completion you're expect to be able to use appropriate algebraic, geometric and calculus techniques.   
+ 
+ Molecular Bioscience
+ 
+   You'll gain the basic knowledge and concepts of cell structure and function.   You'll also be introduced to the basic concepts underlying classical and molecular genetics, including techniques that form the basis for the study of molecular biology. 
+ 
+ Electronic and Electrical Principles 1
+ 
+   This class aims to provide you with a foundational understanding of the analysis and design of both analogue and digital electronic circuits. 
+ 
+ Electrical and Mechanical techniques and design
+ 
+   This class aims to introduce you to the practical and professional skills required of an engineer, underpinning theoretical concepts introduced elsewhere in Year 1 classes. 
+ 
+ Year 2 
+ Compulsory classes 
+ Design and Engineering Applications 2
+  
+  
+   This class aims to:
+   
+   
+ 
+ Design: develop an understanding of the design process and steps in establishing effective design procedures from inception through development to manufacture. 3 linked areas: Total Design concepts, Design Management and computer-based drawing. 
+ Engineering Applications: through experience of stripping and building an engineering artefact, to gain experience and set in context the requirements of good design strategies. The activity also aims to introduce you to various measurement and instrumentation techniques to reinforce the importance of material strength and deformation characteristics. 
+ 
+   
+ 
+ Engineering Mechanics in Biomedical Engineering
+  
+  You'll learn the basic skills to analyse static and dynamic rigid body problems.   The class also aims to provide structural analysis and elementary stress analysis and introductory fluid mechanics knowledge, as appropriate for biomedical engineering. 
+ 
+ Cell and Molecular Biology
+  
+  You'll be given an introduction to cytology and histology.   You'll develop a deeper understanding of cellular compartments and structures and their functions.   Finally, the role of genetic analysis in the elucidation of the mechanisms of gene function will be demonstrated. 
+ 
+ Electronic and Electrical Principles 2
+  
+  You'll be introduced to the analysis and design of analogue circuits and systems as used in: 
+   
+   electronics 
+   energy & power systems 
+   communications 
+   control and analogue signal processing applications 
+   
+ 
+ Digital Electronic Systems
+ 
+   You'll be introduced to the use of digital electronics and the rudiments of digital signal processing systems. 
+ 
+ Mathematical Modelling and Analysis
+  
+  Mathematics (Semester 1) 
+  You'll learn to be competent in the differential and integral calculus of functions of several independent variables as well as in the solution of ordinary differential equations. 
+  Engineering Analysis (Semester 1 and 2) 
+  You'll develop the general approach to solving engineering problems involving mathematical modelling, numerical methods and the application of computer software. 
+ 
+ Materials Engineering and Design
+ 
+   You'll gain a grounding in the concepts of material science and engineering with reference to mechanical design and material selection. 
+ 
+ Year 3 
+ Compulsory classes 
+ Practical Biomechanics
+ 
+   The class aims to develop knowledge, understanding and practical experience of kinematic and kinetic analysis of human movement. 
+ 
+ Biomedical Materials
+ 
+   This class aims to develop the knowledge, understanding and practical experience of synthetic materials used in different biomedical applications. This is together with a qualitative understanding of the mechanical behaviour of a variety of tissues. 
+ 
+ Physiological Systems in Health and Disease
+ 
+   You'll gain a deeper understanding of the key characteristics of physiological systems and interactions between them, both in health and disease. 
+ 
+ Fundamental Immunology
+ 
+   This class aims to provide the fundamental concepts of the immune system to form the basis for further study. 
+ 
+ Instrumentation and Microcontrollers
+ 
+   You'll develop techniques for system modelling based on block diagrams and transfer functions and to use such techniques in the context of analysis and design. You'll be introduced to instrumentation and measurement as an interdisciplinary engineering activity. You'll also gain practical design, implementation and test experience of the techniques required to create combined hardware/ software systems with an emphasis on measurement. 
+ 
+ Elective 
+ 
+   You can choose elective classes from a wide range of departments across the University. 
+ 
+ Year 4 
+ Compulsory classes 
+ Biomedical Engineering project
+ 
+   You'll complete an independent study of a topic of your choice in the general field of Biomedical Engineering.   The project may take the form of an extended literature review or involve experimental work.   The work is supported by a compulsory research methods module and specialist knowledge classes throughout the year. 
+ 
+ Research Methods in Biomedical Engineering
+ 
+   This class aims to equip you with the skills necessary to use mathematics and statistics tools including software in experimental design and data visualisation. 
+ 
+ Professional Studies in Biomedical Engineering
+  
+  This class aims to: 
+   
+   provide an introduction to the philosophy, ethics and methodology of research 
+   outline the role that the biomedical engineer plays in the solution of clinical problems 
+   provide training in the principles, assessment and application of safety procedures in areas relevant to medical physics and biomedical engineering 
+   provide an awareness of the importance of regulatory issues in medical device design and manufacturing 
+   
+ 
+ Biomedical Instrumentation
+  
+  You'll be given a detailed description of the principles and applications of a number of the most widely used biomedical instrumentation systems and devices found in the modern hospital environment. You'll understand the diagnostic and research applications of the various instrumentation- related techniques currently available and to appreciate their limitations. 
+ 
+ Biomedical Electronics
+  
+  This class aims to give you a thorough introduction to the use of electronic circuits for the pre-conditioning, acquisition and display of biomedical signals. It'll provide an understanding of the components required in a basic biomedical measurement device. 
+  
+ Elective classes
+ Choose two from the list 
+ Computer Aided Engineering Design
+  
+  This class aims to provide an appreciation of computer aided design, analysis and simulation methods over a range of engineering problems. It also provides practical experience of the use of industry standard engineering simulation and analysis software to design and investigate the behaviour and performance of specific systems or components. 
+ 
+ Sports Injury and Rehabilitation
+ 
+   This class aims to provide you with an understanding of the injury mechanisms of the different tissues of the body, an ability to assess protective equipment and be able to evaluate current rehabilitation practice. 
+ 
+ Advanced topics in Human movement
+ 
+   This class aims to widen the scope of prior human movement analysis to include three dimensional analysis of movement and biomechanical signal processing. 
+ 
+ Assistive Technologies
+  
+ 
+ Control Principles
+ 
+   1. To introduce you to the basic concepts, mathematical tools and design methods of classical control theory.
+  2. To enable you to use analysis and design tools used in control engineering and appreciate the industrial applications of control systems.
+  3. To enable you to analyse and design closed loop control system specifically using industrial three-term (PID) controllers.
+  4. To introduce you to advanced control methods and to provide a basic understanding of a time-domain approach to control analysis and design of industrial processes.
+  5. To appreciate the application of control theory in industrial applications. 
+ 
+ Robotics: systems and control
+ 
+   The overall objective is to provide an overview of robotic engineering in the broadest possible sense and enable you to understand some of the important principles in the design, control, construction and use of robots in different environments and tasks. The class also aims to provide hands on exercises in dealing with some of the design and control issues associated with robot mechanisms. 
+ 
+ Advanced Mechanics and dynamics
+  
+  
+   The aims of this class are twofold:
+   
+   
+ 
+ to develop your ability to apply analytical techniques to the solution of engineering problems where dynamic behaviour is important 
+ to provide practical experience in designing lightweight structures to ensure that they have sufficient strength and stiffness to prevent failure, particularly by buckling, when in service. This experience will be obtained by undertaking an aerospace themed or similar design, construct and test activity. 
+ 
+   
+  
+ 

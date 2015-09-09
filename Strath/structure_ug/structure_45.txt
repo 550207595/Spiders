@@ -1,0 +1,103 @@
+Course content 
+ Year 1 
+ Mathematics Bridging for Chemical Engineering
+  
+  You'll learn how to solve the various kinds of mathematical equations that are necessary to progress in the course. In particular you'll focus on solving mathematical equations using the techniques of  differentiation, integration, complex number theory, Laplace transforms and ordinary differential equation  methods. 
+ 
+ Fluid Flow & Heat Transfer
+  
+  The module will cover: 
+   
+   material and energy balances of systems involving fluids in motion 
+   visualisation of fluid flow patterns and perform calculations on fluid flow in pipework 
+   principles of fluid flow measurement 
+   fluids in motion sufficient to determine the power requirements of different types of pumps and their applications 
+   Fourier’s Law for both plane and radial situations 
+   standard convection equation, which includes the heat-transfer coefficient (h) 
+   construction of the double-pipe heat exchanger for both co-current and counter current 
+   flow paths in a multi-pass heat exchanger 
+   simple condensers where a saturated vapour is the inlet flow, and a mixture of saturated vapour/liquid is the outlet flow 
+   difference between boiling and evaporation 
+   plate-and-frame and finned-tube heat exchangers 
+   other cases of unsteady-state heat transfer 
+   
+ 
+ Chemical Engineering Principles & Thermodynamics
+  
+  ChemEng Principles 
+  You'll learn to calculate molar quantities and flowrates commonly used in chemical engineering  environments. You'll learn how to calculate heats of reaction and apply the knowledge to elevated  temperatures. This knowledge will be applied to mass and energy balances for simple unit operations. 
+  Thermodynamics 
+  You'll learn how thermodynamics underpins many chemical engineering classes as well as domestic  phenomena and societal issues. The principles will be developed firstly with single-component systems followed  by binary systems. 
+ 
+ Chemical Engineering Safety
+  
+  This module will cover: 
+   
+   introduction to Hazard Identification and Quantification as applicable to process plant 
+   HAZOP 
+   fault/event outcome trees 
+   emission 
+   dispersion 
+   fires/radiation 
+   blast and effects 
+   risk assessment & consequence analysis 
+   industry standards and procedures for Permit to Work (as a procedure) 
+   general legal  framework 
+   toxicology and design for safety - including layout, relief systems, safety reviews (in general  terms) 
+   
+ 
+ Year 2 
+ Process Analysis & Statistics
+  
+  This module aims to provide the essential skills for chemical engineers in analysing chemical and physical processes through  material and energy balances, and vapour/liquid behaviour, and to analyse process data using statistical techniques. 
+ 
+ Mass Transfer & Separation Processes
+  
+  The module will teach the following: 
+   
+   material and energy balances for separation processes 
+   binary fluid vapour-liquid equilibria including construction of x-y diagrams 
+   principles of mass transfer (diffusion, including diffusion through varying cross-sectional area and path length, and across a vapour-liquid interface 
+   principles of binary distillation in staged and packed towers, including the McCabe-Thiele model and batch processes 
+   principles of gas absorption and stripping in staged and packed towers 
+   an introduction to evaporator processes 
+   gas adsorption in porous materials, including basic thermodynamics of adsorption, gas-solid equilibria for pure gases, and the Ideal Adsorbed Solution Theory for mixed gases 
+   introduction to gas adsorption processes and scale-up 
+   
+ 
+ Process Design & Simulation
+  
+  This module aims to build your competence in the analysis of existing processes and preliminary process design. An  element of the module involves the use of computer packages for the purpose of process calculation and design. 
+ 
+ Reactors & Economics
+  
+  This module aims to: 
+   
+   introduce basic economic theory such as supply and demand curves, marginal revenue and costs, and economic pricing 
+   describe the basic structures in which a business can operate and sources of finance 
+   explain the need for cash flow control and introduce the effects that taxation can have on business operations 
+   describe methods of cost estimation and project evaluation 
+   
+ 
+ Year 3 
+ Process Control & Environmental Technology
+  
+  This modules aims to introduce you to: 
+   
+   the basic principles of water pollution, waste water treatment and effluent treatment plant design 
+   the basic principles of air pollution and air pollution control technology 
+   process control 
+   
+ 
+ Advanced Separations & Particle Technology
+  
+  Advanced Separations 
+  This module aims to instil in students the principles of advanced unit processes relating to separation: multicomponent distillation, membrane technology and drying. 
+  Particle Technology 
+  This module aims to develop understanding of key issues related to particle formation processes and products involving particulate systems. 
+ 
+ Chemical Engineering Design
+  
+  This module aims to allow you to apply your knowledge to more practical and less well-defined situations. You'll have the opportunity to gain experience in considering a process as an overall entity rather than just a series of different unit operations. 
+  
+ 

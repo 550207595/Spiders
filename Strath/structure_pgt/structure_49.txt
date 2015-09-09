@@ -1,0 +1,54 @@
+Course content Compulsory classes are listed below. You can also take a tailored programme of options from our other Masters classes and graduate with a degree in Advanced Computer Science. 
+ Compulsory classes 
+ Business Analytics
+  
+  The aims of this class are to: 
+   
+   develop a critical awareness of the range of tools being marketed under the label 'Decision Support' or more generally 'Business Intelligence' 
+   provide an understanding of the key algorithms and techniques which are embodied in Business Intelligence solutions 
+   
+ 
+ Distributed Information Systems
+  
+  This class will give you an extended understanding of the deep, technical issues underlying information systems in the particular context of distributing content over the world-wide web. 
+ 
+ Information Retrieval & Access
+  
+  This class provides a detailed examination of the field of information seeking and retrieval, the study of how people search for information, and the sources, services and systems that can be used to help people access information. 
+ 
+ Information Systems Architecture
+  
+  The aims of this class are to: 
+   
+   develop your enterprise-level analytical skills to allow you to contribute to the analysis and design of information system architecture (ISA) 
+   develop an understanding of methodological due process and best practice for ISA development 
+   develop an understanding of the challenges and critical success factors of ISA development 
+   
+ 
+ Computer Security
+  
+  You'll develop an in-depth understanding of the nature of security in the contexts of computers, information and networks. 
+ 
+ Personal Study
+  
+  The aims of this class are to: 
+   
+   strengthen your self-study skills in technical material at the forefront of a specialism within your discipline 
+   develop your abilities to identify, synthesise, abstract, connect and present materials within a specialist topic area of computer science 
+   support you in bridging between your background knowledge within your selected specialism and the advanced materials required for subsequent study of the specialism within the later modules of the Advanced Computer Science degree 
+   ensure you achieve a threshold level of competency to meet all prerequisites of your selected modules within the Advanced Computer Science degree 
+   
+ 
+ Research Methods
+ 
+   This class provides you with an understanding of both quantitative and qualitative research processes and associated techniques, including the effective presentation of findings in accordance with the best principles of scholarship. 
+ 
+ MSc students only 
+ Dissertation
+  
+  MSc students prepare a dissertation of up to 20,000 words on an approved topic. 
+  This takes the form of an individual project on an approved topic, which allows you to pursue an area of specific interest, providing scope for original thought, research and presentation. 
+  
+ Learning & teaching 
+ Teaching methods include lectures, tutorials and practical laboratories. Dissertation is by supervision. 
+ You’ll also have the opportunity to meet industry employers and participate in recruitment events.

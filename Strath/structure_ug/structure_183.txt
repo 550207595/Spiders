@@ -1,0 +1,266 @@
+Course content 
+ Year 1 
+ Introduction to Calculus
+ 
+   You'll  study the basic concepts and standard methods of mathematical notation and proof, polynomial equations and inequalities, sequences and series, functions, limits and continuity, differentiation and integration. 
+ 
+ Applications of Calculus
+  
+  The fundamental concepts of calculus (differentiation and integration) presented in Applications of Calculus will be examined in more detail, extended to a larger class of functions by means of more sophisticated methods, including an introduction to complex numbers and variables, all demonstrated in application to practical problems including solving basic first and second-order differential equations.     
+ 
+ Geometry & Algebra with Applications
+  
+  This class will introduce you to vectors and matrices, along with the idea of mathematical modelling through their application to real-world problems. 
+ 
+ Statistics & Data Presentation
+  
+  Some basic ideas and techniques of statistics will be presented while introducing some essential study skills, allowing you to develop and practice personal and technical skills eg self-study, teamwork, analysing data, writing reports and making presentations. 
+     
+ 
+ Accounting Technologies
+  
+  This class is designed to provide an introduction to accounting for those students who intend to study accounting or accounting and finance in subsequent years. It assumes no prior knowledge. It ensures that, in combination with other classes, the accreditation requirements of professional accountancy bodies are met. Please note that this isn't a suitable class for students seeking an elective that provides an overview of accounting. 
+ 
+ Introduction to Finance & Financial Statistics
+  
+  This class provides an introduction to finance, covering the basic theories of financial markets, corporate finance and investment, financial management, personal finance, security analysis and statistical applications in finance. It provides the foundations for the Business Finance course. 
+  *Students looking for professional accreditation in Accounting must also take this class. 
+ 
+ Year 2 
+ Linear Algebra & Differential Equations
+  
+  This class will introduce you to the basic ideas of linear algebra, such as matrices and determinants, vector spaces, bases, eigenvalues and eigenvectors. You'll study various standard methods for solving ordinary differential equations and understand their relevance. 
+ 
+ Advanced Calculus
+  
+  Basic ideas, techniques and results for calculus of two and three variables, along with differentiation and integration over curves, surfaces and volumes of both scalar and vector fields will be presented. 
+ 
+ Probability & Statistical Inference
+  
+  Presentation of the basic concepts of probability theory and statistical inference will be covered to provide you with the tools to appropriately analyse a given data set and effectively communicate the results of such analysis. 
+ 
+ Intermediate Financial Reporting
+  
+  
+   The aim of this class is to provide students with the tools to enable them to use accounting information to inform stakeholders and to assist their decision-making with respect to governance matters.  
+   
+ 
+ Cost & Management Accounting
+  
+  
+   The aim of this class is to provide students with the tools to enable them to use accounting information to assist management in decision-making and with the planning and controlling of an organisation’s activities.  
+   
+  
+ Optional classes 
+ Taxation
+  
+ 
+ Business Law
+  
+ 
+ Mathematical & Statistical Computing
+  
+  This class will introduce you to the R computing environment. It'll enable you to use R to import data and perform statistical tests, allow you to understand the concept of an algorithm and what makes a good algorithm and will equip you for implementing simple algorithms in R. 
+ 
+ Year 3 
+ Governance & Accounting Ethics
+  
+  Governance issues have been debated at great length for many years, but have reach particular prominence in the aftermath of many of the major business scandals that have arisen since the 1990s. The publication of the Cadbury Report (since revised and repackaged as the UK Code on Corporate Governance) and the changes that have occurred on an international basis make it desirable to present the accounting aspects of governance and the study of ethics in an accounting setting as a separate class. This class is intended to provide an overview of the role of accounting within business and society more generally. 
+ 
+ Auditing & Assurance
+  
+  
+   This class aims to develop an appreciation of both the difficulties faced by preparers, auditors and standard setters in ensuring that a set of accounts gives a true and fair view and to develop an awareness of the extent to which academic research can guide and illuminate this process. It does this through the systematic analysis of auditing regulations and practical applications, in a context of institutional and cultural factors, and through exploring research into aspects of auditing, with a view to analysing the policy issues facing those who regulate and those who apply audit.  
+   
+ 
+ Advanced Financial Accounting
+  
+  
+   This class will cover financial accounting topics and focuses on the preparation of financial statements for external publication. The subjects selected will be issues that provide an opportunity to explore various facets of the regulation of financial reporting. It'll include significant coverage of the preparation of consolidated financial statements - an area of vital practical and theoretical importance in accounting. In order to cover a wider breadth of accounting knowledge and to demonstrate the links between a variety of accounting topics the class will also incorporate seminars to examine the role of management accounting in organisational problem solving, performance measurement and rewards. This is an advanced level class in accounting and it discusses complex issues at both a practical and a theoretical level.
+   
+   
+ 
+ Contemporary Management Accounting
+  
+  
+   This class examines the role of management accounting to assist managers in solving contemporary organisational problems. It intends to extend your knowledge and understanding of contemporary management accounting practice.
+   
+ 
+ Differential Equations
+  
+  We'll introduce you to analytical methods for solving ordinary and partial differential equations so you'll develop an understanding along with technical skills in this area. 
+ 
+ Inference & Regression Modelling
+  
+  This class will: 
+   
+   review the concepts of probability distributions and how to work with these 
+   present approaches to parameter estimation, focusing on maximum likelihood estimation, bootstrap estimation, and properties of estimators 
+   present hypothesis testing procedures, including classical likelihood ratio tests and computer-based methods for testing parameter values, and goodness-of-fit tests. 
+   introduce and provide understanding of the least squares multiple regression model, general linear model, transformations and variable selection procedures 
+   present use of R functions for regression and interpretation of R output 
+   
+  
+ Optional classes - list A 
+ Complex Variables & Integral Transforms
+  
+  This class will introduce functions of a complex variable, define concepts such as continuity, differentiability, analyticity, line integration, singular points, etc. It'll examine some important properties of such functions, and consider some applications of them, eg conformal mappings, and the evaluation of real integrals using the Residue Theorem. It'll also introduce you to Fourier and Laplace transform methods for solving linear ordinary differential equations and convolution type integral equations. 
+ 
+ Linear Algebra
+  
+  Here we'll introduce basic algebraic structures, with particular emphasis on those pertaining to finite dimensional linear spaces and deepen your understanding of linear mappings. We'll also provide an introduction to inner product spaces and bilinear forms. 
+ 
+ Numerical Analysis
+  
+  This module will motivate the need for numerical algorithms to approximate the solution of problems that can't be solved with pen and paper. It'll develop your skills in performing detailed analysis of the performance of numerical methods and will continue to develop your skills in the implementation of numerical algorithms using R. 
+ 
+ Stochastics & Financial Econometrics
+  
+  You'll  be introduced to the basic concepts of random phenomena evolving in time, from two complementary points of view: probabilistic modelling and data-driven analysis. Presentation of underlying ideas of simple stochastic processes, time series models, and the associated probability theory and statistical techniques will be covered. In addition to applications of the methods to financial and economic systems, including modelling, data analysis, and forecasting. 
+  
+ Optional classes - list B 
+ Business Finance
+  
+  
+   This class provides an understanding of financial management within a business enterprise. It builds on introductory investment appraisal rules from year 1 to consider the appropriate cash flows to be evaluated when undertaking an investment project, forecasting and management of cash flows over time to ensure sufficient liquidity, and how companies determine their cost of capital for such projects. It'll also provide a framework to allow students to understand a company's financial policy decisions relating to payout policy, leasing, raising equity capital in efficient markets, and capital structure. Finally, it'll provide students with an understanding of how to value a business enterprise.
+   *Students seeking professional accreditation in accounting must take this class if not previously taken. 
+ 
+ Business Law
+ 
+   *Students seeking professional accreditation in accounting must take this class if not previously taken. 
+ 
+ Year 4 
+ Communicating Mathematics & Statistics
+  
+  This class provides you with experience of the skills required to undertake project work, and to communicate the findings in written and oral form using a variety of sources, such as books, journals and the internet. 
+ 
+ Project
+  
+  
+ Optional classes - list A 
+ Modelling & Simulation with Applications to Financial Derivatives
+  
+  Here you'll get an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. This module places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). In both cases, in addition to theoretical analysis, appropriate computational algorithms are introduced. The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+ 
+ Statistical Modelling & Analysis
+  
+  This class will provide you with a range of applied statistical techniques that can be used in professional life. 
+ 
+ Applied Statistics in Society
+  
+  You'll be introduced to a range of modern statistical methods and practices used in industry, commerce and research, and will develop skills in your application and presentation. 
+  
+ Optional classes - list B 
+ Applicable Analysis 3
+  
+  This class will present the main results in Functional Analysis, give an introduction to linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+ 
+ Fluids & Waves
+  
+  You'll be introduced to the theory of Newtonian fluids and its application to flow problems and the dynamics of waves on water and in other contexts. 
+ 
+ Finite Element Methods for Boundary Value Problems & Approximation
+  
+  You'll be presented with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory. 
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  Here you'll learn the application of mathematical models to a variety of problems in biology, medicine, and ecology. It'll show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that will explore a real-world application of an ecosystem model. 
+ 
+ Mathematical Introduction to Networks
+  
+  This class will demonstrate the central role network theory plays in mathematical modelling. It'll also show the intimate connection between linear algebra and graph theory and how to use this connection to develop a sound theoretical understanding of network theory. Finally, it'll apply this theory as a tool for revealing structure in networks. 
+ 
+ Elasticity & Complex Materials
+  
+  We'll introduce you to general continuum theory with applications to Newtonian and non-Newtonian fluids and elastic materials. 
+ 
+ Optimisation: Theory & Practice
+  
+  We'll provide you with a basic mathematical understanding of modern approaches to optimisation and the calculus of variations. 
+ 
+ Statistical Mechanics
+  
+  Here you'll develop approaches to understanding complex or random systems in or out of equilibrium, based on ideas from statistical mechanics that incorporate familiar concepts and methods from neighbouring subjects like classical mechanics and probability and statistics. 
+  You'll also be able to describe, through various examples and techniques, how macroscopic properties of systems arise from the ensemble action of many microscopic ingredients, and, specifically, how deterministic 'laws' may arise from basic randomness of a system with many variables or degrees of freedom. Fundamental examples include Brownian motion and the ideal gas. 
+ 
+ Dynamical Models in Epidemiology
+  
+  We'll introduce mathematical models which arise in epidemiology and population dynamics, and help you develop techniques for analysing the qualitative behaviour of the associated dynamical systems. 
+     
+  
+ Optional classes - list C 
+ Integrative Studies in Management Accounting
+  
+  This class will introduce students to a range of case situations which simulate real-world decision-making contexts. It aims to integrate and deepen the accounting knowledge derived from earlier accounting courses and independent research by applying the knowledge gained to a number of case studies. An important aspect of this class is for the students to reflect upon and develop their problem solving methodology. 
+  All organisations have systems in place to plan and control. Planning and controlling is often regarded as an integral part of the management accounting function within these organisations. Planning and controlling activities can take many different forms in different organisations. This class through the use of case studies will illustrate these different manifestations and allow the student to develop methods of evaluating and analysing the appropriateness of different systems to different organisational contexts. 
+ 
+ Sustainable Accounting: Theory & Practice
+  
+  This class deals with the impact on accounting of the emerging topic of sustainability. Sustainable development has been accepted as the goal of society. Sustainable development will require a major restructuring of almost all of our human activities including accounting. The accountancy profession will be faced with the challenge of accounting for sustainability. Professional accounting bodies, academics and practitioners alike are reviewing the implications of sustainability for business and accountancy. This class will deal with this emerging and highly relevant topic. 
+  The Accounting Honours programme is designed to enable a deeper approach to learning, developing students’ analytical, evaluation and synthesing skills. This new class with its innovative mix of learning techniques applied to a developing and socially relevant aspect of accounting is consistent with the aims and objectives of the honours programme. 
+  This class is designed to prepare students to take an active part in the development of accounting’s response to the sustainability agenda. It introduces students to the key elements of sustainable development and then explores the potential impacts on accounting from changing social and environmental pressures. Students will develop a theoretical and conceptual framework to evaluate the effectiveness of sustainable accounting. 
+ 
+ Taxation
+  
+ 
+ Contemporary Issues in International Financial Reporting
+  
+  This class will discuss selected topics in the preparation of financial statements for external publication. The subjects selected will be issues that provide an opportunity to explore various parts of the regulation of financial reporting and the associated accounting choices implied by such regulations. The class will include a significant coverage of contemporary issues which have been of interest both to the accountancy profession and to society in recent years. This is an advanced level class in financial accounting. It discusses complex issues at both a practical and a theoretical level. By the time that students complete this class they should have an appreciation of both the difficulties faced by preparers, auditors and standard setters in ensuring that a set of accounts gives a true and fair view and also an awareness of the extent to which academic research can guide and illuminate this process.   
+ 
+ Management Accounting: Theory & Practice
+  
+ 
+ Research Methodologies & Accounting
+  
+  This class explores the main methodological approaches to researching accounting institutions, processes, practices and knowledge. Understanding the range of different methodologies is a key to interpreting, analysing and critically engaging with the research literature. Accounting research does not have a uniform methodological foundation. The diversity of accounting research methodologies provides a rich and varied literature but which can be difficult to understand without a grounding in research philosophy and methodology. 
+  This class contributes to the following aims of the honours year: 
+   
+   to activate and encourage a deeper approach to the learning process 
+   to offer a meaningful interaction with the external environment and 
+   to allow the construction of intellectual, social and practical contexts in which students may locate their knowledge and understanding of accountancy 
+   It achieves this through its provision of systematic instruction in social science research methodology and research methods and through exploring their use with a range of accounting research questions.
+   
+ 
+ Public Sector Accounting
+  
+  The public and third sector is a significant part of the governance of all aspects of life, particularly in developed economies, and plays a major part in the UK economy. Accounting is a critical part of the provision of public services and governance and is often overlooked in accounting degree programmes. Public service accountability is substantively different than for profit-enterprises and creates very different problems and challenges for accounting and assurance practices and this class will address these problems and challenges. 
+  The aims of this class are to explore theoretical and philosophical foundations of public service accounting, auditing and accountability, developing a conceptual framework with which to evaluate contemporary public service organization accounting processes and practices. This class considers the whole accounting ‘life cycle’ from strategy, policy development, budgeting, performance measurement, reporting and assurance, integrating the main accounting processes and practices in the public service field. 
+ 
+ Accounting & Risk
+  
+  Risk and risk management is the basis of many accounting techniques. Financial reporting was introduced to protect investors from the actions of bad or incompetent managers. Financial auditing was introduced to further enhance this risk management tool. Many business decisions are about balancing risks – for example decisions to insure or not to insure, what level of investment in safety equipment, to hedge against currency or interest rate movements. Accounting can be viewed as a desire to reduce risks. 
+  Over the past few years new theories of risk have been emerging that question our understanding of risk and the way in which risk is factored into organisational and individual decision-making. These new theories question the applicability of objective risk and probability theories used in finance and accounting. The consequences of these theories have the potential to radically alter many accounting conventions and basic techniques. This class explores these potential consequences. This class will explore the emerging risk debate by introducing the students to a new literature base and consider the impact on accounting from this new risk perspective. Existing techniques will be deconstructed using risk theories and new ways of accounting for risk explored. Students will develop an enhanced risk framework offering new insights into existing problems and phenomena. 
+ 
+ Auditing Theory & Practice
+  
+  This class will discuss the nature and purpose of the external audit of financial statements through an examination of the formal institutional framework (the work of the International Federation of Accountants), the informal framework (the Big Four audit firms) and the processes underlying the collection of audit evidence and reporting of results. 
+  It'll adopt the perspective of the institutions and participants in the audit process themselves. This will require an agency-based approach to the discipline. While the limitations of this approach will be addressed in the passing, it's intended that students will see this class as a counterpoint to the more rigorous and theoretically motivated classes that are presently offered in the honours programme. 
+ 
+ Accounting Ethics
+  
+  This class will discuss the nature of ethics and the manner in which ethical dilemmas can be identified and resolved. It'll explore a number of specific themes that can be used to clarify the nature of ethical dilemmas affecting accountants. These will include aspects of financial accounting, (the pressures associated with creative accounting) auditing, (the need to report findings honestly), management accounting (the implications of setting unattainable budgets), and taxation (the extent to which tax avoidance can be justified). 
+  It'll provide students with a set of techniques with which to explore the dilemmas that will be introduced. These are necessarily philosophical in nature and cannot be regarded as objective or beyond challenge, but they do offer the means to subject a course of action to a rigorous analysis.   
+ 
+ Accounting Theories
+  
+  This class offers an advanced course on the historic foundations of, and contemporary theoretical issues in, accounting. It builds upon a number of year 3 courses, in particular, Advanced Financial Accounting and Financial Analysis. 
+ 
+ Corporate Governance
+  
+  This class will explore aspects of governance, examining both the institutions and structures that are in place to reassure stakeholders and also the underlying agency and economic forces that shape governance practices. Corporate governance will be explored through each of the aspects identified by standard setters as important in this area, namely: • the principles of sound leadership from the board of directors
+  • developing the board’s effectiveness
+  • promoting accountability though external financial reporting
+  • designing a board remuneration strategy that aims to align the interests of shareholders with directors
+  • maintaining sound relations with shareholders 
+  Each of these topics can be explored from a variety of perspectives. For example, the question of accountability can be analysed from a philosophical perspective or through the analysis of stock market reactions to disclosures. 
+ 
+ Strategic Accounting & Financial Management in Entrepreneurial Firms
+  
+  This class covers the areas of accounting and financial management in entrepreneurial firms, with an emphasis on strategic planning in the early start-up phase. It'll provide theoretical background and practical insight into the financial implications of setting up and running a new small business. It'll apply learning from early stages in the degree, in particular building upon courses which cover cost accounting and management decision making and control. It'll provide students with insight into the role played by management accountants and financial managers within the wider organisation, and will draw on skills learned throughout the BA degree. The aim of this class is to enable students to develop their theoretical understanding of the financial manager’s and accountant’s roles in business and to put into practice this newly-acquired knowledge.   
+ 
+ Understanding Accounting Technologies & Institutional Structures
+  
+  This class is concerned with the use of various social theories in the interrogation of the accounting profession and accounting practice. It begins with a general introduction to social theories in accounting in order to situate the different theoretical perspectives in relationship to each other. It then takes several modern and postmodern theoretical frameworks to evaluate the insights they may or may not offer to accounting practice, practitioners and students. Different historical methods are then developed and critiqued. The end section of the class reconfirms the importance of history and the lessons we can learn from it. The theoretical theme running throughout the class is based upon the 'linguistic-turn' in its various theoretical forms (ideology, discourse, semiotics and so on). 
+  
+ 

@@ -1,0 +1,255 @@
+Course content 
+ The modules studied in the MSc course are dependent on the needs of the individual student. This allows you to pick and choose modules to suit your own requirements and learning objectives. Each completed module provides 10 postgraduate credits, in total 180 credits are required to obtain an MSc degree. 
+ You’ll study six modules in first year to make up 60 credits, and six modules again in second year. In your third year you’ll have to complete a 60-credit project, this will normally be undertaken in your workplace and will allow you to apply the knowledge developed in your first two years. 
+ Classes
+ 
+ The class descriptions are intended as a guide only. 
+ Please be aware that although the general content and aim of the class will remain the same, there may be changes to some content and assessment as the lecturer will continually update and develop the class. 
+ Classes may also become unavailable from time to time, either through staff changes, or lack of demand. You should read this in conjunction with the current course regulations and student handbook.
+  
+ Process Design Principles 
+  
+  The focus of this module is on the principles of conceptual design and flowsheet development. 
+  You’ll focus on defining “design” and the associated terminology, and showing how this can be applied to equipment and process selection. You’ll also develop an understanding of the hierarchical and structural methods of developing conceptual designs including the effective design of utility systems to reduce energy use. 
+ 
+ Advanced Process Design
+  
+  The focus of this module is on the wider implications of process design. 
+  Firstly you’ll explore how batch and semi-batch processes are represented and described. 
+  The second stage will look at the broader context or macro level in which process design takes place. 
+  The third part of the module focuses on defining chemical product design and showing the similarities and differences between CPD and process design. 
+ 
+ Safety Management Practices
+  
+  This module provides you with an advanced level exposure to the role of management and management systems in safety and loss prevention. 
+  It will involve in-depth analysis of major incidents in recent history: pinpointing the structure of Safety Management Systems, approach to Auditing Safety Management, the role of Human Factors, and the process and concept of safe design. This course will also involve developing Site Emergency Plans and Accident Investigation skills, as well as a review of legal structure for the UK. 
+ 
+ Programming & Optimisation 
+  
+  This module aims to provide you with a fundamental understanding of scientific programming. In particular, its application to optimisation in engineering applications. The module will teach you to: 
+   
+   develop algorithms to solve optimisation tasks 
+   present working Excel spreadsheets tackling optimisation tasks in a form suitable for other engineers to use 
+   
+ 
+ Modelling & Simulation
+  
+  Modelling and Simulation involves the development and use of mathematical models in the design, analysis and operation of processes and process plant and equipment. This module aims to develop your understanding of: 
+   
+   the principles of model design and development using a range of modem computer based tools 
+   the mathematical tools and techniques available to perform simulation and optimisation studies with models 
+   
+ 
+ Emerging Technologies
+  
+  This module is an introduction to key research areas across Chemical Engineering and Chemistry that are of industrial importance in the medium term. It will include a range of advanced technologies that support the innovation, design and development of processes that are more efficient, cleaner and have a reduced impact on the environment. 
+ 
+ IPR Management
+  
+  The IPR management module (intellectual property rights management) will looks at: 
+   
+   the need to protect and/or gain optimum reward for the intellectual property generated in the organisation 
+   the means by which protection and/or gain can be achieved 
+   patent and trademark law 
+   licensing and technology transfer 
+   
+ 
+ Process Safety Design
+  
+  This module looks at how the designs of chemical processes are influenced by standard control and alarm systems that ensure process safety. 
+  The focus is on how to allow for transient events that occur during start-up/shutdown and process upsets. The course draws on various international design codes and current codes of practice used in the petrochemical and oil/gas exploration and processing industries. 
+  Visiting Professors will introduce industrial case studies to highlight elements from the syllabus and demonstrate the learning outcomes of this module. 
+ 
+ Environmental Engineering & Management
+  
+  Consideration of the environment is an important aspect of all process industries. This module will: 
+   
+   introduce you to the basic principles of environmental pollution and types and effects of various pollutants 
+   introduce you to the principles and detailed design of various pollution control/treatment methods 
+   familiarise you with legislations, economic aspects and preventive measures relating to environmental pollution 
+   provide you with training to be able to apply the theoretical knowledge to a real-life pollution problem 
+   
+ 
+ Petrochemical Engineering
+  
+  This module will look at: 
+   
+   the concepts of origin and formation of petroleum, and types and quality of refinery feedstock and products 
+   various sections of petroleum processing in refineries 
+   refinery economics and planning 
+   advanced topics in petrochemical engineering such as catalyst development, desulphurisation, pollution control and hydrogen production 
+   
+ 
+ Multi-phase Processing
+  
+  This module helps you to understand important concepts and principles in multi-phase processes and their application to chemical engineering. The concepts are limited to those involving only incompressible Newtonian fluids with flow through circular pipes and simple mixing in tanks. 
+ 
+ Process Control Strategies 
+  
+  The design of a satisfactory process control system is an integral part of process design. You’ll look at the design of the control system, the design of the control loop and the design of the controller itself. You’ll also study the role of models and modelling in process control. 
+ 
+ Laboratory Management
+  
+  This module will give you an understanding of: 
+   
+   the need to follow national and legal requirements relating to safety, health and environmental aspects of organisations and employees 
+   best laboratory practice in specific sectors of the industry 
+   the management of resources, customer service levels and departmental skills 
+   
+ 
+ Analytical Techniques & Automation
+  
+  In this module you’ll look at: 
+   
+   the purpose and role of analytical functions in the business environment 
+   the need to build customer relationships in analytical work 
+   process analysis (automation) in the organisation 
+   quality and regulatory issues 
+   analytical principles and tools 
+   
+ 
+ Management of Technological Innovation
+  
+  This module explores: 
+   
+   the need to harness technology for business and customer needs 
+   change management 
+   how to remove the barriers which limit technology delivery 
+   how to optimise the technical performance of individuals and teams 
+   the need for continuous improvement 
+   the globalisation of technology and its applications, 
+   the need for networking and for good communication 
+   
+ 
+ Understanding Financial Information
+ 
+   This module aims to provide you with an appreciation of how companies manage and report financial information. You will learn about:
+   
+   
+   the nature and form of a company’s financial statements 
+   the interpretation of financial reports 
+   budgets and budgeting 
+   the behaviour of costs and the implications for short-term decisions 
+   calculating the cost of products and services and an understanding of the cost allocation problem 
+   project evaluation techniques 
+   
+ 
+ Managing People
+ 
+   This module aims to provide you with an understanding of how the key aspects of human resource management functions are carried out in organisations. On completion of this module you will be able to:
+   
+   
+   understand modern organisation structures and the behaviour of people within them 
+   be able to apply human resource management policies 
+   understand how to develop personal skills in organising and leading people at work 
+   
+ 
+ Project Management
+  
+  This module aims to provide you with skills relating to the use of engineering practices in project management. There is a focus on the effective and efficient use of resources. 
+ 
+ Business & Technology Strategy
+  
+  This module aims to provide you with an understanding of how companies develop their business strategy and the role that technology development plays in that process. You will learn about: 
+   
+   organisation, missions/vision/objectives, strategy, environments 
+   analysing the environments 
+   the organisation, value chain, organisational structure and culture 
+   assessment of strategic options 
+   planning 
+   implementation, success or failure 
+   models & theory school overview 
+   
+ 
+ IT Systems & Strategy
+  
+  This module gives you a broad understanding of the range of computerised information systems in organisations and their strategic use. The module will teach the following: 
+   
+   databases 
+   knowledge-based expert systems 
+   IS design 
+   corporate portals 
+   strategies & IS/ICT 
+   
+ 
+ Modern Process Measurements
+  
+  You’ll gain an understanding of the operating principles and capabilities of a number of advanced instrumentation techniques. This will allow you to make quantitative assessments about the suitability of these tools for particular industrial or research applications. 
+ 
+ Nanotechnology
+  
+  This module aims to provide you with knowledge about the physical and chemical properties of nanomaterials, their applications, and methods for their production. Some topics include: 
+   
+   overview of nanotechnology and nanomaterials 
+   general properties of materials 
+   properties, characterisation, applications, and methods of production of nanospheres, nanorods, nanosheets and nanoporous materials 
+   interactions between nanoparticles 
+   structure formation and self-assembly of nanoparticles 
+   
+ 
+ Membrane Technology
+  
+  This module aims to provide you with a deeper understanding of membrane technology including: 
+   
+   advanced systems and processes for manufacture 
+   research and innovation in novel applications and materials 
+   markets and applications, particularly emerging applications 
+   theoretical models describing membrane performance 
+   
+ 
+ Molecular Simulation in Chemical Engineering
+  
+  This module looks at: 
+   
+   how chemical engineering processes operate at a molecular scale and how the molecular scale eventually determines what happens at the process scale 
+   the usefulness of molecular simulation in chemical engineering 
+   the theoretical framework that underlies molecular simulations, thermodynamics and basic statistical mechanics 
+   molecular simulation conventions 
+   transferable skills useful for obtaining measurements from simulations, analysing data and communication of technical data and ideas 
+   
+ 
+ Nuclear Engineering
+  
+  This module gives you an introduction to the nuclear industry. The module covers: 
+   
+   radiation - fission & fusion 
+   reactor technology 
+   shielding 
+   health physics 
+   nuclear fuel cycle 
+   nuclear waste 
+   nuclear proliferation 
+   safety 
+   sustainability 
+   
+ 
+ Fuel Cells
+  
+  This module provides you with an introduction to the fuel cell industry. The module covers: 
+   
+   technical aspects like construction 
+   choice of materials 
+   different electrolytes 
+   potential outputs 
+   alternative fuel cycle 
+   waste 
+   sustainability 
+   
+ 
+ Model-based Process Control 
+  
+  This module covers part of the requirements necessary for the IChemE’s new Process Automation Specialist syllabus. The module is directed at advanced control techniques and is particularly concerned with process modelling and then the use of such models in model-based control schemes. 
+ 
+ Individual Project
+  
+  This is the final assessment of MSc and MEng programmes and is only taken by students in their final year of these degrees. 
+  The module extends across the various advanced chemical engineering and business/management subjects taught during the course. You’ll explore an advanced technical issue and a business case within your industrial workplace. 
+ 
+ Communicating Science & Technology
+  
+  This module aims to provide you with the skills to provide reliable, accurate and intelligent communication between scientists/engineers and the non-technical professions and the public. 
+  It also provides you with the skills to critically assess media and other communications around major engineering issues, to identify and critically evaluate accuracy, and potential bias common in different formats from different sources aimed at different audiences. 
+  
+ Learning & teaching 
+ The course is delivered through the web on our virtual learning environment called Myplace. Lecturers provide support through online tutorials, forums, email, telephone, and, if demand is sufficient, face-to-face on campus tutorials.   
+ 

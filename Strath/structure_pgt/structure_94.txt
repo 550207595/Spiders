@@ -1,0 +1,429 @@
+Course content 
+ The Strathclyde MBA is based on collaborative learning. You share work experience, knowledge, understanding and skills. 
+ Our purpose is to help to develop you in diverse areas of management. 
+ The MBA will shape and guide you as reflective, open-thinking, adaptive learners. 
+ Modules 
+ The Reflective Practitioner
+ 
+ This module is designed to help you respond to the increasing emphasis in the business world about corporate social responsibility, stakeholder expectations and the professional practice of management. The module has three classes, Learning Manager, Governance and Entrepreneurial Management & Leadership. This module  provides you with the foundations to become an adaptive manager open to life-long learning.
+  
+ The Learning Manager
+  
+  Here's a short introduction to the Learning Manager module of the MBA﻿. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980529').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Learning_Manager.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Learning_Manager_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Learning_Manager_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Learning_Manager_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Learning_Manager.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Learning_Manager.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+ 
+ Corporate Governance
+  
+  Here's a short introduction to the Corporate Governance module of the MBA﻿. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980523').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Corporate_Governance.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Corporate_Governance_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Corporate_Governance_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Corporate_Governance_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Corporate_Governance.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Corporate_Governance.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+  
+ Making the Business Work
+ 
+ This module helps you understand the management fundamentals and processes vital to business success and that are operated by specialist functional teams in an organisation. 
+ By becoming aware of these disciplines you’re more able to appreciate each function as well as the relationships and tensions between them. 
+ The module has six classes: 
+  
+  Finance and Financial Management 
+  Marketing Management 
+  Analytical Support for Decision Making 
+  Operations Management 
+  Managing People in Organisations 
+  Financial & Management Accounting 
+ 
+  
+ Finance & Financial Management
+  
+  Here's a short introduction to the Finance & Financial Management﻿ module of the MBA. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980525').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Finance__Finance_Management.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Finance__Finance_Management_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Finance__Finance_Management_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Finance__Finance_Management_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Finance__Finance_Management.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Finance__Finance_Management.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+ 
+ Marketing Management
+  
+  Here's a short introduction to the Marketing Management module of the MBA. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980528').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Introduction_to_Marketing_Management.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Introduction_to_Marketing_Management_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Introduction_to_Marketing_Management_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Introduction_to_Marketing_Management_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Introduction_to_Marketing_Management.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Introduction_to_Marketing_Management.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+ 
+ Operations Management
+  
+  Here's a short course introduction to Operations Management. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980532').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Operations_Management.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Operations_Management_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Operations_Management_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Operations_Management_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Operations_Management.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Operations_Management.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+ 
+ Managing People in Organisations
+  
+  Here's a short introduction to the Managing People in Organisations module of the MBA. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980531').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Managing_People_in_Organisations.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Managing_People_in_Organisations_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Managing_People_in_Organisations_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Managing_People_in_Organisations_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Managing_People_in_Organisations.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Managing_People_in_Organisations.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+ 
+ Financial & Management Accounting
+  
+  Here's a short introduction to the Financial & Management Accounting module of the MBA. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980526').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Financial__Management_Accounting.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Financial__Management_Accounting_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Financial__Management_Accounting_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Financial__Management_Accounting_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Financial__Management_Accounting.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Financial__Management_Accounting.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+  
+ Strategic Management for Sustainable Success
+ 
+ This module is designed to help you integrate the classes in the 'Making the Business Work' module. 
+ The classes are designed to help you explore, understand and confidently manage internal and external ambiguity, complexity and uncertainty. The Strathclyde MBA is renowned for its reputation in these aspects of management. 
+ There are four classes in this module 
+  
+  Exploring the International Environment 
+  Strategy Analysis and Evaluation 
+  Making Strategy 
+  Strategic Consulting in Practice - This provides you with an opportunity to work with a live organisational issue in conjunction with a client organisation. The client will feature significantly in the evaluation of the class. Designing the class in such a way provides you with many insights into the uncertainties of managing yourself, the task of strategising and meeting the expectations of the client. 
+ 
+  
+ Exploring the International Business Environment 
+  
+  Here's a short introduction to the Exploring the International Business Environment module of the MBA. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980524').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Exploring_the_International_Business_Environment.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Exploring_the_International_Business_Environment_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Exploring_the_International_Business_Environment_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Exploring_the_International_Business_Environment_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Exploring_the_International_Business_Environment.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Exploring_the_International_Business_Environment.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+ 
+ Making Strategy
+  
+  Here's a short introduction to the Making Strategy module of the MBA. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980530').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Making_Strategy.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Making_Strategy_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Making_Strategy_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Making_Strategy_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Making_Strategy.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Making_Strategy.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+ 
+ Strategic Consulting in Practice
+  
+  Here's a short introduction to the Strategic Consulting in Practice module of the MBA. 
+  
+     
+   
+  
+   
+   
+  jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+  
+	jwplayer('videoContainer_980760').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/MBA_-_Strategic_Consulting_in_Practice.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Strategic_Consulting_in_Practice_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Strategic_Consulting_in_Practice_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/MBA_-_Strategic_Consulting_in_Practice_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Strategic_Consulting_in_Practice.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/MBA_-_Strategic_Consulting_in_Practice.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+
+   
+  
+ Personal Development
+ 
+ As you progress through the Strathclyde MBA we work with you to help you personalise your learning and development.   We do that through two routes – Elective Classes and the final MBA Project.
+  
+ Elective classes
+  
+  We have over 120 academic experts across a wide range of specialist departments in Strathclyde Business School (SBS). We offer more than 25 different electives all taught by our subject specialists. 
+  There’s a range of study routes open to you – full-time, weekend classes and classes in the international centres. 
+  A major advantage of these elective classes is the opportunity to learn about the chosen subject alongside a group of like-minded international colleagues. 
+  To reflect both the latest challenges facing business and the latest insights from our world-leading research, the range of electives is revised every year. 
+  For a full list of the latest selection of electives on offer please ask our admissions office. 
+ 
+ MBA Project
+  
+  The MBA project gives you an opportunity to examine in-depth a managerial, organisational or environmental issue of your choice over an extended period of time. 
+  The project allows you to put into practice the knowledge and skills that you have developed throughout the Strathclyde MBA. 
+  We have close links with industry and can offer a number of company sponsored projects across different sectors. These may focus on: 
+   
+   Supply Chain 
+   Change Management 
+   Corporate Social Responsibility 
+   Market Entry Strategy 
+   Brand Management 
+   Social Media/Strategic Change Management 
+   Operations/CRM Strategy 
+   
+  Many of these projects are likely to lead to internships. 
+  The final project is an integral part of the Strathclyde MBA and can be done on an individual basis or as part of a group. 
+ 
+ Interaction with real companies
+  
+  There will be a number of opportunities during the core classes to undertake mini-consulting projects with real companies presenting you with real issues and challenges. You’ll form groups who will analyse the information given. Using tools and techniques taught in class, you’ll present a strategy to the company on how to move forward. 
+  
+ Learning & teaching 
+ Learning methods include: 
+  
+  face-to-face teaching by Strathclyde University staff 
+  regular local counselling support at our local partner in Bahrain 
+  home/private study with specially prepared core learning materials 
+  assignments and examinations set, marked or validated by Strathclyde University staff 
+  
+ Computer equipment 
+ We strongly recommend that you have access to your own computers. Guidelines for software and hardware are available from our partner in Bahrain. 
+ 

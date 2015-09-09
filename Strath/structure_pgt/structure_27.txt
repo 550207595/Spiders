@@ -1,0 +1,81 @@
+Course content 
+ Compulsory classes 
+ Foundations of Research & Business Analysis
+ 
+   This class will explore the generic problem solving process which underpins the provision of decision support. In particular, it'll consider the role of modelling in that process. The activities of problem structuring, data collection and analysis, identification and evaluation of options, communication and implementation of learning, findings and recommendations will each be discussed along with the issues pertaining to each of them. 
+ 
+ Quantitative Business Analysis
+  
+  Quantitative Business Analysis runs over one semester but in two parts. The first part provides an introduction to the basic theory and application of statistical modelling. Topics covered included data analysis, probability theory, distributions and moments, estimation and hypothesis testing. 
+  The second part focuses mainly on two areas - regression modelling and multivariate analysis. While key background theory will be presented, the emphasis is on the generation and interpretation of output from commercially available software. 
+ 
+ Managing Business Operations
+ 
+   This class teaches essential principles, tools and techniques of Operations Management – both in general and as applied to specific manufacturing or service businesses. A section of the class focuses on service operations, where specific subjects and operational issues surrounding services will be discussed. 
+ 
+ Spreadsheet Modelling & Demand Forecasting
+  
+  This module will demonstrate how spreadsheets can be used to support the analytical techniques whose theory is taught on other modules. For example, forecasting, simulation, optimisation, data analysis, as well as being used to support technical report writing. 
+  Most prominence is given to demand forecasting and you'll be introduced to different types of forecasting technique for short term smoothing through to decompositional analysis. These methods will be implemented using spreadsheet models. 
+ 
+ Strategy Modelling & Management
+ 
+   This module builds on a number of earlier taught skills, in particular the problem structuring element covered in Foundations of Operational Research and Business Analysis as this provides a basis to qualitative modelling for managing uncertainty and multiple perspectives along with becoming an effective business analyst. This class aims to specific subjects and operational issues surrounding services will be discussed. 
+ 
+ Becoming an Effective Business Analyst
+  
+  The class will consist of three key elements: 
+  1. A series of semi- or unstructured business problems, typically introduced by a manager from an outside organisation. The business problems will typically relate to a topic/technique recently covered in one of the other modules. 
+  2. Experience is augmented, and integrated with, the rest of the course by a series of workshops on directly related topics that will provide guidance on key skills development. 
+  3. A period of 3 weeks spent as an apprentice business analyst in an organisation. 
+ 
+ Elective classes 
+ Business Simulation Methods
+  
+  The module will focus on the main two forms of business simulation; discrete-event simulation (DES) and system dynamics (a continuous simulation technique). For DES, the class will start with an introduction, aiming to familiarise students with the concept and its use. 
+  It continues with discussing a rational approach to simulation using a number of examples from manufacturing and service operations. For system dynamics the class will provide a background to system dynamics including its links to other modelling techniques being taught on the course, in particular, its links to problem structuring methods. 
+ 
+ Risk Analysis & Management
+  
+  This module will explore the entire process of structuring a risk problem, modelling it, supporting and communicating recommendations, both theoretically and in practice. 
+  Risk management is linked with decision analysis in so far as we explore decision making under uncertainty and it has links with quantitative business analysis as we explore the use of statistics in understanding risk. However, the topic has some unique attributes such as risk communication and the role that experts play in risk assessment. 
+ 
+ Business Information Systems
+  
+  The class adopts a process-based approach; i.e. all discussion follows the logic of the business processes. After having the business and IS context of the knowledge work introduced, the various types of IS, namely the databases, ERP systems, knowledge-based systems, corporate portals, collaboration support systems. 
+  The course will provide you with conceptual knowledge introduced in the lectures, as well as hands-on experience gained in tutorials using appropriate packages of the various IS categories. 
+ 
+ Performance Measurement & Management
+  
+  The class focuses at the strategic, organisational level of PMM while providing the essential knowledge and skills at the technical level. 
+  The module starts with presenting the background to performance measurement to provide you with an understanding of the roots of some of the common problems in measuring and managing performance in organisations. This will follow with discussing PMM from five different but highly inter-related perspectives, namely stakeholder, customer, comparative, operations and integrative perspectives. 
+ 
+ Business Analytics
+  
+  Every two days, we generate as much data as the data generated in all human history up to 2003. From online data on every click of the mouse on the internet through the huge upsurge in manufacturing companies’ use of sensors to sports organisations collecting in game data. With these increased quantities of data comes an increased need for tools to make sense of the main messages coming from these data. 
+  The class will build on the fundamental multivariate statistics by developing both visualisation and advanced analysis techniques relevant in the area of big data. The focus will be on application and interpretation of techniques and there will be an investigation of what makes good data. The class will develop both new theoretical knowledge in the form of analytics techniques as well as new software skills in relevant analytics software. 
+ 
+ Project/Dissertation
+  
+  The MSc project is the most substantial and independent piece of work you'll carry out during their course. Prior to starting the project, you'll attend a workshop on methodology; the purpose of this workshop is not to equip you with methods for your research but rather to develop a sense of orientation and set the tone for the independent work. 
+  You'll then contact your client and your supervisors and manage the whole relationship with them. The projects vary but they typically involve understanding the real-life problem through problem structuring, identifying the data requirements, review of the relevant domain literature, making methodological choices based on arguments from the methodology literature, data collection, appropriate data analysis and modelling, developing and presentation of findings and recommendations. 
+  
+ Learning & teaching 
+ All classes are taught using material presented via the internet. Classes are supported by faculty members who also teach on the full-time course. They'll guide and support discussion via forums. 
+ Virtual Learning Environment (VLE) 
+ As a registered student on this programme you will have full access to our user-friendly VLE. Benefits of using the VLE include: 
+  
+  Anytime, anywhere learning 
+  At home, at work, on the move, in an internet cafe - all you need is your username and password. 
+  Access to tutors throughout your course 
+  Unlike many other online courses, you're not simply given your materials and left to get on with it. You're a full student of the University of Strathclyde. Tutor support is equal to that on our other, face-to-face, courses. Tutors and support staff include lecturers and academics whose prime concern is your progress through the course. 
+  Continuously updated, dynamic, interactive online materials 
+  We constantly update and revise our material. 
+  Online group discussions 
+  Group discussion is an integral part of the learning process on the all of our distance programmes. Some issues are developed best by peer discussion, often with tutor involvment. 
+  Live question & answer sessions 
+  Classes often have a "Question& Answer" session, broadcast live by video, audio and text. This is an opportunity for students to ask questions in a group forum. These sessions are archived on the website for those unable to be present at the time. 
+  Live conferencing 
+  Several sessions of the Postgraduate Diploma are conducted using live conferencing and online collaboration software such as Elluminate and FlashMeeting. 
+  
+ 

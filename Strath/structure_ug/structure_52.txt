@@ -1,0 +1,102 @@
+Course content 
+ Year 1 
+ Structural Mechanics & Materials 1
+ 
+   This class provides a basic introduction to the mechanics of structures, engineering materials, and the basic principles of structural behaviour. 
+ 
+ Civil Engineering Design Projects
+ 
+   This class provides an introduction to the design process for civil and structural engineering projects including an introduction to engineering drawing and AutoCad. You'll apply the skills and knowledge learned in this class and CL111 to design, construct and test a model of a bridge. 
+ 
+ Basic Mechanics & Fluid Statics
+ 
+   The class introduces the essential principles of mechanics. It includes kinematics, dynamics and fluid statics. The aim is to lay the foundation for subsequent modules including hydraulics and water engineering. 
+ 
+ Engineering Geology & Soil Mechanics
+ 
+   This class aims to introduce key aspects for engineering geology for civil engineering and basic concepts of soil mechanics. 
+ 
+ Civil Engineering & the Environment
+ 
+   This class aims to introduce you to the structure, processes, technologies, practices and impacts of the construction industry and to the assessment and management of environmental risks. 
+ 
+ Year 2 
+ Structural Mechanics & Materials 2
+  
+  To class aims to introduce you to advanced topics in structural engineering and limit state design. 
+ 
+ Land Surveying & Mapping
+ 
+   This class provides a basic understanding of the concepts and application of land surveying for civil engineering purposes and the use of maps and plans in civil engineering. 
+ 
+ Hydraulics & Hydrology
+ 
+   This class aims to develop understanding of applied hydraulics in civil engineering including simple examples of pipe and open channel flow and control structures and develop an understanding of the processes underlying catchment hydrology. 
+ 
+ Soil Mechanics
+ 
+   This class aims to aims to give an introduction to the governing principles of geotechnical engineering, in particular stress and settlement analysis and groundwater flow. 
+ 
+ Chemistry & Materials Science
+ 
+   This class aims to provide practical insights to fundamental chemistry and materials science and their roles in a wide range of civil and environmental engineering applications. 
+ 
+ Year 3 
+ Structural Engineering 1
+ 
+   This class develops the theory and practice of analysis of statically indeterminate structures followed by an introduction to structural steelwork design, reinforced concrete design and the principles of structural timber design. 
+ 
+ Geotechnical Engineering 1
+ 
+   This class aims to aims to give an introduction to the governing principles of geotechnical design at the ultimate limit state. 
+ 
+ Water Engineering 1
+ 
+   This class aims to introduce common concepts, applications and design calculation methods used in water engineering and hydrology. 
+ 
+ Construction Project Management
+ 
+   Provides an introduction to: 
+   
+   the principles of management within construction organizations 
+   the principles of project management within the construction industry 
+   financial monitoring & control of projects and businesses within the construction industry 
+   economic principles underlying decision making by firms in the construction industry 
+   construction innovation and competitiveness 
+   personal & professional development 
+   
+ 
+ Environmental Engineering
+ 
+   This class aims to provide an introduction to environmental engineering including air, water, ground and subsurface systems as well as environmental impact assessment. 
+ 
+ Engineering Mathematics
+ 
+   This class aims to aims to give an introduction to differential and integral calculus, differential equations, and statistics and probability and develop applications relevant to civil and environmental engineering. 
+ 
+ Transport Engineering
+  
+  This class aims to introduce you to key principles, theory and techniques used in the analysis and design of transport systems. 
+ 
+ Year 4 
+ Geotechnical Engineering 2
+ 
+   This class aims to cover the design of geotechnical structures from shallow foundations to slopes and retaining walls, based on Eurocode 7. 
+ 
+ Water Engineering 2
+ 
+   This class aims to develop an understanding of a wide range of water engineering theory and processes including hydraulic structures, complex free surface flows, water treatment and wastewater treatment processes. 
+ 
+ Solid Waste Management and Contaminated Land
+ 
+   This class aims to develop a critical understanding of the process involved with management of primarily municipal solid waste and provides an insight into the remediation of contaminated land. 
+ 
+ Individual Project
+ 
+   This class aims to undertake an individual research investigation, including a literature study, critical assessments and original research work, which is presented in the form of a dissertation and poster. 
+ 
+ Project Planning
+ 
+   This class aims to provide you with experience of planning and managing small-scale projects. 
+  
+ 

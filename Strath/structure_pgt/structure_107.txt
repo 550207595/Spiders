@@ -1,0 +1,105 @@
+Course content 
+ Compulsory classes 
+ Medical Science for Engineering
+  
+  To provide you with instruction in key areas of human anatomy, physiology and cell biology relevant to the advanced study of bio and clinical engineering.   We aim to provide understanding of normal biological function and control as derived from scientific and clinical evidence. The class will educate students to use knowledge of normal function to better understand pathology, disease diagnosis and treatment. 
+ 
+ Biomedical Instrumentation
+  
+  This class aims to give a detailed description of the principles and applications of a number of the most widely used biomedical instrumentation systems and devices found in the modern hospital environment. This course will enable you to understand the diagnostic and research applications of the various instrumentation-related techniques currently available and to appreciate their limitations. 
+ 
+ Biomedical Electronics
+  
+  This class aims to give the student a thorough introduction to the use of electronic circuits for the pre-conditioning, acquisition and display of biomedical signals and to provide an understanding of the components required in a basic biomedical measurement device.   
+ 
+ Professional Studies in Biomedical Engineering
+  
+  This class aims to: 
+   
+   provide an introduction to the philosophy, ethics and methodology of research 
+   outline the role that the bioengineer plays in the solution of clinical problems 
+   provide training in the principles, assessment and application of safety procedures   in areas relevant to medical physics and biomedical engineering 
+   engender an awareness of the importance of regulatory issues in medical device design and manufacturing 
+   
+ 
+ Research Methodology
+  
+  
+   This class aims to equip you with the skills necessary to use mathematics and statistics tools including software in experimental design and data visualisation and analysis needed to progress in their research in Biomedical Engineering.
+   
+ 
+ Advanced Techniques in Biomedical Research
+  
+   
+   To provide training in a range of standard techniques in biomedical sciences 
+   To develop an ability to apply techniques to specific problems in biomedical research 
+   
+ 
+ Medical Genomics
+  
+   
+   To introduce genomics. 
+   To demonstrate the importance of gene and protein sequence analysis in biomedical research. 
+   
+ 
+ Introductory Pharmacology
+  
+  This class has been designed to enable you to integrate your knowledge of various areas of pharmacology, develop detailed knowledge and have a critical understanding of current and future drug treatment of selected major diseases. In addition you'll develop critical analytical skills in interpreting cardiovascular experimental data. In particular this class addresses: 
+   
+ 
+ health and illness 
+ normal and abnormal body function 
+ aetiology and epidemiology of major diseases and the principles of their drug treatment 
+ symptoms recognition and management 
+ molecular bases of drug action 
+ therapeutic uses of drugs in man 
+ prediction of drug properties, cell and molecular biology of relevance to pharmacy 
+ biological methods of measuring drug activity 
+ 
+   
+ 
+ Elective classes
+ Choose from this list 
+ Tissue Mechanics
+  
+  This class aims to provide an introduction to the mechanical properties of human tissue using a PBL approach. With the aid of an existing Finite Element (FE) model of the knee, you'll virtually dissect the knee joint and by doing so identify the different tissue types in the knee. Discussion will take place to determine how to incorporate the material properties of the different tissues into the model. A Journal “club” will be used to discuss recent literature, informing and directing you in performing appropriate experimental methods to determine the mechanical properties, which can then be incorporated into the FE model. A fully working FE knee joint will be the objective of the class. 
+ 
+ Regenerative Medicine & Tissue Engineering
+  
+  To describe the developments and advances in regenerative/repair medicine in terms of: 
+   
+   source of cells 
+   cell expansion/seeding and bioreactor technology 
+   tissue scaffolds: design criteria, fabrication and characterisation 
+   clinical status of replacement tissues and organs 
+   
+ 
+ Prosthetics and Orthotics
+  
+  This class aims to demonstrate to you how biomechanical principles can be applied to the design, manufacture, fitting procedures and evaluation of prostheses, orthoses and other devices externally applied to the body of patients in need of rehabilitation. It is hoped that you should be able to join manufacturing companies, research groups or clinical teams responsible for the delivery of such systems. 
+ 
+ Cardiovascular Devices
+  
+  This class aims to: 
+   
+   give you a broad overview of cardiovascular devices used in the clinical setting for the treatment of a range of clinical conditions 
+   demonstrate and develop an understanding of the clinical, design and regulatory challenges involved in developing devices for this clinical sector 
+   offer some insight into the pathologies underlying the need for cardiovascular device technologies 
+   
+ 
+ Clinical & Sports Biomechanics
+ 
+   This class aims to provide you with the ability to appraise the role of biomechanics and biomechanical measurement techniques in the development and evaluation of clinical practice in rehabilitation and in the production and management of sports injuries. The class will also allow you to assess the role of biomechanics and biomechanical measurement in the improvement of human function and the optimising of sports performance.   The class will focus on orthopaedic and neurological issues. 
+ 
+ Bio-signal Processing & Analysis
+  
+  This class aims to familiarise you with the fundamentals and concepts of signals and systems (both continuous-time and discrete-time), and to develop a framework for processing and analysing a variety of biomedical signals and images (biosignals), including electrocardiograms (ECGs) and magnetic resonance images. You'll also develop valuable Mathcad and MATLAB signal/image processing skills, through non-compulsory self-study laboratory exercises. 
+ 
+ Biomaterials & Biocompatibility
+  
+  This class aims to: 
+   
+   provide fundamental information on the properties of synthetic biomaterials, and how these are evaluated experimentally and from the literature 
+   outline how material properties are influenced by methods of processing 
+   explore with the aid of appropriate examples what is meant by biocompatibility; provide an overview of the host responses to and interactions with biomaterials, and how these interactions are assessed and influenced by surface properties 
+   introduce the principles of toxicology, identify the major toxic interactions with foreign chemicals and the protective mechanisms which enable us to survive most toxic insults. 

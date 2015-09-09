@@ -1,0 +1,82 @@
+Course content 
+ Compulsory classes 
+ Foundations of Microeconomics
+  
+   
+   This is designed to be accessible if you have no prior expertise in economics. 
+   It is focused on economic literacy with a clear emphasis on the application to contemporary issues in the real world.   Knowledge of these topics provides the foundation for further study in a broad range of topics in Economics. 
+   
+ 
+ Macroeconomics for the Business Environment
+ 
+   By the end of the class you'll be able to assess the information content in the behaviour of key macroeconomic variables; discuss their implications for business managers. You'll understand the objectives and challenges in the design and operation of macroeconomic policies and explain how policy impacts on the macroeconomic environment. 
+ 
+ Analysis of Economic Data
+  
+  This module introduces some of the statistical methods commonly used in applied economics with an emphasis on regression analysis.    
+  You'll focus on understanding and application but also consider some of the more formal concepts required to engage in econometric work with confidence. 
+ 
+ Further topics in Microeconomics
+  
+  
+   You'll build on knowledge acquired in Foundation of Microeconomics to explore various topics in Microeconomics.
+   
+  
+   In particular we will explore situations in which markets do not work properly and discuss justifications for public intervention. As with the foundation course, emphasis will be put on how the ideas can be applied to the real world.   
+   
+  
+   Particular relevance will be given to topics related to imperfections in financial markets and in public utilities, and to the regulation of such markets.
+   
+ 
+ Principles of Finance
+ 
+   This class provides an introduction to the basic principles of financial decision taking and the theory of finance. It will develop the basic principles of valuation, the nature of risk and uncertainty, the relationship between risk and returns. While the analysis will be developed in the context of corporate finance, looking at companies’ decisions in relation to investments in assets and how these assets will be funded. It considers the principles underlying financial reasoning that can be applied on a more general basis. 
+ 
+ Accounting & Financial Analysis
+  
+  The aim of this class is to provide you with an understanding of the basic principles of financial accounting and financial analysis, the ability to interpret financial statements and their use in assessing the financial position and performance of companies. 
+  This class provides an introduction to the principles of accounting and the analysis of financial statements. It will enable you to prepare financial statements in accordance with International Financial Reporting Standards (IFRS) and to interpret and analyse these statements. Particular emphasis is placed on the accounting concepts and information employed in financial analysis and decision taking. 
+  You'll develop the ability to prepare and interpret financial statements and construct cash forecasts. In addition, you'll develop an understanding of the demand and supply for accounting information; an appreciation of the role of financial analysis and analysts; and an awareness of the statistical characteristics of accounting numbers. 
+ 
+ Macroeconomics for the Global Business Environment
+  
+  By the end of the class you'll be able to assess the information content in the behaviour of key macroeconomic variables. 
+  You'll be able to discuss their implications for business managers; understand the objectives and challenges in the design and operation of macroeconomic policies as well as explain how policy impacts on the macroeconomic environment. 
+ 
+ Quantitative Methods
+  
+  This module builds on Analysis of Economic Data. 
+  You'll cover the following estimation techniques: 
+   
+   Univariate Time Series Analysis 
+   Cointegration 
+   Instrumental Variables 
+   Panel Data Models 
+   Limited Dependent Variable Models 
+   
+  Each topic will be introduced in lectures and then illustrated via practical application in lab sessions. 
+ 
+ Optional classes
+ Choose one from this list. You'll also be able to choose from a wide range of classes from across the Department of Economics and the Department of Accounting & Finance. 
+ Advanced Corporate Finance & Applications
+  
+  The aim of this module is to discuss the different ways in which firms can raise funds, internally and externally, and the role of capital markets in determining the terms on which funding will be available. The costs and risks of difference sources of financing and the role of taxation will also be covered. 
+  It will also provide you with a working knowledge of the leasing decision of a firm, of corporate financial planning, the management of working capital, the rationale for mergers and acquisitions, the implications of corporate governance, and issues related to corporate financial restructuring. 
+  The module will cover the capital structure of companies, and their ability to raise finance through initial and seasoned equity capital issues. It will also examine mergers and acquisitions as major investments undertaken by companies, the firm’s working capital policy, and their payout policy in the form of dividends and stock market buybacks. It will be conducted through a series of lectures and tutorials. 
+ 
+ Derivatives and Treasury Management
+ 
+   The aim of this module are to provide a strong grounding in derivatives that may be used to manage the financial risks faced by individuals, financial institutions and business corporations. It places an emphasis on corporate treasury management and the role of derivatives in managing treasury risk. 
+ 
+ Dissertation
+  
+  You’ll have the opportunity to undertake a challenging problem-focused or policy-relevant analysis and project. This lets you apply the skills and learning you've developed in the course of your taught classes. 
+  Preparation for this component will include participation in the Economics and Finance forum. This includes opportunities to benefit from the experience of economics and finance professionals in business, academia and government. 
+  
+ Learning & teaching 
+ This is an innovative taught programme with: 
+  
+  a problem-solving focus 
+  a strong emphasis on students developing and applying their skills to real-world situations 
+  expert guest speakers 
+  teaching staff drawn from two world-class departments - Accounting & Finance, and Economics – that have high ratings for teaching, research and knowledge exchange

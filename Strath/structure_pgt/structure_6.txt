@@ -1,0 +1,106 @@
+Course content 
+ Compulsory classes 
+ Strategic Technology Management
+ 
+   This class aims to provide you with a high-level understanding and knowledge of the role of technology in business strategy for maintaining market competitiveness. 
+ 
+ Industrial Group Project
+ 
+   This class aims for you to integrate and apply course relevant knowledge in engineering design, mechatronics and automation, manufacture, and engineering management, to an industry-based project. 
+ 
+ Postgraduate Individual Project
+ 
+   The aim of the individual project is to allow you to combine the skills learned in other classes and apply them within a significant project in a specific area of design, manufacture, or engineering management. This will be achieved through you carrying out work into a particular topic relating to their course and preparing a dissertation that documents the project. 
+ 
+ Manufacturing Automation
+ 
+   This class aims to enable you to grasp the reasons for using manufacturing automation, to understand the basic technology, to be able to select suitable applications for automation, and to be able to specify the type of automation to be used in specific cases. 
+ 
+ Micro- & Nano-Manufacturing
+  
+  This class aims for you to acquire: 
+   
+   knowledge of the fundamentals of micro- and nano-products and of the manufacturing of such products (MEMS, micro-fluidic devices, micro-medical devices, micro-motors, micro-robots, MOEMS, etc), size-effects, material/interface behaviour at the micro-/nano-scale, challenges to manufacturing at low length-scales etc 
+   knowledge of micro-/nano-materials processing methods, techniques, industrially-viable processes etc 
+   experience and skills in the design/selection of micro-/nano-manufacturing processes, tools and equipment for real-world products 
+   
+ 
+ Advanced Forming Technology Systems
+  
+  This class aims: 
+   
+   to educate you in the fundamentals of the advanced forging/forming of materials, especially those used in the latest generation of automotive and aerospace components 
+   to help you in gaining knowledge of advanced forming processes and manufacturing systems 
+   to guide you in gaining experience in die/tool design, press design and die-fabrication 
+   
+ 
+ Advanced Materials & Production Technology
+  
+  This class aims: 
+   
+   to educate you in the fundamentals of advanced materials and processing methods and advanced surface engineering 
+   to help you gain knowledge of advanced machining processes and technologies, rapid tooling and rapid-manufacturing 
+   to educate you in the principles and practices of green manufacturing and manufacturing sustainability 
+   
+ 
+ Elective classes
+ Choose from this list 
+ Product Design Techniques
+  
+  This class aims to : 
+   
+   introduce design techniques at advanced level 
+   enable you to understand the application of advanced product design engineering techniques in product development, in particular in mechatronic systems 
+   provide opportunities for you to develop technology focused products or systems within the class supervised environment, including partial system evaluation and prototyping 
+   
+ 
+ Systems Integration
+ 
+   This class aims to enable you to understand the concepts of systems and their integration in a CAD system application and in advanced product design eg design for manufacture/assembly. 
+ 
+ Strategic Supply Chain Management
+ 
+   This class aims to provide you with a critical understanding of the fundamental building blocks of Supply Chain Management and e-Supply Chains from a Strategic perspective. This is with a view to developing your capabilities in modelling, analysing, diagnosing and re-designing/improving supply chains. 
+ 
+ CAED Systems
+ 
+   To provide an awareness of the fundamental principles in Computer Aided Engineering Design Systems. 
+ 
+ Fundamentals Of Lean Six Sigma
+  
+  The objective of this class is to introduce the participants to the principles of Lean Six Sigma thinking, tools and techniques of Lean Six Sigma and understand the wider implications of the broader strategic issues of organisation management and how they impact on continuous improvement programme. 
+  On completion of the class you should be able to understand the theory and practical application of Lean Six Sigma methodologies within a holistic process improvement framework. This will enable their businesses to become more efficient, cost effective and much more profit oriented in today’s competitive marketplace. 
+ 
+ Sustainable Product Design & Manufacturing
+  
+  One of the major challenges of modern industry is to address the need for sustainable product development and manufacturing. International legislation and increasing costs of fiscal instruments such as the landfill tax now aim to force producers to reduce the environmental impacts of their products and processes. Accelerating globalization and industrialization continues to exacerbate complexity of sustainability. Whilst manufacturers are constantly required to lower their costs and maintain their competitiveness, legislations require them to look at lifecycle costs. 
+  This class addresses these global concerns by studying lifecycle considerations for a sustainable and profitable product development and manufacture. The latest environmental legislation will also be studied along with product development concepts and strategies that will enable industry to meet these increasingly severe competitive, environmental and legislative pressures. The associated practical, hands- on sessions maximize the usefulness of the skills acquired in real-life operational industry setting. 
+ 
+ Systems Thinking & Modelling
+ 
+   The objective of this class is to introduce you to the theories and principles behind systems thinking. The class will also introduce you to the methods, tools and techniques for modelling, analysing, improving and designing systems in a variety of organisations, including industrial, commercial and public sector. 
+ 
+ Design Of Experiments For Process Optimisation
+ 
+   This class aims to introduce you to how to statistically plan, design and execute industrial experiments for process understanding and improvement in both manufacturing and service environments. 
+ 
+ Information Management
+  
+  This class aims to give you an understanding of the types of different approaches, techniques and systems used in building information based systems. 
+  In particular to: 
+   
+   introduce you to the software engineering process, identifying information requirements and visual modelling 
+   acquire a basic understanding of information storage, retrieval, and systems 
+   provide an appreciation and basic skills in the process of developing information systems 
+   familiarise you with information technology, how to model and use information and in introduction into a way of representing information on a computer based system 
+   
+ 
+ Project Management
+  
+  
+   This class aims to provide you with skills relating to the use of engineering practices in Project Management with particular respect to the effective and efficient use of resources.
+   
+  
+ Learning & teaching 
+ Lectures, tutorials and practical laboratories. 
+ 

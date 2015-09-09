@@ -1,0 +1,198 @@
+Course content 
+ Year 1 
+ Mathematics 
+ Introduction to Calculus
+ 
+   You'll  study the basic concepts and standard methods of mathematical notation and proof, polynomial equations and inequalities, sequences and series, functions, limits and continuity, differentiation and integration. 
+ 
+ Applications of Calculus
+  
+  The fundamental concepts of calculus (differentiation and integration) presented in Applications of Calculus will be examined in more detail, extended to a larger class of functions by means of more sophisticated methods, including an introduction to complex numbers and variables, all demonstrated in application to practical problems including solving basic first and second-order differential equations.     
+ 
+ Geometry & Algebra with Applications
+  
+  This class will introduce you to vectors and matrices, along with the idea of mathematical modelling through their application to real-world problems. 
+  
+ Physics 
+ Experimental Physics
+ 
+   This class is an introduction to working in a laboratory environment. You'll undertake experiments related to the taught components of the first year physics curriculum, learning how to handle experimental uncertainties. In addition to laboratory work, you'll also undertake a group project. 
+ 
+ Mechanics, Optics & Waves
+ 
+   We'll provide you with an understanding of motion of simple mechanical systems, gravitation and simple harmonic motion. You'll also learn about the fundamentals of wave propagation and the superposition of waves as well simple optical phenomena such as diffraction. 
+ 
+ Quantum Physics & Electromagnetism
+ 
+   This class is designed to introduce you to quantum mechanics and electromagnetism. It highlights experimental observations that resulted in the development of quantum mechanics, such as the photoelectric effect and blackbody radiation. In terms of electromagnetism, you'll cover basic electrostatics such as Gauss's law and magnetostatics. 
+ 
+ Year 2 
+ Mathematics 
+ Linear Algebra & Differential Equations
+  
+  This class will introduce you to the basic ideas of linear algebra, such as matrices and determinants, vector spaces, bases, eigenvalues and eigenvectors. You'll study various standard methods for solving ordinary differential equations and understand their relevance. 
+ 
+ Advanced Calculus
+  
+  Basic ideas, techniques and results for calculus of two and three variables, along with differentiation and integration over curves, surfaces and volumes of both scalar and vector fields will be presented. 
+ 
+ Mathematical & Statistical Computing
+  
+  This class will introduce you to the R computing environment. It'll enable you to use R to import data and perform statistical tests, allow you to understand the concept of an algorithm and what makes a good algorithm and will equip you for implementing simple algorithms in R. 
+  
+ Physics 
+ Mechanics, Optics & Waves
+ 
+   This class builds on Mechanics, Optics and Waves from year 1. You'll be introduced to special relativity, the vector treatment of rotational motion and the behaviour of systems when forced to oscillate. To extend your understanding of wave phenomena you'll be introduced to the wave equation, Fresnel and Fraunhofer diffraction and the operation of lasers. 
+ 
+ Quantum Physics & Electromagnetism
+ 
+   This class builds what you learned in year 1. you'll be introduced to the probabilistic nature of quantum mechanics and you'll develop a vector model of electromagnetism. 
+ 
+ Condensed Matter Physics
+ 
+   You'll be introduced to solid state physics covering topics such as bonding in solids, through to the difference between conductors, insulators and semi-conductors. 
+ 
+ Gases & Liquids
+ 
+   Here you'll discover some of the key concepts associated with liquids and gases. You'll cover topics such as ideal and imperfect gases, Maxwellian distributions, hydrostatics and Bernoulli's equation. 
+ 
+ Year 3 
+ Complex Variables & Integral Transforms
+  
+  This class will introduce functions of a complex variable, define concepts such as continuity, differentiability, analyticity, line integration, singular points, etc. It'll examine some important properties of such functions, and consider some applications of them, eg conformal mappings, and the evaluation of real integrals using the Residue Theorem. It'll also introduce you to Fourier and Laplace transform methods for solving linear ordinary differential equations and convolution type integral equations. 
+ 
+ Differential Equations
+  
+  We'll introduce you to analytical methods for solving ordinary and partial differential equations so you'll develop an understanding along with technical skills in this area. 
+ 
+ Quantum Physics & Electromagnetism
+ 
+   Building on what you learned in year 2, this class will extend your understanding of quantum mechanics by introducing advanced concepts such as time independent perturbation theory and electromagnetism by exploring the wave like nature of electromagnetism as predicted by Maxwell's equations. 
+ 
+ Condensed Matter Physics
+ 
+   Here you'll cover condensed matter physics and be introduced to concepts such as the Fermi surface, superconductors, phonons and other forms of collective excitations. 
+ 
+ Statistical Physics
+ 
+   This class covers the fundamentals of thermodynamics through to an introduction to various distributions such as Maxwellian, Fermi-Dirac and Bose-Einstein. 
+  
+ Optional classes 
+ Mechanics of Rigid Bodies & Fluids
+  
+  This class will: 
+   
+   convey the generalisation of the mechanics of single-particle systems to many-particle systems 
+   convey the central ideas of a continuum description of material behaviour and to understand relevant constraints 
+   ground students in the basic principles governing three-dimensional motions of rigid bodies 
+   convey how the ideas of continuum theory are applied to static and inviscid fluids. 
+   
+ 
+ Numerical Analysis
+  
+  This module will motivate the need for numerical algorithms to approximate the solution of problems that can't be solved with pen and paper. It'll develop your skills in performing detailed analysis of the performance of numerical methods and will continue to develop your skills in the implementation of numerical algorithms using R. 
+  
+ Optional classes - list B 
+ Physics Skills
+ 
+   This class will develop your knowledge base and transferable skills in preparation for the project undertaken in years 4 and 5 of the course. It focuses on oral, written and graphical presentations, literature and group-work skills, individual data analysis and interpretation skills, and basic grounding in physics problem solving. 
+ 
+ Year 4 
+ Communicating Mathematics & Statistics
+  
+  This class provides you with experience of the skills required to undertake project work, and to communicate the findings in written and oral form using a variety of sources, such as books, journals and the internet. 
+ 
+ Project
+ 
+   The aim of this class is to help you develop as an enquiring independent physicist by undertaking a project under the supervision of a member of staff of the department. 
+  
+ Optional classes - list A 
+ Modelling & Simulation with Applications to Financial Derivatives
+  
+  Here you'll get an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. This module places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). In both cases, in addition to theoretical analysis, appropriate computational algorithms are introduced. The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+ 
+ Applicable Analysis 3
+  
+  This class will present the main results in Functional Analysis, give an introduction to linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+ 
+ Statistical Modelling & Analysis
+  
+  This class will provide you with a range of applied statistical techniques that can be used in professional life. 
+ 
+ Fluids & Waves
+  
+  You'll be introduced to the theory of Newtonian fluids and its application to flow problems and the dynamics of waves on water and in other contexts. 
+ 
+ Finite Element Methods for Boundary Value Problems & Approximation
+  
+  You'll be presented with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory. 
+ 
+ Applied Statistics in Society
+  
+  You'll be introduced to a range of modern statistical methods and practices used in industry, commerce and research, and will develop skills in your application and presentation. 
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  Here you'll learn the application of mathematical models to a variety of problems in biology, medicine, and ecology. It'll show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that will explore a real-world application of an ecosystem model. 
+ 
+ Mathematical Introduction to Networks
+  
+  This class will demonstrate the central role network theory plays in mathematical modelling. It'll also show the intimate connection between linear algebra and graph theory and how to use this connection to develop a sound theoretical understanding of network theory. Finally, it'll apply this theory as a tool for revealing structure in networks. 
+ 
+ Elasticity & Complex Materials
+  
+  We'll introduce you to general continuum theory with applications to Newtonian and non-Newtonian fluids and elastic materials. 
+ 
+ Optimisation: Theory & Practice
+  
+  We'll provide you with a basic mathematical understanding of modern approaches to optimisation and the calculus of variations. 
+ 
+ Statistical Mechanics
+  
+  Here you'll develop approaches to understanding complex or random systems in or out of equilibrium, based on ideas from statistical mechanics that incorporate familiar concepts and methods from neighbouring subjects like classical mechanics and probability and statistics. 
+  You'll also be able to describe, through various examples and techniques, how macroscopic properties of systems arise from the ensemble action of many microscopic ingredients, and, specifically, how deterministic 'laws' may arise from basic randomness of a system with many variables or degrees of freedom. Fundamental examples include Brownian motion and the ideal gas. 
+ 
+ Dynamical Models in Epidemiology
+  
+  We'll introduce mathematical models which arise in epidemiology and population dynamics, and help you develop techniques for analysing the qualitative behaviour of the associated dynamical systems. 
+     
+  
+ Optional classes - list B 
+ Physics Skills
+ 
+   This class will further develop your skills as a professional physicist. It'll introduce you to key concepts in the commercialisation of research thereby introducing you to the business world as well as further refining your problem solving skills. 
+ 
+ Topics in Solid State Physics
+ 
+   Here you'll track the development of key concepts in solid state physics and how these concepts can be exploited to form functional optical and electronic devices. 
+ 
+ Topics in Physics
+ 
+   Here you'll be introduced to state-of-the-art developments in generation and use of charged particles in various forms such as free electron beams, plasmas and astrophysical plasmas. 
+ 
+ Topics in Nanoscience
+ 
+   Here you'll be introduced to nanoscience. Specifically, the course will address concepts relating to Nanoparticle production, characterisation and structure before progressing to the physics associated with molecular nanoscience, including intermolecular forces and the techniques used to investigate these forces. 
+ 
+ Topics in Photonics
+ 
+   This class provides an introduction to laser physics, laser optics and nonlinear optics as required for the work in many photonic laboratories. 
+ 
+ Topics in Computational & Complexity Physics
+ 
+   You'll be introduced to the ideas and concepts associated with complexity physics and to the use of computer simulations to demonstrate these processes. 
+ 
+ Topics in Theoretical Physics
+ 
+   The aim of this class is to introduce you to the large scale structure of space-time. 
+ 
+ Topics in Quantum Physics
+ 
+   This class provides an introduction to the basic concepts and theoretical ideas of quantum optics. 
+ 
+ Topics in Atomic, Molecular & Nuclear Physics
+ 
+   This class aims to give a general overview and understanding of atomic and molecular physics and relate these to practical applications and related fields of study. 
+  
+ 

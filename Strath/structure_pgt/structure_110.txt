@@ -1,0 +1,45 @@
+Course content 
+ Compulsory modules are listed below. Students may also take a tailored programme of options from our other Masters classes and graduate with a degree in Advanced Computer Science. Those who progress to the Masters component will undertake an individual project. 
+ Compulsory classes 
+ Computer Security
+  
+  You'll develop an in-depth understanding of the nature of security in the contexts of computers, information and networks. 
+ 
+ Designing Usable Systems
+  
+  In this class, you'll develop research level understanding of the design of interfaces for newly emerging technologies and computing domains such as ubiquitous and mobile computing, universal access and collaborative displays. 
+ 
+ Distributed Information Systems
+  
+  This class will give you an extended understanding of the deep, technical issues underlying information systems in the particular context of distributing content over the world-wide web. 
+ 
+ Embedded Systems
+  
+  This class allows you to undertake the design and development process for embedded (dedicated) computer systems in relation to the environment in which they operate and to know how to integrate embedded hardware, software, and operating systems to meet the functional requirements of embedded applications. 
+ 
+ Mobile Software & Applications
+  
+  You'll develop an understanding of the theories, paradigms, algorithms and architectures for building software applications to function in mobile computing environments. 
+ 
+ Personal Study
+  
+  The aims of this class are to: 
+   
+   strengthen your self-study skills in technical material at the forefront of a specialism within your discipline 
+   develop your abilities to identify, synthesise, abstract, connect and present materials within a specialist topic area of computer science 
+   support you in bridging between your background knowledge within your selected specialism and the advanced materials required for subsequent study of the specialism within the later modules of the Advanced Computer Science degree 
+   ensure you achieve a threshold level of competency to meet all prerequisites of your selected modules within the Advanced Computer Science degree 
+   
+ 
+ Research Methods
+ 
+   This class provides you with an understanding of both quantitative and qualitative research processes and associated techniques, including the effective presentation of findings in accordance with the best principles of scholarship. 
+ 
+ MSc students only 
+ Dissertation
+  
+  MSc students prepare a dissertation of up to 20,000 words on an approved topic. 
+  This takes the form of an individual project on an approved topic, which allows you to pursue an area of specific interest, providing scope for original thought, research and presentation. 
+  
+ Learning & teaching 
+ The course is taught through lectures, tutorials and practical laboratories. Dissertation is by supervision.

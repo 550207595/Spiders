@@ -1,0 +1,117 @@
+Course content 
+ Compulsory classes 
+ Foundations of Microeconomics
+  
+  This is designed to be accessible if you have no prior expertise in economics. 
+  It is focused on economic literacy with a clear emphasis on the application to contemporary issues in the real world.   Knowledge of these topics provides the foundation for further study in a broad range of topics in Economics. 
+ 
+ Further Topics in Microeconomics
+  
+  
+   You'll build on knowledge acquired in Foundation of Microeconomics to explore various topics in Microeconomics.
+   
+  
+   In particular we will explore situations in which markets do not work properly and discuss justifications for public intervention. As with the foundation course, emphasis will be put on how the ideas can be applied to the real world.   
+   
+  
+   Particular relevance will be given to topics related to imperfections in financial markets and in public utilities, and to the regulation of such markets.
+   
+ 
+ Macroeconomics for the Business Environment
+  
+  By the end of the class you'll be able to assess the information content in the behaviour of key macroeconomic variables; discuss their implications for business managers. You'll understand the objectives and challenges in the design and operation of macroeconomic policies and explain how policy impacts on the macroeconomic environment. 
+ 
+ Macroeconomics for the Global Business Environment
+  
+  By the end of the class you'll be able to assess the information content in the behaviour of key macroeconomic variables. 
+  You'll be able to discuss their implications for business managers; understand the objectives and challenges in the design and operation of macroeconomic policies as well as explain how policy impacts on the macroeconomic environment. 
+ 
+ Analysis of Economic Data
+  
+  This module introduces some of the statistical methods commonly used in applied economics with an emphasis on regression analysis.    
+  You'll focus on understanding and application but also consider some of the more formal concepts required to engage in econometric work with confidence. 
+ 
+ Quantitative Methods
+  
+  This module builds on Analysis of Economic Data. 
+  You'll cover the following estimation techniques: 
+   
+   Univariate Time Series Analysis 
+   Cointegration 
+   Instrumental Variables 
+   Panel Data Models 
+   Limited Dependent Variable Models 
+   
+  Each topic will be introduced in lectures and then illustrated via practical application in lab sessions. 
+ 
+ Principles of Economic Appraisal
+  
+  Economic appraisal is a key tool in the work of an economist, and this module goes through the key principles and techniques of economic appraisal, in both private and public contexts. 
+  It deals with several forms of economic appraisal: 
+   
+   cost-benefit analysis (CBA) 
+   cost-effectiveness analysis (CEA) 
+   multi-criteria analysis (MCA) 
+   
+ 
+ Economic Appraisal of Programmes & Policies
+  
+  
+   EAPP extends and builds on its companion class Principles of Economic Appraisal. It deals in-depth with issues relating to:
+   
+   
+ 
+ programmes or policies (rather than single projects) 
+ public or perspective choices in a second-best environment 
+ distributional (rather than efficiency) considerations 
+ the implications for economic appraisal of ‘large’ programmes or policies that will often entail system-wide or secondary impacts 
+ 
+   
+  
+     and special considerations that arise from public finance considerations, complications and potential pitfalls in appraisal processes, as well as appropriate ways of dealing with imperfect information and uncertainty.
+   
+  
+       
+   
+  
+   Module content will make use of work done by the Economics Department for governmental bodies, and which has generated highly supportive peer review from the UK Government Economic Service and from our external examiners.     
+   
+ 
+ Elective classes
+ You must choose four modules from this list. You can substitute two classes listed here for classes offered elsewhere in the Business School. 
+ Fundamentals of Business Economics
+  
+  The Fundamentals of Business Economics module introduces you to the concepts of Business Economics and to the complexity of business decisions. The scope of the module extends to cover issues in business strategy and to explain how firms position themselves in markets in order to be successful. 
+ 
+ International Trade & Policy
+  
+  The focus of this module is on developing an understanding as to why countries engage in international trade. 
+  At the heart of the module is an analysis of the distribution of the gains from trade, identifying the circumstances where trade liberalization is mutually beneficial and those where there are winners and losers at the international or national level. 
+  The module will address the current issues facing the world trading system and how these might be resolved. 
+ 
+ Games of Strategy
+  
+  Games of Strategy studies decision making in strategic scenarios where the outcome of a decision depends not only on your decision but also the decisions made by others. 
+  We study the analysis of such decisions to fully understand how to make effective decisions in these ubiquitous environments. 
+ 
+ Environmental Economics
+  
+ 
+ Energy Economics
+  
+  The module explores key economic issues at the heart of topical energy questions. The module covers 
+   
+   the objectives of energy policy 
+   private and social perspectives on energy supply and demand 
+   regulation using relevant examples (including North Sea activity and renewable electricity) 
+   economic models to understand interactions between energy and the economy 
+   
+ 
+ MSc students only 
+ Dissertation
+  
+  The dissertation is an extensive and substantial piece of economic analysis, which typically involves a literature review, original research, and econometric analysis. 
+  You're expected to demonstrate their ability to apply the knowledge and tools that they have acquired throughout the year.   
+  
+ Learning & teaching 
+ As well as attending lectures you’ll undertake projects, case studies and small group work.

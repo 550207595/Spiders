@@ -1,0 +1,103 @@
+Course content 
+ Compulsory classes 
+ (September to May) 
+ Assignment & Professional Studies 
+  
+  The aim of this class is to provide you with support for your general academic and professional development. 
+  You'll undertake an advanced investigation of an electronic or electrical engineering topic of your choice, to enhance your learning, and develop presentation and communication skills. 
+ 
+ Elective classes
+ Choose at least five from this list 
+ Power Electronics, Machines & Applications 
+  
+  You'll develop an understanding of the principles of common power electronic systems. You'll gain familiarity with the techniques required to analyse common power electronic circuits and learn about the basic principles behind the design of rotating electrical machines. The techniques required to analyse basic DC and AC machines will also be investigated. 
+  You'll learn to recognise that disturbances exist within a power system substation, appreciate that these disturbances may affect electromagnetic compatibility and become competent in dealing with the implications of those disturbances. 
+  You'll gain an understanding of the use of power electronic devices, drives and machines for given applications, specifically for electric vehicles. You'll examine the range of energy sources capable of powering ‘independent’ EVs, how these sources work, their performance and degradation issues and how to charge/fuel them. 
+ 
+ Power System Design, Operation & Protection 
+  
+  The objective of this class is to enable you to appreciate the principles of analysis, design and protection of electrical power systems including: 
+   
+   the design and operational approaches in power systems including electricity generation, transmission and distribution 
+   the analysis and design of transmission and distribution networks 
+   power flow, fault and stability calculations 
+   power system control including load frequency control and economic dispatch 
+   generation technology implications on power system design and operation. 
+   
+  You'll also study the main concepts related to the requirements, functions, design and operation of protection schemes for power system transmission and distribution systems. You'll gain an advanced understanding of selected protection schemes used in transmission and distribution networks. 
+ 
+ Digital Signal Processing Principles 
+  
+  You'll develop the necessary tools that will allow you to design, analyse and simulate (Matlab/Simulink) DSP systems by introducing core mathematical concepts, algorithms and fundamental properties of discrete signal and systems with applications. 
+ 
+ Information Transmission & Security 
+  
+  The aim of this class is to develop an understanding of the principles by which information can transmitted with varying levels of security and the techniques by which communication systems can be analysed and designed. 
+ 
+ Communications Networks 
+  
+  This class will provide you with an understanding of the principles and key transport technologies which underpin high-speed heterogeneous broadband communications networks and architectures while giving an insight to the technical and strategic challenges associated with the provision of a Quality of Service (QoS)-based integrated future-network platform. 
+ 
+ Control Principles
+  
+  This class will introduce you to the basic concepts, mathematical tools and design methods of classical control theory. It will enable you to use analysis and design tools used in control engineering and appreciate the industrial applications of control systems. 
+  You'll also learn to analyse and design closed loop control system specifically using industrial three-term (PID) controllers. Through an introduction to advanced control methods, you'll gain a basic understanding of a time-domain approach to control analysis and design of industrial processes. 
+     
+ 
+ Advanced Power System Analysis & Protection
+  
+  This class will allow you to understand, critically analyse and assess technical requirements for power system operation, management and planning. It will enable you to carry out advanced types of power system analysis as well as understand and use results from these analyses in power system operation and planning. You'll also develop an advanced knowledge of the main concepts related to the function, design and operation of protection schemes for distribution, transmission and generation applications. 
+ 
+ High Voltage Technology & Electromagnetic Compatibility 
+  
+  This class will introduce you to the fundamentals of high voltage electrical insulating systems and the principles, mechanisms and characteristics of high voltage discharges in vacuum and condensed media. It will also provide you with a basic understanding of the behaviour of dielectric materials stressed with electric fields and their use in high voltage systems. You'll also gain an understanding of the principles of high voltage generation and impulse testing of the high voltage systems. 
+ 
+ Power Electronics for Energy & Drive Control 
+  
+  Modern energy conversion systems rely on the integration of range of technologies including power electronics, electromechanical actuators and energy storage elements. This class will build knowledge of the building block technologies and show their application to modern energy conversion systems. 
+ 
+ Power System Economics, Markets & Asset Management 
+  
+  This class will present and give an understanding of the economics, trading and pricing of electricity supply and how it is shaped by technical, commercial and regulatory considerations. 
+  It will give you an understanding of power system economics under an environment of multiple suppliers and users, and present the challenges, technologies and value of asset management within an electricity supply industry context. You'll gain a deep appreciation of factors affecting security of supply and how it might be quantified. 
+ 
+ Wind Energy & Distributed Energy Resources 
+  
+  This class will provide an understanding of the principles of wind turbine power generation with attention to the wind resource, rotor aerodynamics, structural design, power conversion and control. 
+  It will also examine the socio-economic issues relating to wind power and provide an underpinning in distributed energy resources including small scale generation, energy storage and demand management and their integration and management within power networks. 
+ 
+ Advanced Digital Signal Processing Principles
+  
+  The objective of this class is to ensure you develop the necessary skills that will allow you to analyse, design, implement and simulate advanced DSP techniques and algorithms for a variety of communications and general engineering problems. 
+ 
+ Embedded Systems Design 
+  
+  This class provides hands-on experience in translating Digital Signal Processing concepts into real-time embedded systems applications. 
+  Through a combination of lectures, up-to-date technical discussions and hardware programming, you'll learn to design and implement real-time embedded systems through familiarisation with Digital Signal Processors and FPGAs.   
+ 
+ Image & Video Processing 
+  
+  This class will provide an introduction to the techniques relevant to digital images and video. This includes techniques both to process images and video and also to efficiently compress and communicate them. 
+  The class will give you a comprehensive understanding of various image and video processing and coding standards. You'll also study some key applications of these standards. 
+ 
+ Control Techniques 
+  
+  Through an introduction to the concepts and tools of modelling, simulation for control of dynamical systems, and computer control engineering, you'll develop the skills required to understand and analyse digital control systems for real time engineering applications. You'll also appreciate the design of estimation and its use in control design. 
+ 
+ Software Engineering 
+  
+  This class will introduce you to the software engineering process through the development and application of C++ programming skills. You'll become competent in specifying, designing and developing software and in writing and testing programs of moderate complexity. 
+  
+ Summer (June to September) 
+ MSc Research Project / Internship 
+  
+  The aim of the research project is to provide you with an opportunity to bring your knowledge and skills together and deploy them in a significant practical investigation, using relevant engineering literature, and where relevant, initial experiments or simulations. 
+  
+ Learning & teaching 
+ We use a blend of teaching and learning methods including interactive lectures, problem-solving tutorials and practical project-based laboratories. Our technical and experimental officers are available to support and guide you on individual subject material. 
+ Each module comprises of approximately five hours of direct teaching per week. To enhance your understanding of the technical and theoretical topics covered in these, you're expected to undertake a further five to six hours of self-study, using our web-based virtual learning environment (MyPlace), research journals and library facilities. 
+ The teaching and learning methods used ensure you'll develop not only technical engineering expertise but also communications, project management and leadership skills. 
+ You'll undertake group projects. These will help to develop your interpersonal, communication and transferable skills essential to a career in industry. 
+ Industry engagement 
+ Interaction with industry is provided through our internships, teaching seminars and networking events. The department delivers monthly seminars to support students’ learning and career development. Siemens, Rolls-Royce, Xilinx, Selex ES and Mott MacDonald are just a few examples of the industry partners you can engage with during your course. 
+ 

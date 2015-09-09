@@ -1,0 +1,76 @@
+Course content 
+ Compulsory classes 
+ (September to May) 
+ Wind Turbine Control 
+  
+  This class will provide you with more advanced computational tools for assessing complex aspects of wind farm integration. You're introduced to complex control strategies for wind turbines and farms, and learn of the impact these have on the dynamic and transient stability of electrical systems. The design of electrical collectors and transmission schemes for onshore and offshore wind farms is also explained. 
+  Future concepts such as offshore DC networks and smart grid technology will be examined, along with issues such as network development, voltage rise, electricity markets through an understanding of the basic electrical engineering concepts and wind power technology. Power system balancing challenges due to wind power variations and high penetration of wind power is also examined. 
+ 
+ Assignment & Professional Studies 
+  
+  The aim of this class is to provide you with support for your general academic and professional development. 
+  You'll undertake an advanced investigation of an electronic or electrical engineering topic of your choice, to enhance your learning, and develop presentation and communication skills. 
+ 
+ Power Systems & Wind Integration 
+  
+  This class will provide an understanding of the principles of wind turbine power generation with attention to the wind resource, rotor aerodynamics, structural design, power conversion and control. 
+  Socio-economic issues, distributed energy resources including small scale generation, energy storage and demand management and their integration and management within power networks will also be examined. 
+ 
+ Wind Turbine Technology 
+  
+  The objectives of this class is to provide a basic understanding of the wind resource and the principal of wind turbine power conversion including: 
+   
+   an introduction to rotor dynamic suitable for non-specialist engineers and scientists 
+   an explanation of   the evolution of contemporary wind turbine technology 
+   
+  You'll gain sufficient understanding to outline the design and operation of multi-megawatt machines. 
+ 
+ Elective classes
+ Choose at least three from this list 
+ Power Electronics, Machines & Applications 
+  
+  You'll develop an understanding of the principles of common power electronic systems. You'll gain familiarity with the techniques required to analyse common power electronic circuits and learn about the basic principles behind the design of rotating electrical machines. The techniques required to analyse basic DC and AC machines will also be investigated. 
+  You'll learn to recognise that disturbances exist within a power system substation, appreciate that these disturbances may affect electromagnetic compatibility and become competent in dealing with the implications of those disturbances. 
+  You'll gain an understanding of the use of power electronic devices, drives and machines for given applications, specifically for electric vehicles. You'll examine the range of energy sources capable of powering ‘independent’ EVs, how these sources work, their performance and degradation issues and how to charge/fuel them. 
+ 
+ Power System Design, Operation & Protection 
+  
+  The objective of this class is to enable you to appreciate the principles of analysis, design and protection of electrical power systems including: 
+   
+   the design and operational approaches in power systems including electricity generation, transmission and distribution 
+   the analysis and design of transmission and distribution networks 
+   power flow, fault and stability calculations 
+   power system control including load frequency control and economic dispatch 
+   generation technology implications on power system design and operation. 
+   
+  You'll also study the main concepts related to the requirements, functions, design and operation of protection schemes for power system transmission and distribution systems. You'll gain an advanced understanding of selected protection schemes used in transmission and distribution networks. 
+ 
+ Advanced Power System Analysis & Protection
+  
+  This class will allow you to understand, critically analyse and assess technical requirements for power system operation, management and planning. It will enable you to carry out advanced types of power system analysis as well as understand and use results from these analyses in power system operation and planning. You'll also develop an advanced knowledge of the main concepts related to the function, design and operation of protection schemes for distribution, transmission and generation applications. 
+ 
+ High Voltage Technology & Electromagnetic Compatibility 
+  
+  This class will introduce you to the fundamentals of high voltage electrical insulating systems and the principles, mechanisms and characteristics of high voltage discharges in vacuum and condensed media. It will also provide you with a basic understanding of the behaviour of dielectric materials stressed with electric fields and their use in high voltage systems. You'll also gain an understanding of the principles of high voltage generation and impulse testing of the high voltage systems. 
+ 
+ Power Electronics for Energy & Drive Control 
+  
+  Modern energy conversion systems rely on the integration of range of technologies including power electronics, electromechanical actuators and energy storage elements. This class will build knowledge of the building block technologies and show their application to modern energy conversion systems. 
+ 
+ Power System Economics, Markets & Asset Management 
+  
+  This class will present and give an understanding of the economics, trading and pricing of electricity supply and how it is shaped by technical, commercial and regulatory considerations. 
+  It will give you an understanding of power system economics under an environment of multiple suppliers and users, and present the challenges, technologies and value of asset management within an electricity supply industry context. You'll gain a deep appreciation of factors affecting security of supply and how it might be quantified. 
+ 
+ Inspection & Survey 
+  
+  This class provides you with an insight into 'marine' materials, their properties, failure and protection and an understanding of how defects and degradation affect the life-cycle of marine and offshore structures. 
+  Particular emphasis is on corrosion, fatigue and fracture of steel and the corrosion properties of high strength and stainless alloy streels. 
+ 
+ Geographical Information Systems 
+  
+  This class provides a thorough introduction to Geographical Information Systems (GIS). 
+  GIS are spatial databases which can handle spatial information in a far greater variety of ways than was previously possible with paper maps. By capturing, manipulating, integrating and displaying digital spatial data, a wide range of different analyses can be carried out and questions addressed. 
+  The class covers the key theoretical principles of GIS, provides practical hands-on exercises using current state-of-the-art GIS systems, including raster (IDRISI Andes) and vector (ArcGIS) based software, and demonstrates how GIS can be used for spatial query and analysis. 
+ 
+ Environmental Impact 

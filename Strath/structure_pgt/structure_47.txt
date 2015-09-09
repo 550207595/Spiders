@@ -1,0 +1,62 @@
+Course content 
+ Compulsory classes 
+ (September to May) 
+ Advanced Power System Analysis & Protection
+  
+  This class will allow you to understand, critically analyse and assess technical requirements for power system operation, management and planning. It will enable you to carry out advanced types of power system analysis as well as understand and use results from these analyses in power system operation and planning. You'll also develop an advanced knowledge of the main concepts related to the function, design and operation of protection schemes for distribution, transmission and generation applications. 
+ 
+ High Voltage Technology & Electromagnetic Compatibility 
+  
+  This class will introduce you to the fundamentals of high voltage electrical insulating systems and the principles, mechanisms and characteristics of high voltage discharges in vacuum and condensed media. It will also provide you with a basic understanding of the behaviour of dielectric materials stressed with electric fields and their use in high voltage systems. You'll also gain an understanding of the principles of high voltage generation and impulse testing of the high voltage systems. 
+ 
+ Power Electronics for Energy & Drive Control 
+  
+  Modern energy conversion systems rely on the integration of range of technologies including power electronics, electromechanical actuators and energy storage elements. This class will build knowledge of the building block technologies and show their application to modern energy conversion systems. 
+ 
+ Assignment & Professional Studies 
+  
+  The aim of this class is to provide you with support for your general academic and professional development. 
+  You'll undertake an advanced investigation of an electronic or electrical engineering topic of your choice, to enhance your learning, and develop presentation and communication skills. 
+ 
+ Elective classes
+ Choose at least two from this list 
+ Business Information Systems 
+  
+  Business information systems (BIS) are used to support all aspects of the knowledge workers. Therefore all changes in organisational processes also mean changes in the BIS. As most work of business analysts results in organisational process changes, it's important that they're familiar with BIS. Many consulting projects are explicitly aimed at BIS which requires understanding of the basic types of information systems (IS), what they are appropriate for, what we cannot expect from them and how to use them together. 
+  Specifically Enterprise Resource Planning (ERP) systems are today part of the everyday life of most knowledge workers and a business analyst needs a thorough understanding of them. The class adopts a process-based approach and after having the business and IS context of the knowledge work introduced, an examination of the various types of IS, namely the databases, ERP systems, knowledge-based systems, corporate portals, and collaboration support systems will be conducted. 
+ 
+ Advanced Project Management
+  
+ 
+ Power System Economics, Markets & Asset Management 
+  
+  This class will present and give an understanding of the economics, trading and pricing of electricity supply and how it is shaped by technical, commercial and regulatory considerations. 
+  It will give you an understanding of power system economics under an environment of multiple suppliers and users, and present the challenges, technologies and value of asset management within an electricity supply industry context. You'll gain a deep appreciation of factors affecting security of supply and how it might be quantified. 
+ 
+ Wind Energy & Distributed Energy Resources 
+  
+  This class will provide an understanding of the principles of wind turbine power generation with attention to the wind resource, rotor aerodynamics, structural design, power conversion and control. 
+  It will also examine the socio-economic issues relating to wind power and provide an underpinning in distributed energy resources including small scale generation, energy storage and demand management and their integration and management within power networks. 
+ 
+ Wind Turbine Control 
+  
+  This class will provide you with more advanced computational tools for assessing complex aspects of wind farm integration. You're introduced to complex control strategies for wind turbines and farms, and learn of the impact these have on the dynamic and transient stability of electrical systems. The design of electrical collectors and transmission schemes for onshore and offshore wind farms is also explained. 
+  Future concepts such as offshore DC networks and smart grid technology will be examined, along with issues such as network development, voltage rise, electricity markets through an understanding of the basic electrical engineering concepts and wind power technology. Power system balancing challenges due to wind power variations and high penetration of wind power is also examined. 
+ 
+ Software Engineering 
+  
+  This class will introduce you to the software engineering process through the development and application of C++ programming skills. You'll become competent in specifying, designing and developing software and in writing and testing programs of moderate complexity. 
+  
+ Summer (June to September) 
+ MSc Research Project / Internship 
+  
+  The aim of the research project is to provide you with an opportunity to bring your knowledge and skills together and deploy them in a significant practical investigation, using relevant engineering literature, and where relevant, initial experiments or simulations. 
+  
+ Learning & teaching 
+ We use a blend of teaching and learning methods including interactive lectures, problem-solving tutorials and practical project-based laboratories. Our technical and experimental officers are available to support and guide you on individual subject material. 
+ Each module comprises of approximately five hours of direct teaching per week. To enhance your understanding of the technical and theoretical topics covered in these, you're expected to undertake a further five to six hours of self-study, using our web-based virtual learning environment (MyPlace), research journals and library facilities. 
+ The teaching and learning methods used ensure you'll develop not only technical engineering expertise but also communications, project management and leadership skills. 
+ You'll undertake group projects. These will help to develop your interpersonal, communication and transferable skills essential to a career in industry. 
+ Industry engagement 
+ Interaction with industry is provided through our internships, teaching seminars and networking events. The department delivers monthly seminars to support students’ learning and career development.   Iberdrola, National Grid, ScottishPower, SSE, Siemens and Rolls-Royce are just a few examples of the industry partners you can engage with during your course. 
+ 

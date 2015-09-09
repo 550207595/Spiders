@@ -1,0 +1,109 @@
+Course content 
+ Compulsory classes 
+ Introduction to Industrial Biotechnology & its Governance
+  
+  Innogen Institute, Edinburgh 
+  This class aims to provide you with a broad grounding in industrial biotechnology, the innovation opportunities in the global bio-economy and the governance of the technology, drawing on Innogen's research and expertise in the area. 
+ 
+ Bioprocessing
+  
+  University of Strathclyde 
+  Bioprocessing is a key skill in Industrial Biotechnology and therefore this class underpins the whole course.   Bioprocessing forms the basis of the production end of the biotechnology business. 
+  
+   You'll understand:
+   
+   
+ 
+ the basic principles of bioprocessing including process kinetics 
+ the importance of and mechanisms for strain/cell line stability and preservation 
+ the importance of medium design, bioreactor design and operation 
+ the principles of mass transfer and its relationship to the success of bioprocesses 
+ the principles of good manufacturing practice and its relevance to regulatory issues 
+ the skills in data/paper interpretation and writing 
+ 
+   
+ 
+ Applied Biocatalysis 
+  
+  University of Strathclyde 
+  Applied Biocatalysis is a core technology in Industrial Biotechnology, covering the use of enzymes and related materials as catalysts in industrial processes. It complements fermentation as presented in the bioprocessing class, where whole cells are the catalysts - indeed the two form a continuous spectrum of technologies. 
+  
+   This class aims to provide you with the following learning objectives:
+   
+   
+ 
+ understand the range of approaches available for finding new enzymes 
+ appreciate the key properties required in a practical biocatalyst and how they can be obtained 
+ appreciate the scope of biocatalysis and how it can integrate with synthetic chemistry 
+ understand how the kinetics of enzymatic processes can be modelled and analysed 
+ understand the principles of the immobilisation of enzymes and whole cells 
+ appreciate key issues in industrial enzyme manufacture, trade and application 
+ 
+   
+ 
+ Synthetic Biology
+  
+  University of Glasgow 
+  This class explores the concepts of rational design, computer modelling, construction and characterization of Synthetic Biology systems and devices.   You'll have the opportunity to design, build and test a simple genetic circuit or metabolic pathway, and to plan a more complex Synthetic Biology project. 
+ 
+ Practical Systems Biology
+  
+  The University of Edinburgh 
+  This class will provide an introduction to systems biology by focussing on the behaviours expected from interactions between only a few genes, taking examples from microbes to mammals.    
+  Cells are dynamic systems and we will build intuition about the types of responses expected from different gene circuits by running, adapting and analysing computer simulations.   Throughout the class will use such simulations analysis as research tools to understand biology.    
+  After an introduction to motifs and modules, we will focus on the role of feedback in genetic networks and how feedback can sometimes create permanent switches in, for example, stem cells, or at other times can generate oscillators such as circadian rhythms in neurons.   We will show how these behaviours can be undermined when numbers of molecules become low, and effect that cells may exploit or regulate away.   Finally, we discuss experimental techniques that allow direct comparison between simulations and real biological systems. 
+ 
+ Elective classes
+ Choose from this list 
+ Quality, IP & Regulations in an Industrial Context 
+  
+  University of the Highlands and Islands 
+  This class, developed and taught by experts in commercial scientific research, will introduce the key business and product development concepts you may need to be aware of when working in a commercial environment.   You will be provided with an overview of the commercial environment and how research in industry operates as well as of an overview of the possible roles of a scientist in industry and the different paths that may be followed. 
+  The class will provide you with a background to the quality, regulatory and intellectual property issues relevant to science in industry.   Exploring the concept and importance of quality systems and statutory regulatory frameworks and their relation to each other.   You will also explore the nature and practicalities of intellectual property and patents in a regulated industry and of its implementation in practice in parallel with a quality system. 
+ 
+ Blue Biotechnology 
+  
+  The Scottish Association for Marine Science 
+  This class combines taught and practical elements and covers topics such as taxonomy, systematics and physiology or micro- and macro-algae.    
+  The emphasis will be on the biotechnological exploitation of these organisms focussing on their use as human/animal food; hydrocolloids, fine chemicals; green fertilizers and as feedstock to produce algal biofuels.   Issues such as the environmental impacts of macro-algal farms, disease susceptibility and techno-economics will be covered. 
+ 
+ Renewable Energy Technologies
+  
+  Abertay University 
+  This class covers advanced aspects of the science, technology and socio-economic aspects of renewable energy production, with a particular emphasis on biofuels. 
+  The aim of this class is to provide you with an understanding of chemical, biochemical, microbiological and process engineering aspects of renewable energy production. 
+ 
+ Resource Efficient Formulation
+  
+  University of West Scotland 
+  This class will provide you with an insight into the impact of human activities on both the depletion of the earth's natural resources and altering of microbial processes leading to poor health and food insecurities.   The fate of emerging pollutants such as pharmaceuticals and personal care products, heavy and rare earth metals and persistent organic pollutants and their potential impact to the environment will be discussed.   The need for the development of innovative biotechnological microbial formulation to mitigate these negative effects in a sustainable manner and ways to increase the manufacturing efficiencies of formulations to address these emergencies will be discussed. 
+ 
+ Production Management for Brewing & Distilling 
+  
+  Heriot Watt University 
+  The class aims to enable learners gain a strong grounding in key aspects of   business production management.   The class explores the concepts of operations and operations management, exploring their history and strategic importance and setting present day practice in the company, local and international contexts. The course also focusses on process management, performance improvement, quality and supply chain management. 
+ 
+ Case Studies in Supply Chain Management 
+  
+  University of Strathclyde 
+  You're expected to analyse a series of case studies and relatively unstructured problems in various areas of supply chain management. 
+  The class aims to introduce you to as much as possible of the practical reality of analysing and, where possible, solving supply chain management problems in real life.   To this end, you're given the opportunity to explore, through the use of case studies and unstructured problems, situations where, for example, data may be ambiguous and hard to come by, it may be far from obvious which methods or models can be applied, and where managers will need to be convinced of the merits of any suggested solutions. 
+ 
+ Project Management
+  
+  University of Strathclyde 
+  Project management and project based organisations are becoming increasingly common in industry, therefore this class assumes that the students require some knowledge of the tools and techniques used to manage projects within organisations.   This class aims to provide the student with these by introducing the student with no project management background to: 
+   
+   the concept of the project lifecycle 
+   Project Management as a strategic tool 
+   the methodologies and tools that enable efficient project execution 
+   
+  
+ MSc only 
+ Industrial Biotechnology Research Project
+ 
+   The project is paramount in integrating the subject knowledge and skills acquired throughout the taught element of the programme.   The project will be based with one of IBioIC's industrial members in industry and be supervised by both an industrial and academic supervisor.   The placement will last 3-4 months where you'll be based in industry working on an industrially relevant project gaining invaluable experience in a key area of biotechnology and cover an area where there is a definite skills shortage.   You have to write a formal report and present their work to the cohort and peers in the usual format. 
+  
+ Learning & teaching 
+ Two semesters of formal teaching are followed by an intensive research project, carried out with an industrial partner. 
+ 

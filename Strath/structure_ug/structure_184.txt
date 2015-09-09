@@ -1,0 +1,218 @@
+Course content 
+ Year 1
+ 
+ In addition to the classes below, you're required to take an elective class.﻿
+  
+ Introduction to Calculus
+ 
+   You'll  study the basic concepts and standard methods of mathematical notation and proof, polynomial equations and inequalities, sequences and series, functions, limits and continuity, differentiation and integration. 
+ 
+ Applications of Calculus
+  
+  The fundamental concepts of calculus (differentiation and integration) presented in Applications of Calculus will be examined in more detail, extended to a larger class of functions by means of more sophisticated methods, including an introduction to complex numbers and variables, all demonstrated in application to practical problems including solving basic first and second-order differential equations.     
+ 
+ Geometry & Algebra with Applications
+  
+  This class will introduce you to vectors and matrices, along with the idea of mathematical modelling through their application to real-world problems. 
+ 
+ Statistics & Data Presentation
+  
+  Some basic ideas and techniques of statistics will be presented while introducing some essential study skills, allowing you to develop and practice personal and technical skills eg self-study, teamwork, analysing data, writing reports and making presentations. 
+     
+ 
+ Introduction to Economics EC111
+  
+  The purpose of this class is to provide the student with a balanced introduction to economics which will be at once self-contained and lay the foundation for further work. The work of the class will be based on a programme of systematic directed reading, supplemented by tutorials, case-problems and short answer test questions. The main topics covered by the class will include: 
+   
+   the nature, central problems and significance of economics 
+   supply and demand and an introduction to the theory of the firm 
+   the nature of and solutions to market failure 
+   income determination 
+   prices and money 
+   fiscal and monetary policy 
+   the functioning of the mixed economy 
+   the economic role of government 
+   
+     
+ 
+ Year 2 
+ Linear Algebra & Differential Equations
+  
+  This class will introduce you to the basic ideas of linear algebra, such as matrices and determinants, vector spaces, bases, eigenvalues and eigenvectors. You'll study various standard methods for solving ordinary differential equations and understand their relevance. 
+ 
+ Advanced Calculus
+  
+  Basic ideas, techniques and results for calculus of two and three variables, along with differentiation and integration over curves, surfaces and volumes of both scalar and vector fields will be presented. 
+ 
+ Probability & Statistical Inference
+  
+  Presentation of the basic concepts of probability theory and statistical inference will be covered to provide you with the tools to appropriately analyse a given data set and effectively communicate the results of such analysis. 
+ 
+ Mathematical & Statistical Computing
+  
+  This class will introduce you to the R computing environment. It'll enable you to use R to import data and perform statistical tests, allow you to understand the concept of an algorithm and what makes a good algorithm and will equip you for implementing simple algorithms in R. 
+ 
+ Microeconomics 2 EC212
+  
+  This class builds upon the microeconomic foundations established in the first year Introduction to Economics class and both extends and deepens analysis. Topics covered include: 
+   
+   consumer choice 
+   firm objectives and behaviour 
+   the role of the market and fundamental welfare results 
+   market failures resulting from market power 
+   
+  Students will also be introduced to various mathematical techniques that are commonly used throughout economics, which will be demonstrated and investigated in the context of applications. 
+  Prerequiste: Introduction to Economics or equivalent. 
+ 
+ Macroeconomics 2 EC213
+  
+  This class builds upon the macroeconomic foundations established in the first year Introduction to Economics class and both extends and deepens analysis. In particular, the class develops students' ability to use key macroeconomic models and critically assesses their validity in the context of UK and international economic history. 
+  Students will also have the opportunity to develop fluency in where to locate and how to analyse and present key Economic Indicators for Scotland and the UK. In addition, the essential statistical concepts of inference, hypothesis testing, correlation, bivariate regression and forecasting will be introduced and applied to real economic data. 
+  Pre-requisite: Introduction to Economics or equivalent. 
+ 
+ Year 3 
+ Microeconomics 3
+  
+  This class builds on the Microeconomics 2 class in a number of ways.   The curriculum includes studies of: 
+   
+   equity 
+   efficiency 
+   market structure 
+   market failure 
+   externalities contracts and property rights 
+   public goods 
+   public choice and cost benefit analysis 
+   health 
+   education and social security 
+   
+ 
+ Macroeconomics 3 
+  
+  We introduce models that emphasise the importance of the openness and consider how this impacts on policy. We also look at the determinants of levels and flows into and out of employment, unemployment and of the rate of inflation. We consider explanations for countries' differing unemployment/inflation experiences, and discuss the scope and limitations of monetary and fiscal policy. Finally, we develop models that aim to explain differences in countries' standards of living and develop models that focus on the determination of long-term growth. We contrast exogenous and endogenous growth models and discuss their policy implications. 
+ 
+ Differential Equations
+  
+  We'll introduce you to analytical methods for solving ordinary and partial differential equations so you'll develop an understanding along with technical skills in this area. 
+ 
+ Inference & Regression Modelling
+  
+  This class will: 
+   
+   review the concepts of probability distributions and how to work with these 
+   present approaches to parameter estimation, focusing on maximum likelihood estimation, bootstrap estimation, and properties of estimators 
+   present hypothesis testing procedures, including classical likelihood ratio tests and computer-based methods for testing parameter values, and goodness-of-fit tests. 
+   introduce and provide understanding of the least squares multiple regression model, general linear model, transformations and variable selection procedures 
+   present use of R functions for regression and interpretation of R output 
+   
+ 
+ Introduction to Econometrics
+  
+  This class builds upon the empirical content of Macroeconomics 2 and further develops students' ability to analyse economic data. In addition, this class lays the foundations for further study of econometrics at Honours level. 
+  
+ Optional classes - list A 
+ Complex Variables & Integral Transforms
+  
+  This class will introduce functions of a complex variable, define concepts such as continuity, differentiability, analyticity, line integration, singular points, etc. It'll examine some important properties of such functions, and consider some applications of them, eg conformal mappings, and the evaluation of real integrals using the Residue Theorem. It'll also introduce you to Fourier and Laplace transform methods for solving linear ordinary differential equations and convolution type integral equations. 
+ 
+ Linear Algebra
+  
+  Here we'll introduce basic algebraic structures, with particular emphasis on those pertaining to finite dimensional linear spaces and deepen your understanding of linear mappings. We'll also provide an introduction to inner product spaces and bilinear forms. 
+ 
+ Numerical Analysis
+  
+  This module will motivate the need for numerical algorithms to approximate the solution of problems that can't be solved with pen and paper. It'll develop your skills in performing detailed analysis of the performance of numerical methods and will continue to develop your skills in the implementation of numerical algorithms using R. 
+ 
+ Stochastics & Financial Econometrics
+  
+  You'll  be introduced to the basic concepts of random phenomena evolving in time, from two complementary points of view: probabilistic modelling and data-driven analysis. Presentation of underlying ideas of simple stochastic processes, time series models, and the associated probability theory and statistical techniques will be covered. In addition to applications of the methods to financial and economic systems, including modelling, data analysis, and forecasting. 
+ 
+ Year 4
+ 
+ You must take either the class MM401 or EC 419.
+  
+ Communicating Mathematics & Statistics
+  
+  This class provides you with experience of the skills required to undertake project work, and to communicate the findings in written and oral form using a variety of sources, such as books, journals and the internet. 
+ 
+ Project BSc (Economics) EC419
+  
+  
+ Optional classes - list A 
+ Modelling & Simulation with Applications to Financial Derivatives
+  
+  Here you'll get an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. This module places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). In both cases, in addition to theoretical analysis, appropriate computational algorithms are introduced. The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+ 
+ Statistical Modelling & Analysis
+  
+  This class will provide you with a range of applied statistical techniques that can be used in professional life. 
+ 
+ Applied Statistics in Society
+  
+  You'll be introduced to a range of modern statistical methods and practices used in industry, commerce and research, and will develop skills in your application and presentation. 
+  
+ Optional classes - list B 
+ Applicable Analysis 3
+  
+  This class will present the main results in Functional Analysis, give an introduction to linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+ 
+ Fluids & Waves
+  
+  You'll be introduced to the theory of Newtonian fluids and its application to flow problems and the dynamics of waves on water and in other contexts. 
+ 
+ Finite Element Methods for Boundary Value Problems & Approximation
+  
+  You'll be presented with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory. 
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  Here you'll learn the application of mathematical models to a variety of problems in biology, medicine, and ecology. It'll show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that will explore a real-world application of an ecosystem model. 
+ 
+ Mathematical Introduction to Networks
+  
+  This class will demonstrate the central role network theory plays in mathematical modelling. It'll also show the intimate connection between linear algebra and graph theory and how to use this connection to develop a sound theoretical understanding of network theory. Finally, it'll apply this theory as a tool for revealing structure in networks. 
+ 
+ Elasticity & Complex Materials
+  
+  We'll introduce you to general continuum theory with applications to Newtonian and non-Newtonian fluids and elastic materials. 
+ 
+ Optimisation: Theory & Practice
+  
+  We'll provide you with a basic mathematical understanding of modern approaches to optimisation and the calculus of variations. 
+ 
+ Statistical Mechanics
+  
+  Here you'll develop approaches to understanding complex or random systems in or out of equilibrium, based on ideas from statistical mechanics that incorporate familiar concepts and methods from neighbouring subjects like classical mechanics and probability and statistics. 
+  You'll also be able to describe, through various examples and techniques, how macroscopic properties of systems arise from the ensemble action of many microscopic ingredients, and, specifically, how deterministic 'laws' may arise from basic randomness of a system with many variables or degrees of freedom. Fundamental examples include Brownian motion and the ideal gas. 
+ 
+ Dynamical Models in Epidemiology
+  
+  We'll introduce mathematical models which arise in epidemiology and population dynamics, and help you develop techniques for analysing the qualitative behaviour of the associated dynamical systems. 
+     
+  
+ Optional classes - list C 
+ Microeconomics 4
+  
+  Understanding modern game-theoretic methods in Microeconomics is a fundamental skill for economists. The aim of this course is to provide an introduction to these methods. After studying the basic components of game theoretic reasoning using several instructive examples, we progress to study applications of the theory. We'll cover topics in cooperative and non-cooperative game theory and information problems.   
+  This class is intended to show how game theory can be used to analyse strategic interaction in very diverse settings. In particular, it will be applied to economic and business problems including decision problems confronted by firms, employers, unions and governments, and also footballers and partygoers. 
+  This course is useful in enhancing students’ understanding of other modules and will be of particular use in students’ dissertations. Students will gain key skills in strategic thinking that will be useful both in further study and employment. 
+ 
+ Macroeconomics 4 EC404
+  
+  This class aims to provide students with an understanding of certain recent developments in macroeconomic theory, including modern theories of economic growth, real-business-cycles, unemployment, consumer expenditure and investment. 
+  Macroeconomics is both a theoretical and empirical subject, so the presentation of theories is supplemented with examples of relevant empirical work (presented at a fairly intuitive level) to illustrate some of the ways that macroeconomic theories can be applied and tested. This should be of particular use in students’ dissertations. 
+ 
+ Industrial Economics EC412
+  
+  This course will investigate the actions firms can take in markets with the aim of maintaining their market power by deterring entry of additional firms. A modern approach recognises that each firm faces competing firms who all have similar motives. 
+  After briefly reviewing industry market structures to provide the basis of the analysis, issues of entry deterrence will be considered, including the role of advertising, issues associated with research and development, anti-trust and both vertical integration and horizontal mergers. The course will conclude with an investigation of regulatory measures that can be put in place to limit anti-competitive strategies, and consider the role of competition policy. 
+ 
+ Financial Development and Economic Growth EC414
+  
+ 
+ Behavioural Economics EC415
+  
+ 
+ Natural Resource and Environmental and Energy Economics EC416
+  
+  
+ 

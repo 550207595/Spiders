@@ -1,0 +1,91 @@
+Course content 
+ Compulsory classes 
+ Strategic Supply Chain Management
+ 
+   This class aims to provide you with a critical understanding of the fundamental building blocks of Supply Chain Management and e-Supply Chains from a Strategic perspective. This is with a view to developing your capabilities in modelling, analysing, diagnosing and re-designing/improving supply chains. 
+ 
+ Supply Chain Operations
+  
+  The class aims to provide you with an in-depth knowledge and understanding of those key concepts, methods, tools and techniques that are fundamental to effective and efficient running of supply chain operations from suppliers’ suppliers to customers’ customers. 
+  On completion you'll be able to design and manage operational supply chain planning, monitoring and control systems for complex and disparate operations. 
+ 
+ Enterprise Resource Planning
+ 
+   To develop a critical understanding of operation, structure and implementation issues around ERP systems as used in industry. 
+ 
+ Postgraduate Individual Project
+ 
+   The aim of the individual project is to allow you to combine the skills learned in other classes and apply them within a significant project in a specific area of design, manufacture, or engineering management. This will be achieved through you carrying out work into a particular topic relating to their course and preparing a dissertation that documents the project. 
+ 
+ Management Of Total Quality & Continuous Improvement
+ 
+   To provide you with an in-depth understanding of the main principles, concepts, tools and techniques of quality management and continuous improvement together with an awareness of how in practice these could be integrated to design and deliver an integrated continuous improvement programme.
+  
+  This class is run as a self-directed learning module where the formal lectures are replaced by comprehensive e-learning materials and a detailed learning programme. The learning is supported through comprehensive tutorials. 
+ 
+ Product Costing & Financial Management
+ 
+   This class aims to provide you with an understanding of strategic aspects of finance in relation to the decision-making process and analysis necessary for efficient management of supply chains. 
+ 
+ Advanced Project Management
+  
+ 
+ Business Operations & Supply Chain Strategy
+  
+ 
+ Case Studies In Supply Chain Management
+  
+ 
+ Specialism 
+ Fundamentals Of Lean Six Sigma
+  
+  The objective of this class is to introduce the participants to the principles of Lean Six Sigma thinking, tools and techniques of Lean Six Sigma and understand the wider implications of the broader strategic issues of organisation management and how they impact on continuous improvement programme. 
+  On completion of the class you should be able to understand the theory and practical application of Lean Six Sigma methodologies within a holistic process improvement framework. This will enable their businesses to become more efficient, cost effective and much more profit oriented in today’s competitive marketplace. 
+ 
+ Service Operations Management
+  
+ 
+ Elective classes 
+ People, Organisation & Technology
+ 
+   This class aims to introduce you to the “softer” aspects of change management. In other classes you will have learned how to identify areas for improvement in organisations, tools and techniques to model organisations and to implement change. This class complements these things and looks at the human implications of change. 
+ 
+ Strategic Technology Management
+ 
+   This class aims to provide you with a high-level understanding and knowledge of the role of technology in business strategy for maintaining market competitiveness. 
+ 
+ Design Methods
+ 
+   This class aims to enable you to select and apply appropriate design methods as a part of the design process. 
+ 
+ Systems Thinking & Modelling
+ 
+   The objective of this class is to introduce you to the theories and principles behind systems thinking. The class will also introduce you to the methods, tools and techniques for modelling, analysing, improving and designing systems in a variety of organisations, including industrial, commercial and public sector. 
+ 
+ Quantitative Business Analysis
+  
+  The analysis of data and development of empirical models plays a vital role in business analysis and operational research. This class   will provide a basis for you to learn a range of widely used methods ranging from effective presentation of data to development of sophisticated statistical models.Quantitative Business Analysis runs over one semester but in two parts. The first part provides an introduction to the basic theory and application of statistical modelling. Topics covered include: 
+   
+   data analysis 
+   probability theory 
+   distributions and moments 
+   estimation 
+   hypothesis testing 
+   
+  The second part focuses mainly on two areas - regression modelling and multivariate analysis. 
+  While key background theory will be presented, the emphasis is on the generation and interpretation of output from commercially available software. Throughout, there is an emphasis on the use of statistical analysis to help support decision-making and the management of business and industrial problems. Cases are used to illustrate topical issues. 
+ 
+ Spreadsheet Modelling & Demand Forecasting
+ 
+   Spreadsheets provide an easily accessible tool to support business modelling and analysis. Spreadsheets are a popular modelling support tool because they facilitate easy manipulation of data and thus greatly reduce the time necessary to set-up and modify models. Analysis carried out in a spreadsheet is easily transferred into other software packages or presented visually, so that it provides a good platform for report writing.
+  
+  This class will demonstrate how spreadsheets can be used to support the analytical techniques whose theory is taught on other modules, for example, forecasting, simulation, optimisation, data analysis, as well as being used to support technical report writing. Most prominence is given to demand forecasting and you'll be introduced to different types of forecasting technique for short term smoothing through to decompositional analysis. These methods will be implemented using spreadsheet models. This class also extends the basics of using a spreadsheet to explore the principles of effective computer programming through the development of macros to automate the functionality available within spreadsheets. 
+ 
+ Performance Measurement & Management
+ 
+   The class is devoted to the concepts and approaches to effective performance measurement and management at an organisational level. Performance Measurement and Management (PMM) is one of the key factors for survival and prosperity of business systems. Business analysts can typically expect to be involved in the design of PMM systems and in the evaluation of performance information. This class focuses on the different approaches to performance measurement and management commonly use across public and private sectors.
+  
+  The class focuses at the strategic, organisational level of PMM while providing the essential knowledge and skills at the technical level. The class starts with presenting the background to performance measurement to provide the students with an understanding of the roots of some of the common problems in measuring and managing performance in organisations. This will follow with discussing PMM from five different but highly inter-related perspectives, namely stakeholder, customer, comparative, operations and integrative perspectives. You're encouraged to get more insight into the techniques and concepts by carrying out directed readings as well as completing a group and an individual assignment. The class will be concluded by discussing implementation and managerial issues in measuring business performance. 
+  
+ Learning & teaching This course is delivered through a balanced mix of lectures, tutorials and project works. Industrial contacts are regularly invited to present based on their experience. 
+ 

@@ -1,0 +1,231 @@
+Course content 
+ Year 1 
+ Introduction to Calculus
+ 
+   You'll  study the basic concepts and standard methods of mathematical notation and proof, polynomial equations and inequalities, sequences and series, functions, limits and continuity, differentiation and integration. 
+ 
+ Applications of Calculus
+  
+  The fundamental concepts of calculus (differentiation and integration) presented in Applications of Calculus will be examined in more detail, extended to a larger class of functions by means of more sophisticated methods, including an introduction to complex numbers and variables, all demonstrated in application to practical problems including solving basic first and second-order differential equations.     
+ 
+ Geometry & Algebra with Applications
+  
+  This class will introduce you to vectors and matrices, along with the idea of mathematical modelling through their application to real-world problems. 
+ 
+ Statistics & Data Presentation
+  
+  Some basic ideas and techniques of statistics will be presented while introducing some essential study skills, allowing you to develop and practice personal and technical skills eg self-study, teamwork, analysing data, writing reports and making presentations. 
+     
+ 
+ Applications of Mathematics
+  
+  This class will introduce you to a range of interesting applications and explain the mathematics behind them. 
+ 
+ Year 2 
+ Linear Algebra & Differential Equations
+  
+  This class will introduce you to the basic ideas of linear algebra, such as matrices and determinants, vector spaces, bases, eigenvalues and eigenvectors. You'll study various standard methods for solving ordinary differential equations and understand their relevance. 
+ 
+ Advanced Calculus
+  
+  Basic ideas, techniques and results for calculus of two and three variables, along with differentiation and integration over curves, surfaces and volumes of both scalar and vector fields will be presented. 
+ 
+ Applicable Analysis
+  
+  This class will give a rigorous treatment of convergence of sequences and infinite series of real numbers and of continuity, differentiability and integrability of functions of a real variable, and will illustrate the importance of these concepts in the analysis of problems arising in applications. 
+ 
+ Probability & Statistical Inference
+  
+  Presentation of the basic concepts of probability theory and statistical inference will be covered to provide you with the tools to appropriately analyse a given data set and effectively communicate the results of such analysis. 
+ 
+ Introduction to Newtonian Mechanics
+  
+  This class will develop your appreciation of the basic concepts of force, momentum and energy, and of Newton’s laws of motion and will equip you to apply these concepts to model physical systems, in particular the orbital motion of bodies. 
+ 
+ Mathematical & Statistical Computing
+  
+  This class will introduce you to the R computing environment. It'll enable you to use R to import data and perform statistical tests, allow you to understand the concept of an algorithm and what makes a good algorithm and will equip you for implementing simple algorithms in R. 
+ 
+ Year 3 
+ Complex Variables & Integral Transforms
+  
+  This class will introduce functions of a complex variable, define concepts such as continuity, differentiability, analyticity, line integration, singular points, etc. It'll examine some important properties of such functions, and consider some applications of them, eg conformal mappings, and the evaluation of real integrals using the Residue Theorem. It'll also introduce you to Fourier and Laplace transform methods for solving linear ordinary differential equations and convolution type integral equations. 
+ 
+ Linear Algebra
+  
+  Here we'll introduce basic algebraic structures, with particular emphasis on those pertaining to finite dimensional linear spaces and deepen your understanding of linear mappings. We'll also provide an introduction to inner product spaces and bilinear forms. 
+ 
+ Differential Equations
+  
+  We'll introduce you to analytical methods for solving ordinary and partial differential equations so you'll develop an understanding along with technical skills in this area. 
+  
+ Optional classes 
+ Applicable Analysis
+  
+  We'll introduce you to the basic theory and applications of metric spaces, normed vector spaces and Banach spaces, inner product spaces and Hilbert spaces, and bounded linear operators on normed linear spaces. 
+ 
+ Inference & Regression Modelling
+  
+  This class will: 
+   
+   review the concepts of probability distributions and how to work with these 
+   present approaches to parameter estimation, focusing on maximum likelihood estimation, bootstrap estimation, and properties of estimators 
+   present hypothesis testing procedures, including classical likelihood ratio tests and computer-based methods for testing parameter values, and goodness-of-fit tests. 
+   introduce and provide understanding of the least squares multiple regression model, general linear model, transformations and variable selection procedures 
+   present use of R functions for regression and interpretation of R output 
+   
+ 
+ Mechanics of Rigid Bodies & Fluids
+  
+  This class will: 
+   
+   convey the generalisation of the mechanics of single-particle systems to many-particle systems 
+   convey the central ideas of a continuum description of material behaviour and to understand relevant constraints 
+   ground students in the basic principles governing three-dimensional motions of rigid bodies 
+   convey how the ideas of continuum theory are applied to static and inviscid fluids. 
+   
+ 
+ Numerical Analysis
+  
+  This module will motivate the need for numerical algorithms to approximate the solution of problems that can't be solved with pen and paper. It'll develop your skills in performing detailed analysis of the performance of numerical methods and will continue to develop your skills in the implementation of numerical algorithms using R. 
+ 
+ Stochastics & Financial Econometrics
+  
+  You'll  be introduced to the basic concepts of random phenomena evolving in time, from two complementary points of view: probabilistic modelling and data-driven analysis. Presentation of underlying ideas of simple stochastic processes, time series models, and the associated probability theory and statistical techniques will be covered. In addition to applications of the methods to financial and economic systems, including modelling, data analysis, and forecasting. 
+ 
+ Year 4 
+ Communicating Mathematics & Statistics
+  
+  This class provides you with experience of the skills required to undertake project work, and to communicate the findings in written and oral form using a variety of sources, such as books, journals and the internet. 
+  
+ Optional classes 
+ Modelling & Simulation with Applications to Financial Derivatives
+  
+  Here you'll get an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. This module places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). In both cases, in addition to theoretical analysis, appropriate computational algorithms are introduced. The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+ 
+ Applicable Analysis 3
+  
+  This class will present the main results in Functional Analysis, give an introduction to linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+ 
+ Statistical Modelling & Analysis
+  
+  This class will provide you with a range of applied statistical techniques that can be used in professional life. 
+ 
+ Fluids & Waves
+  
+  You'll be introduced to the theory of Newtonian fluids and its application to flow problems and the dynamics of waves on water and in other contexts. 
+ 
+ Finite Element Methods for Boundary Value Problems & Approximation
+  
+  You'll be presented with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory. 
+ 
+ Applied Statistics in Society
+  
+  You'll be introduced to a range of modern statistical methods and practices used in industry, commerce and research, and will develop skills in your application and presentation. 
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  Here you'll learn the application of mathematical models to a variety of problems in biology, medicine, and ecology. It'll show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that will explore a real-world application of an ecosystem model. 
+ 
+ Mathematical Introduction to Networks
+  
+  This class will demonstrate the central role network theory plays in mathematical modelling. It'll also show the intimate connection between linear algebra and graph theory and how to use this connection to develop a sound theoretical understanding of network theory. Finally, it'll apply this theory as a tool for revealing structure in networks. 
+ 
+ Elasticity & Complex Materials
+  
+  We'll introduce you to general continuum theory with applications to Newtonian and non-Newtonian fluids and elastic materials. 
+ 
+ Optimisation: Theory & Practice
+  
+  We'll provide you with a basic mathematical understanding of modern approaches to optimisation and the calculus of variations. 
+ 
+ Statistical Mechanics
+  
+  Here you'll develop approaches to understanding complex or random systems in or out of equilibrium, based on ideas from statistical mechanics that incorporate familiar concepts and methods from neighbouring subjects like classical mechanics and probability and statistics. 
+  You'll also be able to describe, through various examples and techniques, how macroscopic properties of systems arise from the ensemble action of many microscopic ingredients, and, specifically, how deterministic 'laws' may arise from basic randomness of a system with many variables or degrees of freedom. Fundamental examples include Brownian motion and the ideal gas. 
+ 
+ Dynamical Models in Epidemiology
+  
+  We'll introduce mathematical models which arise in epidemiology and population dynamics, and help you develop techniques for analysing the qualitative behaviour of the associated dynamical systems. 
+     
+ 
+ Year 5 
+ Project
+  
+  The class will provide you with experience and expertise in skills required to undertake a sustained and significant individual project in a mathematical or statistical area, using a variety of sources, such as books, journals and the internet, and to communicate the findings in written and oral form. 
+ 
+ Modelling & Simulation with Applications to Financial Derivatives
+ 
+   This  class provides an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. It places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). In both cases, in addition to theoretical analysis, appropriate computational algorithms are introduced.   The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+ 
+ Applicable Analysis
+  
+  To present the main results in Functional Analysis, give an introduction to linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+ 
+ Statistical Modelling & Analysis
+  
+  We'll provide you with a range of applied statistical general linear modelling techniques that can be used in professional life for the analysis of univariate and multivariate data. 
+ 
+ Fluids & Waves
+  
+  This class will introduce the theory of Newtonian fluids and its application to flow problems and the dynamics of waves on water and in other contexts. 
+     
+ 
+ Fininte Element Methods for Boundary Value Problems & Approximation
+  
+  
+   This class aims to present you with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory.
+   
+ 
+ Applied Statistics in Society
+  
+  This class will introduce students to a range of modern statistical methods and practices used in industry, commerce and research, and to develop skills in their application and presentation. 
+     
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  This course will teach the application of mathematical models to a variety of problems in biology, medicine, and ecology. It'll show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. 
+  The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that'll explore a real-world application of an ecosystem model. 
+ 
+ Mathematical Introduction to Networks
+  
+  This class will demonstrate the central role network theory plays in mathematical modelling. It'll show the intimate connection between linear algebra and graph theory and how to use this connection to develop a sound theoretical understanding of network theory. Finally, application of the theory as a tool for revealing structure in networks. 
+ 
+ Elasticity & Complex Materials
+  
+  This class will introduce you to general continuum theory with applications to Newtonian and non-Newtonian fluids and elastic materials. 
+ 
+ Optimisation: Theory & Practice
+  
+  This class will provide you with a basic mathematical understanding of modern approaches to optimisation and the calculus of variations. 
+ 
+ Statistical Mechanics
+  
+  This class will develop approaches to understanding complex or random systems in or out of equilibrium, based on ideas from statistical mechanics that incorporate familiar concepts and methods from neighbouring subjects such as classical mechanics and probability and statistics. 
+  It'll describe, through various examples and techniques, how macroscopic properties of systems arise from the ensemble action of many microscopic ingredients, and how deterministic laws may arise from basic randomness of a system with many variables or degrees of freedom. Fundamental examples include Brownian motion and the ideal gas. 
+ 
+ Dynamical Models in Epidemiology
+  
+  This class will introduce mathematical models which arise in epidemiology and population dynamics and will develop techniques for analysing the qualitative behaviour of the associated dynamical systems. 
+ 
+ Topics in Applied Analysis
+  
+  This class will expose you to a number of diverse topics in modern applied analysis, explaining how key theoretical ideas underpin methods that play an important role in investigations into problems arising in the applied sciences. 
+ 
+ Topics in Applied Statistics
+  
+  This class will expose you to a number of diverse topics in modern applied statistics, explaining how key theoretical ideas underpin methods that play an important role in investigations into problems arising in the applied sciences. 
+ 
+ Topics in Applied Mathematics
+  
+  This class will expose you to a number of diverse topics in a range of applied mathematics. 
+ 
+ Topics in Numerical Analysis
+  
+  This class will expose you to a number of diverse topics in modern numerical analysis, explaining how key theoretical and practical ideas underpin computational methods in science, engineering and technology. 
+ 
+ Topics in Biological & Ecological Modelling
+  
+  This class will make you aware of modern mathematical and statistical methods used to address real life research problems in the biological and ecological problems. In particular to bring together theoretical principles, computational practices and statistical data to construct models that describe the growth of populations and the spread of infectious diseases. To show students that these models an form the basis for decision making. The class will be based on the research interests and expertise of the Department (please note not all of the syllabus topics will be taught in a particular year). 
+  
+ 

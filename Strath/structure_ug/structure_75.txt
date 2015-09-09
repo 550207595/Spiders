@@ -1,0 +1,180 @@
+Course content 
+ Year 1 
+ Compulsory classes 
+ Engineering Mechanics 1 
+ 
+   A study of mechanics gives you the basic tools to understand how the world, both natural and man-made. 
+  
+   You come to Engineering Mechanics with an elementary understanding of the basic principles of mechanics acquired from introductory school physics together with their application to problem solving. This class places more emphasis on the basic skills required to start to apply these concepts and principles to real engineering problem solving. The class focuses on the practice of these skills, rather than factual content. In this class doing required background reading, coming to class and doing homework are like practising for a football team. The tutor/lecturer is less a source of information and more of a coach who structures practice and sets standards. Students’ progress not by absorbing (and regurgitating) information but rather by practising their skills individually and learning to work effectively with others.
+   
+ 
+ Engineering Industry & Profession 
+  
+  To provide an overview of industry and give you some understanding of the industry environment that you would enter as well as the types of roles you would/could undertake. To explain role and responsibility of the engineering profession and individual engineer. 
+  The class is delivered to first-year undergraduate students in the specific context of electronic and electrical engineering together with relationship to mechanical engineering and computer systems. 
+ 
+ Electronic & Electrical Techniques & Design 1 
+ 
+   1. To introduce you to the practical and professional skills required of an engineer
+  2. To underpin theoretical concepts introduced elsewhere in Year 1 modules
+  3. To introduce you to individual and group project work
+  4. To expose you to problems requiring system integration and design
+  5. To encourage innovation in the context of project work 
+  6. To facilitate the development of a range of transferable skills 
+ 
+ Electronic & Electrical Principles 1 
+ 
+   To provide you with a foundational understanding of the analysis and design of both analogue and digital electronic circuits. 
+ 
+ Heat & Flow 1
+ 
+   Knowledge of thermodynamics, heat and fluid flow are important for the understanding and design of thermal and hydraulic systems involving energy conversion and transmission, such as engines and turbines, pumps and compressors, and associated pipework. The aim of the class is to introduce the basic concepts of thermodynamics and fluid mechanics, and the applications thereof, as a foundation for further studies. 
+ 
+ Engineering Analysis 1 
+ 
+   This class aims to give an introduction to the use of engineering modelling and communication using the PTC Creo three dimensional modelling system and to introduce engineering tolerances and their relation to manufacturing processes. Basic numerical methods will also be introduced using MathCAD and Matlab maths & engineering software. 
+ 
+ Engineering Mathematics 1E
+ 
+   To give a basic understanding of the concepts and applications of mathematical functions, differentiation, integration and complex numbers.   The class also provides an introductory experience of using mathematical tools to apply these concepts to practical engineering examples. 
+ 
+ Engineering Mathematics 2E
+ 
+   To give a basic understanding of the concepts and applications of calculus, geometry, vectors, matrices and numerical methods. 
+ 
+ Year 2 
+ Compulsory classes 
+ Engineering Mechanics 2
+  
+  1st Semester 
+  
+   The class aims to provide you with the basic skills to analyse dynamics problems, associated with bodies and simple mechanisms, from first principles.
+   
+  2nd Semester 
+  
+   To develop skills, knowledge and understanding in the areas of structural analysis and elementary stress analysis. The work is divided into 4 parts:
+   
+   
+ 
+ statics revision including shear force and bending moment diagrams 
+ beams in bending 
+ shear and torsion 
+ 2D stress and strain 
+ 
+   
+ 
+ Electromagnetism 
+ 
+   You'll gain an understanding of the application of electromagnetic effects in practical devices and develop the mathematical skills necessary to analyse these effects in simple geometries. 
+ 
+ Engineering Design & Manufacture 
+ 
+   This class aims to introduce you to concepts and methodology required to undertake effective design and development of engineering systems. The product development process will be introduced and through practice, a working knowledge of appropriate engineering design processes, tools and techniques will be gained.
+  
+  An overview of manufacturing and the manufacturing industry will provide a general appreciation of the range of processes employed in manufacturing together with an understanding of how components can be manufactured economically and reliably. 
+ 
+ Electronic & Electrical Principles 2 
+ 
+   To introduce you to the analysis and design of analogue circuits and systems as used in electronics, energy & power systems, communications, control and analogue signal processing applications. 
+ 
+ Digital Electronic Systems 
+ 
+   To introduce you to the use of digital electronics and the rudiments of digital signal processing systems. 
+ 
+ Electronic & Electrical Techniques & Design 2
+ 
+   To develop a broad understanding of many aspects of engineering (general electrical and electronic, power engineering, mechanical engineering, computing and software) and to enhance generic skills required of a professional engineer (research, practical, teamworking, communications, reporting writing, oral presentation).   
+  
+   You'll also benefit from two laboratory-based projects, which will enhance your understanding of important electrical and engineering principles that underpin many other classes within the degree programme
+   
+ 
+ Heat & Flow 2 
+  
+  This class aims to deliver fundamental knowledge on fluid mechanics and thermodynamics and illustrate their importance to engineering systems. 
+  Thermodynamics is the science that is devoted to understanding energy in all its forms and how energy changes form. The aim of the first semester of this class is to supply the necessary analytical tools to study these energy changes when applied in engineering situations, in particular for transportation and power production. Fluid mechanics and the behaviour of fluids is an important aspect in the performance of engineering systems. 
+  In the second semester the underlying physics of fluid flow and its application to simple systems is presented. 
+ 
+ Engineering Mathematics 3E
+  
+  
+   The aims of this class are:
+   
+   
+   to develop the means of solving certain differential equations 
+   to consider applications of Taylor and Maclaurin series 
+   to generalise earlier ideas in calculus to deal with functions of several variables 
+   to discuss in more detail matrices, determinants and functions of a complex variable 
+   to introduce vector calculus and eigenvalues/eigenvectors 
+   
+ 
+ Year 3 
+ Study Abroad
+ 
+   You'll study an approved curriculum at the overseas academic partner that is equivalent to that which would have been studied if you had remained at Strathclyde. 
+ 
+ Year 4 
+ Compulsory classes 
+ Individual Project
+ 
+   You undertake an individual research project.   This will help you gain valuable technical and project management skills. 
+ 
+ Engineering Business Case Studies & Ethics 
+  
+ 
+ Systems Engineering 
+  
+  
+ Elective classes
+ Choose at least 4 from this list 
+ Communications Networks 
+ 
+   To provide an understanding of the principles and key transport technologies which underpin high-speed heterogeneous broadband communications networks and architectures while giving an insight to the technical and strategic challenges associated with the provision of a Quality of Service (QoS)-based integrated future-network platform. 
+ 
+ Control Principles 
+  
+  
+   This class aims:
+   
+   
+   to introduce you to the basic concepts, mathematical tools and design methods of classical control theory 
+   to enable you to use analysis and design tools used in control engineering and appreciate the industrial applications of control systems 
+   to enable you to analyse and design closed loop control system specifically using industrial three-term (PID) controllers 
+   to introduce you to advanced control methods and to provide a basic understanding of a time-domain approach to control analysis and design of industrial processes 
+   to appreciate the application of control theory in industrial applications 
+   
+ 
+ Photonic Systems 
+ 
+   The primary aim of this class is to enable you to develop a basic conceptual understanding and working knowledge of fibre optic communications systems and their component parts addressing basic principles, engineering, design and performance limits. All of the fundamental principles of light, optics and photonic components necessary to achieve this are dealt with, giving a broad appreciation of photonics in general. 
+ 
+ Power Systems Analysis & Design 
+  
+  To enable you to appreciate the principles of analysis and design of electrical power systems including: 
+   
+   design and operational approaches in power systems including electricity generation, transmission and distribution 
+   analysis and design of transmission and distribution networks 
+   power flow, fault and stability calculations 
+   system control including load frequency control and economic dispatch 
+   generation technology implications on power system design and operation 
+   
+ 
+ Alternative Energy Sources
+  
+ 
+ Protection Control & Intelligent Systems
+  
+ 
+ Flight & Spaceflight
+ 
+   This class aims to give a theoretical and historical background to the development of modern aircraft and spacecraft design. 
+ 
+ Computer Aided Engineering Design
+ 
+   This class aims to provide an appreciation of computer aided design, analysis and simulation methods over a range of engineering problems and to provide practical experience of the use of industry standard engineering simulation and analysis software to design and investigate the behaviour and performance of specific systems or components. 
+ 
+ Advanced Programming
+  
+  This class will further your skills in object-oriented programming, provide knowledge of key abstract data types along with their implementation and usage, and to provide experience in the development of larger scale software and an introduction to design. 
+  Your main goal is to be able to develop larger programs with specialized data structures and utilizing APIs from a specification, and being able to ensure and show how the system they developed matches the specification. 
+  
+ 

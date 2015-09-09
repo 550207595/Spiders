@@ -1,0 +1,61 @@
+Course content 
+ Compulsory classes 
+ Manufacturing Automation
+ 
+   This class aims to enable you to grasp the reasons for using manufacturing automation, to understand the basic technology, to be able to select suitable applications for automation, and to be able to specify the type of automation to be used in specific cases. 
+ 
+ Product Design Techniques
+  
+  This class aims to : 
+   
+   introduce design techniques at advanced level 
+   enable you to understand the application of advanced product design engineering techniques in product development, in particular in mechatronic systems 
+   provide opportunities for you to develop technology focused products or systems within the class supervised environment, including partial system evaluation and prototyping 
+   
+ 
+ Product Modelling & Visualisation
+ 
+   This class aims to enable you to understand the concepts of multi-perspective product modelling and techniques used to visualise better products before they are fully designed and manufactured. 
+ 
+ Industrial Group Project
+ 
+   This class aims for you to integrate and apply course relevant knowledge in engineering design, mechatronics and automation, manufacture, and engineering management, to an industry-based project. 
+ 
+ Postgraduate Individual Project
+ 
+   The aim of the individual project is to allow you to combine the skills learned in other classes and apply them within a significant project in a specific area of design, manufacture, or engineering management. This will be achieved through you carrying out work into a particular topic relating to their course and preparing a dissertation that documents the project. 
+ 
+ Project Management
+  
+  
+   This class aims to provide you with skills relating to the use of engineering practices in Project Management with particular respect to the effective and efficient use of resources.
+   
+ 
+ Elective classes
+ Choose from this list 
+ Systems Integration
+ 
+   This class aims to enable you to understand the concepts of systems and their integration in a CAD system application and in advanced product design eg design for manufacture/assembly. 
+ 
+ Design Methods
+ 
+   This class aims to enable you to select and apply appropriate design methods as a part of the design process. 
+ 
+ Control Principles
+  
+  This class will introduce you to the basic concepts, mathematical tools and design methods of classical control theory. It will enable you to use analysis and design tools used in control engineering and appreciate the industrial applications of control systems. 
+  You'll also learn to analyse and design closed loop control system specifically using industrial three-term (PID) controllers. Through an introduction to advanced control methods, you'll gain a basic understanding of a time-domain approach to control analysis and design of industrial processes. 
+     
+ 
+ Control Techniques 
+  
+  Through an introduction to the concepts and tools of modelling, simulation for control of dynamical systems, and computer control engineering, you'll develop the skills required to understand and analyse digital control systems for real time engineering applications. You'll also appreciate the design of estimation and its use in control design. 
+  
+ Learning & teaching 
+ Teaching methods include: 
+  
+  lectures 
+  tutorials 
+  practical laboratories 
+  
+ 

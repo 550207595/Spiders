@@ -1,0 +1,215 @@
+Course content 
+ Year 1 
+ Introduction to Calculus
+ 
+   You'll  study the basic concepts and standard methods of mathematical notation and proof, polynomial equations and inequalities, sequences and series, functions, limits and continuity, differentiation and integration. 
+ 
+ Applications of Calculus
+  
+  The fundamental concepts of calculus (differentiation and integration) presented in Applications of Calculus will be examined in more detail, extended to a larger class of functions by means of more sophisticated methods, including an introduction to complex numbers and variables, all demonstrated in application to practical problems including solving basic first and second-order differential equations.     
+ 
+ Geometry & Algebra with Applications
+  
+  This class will introduce you to vectors and matrices, along with the idea of mathematical modelling through their application to real-world problems. 
+ 
+ Statistics & Data Presentation
+  
+  Some basic ideas and techniques of statistics will be presented while introducing some essential study skills, allowing you to develop and practice personal and technical skills eg self-study, teamwork, analysing data, writing reports and making presentations. 
+     
+ 
+ Introduction to Finance & Accounting
+  
+  This class provides an introduction to finance and accounting, covering the basic concepts and practicalities of corporate finance, the principles of valuation, financial management and business investment, the role and purpose of company accounts and their usefulness, security analysis, risk and returns from investments, and personal finance. At all times the class content will be linked with financial behaviour in the real world. 
+ 
+ Year 2 
+ Linear Algebra & Differential Equations
+  
+  This class will introduce you to the basic ideas of linear algebra, such as matrices and determinants, vector spaces, bases, eigenvalues and eigenvectors. You'll study various standard methods for solving ordinary differential equations and understand their relevance. 
+ 
+ Advanced Calculus
+  
+  Basic ideas, techniques and results for calculus of two and three variables, along with differentiation and integration over curves, surfaces and volumes of both scalar and vector fields will be presented. 
+ 
+ Probability & Statistical Inference
+  
+  Presentation of the basic concepts of probability theory and statistical inference will be covered to provide you with the tools to appropriately analyse a given data set and effectively communicate the results of such analysis. 
+ 
+ Mathematical & Statistical Computing
+  
+  This class will introduce you to the R computing environment. It'll enable you to use R to import data and perform statistical tests, allow you to understand the concept of an algorithm and what makes a good algorithm and will equip you for implementing simple algorithms in R. 
+ 
+ Business Finance
+  
+  
+   This class will provide an understanding of financial management within a business enterprise. It builds on introductory investment appraisal rules from year 1 to consider the appropriate cash flows to be evaluated when undertaking an investment project, forecasting and management of cash flows over time to ensure sufficient liquidity, and how companies determine their cost of capital for such projects. It'll also provide a framework to allow students to understand a company's financial policy decisions relating to payout policy, leasing, raising equity capital in efficient markets, and capital structure. This course will provide students with an understanding of how to value a business enterprise.  
+   
+ 
+ Portfolio Management & Security Analysis
+  
+  
+   This class will provide an understanding of the principles and theories relevant to the process of building investment portfolios. It covers practical applications as well as theoretical material and considers the capital asset pricing model (CAPM), market efficiency, and the estimation and evaluation of fund performance measures. It also considers issues in bond portfolio management and equity trading strategies.  
+   
+ 
+ Year 3 
+ Compulsory classes 
+ Treasury Management & International Finance
+  
+  This class looks at the role of the treasurer in a multinational corporation and the main task of managing risk with respect to funding requirements, foreign exchange, liquidity and banking relationships. Also included is the management of country specific risks for multi-national firms. 
+ 
+ Differential Equations
+  
+  We'll introduce you to analytical methods for solving ordinary and partial differential equations so you'll develop an understanding along with technical skills in this area. 
+ 
+ Inference & Regression Modelling
+  
+  This class will: 
+   
+   review the concepts of probability distributions and how to work with these 
+   present approaches to parameter estimation, focusing on maximum likelihood estimation, bootstrap estimation, and properties of estimators 
+   present hypothesis testing procedures, including classical likelihood ratio tests and computer-based methods for testing parameter values, and goodness-of-fit tests. 
+   introduce and provide understanding of the least squares multiple regression model, general linear model, transformations and variable selection procedures 
+   present use of R functions for regression and interpretation of R output 
+   
+ 
+ Security Analysis
+  
+  This class is mainly concerned with the valuation of securities. It develops an understanding of how bonds, shares, futures and options are valued, and considers some of the investment strategies associated with these securities such as hedging, speculation and arbitrage. Discussion of credit based derivatives such as credit default swaps. 
+  
+ Optional classes - list A 
+ Complex Variables & Integral Transforms
+  
+  This class will introduce functions of a complex variable, define concepts such as continuity, differentiability, analyticity, line integration, singular points, etc. It'll examine some important properties of such functions, and consider some applications of them, eg conformal mappings, and the evaluation of real integrals using the Residue Theorem. It'll also introduce you to Fourier and Laplace transform methods for solving linear ordinary differential equations and convolution type integral equations. 
+ 
+ Linear Algebra
+  
+  Here we'll introduce basic algebraic structures, with particular emphasis on those pertaining to finite dimensional linear spaces and deepen your understanding of linear mappings. We'll also provide an introduction to inner product spaces and bilinear forms. 
+ 
+ Numerical Analysis
+  
+  This module will motivate the need for numerical algorithms to approximate the solution of problems that can't be solved with pen and paper. It'll develop your skills in performing detailed analysis of the performance of numerical methods and will continue to develop your skills in the implementation of numerical algorithms using R. 
+ 
+ Stochastics & Financial Econometrics
+  
+  You'll  be introduced to the basic concepts of random phenomena evolving in time, from two complementary points of view: probabilistic modelling and data-driven analysis. Presentation of underlying ideas of simple stochastic processes, time series models, and the associated probability theory and statistical techniques will be covered. In addition to applications of the methods to financial and economic systems, including modelling, data analysis, and forecasting. 
+ 
+ Financial Analysis
+  
+  Financial analysis applies analytical tools and techniques to financial statements and publically available information to derive estimates and inferences useful in business decisions. It's a screening tool in selecting investment or merger candidates, and is a forecasting tool of future financial conditions and consequences. It's a diagnostic tool in assessing financing, investing and operating activities, and is an evaluation tool for managerial and other business decisions. 
+  This class is a stand-alone option requiring students to have covered some basic financial accounting in year 1. It's designed to introduce students to the concepts and techniques involved in the interpretation of financial statements, evaluating company performance and techniques of company valuation. The student will be expected to become comfortable with using financial information and gain a balanced view of its reliability and usefulness. They'll develop an understanding of the use of statistical models used in failure prediction and bond rating and gain a sound understanding of the basic skills of financial analysis.   
+ 
+ Financial Markets & Banking
+  
+  This class covers the reasons for, and nature of, financial markets and institutions. Their importance in the context of corporate strategy is emphasised and explored. 
+  The aim of this class is to provide you with an understanding of the financial system, the roles and functions of financial markets and institutions, and how they facilitate corporate performance and strategy. A particular emphasis is placed on understanding the roles of intermediaries such as banks and investment firms.   
+ 
+ Year 4 
+ Communicating Mathematics & Statistics
+  
+  This class provides you with experience of the skills required to undertake project work, and to communicate the findings in written and oral form using a variety of sources, such as books, journals and the internet. 
+ 
+ Project
+  
+  
+ Optional classes - list A 
+ Modelling & Simulation with Applications to Financial Derivatives
+  
+  Here you'll get an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. This module places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). In both cases, in addition to theoretical analysis, appropriate computational algorithms are introduced. The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+ 
+ Statistical Modelling & Analysis
+  
+  This class will provide you with a range of applied statistical techniques that can be used in professional life. 
+ 
+ Applied Statistics in Society
+  
+  You'll be introduced to a range of modern statistical methods and practices used in industry, commerce and research, and will develop skills in your application and presentation. 
+  
+ Optional classes - list B 
+ Applicable Analysis 3
+  
+  This class will present the main results in Functional Analysis, give an introduction to linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+ 
+ Fluids & Waves
+  
+  You'll be introduced to the theory of Newtonian fluids and its application to flow problems and the dynamics of waves on water and in other contexts. 
+ 
+ Finite Element Methods for Boundary Value Problems & Approximation
+  
+  You'll be presented with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory. 
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  Here you'll learn the application of mathematical models to a variety of problems in biology, medicine, and ecology. It'll show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that will explore a real-world application of an ecosystem model. 
+ 
+ Mathematical Introduction to Networks
+  
+  This class will demonstrate the central role network theory plays in mathematical modelling. It'll also show the intimate connection between linear algebra and graph theory and how to use this connection to develop a sound theoretical understanding of network theory. Finally, it'll apply this theory as a tool for revealing structure in networks. 
+ 
+ Elasticity & Complex Materials
+  
+  We'll introduce you to general continuum theory with applications to Newtonian and non-Newtonian fluids and elastic materials. 
+ 
+ Optimisation: Theory & Practice
+  
+  We'll provide you with a basic mathematical understanding of modern approaches to optimisation and the calculus of variations. 
+ 
+ Statistical Mechanics
+  
+  Here you'll develop approaches to understanding complex or random systems in or out of equilibrium, based on ideas from statistical mechanics that incorporate familiar concepts and methods from neighbouring subjects like classical mechanics and probability and statistics. 
+  You'll also be able to describe, through various examples and techniques, how macroscopic properties of systems arise from the ensemble action of many microscopic ingredients, and, specifically, how deterministic 'laws' may arise from basic randomness of a system with many variables or degrees of freedom. Fundamental examples include Brownian motion and the ideal gas. 
+ 
+ Dynamical Models in Epidemiology
+  
+  We'll introduce mathematical models which arise in epidemiology and population dynamics, and help you develop techniques for analysing the qualitative behaviour of the associated dynamical systems. 
+     
+  
+ Optional classes - list C 
+ Asset Pricing
+ 
+   This class explores the stochastic discount factor approach to asset pricing. The stochastic discount factor approach provides a general framework for evaluating issues in asset pricing. The aim of the class is to examine a number of theoretical and empirical issues in asset pricing. 
+ 
+ Corporate Financing
+  
+  This class will cover theories of capital structure, sources of capital (debt and equity), and corporate payout policy at an advanced level. The starting point for this class will be Modigliani-Miller assumptions introduced in Business Finance, and course material will highlight how the relaxation of these assumptions leads to formal models on corporate financing behaviour under imperfect capital markets. The emphasis will be upon the ideas necessary to analyse the firm’s financing decisions. It discusses financial structure and the alternative mechanisms for distributing corporate wealth to shareholders. 
+ 
+ Corporate Investment
+  
+  This class covers the main topics in the corporate investment and restructuring literature. It's primarily connected with corporate investment, otherwise referred to as real investment. It examines in more detail the theoretical foundations of the principles of optimal investment behaviour, restructuring and the strategic investment positions adopted by firms in practice. It builds significantly on the mergers and acquisitions theories and evidence and also examines the interface between investment and the financing decisions. 
+  This class aims to develop a deep understanding of the main issues in the theory and practice of corporate investment and restructuring policies, and to develop students' initiative and ability to research the relevant literature. It'll emphasise the role of key concepts in finance in explaining and understanding observed corporate investment and restructuring policies, whilst also highlighting their limitations in this respect. This class is based mainly on academic articles that have influenced and directed the current level of understanding of Corporate Investment Policy.   
+ 
+ Financial Quantitative Methods
+  
+  This class examines the problems associated with specifying financial models in forms which are amenable to estimation and testing with the available data. Consideration is given to the nature of financial data, the methods by which it's compiled and the problems it may present for applied financial analyst. Students are taught techniques of estimation, together with the methods for solving financial model problems. One coursework includes practical experience of applying the techniques to financial data using the econometric software PcGive. 
+  The first aim of this class is to train students in the financial quantitative techniques used for the estimation and testing of financial models. The second aim is to build on and extend aspects of the models covered in other finance classes in order to provide students with skills required to evaluate advanced applied financial research. Therefore, it is assumed that students taking this class are familiar with basic statistics and simple least-squares methods of estimation. 
+ 
+ International Corporate Governance
+  
+  This class contributes to The Reflective Manager component of the course along with The Learning Manager and Managing classes. It starts with a detailed discussion of the principles of ethics and good governance and uses case studies and research to illustrate corporate governance in practice throughout the world. Different corporate governance systems are discussed and compared. These include the unitary board model found in the UK and US, the stakeholder governance model applied in countries like Germany, The Netherlands and Austria, the Sharia Supervisory Board model common in parts of the world, and the role of state shareholders and social corporate objectives in China. The course will also provide an understanding of the nature of corporate governance and ethics in family firms and emerging markets and how these fit into the decision-making of executives. 
+ 
+ Advanced Derivatives
+  
+ 
+ Advanced Portfolio Analysis
+  
+  This class examines issues involved in optimal portfolio choice and the evaluation of managed fund performance. It'll examine issues involved in the estimation of optimal portfolios and the evaluation of the performance of managed funds. The performance of the funds will be explored through the stochastic discount factor approach to asset pricing. 
+     
+ 
+ Behavioural Finance
+  
+  This class builds on student knowledge of finance and their understanding of finance theory developed through the core classes in years 1 to 3. It introduces students to behavioural finance and provides them with an understanding of the main flaws of traditional finance theory from a behavioural finance viewpoint. It'll allow students to develop the ability to discuss issues arising from violations of the rationality assumption and to enable them to evaluate new theoretical models based on research in psychology. 
+  This class will allow students to appreciate the role of new developments in finance and their possible implications for established views of financial markets. It'll provide students with an understanding of the main ideas of behavioural finance. A particular emphasis is placed on understanding the roles of non-rational actions and the development of new financial models that incorporate these. Students will engage with up-to-date research and develop a critical view of existing and new finance theories and models. 
+ 
+ International Financial Management
+  
+  This class considers financial issues associated with the operation of a firm in the international environment. It'll focus on complications that make corporate financial decision making harder for internationally oriented firms than domestic firms, like exchange rates and political risk. 
+  Specifically, it'll focus on the following issues: 
+   
+   exchange rate theories and implications for the multinational company 
+   management of corporate exchange rates exposure 
+   the evaluation and incorporation of political risk into project evaluation 
+   the array of corporate financing possibilities in a global market 
+   the basic issues in international investment analysis, like capital budgeting and cost of capital determination for foreign projects 
+   methods for evaluating the performance of foreign operations 
+   While this class presents theoretical points of view on the various issues, it uses both empirical academic evidence and discussion of firms' real world activities to prepare students for careers dealing with financial issues of international corporate operations both at the banking and corporate level. It studies corporate financial decisions in an international setting.
+   
+  
+ 

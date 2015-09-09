@@ -1,0 +1,84 @@
+Course content 
+ Modules 
+ Process Design Principles 
+  
+  The focus of this module is on the principles of conceptual design and flowsheet development. 
+  You’ll focus on defining “design” and the associated terminology, and showing how this can be applied to equipment and process selection. You’ll also develop an understanding of the hierarchical and structural methods of developing conceptual designs including the effective design of utility systems to reduce energy use. 
+ 
+ Safety Management Practices
+  
+  This module provides you with an advanced level exposure to the role of management and management systems in safety and loss prevention. 
+  It will involve in-depth analysis of major incidents in recent history: pinpointing the structure of Safety Management Systems, approach to Auditing Safety Management, the role of Human Factors, and the process and concept of safe design. This course will also involve developing Site Emergency Plans and Accident Investigation skills, as well as a review of legal structure for the UK. 
+ 
+ Energy Systems
+  
+ 
+ Colloid Engineering
+  
+ 
+ Multi-phase Processing
+  
+  This module helps you to understand important concepts and principles in multi-phase processes and their application to chemical engineering. The concepts are limited to those involving only incompressible Newtonian fluids with flow through circular pipes and simple mixing in tanks. 
+ 
+ Petrochemical Engineering
+  
+  This module will look at: 
+   
+   the concepts of origin and formation of petroleum, and types and quality of refinery feedstock and products 
+   various sections of petroleum processing in refineries 
+   refinery economics and planning 
+   advanced topics in petrochemical engineering such as catalyst development, desulphurisation, pollution control and hydrogen production 
+   
+ 
+ Environmental Control Technologies
+  
+ 
+ Process Safety Design
+  
+  This module looks at how the designs of chemical processes are influenced by standard control and alarm systems that ensure process safety. 
+  The focus is on how to allow for transient events that occur during start-up/shutdown and process upsets. The course draws on various international design codes and current codes of practice used in the petrochemical and oil/gas exploration and processing industries. 
+  Visiting Professors will introduce industrial case studies to highlight elements from the syllabus and demonstrate the learning outcomes of this module. 
+ 
+ Emerging Technologies
+  
+  This module is an introduction to key research areas across Chemical Engineering and Chemistry that are of industrial importance in the medium term. It will include a range of advanced technologies that support the innovation, design and development of processes that are more efficient, cleaner and have a reduced impact on the environment. 
+ 
+ Programming & Optimisation 
+  
+  This module aims to provide you with a fundamental understanding of scientific programming. In particular, its application to optimisation in engineering applications. The module will teach you to: 
+   
+   develop algorithms to solve optimisation tasks 
+   present working Excel spreadsheets tackling optimisation tasks in a form suitable for other engineers to use 
+   
+ 
+ Project Management
+  
+  This module aims to provide you with skills relating to the use of engineering practices in project management. There is a focus on the effective and efficient use of resources. 
+ 
+ Risk Management
+  
+  Under Health and Safety legislation, and under the wider European Post-Seveso Directives, it's mandatory for many industries to carry out risk assessments with the aim of showing that risk is “As Low As Reasonably Practicable”. 
+  This module aims to introduce the fundamental techniques of risk analysis and risk-informed decision making. You'll have the opportunity to learn the general principles of methods and their place in risk management, as well as the chance to develop skills in applying these methods to variety of engineering examples. 
+ 
+ Information Management
+  
+  This module aims to give you an understanding of the types of different approaches, techniques and systems used in building information based systems. In particular to introduce you to the software engineering process, identifying information requirements and visual modelling. Also to acquire a basic understanding of information storage, retrieval, and systems. 
+  In addition to this it will provide an appreciation and basic skills in the process of developing information systems. It will also familiarise you with information technology, how to model and use information and an introduction into a way of representing information on a computer based system. 
+ 
+ Understanding Financial Information
+ 
+   This module aims to provide you with an appreciation of how companies manage and report financial information. You will learn about:
+   
+   
+   the nature and form of a company’s financial statements 
+   the interpretation of financial reports 
+   budgets and budgeting 
+   the behaviour of costs and the implications for short-term decisions 
+   calculating the cost of products and services and an understanding of the cost allocation problem 
+   project evaluation techniques 
+   
+  
+ Learning & teaching 
+ All classes are delivered over a twelve week period. 
+ The Emerging Technologies module makes extensive use of external speakers who are leading practitioners in their field. The Safety Management Practices module offers exposure to best industry practice and is one of a few MSc programmes to offer much required industrial training. 
+ 

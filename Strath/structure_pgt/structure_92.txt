@@ -1,0 +1,68 @@
+Course content 
+ Instructional classes 
+ Advanced Marine Engineering
+  
+  This class aims to offer you knowledge of advanced engine systems, such as vibration of engine and shaft system and marine engineering systems of LNG carriers and operation. The class includes detailed assessment of engine shaft system’s vibration and waste recovery system on LNG carriers. 
+ 
+ Marine Engineering Simulation & Modelling 
+  
+  The aim of this hands-on class is to provide you with an understanding of the general concepts, advantages and limitations of computer based system simulation. 
+  This is achieved by introducing concepts and methods used to mathematically model a wide range of marine systems and also to design and perform simulation studies on these systems using industry standard simulation software tools. 
+ 
+ Inspection & Survey 
+  
+  This class provides you with an insight into 'marine' materials, their properties, failure and protection and an understanding of how defects and degradation affect the life-cycle of marine and offshore structures. 
+  Particular emphasis is on corrosion, fatigue and fracture of steel and the corrosion properties of high strength and stainless alloy streels. 
+ 
+ Maritime Safety & Risk
+  
+  This class aims to enhance the conceptual understanding on safety and risk in the maritime context. It will also provide state-of-the-art knowledge, tools and techniques to enable practicing professionals in marine technology sector to deal with marine safety as a life-cycle issue, cost effectively. 
+ 
+ Marine Transport & Economics
+  
+  This class aims to provide an insight into the markets, economics and operational systems which are fundamental to the provision of waterborne transport. 
+ 
+ Onboard Energy Management & Marine Environment Protection 
+  
+  This class   is split into two parts. 
+  Part 1 aims to provide you with knowledge and awareness of issues in marine environmental protection, including international conventions and regulations and the state-of-the-art technology applied in the industry. 
+  Part 2 will provide you with knowledge of ship energy management systems and energy resources including the optimisation and integration of machinery and power systems in a sustainable manner. 
+ 
+ Generic classes 
+ Information Management 
+  
+  This class aims to give you an understanding of the types of different approaches, techniques and systems used in building information based systems. In particular to introduce you to the software engineering process, identifying information requirements and visual modelling. Also to acquire a basic understanding of information storage, retrieval, and systems. 
+  In addition to this it will provide an appreciation and basic skills in the process of developing information systems. It will also familiarise you with information technology, how to model and use information and an introduction into a way of representing information on a computer based system. 
+ 
+ Risk Management 
+  
+  Under Health and Safety legislation, and under the wider European Post-Seveso Directives, it's mandatory for many industries to carry out risk assessments with the aim of showing that risk is “As Low As Reasonably Practicable”. 
+  This class aims to introduce the fundamental techniques of risk analysis and risk-informed decision making. You'll have the opportunity to learn the general principles of methods and their place in risk management, as well as the chance to develop skills in applying these methods to variety of engineering examples. 
+ 
+ Financial Engineering 
+  
+  The class aims to introduce elements of financial engineering that are applied to reduce risk of business insolvency and enhance the financial robustness of business enterprises. 
+ 
+ Systems Availability & Maintenance 
+  
+  This class aims to provide an insight into the qualitative and quantitative systems’ reliability techniques as well as maintenance methodologies with particular emphasis to the maritime industry. The course will give you an ability to formulate, solve, report and present a comprehensive maintenance strategy based on the application of reliability based tools. 
+ 
+ Design Management 
+  
+  This class provides a structured introduction to the design management process, issues and tools. 
+ 
+ Environmental Impact & Sustainability 
+  
+  You'll gain an understanding of the concepts of environmental sustainability and sustainable development. You'll be able to identify principles of environmental impact and to elaborate these principles to describe approaches to impact mitigation. 
+ 
+ Project Management 
+  
+  This class aims to provide you with skills relating to the use of engineering practices in project management with particular respect to the effective and efficient use of resources. 
+  
+ Learning & teaching 
+ There are two teaching periods (semesters) of 12 weeks each. Some of the second semester subjects are taught over eight weeks. This is so that you can devote as much time as possible to your individual project work. 
+ Course modules are delivered in the form of formal lectures supported with tutorials and laboratory experiments. 
+ Guest lectures 
+ During term time, we arrange weekly seminars in which leaders and pioneers of the maritime, oil and gas and marine renewables industries visit the department and present to students. This is a great way of supplementing your education with the latest developments and gaining industry contacts for your future career. 
+ Industrial visits are also made to a variety of companies. 
+ 

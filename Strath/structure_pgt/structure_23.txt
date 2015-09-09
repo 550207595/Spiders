@@ -1,0 +1,85 @@
+Course content 
+ Compulsory classes 
+ Medical Science for Engineering
+  
+  You'll be provided with instruction in key areas of human anatomy, physiology and cell biology relevant to the advanced study of bio and clinical engineering. You'll gain an understanding of normal biological function and control as derived from scientific and clinical evidence. 
+  The class aims to educate you to use your knowledge of normal function to better understand pathology, disease diagnosis and treatment. 
+  
+ or
+ Engineering Science
+ 
+   This class aims to provide instruction of fundamental engineering (mechanics of rigid bodies, mechanics of deformable bodies, mechanics of fluids and electronics) for life scientists who have no formal education in the engineering sciences. 
+ 
+ Professional studies in Biomedical Engineering
+  
+  This class aims to: 
+   
+   provide an introduction to the philosophy, ethics and methodology of research 
+   outline the role that the bioengineer plays in the solution of clinical problems 
+   provide training in the principles, assessment and application of safety procedures   in areas relevant to medical physics and biomedical engineering 
+   engender an awareness of the importance of regulatory issues in medical device design and manufacturing 
+   
+ 
+ Research Methodology
+ 
+   This class aims to equip the students with the skills necessary to use mathematics and statistics tools including software in experimental design and data visualisation and analysis needed to progress in their research in Biomedical Engineering. 
+ 
+ Biomedical Electronics
+  
+  This class aims to give the student a thorough introduction to the use of electronic circuits for the pre-conditioning, acquisition and display of biomedical signals and to provide an understanding of the components required in a basic biomedical measurement device.   
+ 
+ Biomedical Instrumentation
+  
+  This class aims to give a detailed description of the principles and applications of a number of the most widely used biomedical instrumentation systems and devices found in the modern hospital environment. 
+  This course will enable students to understand the diagnostic and research applications of the various instrumentation-related techniques currently available and to appreciate their limitations. 
+ 
+ Elective classes
+ 
+ Choose 6 from the list for an MSc. 
+ Choose 4 from the list for a PgDip.
+  
+ Introduction to Biomechanics
+  
+  This class aims to provide you with a tool set of analytical skills to enable you to undertake valid biomechanical analyses of human movement.   This includes the science, engineering and mathematical skill to produce kinematic and kinetic analyses of human movement and the external and internal load actions experienced by humans during activity. The class will provide generic analysis skills but examples will focus primarily on human gait.    
+ 
+ Prosthetics & Orthotics
+  
+  This class aims to demonstrate to you how biomechanical principles can be applied to the design, manufacture, fitting procedures and evaluation of prostheses, orthoses and other devices externally applied to the body of patients in need of rehabilitation. 
+  It is hoped that you should be able to join manufacturing companies, research groups or clinical teams responsible for the delivery of such systems. 
+ 
+ Regenerative Medicine
+  
+  You'll learn to describe the developments and advances in regenerative/repair medicine in terms of 
+   
+   Source of cells 
+   Cell expansion/seeding and bioreactor technology 
+   Tissue scaffolds: design criteria, fabrication and characterisation 
+   Clinical status of replacement tissues and organs 
+   
+ 
+ Tissues mechanics
+ 
+   This class aims to provide an introduction to the mechanical properties of human tissue using a PBL approach. With the aid of an existing finite element (FE) model of the knee, students will virtually dissect the knee joint identify the different tissue types in the knee. Discussion will take place to determine how to incorporate the material properties of the different tissues into the model. A Journal “club” will be used to discuss recent literature, informing and directing you to perform appropriate experimental methods to determine the mechanical properties. these can then be incorporated into the FE model. A fully working FE knee joint will be the objective of the class. 
+ 
+ Clinical & Sports Biomechanics
+  
+  This class aims to provide you with the ability to appraise the role of biomechanics and biomechanical measurement techniques in the development and evaluation of clinical practice in rehabilitation and in the production and management of sports injuries. The class will also allow you to assess the role of biomechanics and biomechanical measurement in the improvement of human function and the optimising of sports performance.   The class will focus on orthopaedic and neurological issues. 
+ 
+ Anatomy & Physiology
+  
+  (for students taking Engineering Science but who do not have the prerequisite background in Anatomy & Physiology) 
+  This class aims to provide you with the basic knowledge of the anatomical structure of the major body systems, together with an understanding of their physiological functioning. This knowledge is fundamental to understand and to develop specific topics that will be taught later in the course. 
+ 
+ Biosignal Processing & Analysis
+  
+  This class aims to familiarise students with the fundamentals and concepts of signals and systems (both continuous-time and discrete-time), and to develop a framework for processing and analysing a variety of biomedical signals and images (biosignals), including electrocardiograms (ECGs) and magnetic resonance images. 
+  You'll also develop valuable Mathcad and MATLAB signal/image processing skills, through non-compulsory self-study laboratory exercises. 
+ 
+ Biomaterials & Biocompatibility 
+  
+  This class aims to: 
+   
+   provide fundamental information on the properties of synthetic biomaterials, and how these are evaluated experimentally and from the literature 
+   outline how material properties are influenced by methods of processing 
+   explore with the aid of appropriate examples what is meant by biocompatibility; provide an overview of the host responses to and interactions with biomaterials, and how these interactions are assessed and influenced by surface properties 
+   introduce the principles of toxicology, identify the major toxic interactions with foreign chemicals and the protective mechanisms which enable us to survive most toxic insults. 

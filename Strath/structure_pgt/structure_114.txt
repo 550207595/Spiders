@@ -1,0 +1,54 @@
+Course content 
+ Instructional classes 
+ Inspection & Survey 
+  
+  This class provides you with an insight into 'marine' materials, their properties, failure and protection and an understanding of how defects and degradation affect the life-cycle of marine and offshore structures. 
+  Particular emphasis is on corrosion, fatigue and fracture of steel and the corrosion properties of high strength and stainless alloy streels. 
+ 
+ Offshore Engineering Practice 
+  
+  This class aims to provide an overview of offshore hydrocarbon production processes. The emphasis is on the technical developments, particularly in the last 20 years. 
+  It also aims to provide in-depth understanding of some selected technical aspects through a series of seminars delivered by practicing experts from the industry. 
+ 
+ Risers & Mooring Lines
+  
+  This class aims to provide an overview of the current deepwater oil and gas developments around the world and the technical challenges in terms of riser and mooring line design. It will also demonstrate methods for modelling and analysing risers and mooring lines. 
+ 
+ Dynamics of Floating Offshore Installations 
+  
+  This class aims to provide knowledge in order to understand the factors influencing the dynamic behaviour of fixed and floating offshore structures due to environmental forces. 
+  It also aims to develop skills in order to predict the dynamic motion and structural response of fixed and floating offshore platforms and to design and analyse foundations for fixed offshore structures. 
+ 
+ Finite Element Analysis of Floating Structures
+  
+  This class aims to provide you with a theoretical and practical knowledge of the finite element method and the skills required to analyse floating structures with ANSYS, a commercially available finite element analysis program. Particular emphasis will be given to ANSYS graphical user interface (GUI) and Workbench platform. 
+ 
+ Maritime Safety & Risk
+  
+  This class aims to enhance the conceptual understanding on safety and risk in the maritime context. It will also provide state-of-the-art knowledge, tools and techniques to enable practicing professionals in marine technology sector to deal with marine safety as a life-cycle issue, cost effectively. 
+ 
+ Design & Construction of Floating, Production, Storage & Offloading Vessels 
+  
+  This class aims to provide an introduction to the shipbuilding technologies and equipment used in the construction of FPSO vessels. It will also provide an introduction to the ship design process as applied to FPSO vessels. 
+ 
+ Advanced Marine Structures 
+  
+  This class will provide you with a theoretical and practical knowledge of the finite element method and the skills required to analyse engineering problems with ANSYS, a commercially available finite element analysis program. 
+  
+ or 
+ Theory & Practice of Marine Computational Fluid Dynamics (CFD) 
+  
+  This class aims to: 
+   
+   introduce you to the theoretical background of marine CFD using the finite volume method 
+   illustrate the key ides related to discretisation and solution of the Navier-Stokes equations for incompressible flows 
+   discuss some practical issues related to the use of CFD packages in marine applications 
+   
+  
+ Learning & teaching 
+ There are two teaching periods (semesters) of 12 weeks each. Some of the second semester subjects are taught over eight weeks. This is so that you can devote as much time as possible to your individual project work. 
+ Course modules are delivered in form of formal lectures supported with tutorials and laboratory experiment. 
+ Guest lectures 
+ During term time, we arrange weekly seminars in which leaders and pioneers of the maritime, oil and gas and marine renewables industries visit the department and present to students. This is a great way of supplementing your education with the latest developments and gaining industry contacts for your future career. 
+ Industrial visits are also made to a variety of companies. 
+ 

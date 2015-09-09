@@ -1,0 +1,55 @@
+Course content 
+ Compulsory classes 
+ Energy Resources & Policy
+  
+  Against the background of international commitments on atmospheric emissions, diminishing fossil fuel resources, renewable energy systems deployment and the liberalisation of energy markets, this module examines sustainable options for energy production, supply and consumption. The aim is to give students an understanding of current trends in the energy market, and to enable a critical evaluation of emerging ideas, technologies and policies especially in relation to new and renewable energy supply systems. 
+ 
+ Energy Systems Analysis
+  
+  This module aims to impart an understanding of the underpinning theoretical principles and practical calculation methods for analysis of energy systems and an appreciation of how these systems are integrated in practical applications. Emphasis is on heat transfer and thermodynamic cycles. The underlying principles and analysis methods are appropriate for both renewable and non-renewable energy systems. 
+ 
+ Electrical Power Systems
+  
+  This module provides students with an understanding of the operation of modern electrical power systems featuring renewable and low carbon generation, along with the techniques to undertake a basic technical analysis of key electrical devices and systems. 
+ 
+ Energy Modelling & Monitoring
+  
+  This module provides an understanding of the theoretical and operational principles underlying simulation modelling of energy supply and demand systems and their environmental impact. The emphasis is on practical computer lab-based modelling exercises. It covers detailed energy system simulation, supply-demand matching, energy management and monitoring. 
+ 
+ Sustainability
+  
+  This module provides students with an understanding of the concepts of sustainability and sustainable development. The social, environmental, and economic impact of development strategies will be identified and the mitigation of negative impacts discussed. Topics covered include shifting world views with respect to technology and ecology, green politics, climate change, sustainable development and limits to growth. 
+ 
+ Group Project
+  
+  In this part of the course, projects are offered for selection by groups of typically four individuals. Each project involves the evolution of an energy/environmental system, including a technical appraisal and, where appropriate, an assessment of its cost effectiveness and environmental impact. There will also be site visits to renewable energy system installations. 
+ 
+ Generic modules
+ 
+ Select three classes from the following:
+  
+ Design Management
+  
+  This module provides a structured introduction to the Design Management process, issues and tools. Topics include Integrated Product Development, and the different approaches and aspects to design development including concurrent engineering, team engineering, product management, design management, distributed design, and decision support. Other topics cover the design activity, team and management organisational structures, key issues concerning design complexity, and design performance and innovation. 
+ 
+ Information Management 
+  
+  This module gives students an understanding of the types of different approaches, techniques and systems used in building information based systems. Topics include the software engineering process, requirements specification, visual modelling and an understanding of information storage and retrieval systems. 
+ 
+ Project Management 
+  
+  This module provides students with skills relating to the use of engineering practices in Project Management with particular respect to the effective and efficient use of resources. The syllabus includes an introduction to project management techniques and project control, project networks including critical path analysis, procedural and graphical presentation techniques, an introduction to Contract Law and project budgetary control. 
+ 
+ Risk Management
+  
+  Under Health and Safety legislation, and under the wider European Post-Seveso Directives, it is mandatory for many industries to carry out risk assessments with the aim of showing that risk is As Low As Reasonably Practicable. This module introduces the fundamental techniques of risk analysis and risk-informed decision making. Students will learn the general principles of methods and their place in risk management, as well as the chance to develop skills in applying these methods to variety of engineering examples. 
+ 
+ Financial Engineering
+  
+  This module introduces elements of financial engineering that are applied to reduce risk of business insolvency and enhance the financial robustness of business enterprises. Questions addressed include: What is the best strategy for survival and growth?; What are the options for financing investment projects both in the private and public sectors of an economy?; How would the financial engineer propose to combine loan capital and equity capital to raise funds for an investment initiative; How would he/she advise his/her company/organization to build its investment portfolio to ensure financial security in volatile market conditions? 
+ 
+ Knowledge Engineering & Management for Engineers
+  
+  This module aims to give students an understanding of the types of knowledge, techniques and systems used in building knowledge based systems and to discuss the application of these techniques. Topics include expert system and knowledge based systems development process, knowledge elicitation and acquisition, knowledge representations, reasoning, chaining and searching, and uncertainty techniques. 
+ 
+ Environmental Impact 

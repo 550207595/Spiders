@@ -1,0 +1,71 @@
+Course content 
+ Year 1 
+ Compulsory classes 
+ Advanced Power System Analysis & Protection
+  
+  This class will allow you to understand, critically analyse and assess technical requirements for power system operation, management and planning. It will enable you to carry out advanced types of power system analysis as well as understand and use results from these analyses in power system operation and planning. You'll also develop an advanced knowledge of the main concepts related to the function, design and operation of protection schemes for distribution, transmission and generation applications. 
+ 
+ High Voltage Technology & Electromagnetic Compatibility 
+  
+  This class will introduce you to the fundamentals of high voltage electrical insulating systems and the principles, mechanisms and characteristics of high voltage discharges in vacuum and condensed media. It will also provide you with a basic understanding of the behaviour of dielectric materials stressed with electric fields and their use in high voltage systems. You'll also gain an understanding of the principles of high voltage generation and impulse testing of the high voltage systems. 
+ 
+ Power Electronics for Energy & Drive Control 
+  
+  Modern energy conversion systems rely on the integration of range of technologies including power electronics, electromechanical actuators and energy storage elements. This class will build knowledge of the building block technologies and show their application to modern energy conversion systems. 
+ 
+ Power System Economics, Markets & Asset Management 
+  
+  This class will present and give an understanding of the economics, trading and pricing of electricity supply and how it is shaped by technical, commercial and regulatory considerations. 
+  It will give you an understanding of power system economics under an environment of multiple suppliers and users, and present the challenges, technologies and value of asset management within an electricity supply industry context. You'll gain a deep appreciation of factors affecting security of supply and how it might be quantified. 
+ 
+ Wind Energy & Distributed Energy Resources 
+  
+  This class will provide an understanding of the principles of wind turbine power generation with attention to the wind resource, rotor aerodynamics, structural design, power conversion and control. 
+  It will also examine the socio-economic issues relating to wind power and provide an underpinning in distributed energy resources including small scale generation, energy storage and demand management and their integration and management within power networks. 
+ 
+ Assignment & Professional Studies 
+  
+  The aim of this class is to provide you with support for your general academic and professional development. 
+  You'll undertake an advanced investigation of an electronic or electrical engineering topic of your choice, to enhance your learning, and develop presentation and communication skills. 
+  
+ Elective classes 
+ Digital Signal Processing Principles 
+  
+  You'll develop the necessary tools that will allow you to design, analyse and simulate (Matlab/Simulink) DSP systems by introducing core mathematical concepts, algorithms and fundamental properties of discrete signal and systems with applications. 
+ 
+ Information Transmission & Security 
+  
+  The aim of this class is to develop an understanding of the principles by which information can transmitted with varying levels of security and the techniques by which communication systems can be analysed and designed. 
+ 
+ Communications Networks 
+  
+  This class will provide you with an understanding of the principles and key transport technologies which underpin high-speed heterogeneous broadband communications networks and architectures while giving an insight to the technical and strategic challenges associated with the provision of a Quality of Service (QoS)-based integrated future-network platform. 
+ 
+ Control Principles
+  
+  This class will introduce you to the basic concepts, mathematical tools and design methods of classical control theory. It will enable you to use analysis and design tools used in control engineering and appreciate the industrial applications of control systems. 
+  You'll also learn to analyse and design closed loop control system specifically using industrial three-term (PID) controllers. Through an introduction to advanced control methods, you'll gain a basic understanding of a time-domain approach to control analysis and design of industrial processes. 
+     
+ 
+ Control Techniques 
+  
+  Through an introduction to the concepts and tools of modelling, simulation for control of dynamical systems, and computer control engineering, you'll develop the skills required to understand and analyse digital control systems for real time engineering applications. You'll also appreciate the design of estimation and its use in control design. 
+ 
+ Software Engineering 
+  
+  This class will introduce you to the software engineering process through the development and application of C++ programming skills. You'll become competent in specifying, designing and developing software and in writing and testing programs of moderate complexity. 
+ 
+ Year 2 
+ MSc Research Project 
+  
+  The aim of the research project is to provide you with an opportunity to bring your knowledge and skills together and deploy them in a significant practical investigation, using relevant engineering literature, and where relevant, initial experiments or simulations. 
+  
+ Learning & teaching 
+ We use a blend of teaching and learning methods including interactive lectures, problem-solving tutorials and practical project-based laboratories. Our technical and experimental officers are available to support and guide you on individual subject material. 
+ Each module comprises approximately five hours of direct teaching per week.   To enhance your understanding of the technical and theoretical topics covered in these, you're expected to undertake a further five to six hours of self-study, using our web-based virtual learning environment (MyPlace), research journals and library facilities. 
+ The teaching and learning methods used ensure you'll develop not only technical engineering expertise but also communications, project management and leadership skills. 
+ You'll undertake group projects. These will help to develop your interpersonal, communication and transferable skills essential to a career in industry. 
+ Guest lectures 
+ Guest presentations are a regular feature of the courses. These are often done by industry partners or department alumni. Speakers will share with you how they have put their knowledge and learning into practice in the world of work. 
+ Interaction with industry is provided through our internships, teaching seminars and networking events. The department delivers monthly seminars to support students’ learning and career development.   Iberdrola, National Grid, ScottishPower, SSE, Siemens and Rolls-Royce are just a few examples of the industry partners you can engage with during your course. 
+ 

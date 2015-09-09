@@ -1,0 +1,148 @@
+Course content 
+ Year 1 
+ Engineering Mechanics
+  
+  This class will provide the basic tools to prepare you for more advanced studies in your course. You’ll gain an understanding of what has become known as classical mechanics including a study of forces, energy, work, momentum and heat. You’ll learn how these are connected and how they can be applied to engineering problems. 
+ 
+ Introduction to Naval Architecture and Marine Engineering
+  
+  Students are provided with a background of the various issues, terminology and concepts related to the course. You’ll learn about the importance of marine transportation to the global economy, industry and leisure industries and gain an understanding in applications of fundamental engineering principles related to the marine sector. 
+ 
+ Analysis Tools for Marine Design
+  
+  This class will equip you with some of the important basic graphical and computational tools required for the rest of the course. You’ll be introduced to tools such as AutoCAD, Rhino, Microsoft Excel, Mathcad and Matlab and be given the opportunity to consolidate the new theoretical knowledge gained in other modules through numerical exercises. 
+ 
+ Mathematics 1B
+  
+  This class will provide the basic mathematical requirements to prepare you for more advanced studies in your course. You’ll learn about the concepts and applications of functions, differentiation, integration and complex numbers. 
+ 
+ Mathematics 2B
+  
+  This class will provide the basic mathematical requirements to prepare you for more advanced studies in your course. You’ll learn about the concepts and applications of calculus, geometry, vectors, matrices and numerical methods. 
+ 
+ Elective Classes
+  
+  You'll have the opportunity to select an elective class from the University’s extensive list of classes permitted in Year 1. 
+ 
+ Year 2 
+ Hydrostatics and Stability of Marine Vehicles
+  
+  This class will introduce you to the fundamental principles of naval architecture and will examine how they are applied in practice for floating bodies. You’ll learn about the principles of hydrostatics and the stability of marine vehicles, together with their application to safe operation. 
+ 
+ Marine Engineering Fundamentals
+  
+  This class will address the important principles related to marine engineering systems. You’ll learn about the fundamentals of thermodynamics, thermal systems, electrical networks, systems and machines. 
+ 
+ Principles of Marine Design and Production
+  
+  This class will explain the main activities carried out in a modern shipyard and critically examine the role of management service departments. You’ll learn about the basic principles of modern shipyard layout and rationalisation, steel production and outfitting methods. 
+ 
+ Analysis and Design of Marine Structures 1
+  
+  This class provides you with an introduction to fixed offshore structure design and the material science and properties of the materials used in the marine industry. You’ll develop a basic understanding of the application of structural mechanics to ship and offshore structures and develop your skills in solving simple problems in marine structures using structural mechanics and analysis software. 
+ 
+ Engineering Applications for Naval Architects and Marine Engineers
+  
+  Students are introduced to engineering philosophy and practice by a practical experience of design and manufacturing processes and technology applications appropriate to naval architecture and marine engineering. You’ll gain practical experience of the use of CAD and CAM software in marine design, an appreciation of design and production processes and take part in a substantial design, build and test exercise in the marine laboratory. 
+ 
+ Mathematics 3B
+  
+  This class will continue on from your mathematics classes in Year 1, further enhancing your mathematical requirements to prepare you for more advanced studies in your course. You’ll learn about advanced estimation methods, calculus and differential equations. 
+ 
+ Year 3 
+ Professional Development and Marine Business
+ 
+   This module will provide you with an insight into marine business and allow you to work on your ‘soft’ business skills. You’ll gain an appreciation of the fundamentals of communication, project work, planning and managerial skills, including writing, speaking, listening, interviewing and teamwork. 
+ 
+ Marine Design
+  
+  This module will examine the processes and methods used to design ships and other marine vehicles. You’ll learn about the design processes of marine vehicles and structures and gain an appreciation of the technical, economic and social influences on design and the influences of statutory regulations and classification society rules. 
+ 
+ Hydrodynamics, Resistance and Propulsion
+  
+  This class provides you with an introduction to the concepts and fundamentals of hydrodynamics. You’ll learn about how water flows past a ship or marine structures hull, how to calculate the resistance of a ship and hence how to calculate propulsion requirements. 
+ 
+ Marine Engineering Systems and Control 
+  
+  You'll be provided with an introduction to automation and control theory with applications to marine systems. Students learn about the theory and design of pipe flow, heat exchangers, fuel systems, cooling systems etc. and how system integrity links with ship operation. 
+ 
+ Analysis and Design of Marine Structures 2
+  
+  This class provides an understanding of the techniques which may be used to analyse the behaviour of marine structural components like steel beams and plates. You’ll learn how to calculate bending moments, stresses and deflections of marine structures as well as gaining an understanding of the theoretical basis of finite element analysis. 
+ 
+ The Marine Environment
+  
+  An introduction to fluid mechanics as applied to marine hydrodynamics. You’ll learn about the key properties of waves and seastates, the methods used to calculate their energy and velocity, and how to model them through spectral techniques and analysis. 
+ 
+ Yacht and Powercraft Design
+  
+  Students receive an introduction to the special design requirements for sailing yachts, mega-yachts and motor boats. You’ll learn about the construction, maintenance and surveying of small craft in addition to the factors that govern their design, including resistance, side-force, sail plan and sail forces, stability and safety. 
+ 
+ Year 4 
+ Seakeeping and Manoeuvring
+  
+  This class will provide you with a demonstration of the important seakeeping characteristics of marine vehicles and explain the factors influencing this behaviour. You’ll learn how to identify the factors determining the manoeuvrability of a marine vehicle and study the implications to design and operability. 
+ 
+ Theory and Practice of Marine CFD
+  
+  This class will introduce you to the theoretical background of marine computational fluid dynamics (CFD) using the finite volume method. You’ll learn about the key equations of CFD for incompressible flow in finite volume form and how to solve them numerically. You’ll also have a go at solving a simple 2D engineering problem using a commercial CFD package. 
+ 
+ Finite Element Analysis of Marine Structures
+  
+  This module will provide you with a theoretical understanding of stiffness and finite element methods for marine structures. You’ll learn the theory of key concepts and then be given a simple engineering problem, in which you will code your own stiffness method program in Mathcad to solve. 
+ 
+ High Performance Marine Structures
+  
+  An introduction to the key structural topics for high performance marine vehicles is provided in this class. You’ll learn about structural dynamics, and advanced lightweight composite structures in addition to the effects of vibration and structural dynamics on the structural behaviour and operability of high performance marine vehicles. 
+ 
+ High Performance Sailing Yachts
+  
+  This class will illustrate to you how aero-hydrodynamic theory may be applied in practice in the performance prediction of high performance sailing yachts. You’ll learn about the particular hydrodynamic challenges posed to designers of high speed sailing yachts in addition to advanced design concepts. 
+ 
+ High Speed Ships
+  
+  You'll gain an in-depth insight into the particular hydrodynamic challenges posed to designers of high speed ships. You’ll learn about various methods for predicting the hydrodynamic performance of high speed ship design concepts and the principles governing operational performance, efficiency, comfort, and the environmental impact of high-speed ships. 
+ 
+ High Performance Marine Vehicles Engineering Project
+  
+  Individual project: in this module, you'll carry out an individual project, under the supervision of a member of academic staff, on a topic of interest to you. You’ll develop skills related to technical writing, literature searching, referencing and presentation. 
+  Group project: the second part of this module involves a group design project. Along with a group of your peers you'll experience the key elements of yacht design in accordance with rules of major classification societies and international regulatory bodies. 
+ 
+ Year 5 
+ Group Design Project
+  
+  In this class, you'll work as part of a team addressing a design problem, which is linked to current research activities or has a practical relevance to industry. You and your team will be responsible for selecting a problem, identifying objectives, defining methodology, gathering information, carrying out technical investigations and presenting your work to a panel which includes an industry expert. 
+ 
+ Advanced Marine Design
+  
+  During this class, you'll get an insight into ship design, including risk-based ship design and optimisation. You’ll learn about a variety of methods, tools and techniques that can be applied in solving problems covering the whole life cycle of a vessel (design, construction, operation and disposal). 
+ 
+ Waterborne Transportation Systems
+  
+  An in-depth insight into the markets, economics and operational systems, which are fundamental to the provision of waterborne transport are provided in this module. Students learn about key transportation markets, the relationships between quality, safety, maintenance and repair in shipping and the integrated nature of the transport system. 
+ 
+ The Marine Regulatory Framework
+  
+  This class will provide you with a comprehensive introduction to the marine regulatory framework, which is series of prescriptive rules and regulations covering most design and operational issues in shipping. You’ll learn about the background to its development, a description of the current framework and future enhancements due for enforcement. 
+ 
+ Renewable Marine Energy Systems
+  
+  Students learn about the ways in which the maritime environment can offer a significant contribution, in a sustainable manner, to global energy demands. You’ll subsequently be able to undertake engineering assessments of the design and operation of marine energy generating systems. 
+ 
+ On-board Energy Management and Environment Protection 
+  
+  You’ll learn about the regulations and international conventions governing the marine environment and the latest developments in environmentally-friendly shipping, including ship energy management systems and the optimisation and integration of machinery and power systems in a sustainable manner. 
+ 
+ Dynamics of High Performance Marine Vehicles
+  
+  This class provides an understanding of the assessment of sea-keeping performance of marine vehicles through state of art numerical and experimental approaches. You’ll learn about the particular hydrodynamic challenges posed to designers, design solution for motion reduction and experimental techniques and instrumentation for measurement of marine vehicle dynamics. 
+ 
+ Computational Free Surface Hydrodynamics
+  
+  You'll gain an insight into advanced methods and models used in the prediction of flow passing a body such as a ship or marine structure. You’ll learn how to model turbulent flows and free surface flows using various methodologies and industry standard software. 
+ 
+ Systems Availability and Maintenance
+  
+  This class will provide you with an insight into the qualitative and quantitative systems’ reliability techniques, as well as maintenance methodologies for application in the maritime industry. You’ll learn how to formulate, solve, report and present a comprehensive maintenance strategy, based on the application of reliability based tools. 
+  
+ 

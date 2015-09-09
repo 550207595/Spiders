@@ -1,0 +1,39 @@
+Course content 
+  Instructional classes 
+ Risers & Mooring Lines
+  
+  This class aims to provide an overview of the current deepwater oil and gas developments around the world and the technical challenges in terms of riser and mooring line design. It will also demonstrate methods for modelling and analysing risers and mooring lines. 
+ 
+ Dynamics of Floating Offshore Installations 
+  
+  This class aims to provide knowledge in order to understand the factors influencing the dynamic behaviour of fixed and floating offshore structures due to environmental forces. 
+  It also aims to develop skills in order to predict the dynamic motion and structural response of fixed and floating offshore platforms and to design and analyse foundations for fixed offshore structures. 
+ 
+ Reliability-based Structural Design & Plated Structures 
+  
+  The first part of this class   provides you with an insight into the reliability based design procedure for structural components. 
+  In the second part the methods are extended to structural systems, inspection planning and safety factor selection in code development. 
+ 
+ Finite Element Analysis of Floating Structures
+  
+  This class aims to provide you with a theoretical and practical knowledge of the finite element method and the skills required to analyse floating structures with ANSYS, a commercially available finite element analysis program. Particular emphasis will be given to ANSYS graphical user interface (GUI) and Workbench platform. 
+ 
+ Advanced Marine Structures 
+  
+  This class will provide you with a theoretical and practical knowledge of the finite element method and the skills required to analyse engineering problems with ANSYS, a commercially available finite element analysis program. 
+ 
+ Computational Modelling of Problems in Plated Mechanics 
+  
+  This class aims to provide you with an understanding into Finite Element Analysis of Linear and Non-Linear problems in structural mechanics. 
+ 
+ Materials Engineering
+  
+  This class aims to provide you with an overall knowledge of the ways in which corrosion-related and load-induced failure can occur in marine systems and equipment. This will provide you with the ability to predict and control such problems by means of materials selection, design and other alleviatory strategies. 
+  
+ Learning & teaching 
+ There are two teaching periods (semesters) of 12 weeks each. Some of the second semester subjects are taught over eight weeks. This is so that you can devote as much time as possible to your individual project work. 
+ Course modules are delivered in form of formal lectures supported with tutorials and laboratory experiment. 
+ Guest lectures 
+ During term time, we arrange weekly seminars in which leaders and pioneers of the maritime, oil and gas and marine renewables industries visit the department and present to students. This is a great way of supplementing your education with the latest developments and gaining industry contacts for your future career. 
+ Industrial visits are also made to a variety of companies. 
+ 

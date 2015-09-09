@@ -1,0 +1,225 @@
+Course content 
+ Compulsory classes for this course are Mathematical Sciences and the MSc project. Mathematical Sciences comprises of Level 5 classes from the list below. 
+ Students shall take an approved curriculum of no fewer than 60 credits for the Postgraduate Certificate; no fewer than 120 credits for the Postgraduate Diploma. 
+ Other Level 5 classes may be chosen as approved by the Course Director. 
+ Level 5 classes 
+ MSc Project
+  
+  The project provides students with experience and expertise in skills required to undertake a sustained and significant individual project in a mathematical or statistical area, using a variety of sources, such as books, journals and the internet, and to communicate the findings in written and oral form. 
+  Credits: 60 
+ 
+ Modelling & Simulation with Applications to Financial Derivatives
+  
+  This class offers an introduction to ideas in mathematics and statistics that can be used to model real systems, with an emphasis on the valuation of financial derivatives. 
+  The class places equal emphasis on deterministic analysis (calculus, differential equations) and stochastic analysis (Brownian motion, birth and death processes). 
+  In both cases, in additional to theoretical analysis, appropriate computational algorithms are introduced. The first half of the class introduces general modelling and simulation tools, and the second half focuses on the specific application of valuing financial derivatives, including the celebrated Black-Scholes theory. 
+  Credits: 20 
+ 
+ Applicable Analysis 3
+  
+  This class aims to present main results in Functional Analysis, introduce linear operators on Banach and Hilbert spaces and study applications to integral and differential equations. 
+  On completion, students should: 
+   
+   be familiar with operator norms & normed vector spaces of bounded linear operators 
+   know fundamental theorems in Functional Analysis, Open Mapping theorem, Closed Graph theorem, Uniform Boundedness Principle, Hahn–Banach theorem 
+   understand the concept of the dual space of a normed space 
+   know the second dual of a normed space & what reflexivity means 
+   understand the difference between strong, weak & weak-* convergence 
+   understand the concept of the adjoint of an operator in a Hilbert space & be determine the adjoint of a given operator   
+   know what self-adjoint, unitary & normal operators are 
+   understand the concept of the spectrum of an operator & calculate it for certain operators 
+   know properties of the spectrum of self-adjoint, unitary & normal operators 
+   understand what a compact operator is & be able to prove that certain operators in sequence or function spaces are compact 
+   know the properties of the spectrum of a compact operator on a Hilbert space 
+   understand the Fredholm Alternative and apply it to integral operators 
+   be able to apply the theory of compact operators to Fredholm and Volterra integral equation, to differential equations and eigenvalue problems 
+   
+  Credits: 20 
+ 
+ Statistical Modelling & Analysis
+  
+  Students are provided with a range of applied statistical general linear modelling techniques that can be used in professional life for the analysis of univariate and multivariate data. 
+  On completion of this class, students should be able to: 
+   
+   design a prospective study for the collection & analysis of data in order to identify effective treatments, processes & policies 
+   recognise & undertake analysis of various experimental designs 
+   formulate a problem in terms of an appropriate linear model & be able to undertake data analyses that take account of confounding, bias, repeated measures & control for different sources of variation 
+   use probability notation for managing uncertainty 
+   perform parameter inference & alternative hypotheses ranking using MCMC methods 
+   use a range of statistical software modelling routines & packages eg R, Minitab, etc. & understand their output 
+   produce reports of data analyses undertaken to a professional standard & be able to communicate the findings in a way that is understandable to other professionals 
+   
+  Credits: 20 
+ 
+ Fluids & Waves
+  
+  This class introduces the theory of Newtonian fluids and its application to flow problems as well as the dynamics of waves on water and in other contexts. 
+  On completion of this class, the student should: 
+   
+   be familiar with the continuum theory for a linearly viscous fluid & have some knowledge of solutions of the associated Navier–Stokes equations 
+   understand the concept of a stress tensor & know its particular form in terms of the rate of strain tensor for a Newtonian fluid 
+   be able to analyse simple flows of a Newtonian fluid & calculate the related forces on bounding surfaces 
+   understand the concepts of dynamical similarity & Reynolds numbers 
+   be familiar with approximate solutions of the Navier–Stokes equation for both small & large Reynolds number 
+   understand the concept of linear dispersive waves & the features of slowly varying non-uniform harmonic wave trains 
+   be able to apply these ideas to problems involving, for example, surface waves on water 
+   understand the concept of systems of quasilinear hyperbolic equations &, in particular, conservation laws, characteristics, simple waves & discontinuous solutions 
+   be able to apply these ideas to problems involving one or two dependent variables, eg long surface waves in fluids in shallow open channels 
+   
+  Credits: 20 
+ 
+ Finite Element Methods for Boundary Value Problems & Approximation
+  
+  This class aims to present the student with the basic theory and practice of finite element methods and polynomial and piecewise polynomial approximation theory. On completion of this class, the student should: 
+   
+   be familiar with the concept & techniques of orthogonal bases and best approximation 
+   be familiar with the concept & techniques of polynomial & piecewise polynomial interpolation 
+   be familiar with the concept & use of an error bound (and the differences when using different norms) 
+   be familiar with the idea of a weak formulation of a differential equation; 
+   be familiar with the Galerkin finite element method 
+   be able to perform an error analysis of the finite element analysis 
+   
+  Credits: 20 
+ 
+ Applied Statistics in Society
+  
+  Students are introduced to a range of modern statistical methods and practices used in industry, commerce and research, and will develop skills in their application and presentation. 
+  On completion of this class, the student should: 
+   
+   acquire a solid understanding of the statistical theory behind the three topics 
+   develop skills in study design & analysis of data using industry standard statistical software (eg SPSS, Minitab, R) 
+   be able to write & present statistical reports clearly & concisely to non-statisticians 
+   
+  Credits: 20 
+ 
+ Mathematical Biology & Marine Population Modelling
+  
+  This course will teach the application of mathematical models to a variety of problems in biology, medicine and ecology. 
+  It will show the application of ordinary differential equations to simple biological and medical problems, the use of mathematical modelling in biochemical reactions, the application of partial differential equations in describing spatial processes such as cancer growth and pattern formation in embryonic development, and the use of delay-differential equations in physiological processes. 
+  The marine population modelling element will introduce the use of difference models to represent population processes through applications to fisheries, and the use of coupled ODE system to represent ecosystems. Practical work will include example class case studies that will explore a real-world application of an ecosystem model. 
+  Credits: 20 
+ 
+ Mathematical Introduction to Networks
+  
+  This class will demonstrate the central role network theory plays in mathematical modelling. 
+  It will show the intimate connection between linear algebra and graph theory and how to use this connection to develop a sound theoretical understanding of network theory. 
+  Students will apply the theory as a tool for revealing structure in networks. 
+  On completion of this class, the student should: 
+   
+   understand & use the vocabulary of network theory 
+   understand the theory behind key matrix decompositions & how to apply them in the context of networks 
+   be able to generalise scalar functions to accept matrix arguments & apply these to networks 
+   be able to recognise & enumerate various network fragments 
+   be able to use various centrality measures 
+   be able to classify various real world networks according to their invariants 
+   have a basic appreciation of random graph theory 
+   
+  Credits: 20 
+ 
+ Applied Analysis & PDEs 1
+  
+  You'll develop techniques for analysing the qualitative behaviour of solutions to ordinary differential equations and introduce fundamental concepts associated with partial differential equations. 
+  On completion of this class, the student should: 
+   
+   be able to apply standard stability tests on equilibrium points of autonomous ODEs 
+   know what topological equivalence of scalar ODEs means 
+   be familiar with the concept of a bifurcation point for an ODE & be able to identify saddle-node, transcritical & Hopf bifurcations 
+   know standard results on periodic solutions of periodic scalar ODEs & be aware of the role played by Poincare map in determining the stability of such solutions   
+   be able to sketch phase portraits for one-dimensional & two-dimensional ODEs   
+   be familiar with the concepts of stable, unstable & centre manifolds & be able to determine these in simple cases 
+   know the standard terminology associated with PDEs, including their classification & be aware of some basic strategies that can provde useful in analysing PDEs 
+   
+  Credits: 20 
+ 
+ Applied Analysis & PDEs 2
+ 
+   Students will develop techniques for analysing the qualitative behaviour of solutions to partial differential equations.
+    
+  On completion of this class, the student should: 
+  
+   
+   
+   be aware of the connection between conservation laws & first order hyperbolic PDEs & be able to analyse the latter by the method of characteristics 
+   be familiar with the concepts of Riemann invariants, jump conditions, shock waves, rarefaction waves & travelling waves & be able to determine these in simple cases 
+   be familiar with the use of the maximum principle & comparison methods in non-existence, uniqueness, multiplicity & finite-time blow-up results for similinear elliptic & parabolic equations 
+   be familiar with integral inequalities, such as the Poincare inequality & its uses in elliptic & parabolic equations 
+   be familiar with energy methods & the parallels between ODE theory & the theory of evoluntionary PDEs 
+   
+  Credits: 20 
+ 
+ Applied Mathematics Methods 1
+ 
+   Students will develop expertise in asymptotic and integral methods for the solution of differential equations as well as an understanding of numerical methods for ordinary differential equations.
+  
+  On completion of this class, the student should: 
+   
+   
+   understand the concepts of regular & singular perturbations to ODEs & be able to apply asymptotic methods including multiple scales, matched asymptotic expansions & WKB theory 
+   be able to apply contour integral methods & associated asymptotic technqiues to solve ODEs exactly & asymptotically 
+   understand the concepts of the accuracy, stability & efficiency of numerical methods for integrating ODEs, & be able to implement & analyse standard numerical schemes 
+   
+  Credits: 20 
+ 
+ Statistics 1
+  
+  Students will gain an appreciation of the theory and practice of using generalised linear models and the role of simulation and bootstrap methods for drawing inferences from multivariable data. 
+  On completion of this class, the student should be able to: 
+   
+   understand the general approaches of linear modelling 
+   be able to programme & implement data modelling using R 
+   understand the model selection using likelihood principles 
+   fit linear models to data & obtain estimates of parameters 
+   be able to carry out simulation techniques with & without bootstrap methods 
+   
+  Credits: 20 
+ 
+ Statistics 2
+  
+  Students will become aware of novel linear regression approaches to deal with hierarchical systems and their analysis using the random effects approach. 
+  On completion of this class, the student should be able to: 
+   
+   apply general linear modelling principles 
+   understand the principle of random effects models & how they can be applied   
+   undertake random effects modelling of hierarchical nested structures using software 
+   apply basic Markov Chain Monte Carlo methods 
+   have experience of case studies 
+   
+  Credits: 20 
+ 
+ Probability 1
+  
+  This class will provide an introduction to the mathematical basis and use of probability, and to simultaneously develop both the careful mathematical reasoning which that subject requires and also the physical insight into the behaviour of random phenomena which motivates and guides the subject. 
+  On completion of this class, the student should: 
+   
+   have an understanding of the axiomatic principles of probability 
+   be familiar with the properties of important distributions & in particular Poisson processes 
+   be familiar with the distributions of functions of random variables 
+   understand convergence of sequences of random variables 
+   know how to handle conditional probability, in particular conditional expectation associated with Martingale processes 
+   
+  Credits: 20 
+ 
+ Probability 2
+  
+  This class provides an introduction to the mathematical basis and use of probability and to simultaneously develop both the careful mathematical reasoning which that subject requires and also the physical insight into the behaviour of random phenomena which motivates and guides the subject. 
+  On completion of this class, the student should: 
+   
+   be able to formulate & use Markov Chain theory for modelling temporal processes 
+   be able to recognise & implement renewal theory to model events in time 
+   recognise the role of Brownian motion as a modelling process & understand its properties 
+   apply simulation & Markov Chain Monte Carlo methods 
+   formulate & solve simple stochastic differential equations 
+   
+  Credits: 20 
+  
+ Learning & teaching 
+ Classes are delivered by a number of teaching methods, including: 
+  
+  lectures (using a variety of media including electronic presentations) 
+  tutorials 
+  computer laboratories 
+  coursework 
+  projects 
+  
+ Teaching is student-focused, with students encouraged to take responsibility for their own learning and development. Classes are supported by web-based materials. 
+ 

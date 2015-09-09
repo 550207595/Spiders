@@ -1,0 +1,129 @@
+Course content 
+ 
+    
+  
+  
+  
+ jwplayer.key='verMIVJCKwHdQT6stEkNyYvFr6/JH2KQsuhMx7a+LZk='; 
+ 
+	jwplayer('videoContainer_938438').setup({	
+		aspectratio: '16:9', 
+		width:'100%', 
+		playlist: [{
+			sources: [
+	   		{ file: "http://strathclydeuni.ifdnrg.com/Quantitative_Finance_-_course_overview_1080p.mp4",label: "1080p", type : "mp4" },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/Quantitative_Finance_-_course_overview_1080p_720.mp4", 	label: "720p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/Quantitative_Finance_-_course_overview_1080p_480.mp4", 	label: "480p", type : "mp4"  },
+	   		{ file: "http://strathclydeuni.ifdnrg.com/transcoded/Quantitative_Finance_-_course_overview_1080p_360.mp4", 	label: "360p", type : "mp4"  }
+	   	],
+			image: 'http://thumbnails.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/Quantitative_Finance_-_course_overview_1080p.jpg',
+			primary: 'HTML5',
+			controlbar: 'over',
+			autostart:false,
+			stretching: 'uniform', 
+			tracks: [{file:'http://subtitles.ifdnrg.com/5edf5ff13b8bc9a7ae0f138e5cb3d9e4/Quantitative_Finance_-_course_overview_1080p.srt',
+				label:'English',
+				kind: 'captions','default': false 
+			}]
+		}]
+	});
+ 
+ Semester 1 
+ Compulsory classes 
+ Foundations of Mathematical & Statistical Finance
+  
+  The educational intention of this class is to bring all of the students up to the same level of mathematical and statistical training so that they can then undertake the financial theory classes in semester 2. 
+ 
+ Principles of Finance
+  
+  This class provides an introduction to the basic principles of financial decision taking and the theory of finance. It will develop the basic principles of valuation, the nature of risk and uncertainty, the relationship between risk and returns. 
+  While the analysis will be developed in the context of corporate finance, looking at companies’ decisions in relation to investments in assets and how these assets will be funded, it considers the principles underlying financial reasoning that can be applied on a more general basis. 
+ 
+ International Financial Markets & Banking
+  
+  The aim of the class is to provide you with an understanding of the financial system and the roles and functions of financial markets and institutions. A particular emphasis is placed on understanding the roles of intermediaries such as banks and investment firms. 
+  You'll develop an understanding of the various characteristics and roles of fixed income, equity, and foreign exchange markets. While some attention will be given to the UK financial markets, the global nature of financial markets will be widely discussed. 
+  This class aims to equip you with an awareness and understanding of financial markets and institutions in the context of the global economy. Particular emphasis will be placed on the role and contribution of the banking sector.   This class covers the reasons for, and nature of, financial markets and institutions with a particular focus on banking, the global nature of these markets and their regulation. 
+ 
+ Foundations of Computer Science
+  
+  This module will help you gain practical experience of computer science and programming including practical exercises in a range of computer languages. You'll develop skills in algorithmic problem solving. 
+ 
+ Semester 2 
+ Elective classes
+ You're required to take 60 credits of optional classes from those listed below to ensuring that your curriculum contains 20 credits from each list. You should refer to relevant programme regulations in the University calendar regarding class selection requirements and credits in order to meet the programme requirements. 
+ List A
+  
+ Behavioural Finance
+  
+  The aim of the class is to provide you with an understanding of the main ideas of behavioural finance. A particular emphasis is placed on understanding the roles of non-rational actions and the development of new financial models that incorporate these ideas. 
+  You'll engage with up-to-date research and develop a critical view of existing and new finance theories and models. 
+  This class aims to introduce you to the rapidly evolving area of behavioural finance. You'll develop an understanding of behavioural finance and an appreciation of its possible implications and applications. This class provides you with an understanding of the main flaws of “traditional” finance theory from a behavioural finance viewpoint. It will allow you to develop the ability to discuss issues arising from violations of the rationality assumption and will enable you to evaluate new theoretical models based on research in psychology. 
+  The course will allow you to appreciate the role of new developments in finance and their possible implications for established views of the functioning of financial markets. 
+ 
+ Security Analysis
+  
+  The aims of this class are to develop an appreciation of the investment characteristics of different types of securities, particularly bonds and shares, and to develop an understanding of how such securities are valued. 
+  This class will build on the analysis developed in the first semester class, Principles of Finance.   It will consider the determination of interest rates, the valuation of bonds, the management of bond portfolios, and the valuation of equities. 
+ 
+ Portfolio Theory & Management
+  
+  The aim of this class is to examine the Markowitz (1952) approach to optimal portfolio selection. The class explores issues relating to optimal portfolio choice and issues in practical fund management.﻿ 
+ 
+ Derivatives & Treasury Management
+  
+  The aim of this class is to provide a strong grounding in derivatives that may be used to manage the financial risks faced by individuals, financial institutions and business corporations.   The class places an emphasis on corporate treasury management and the role of derivatives in managing treasury risk. 
+  In the first part of the class the focus is on the basic principles of derivatives.   We examine futures and forward contracts, options, swaps and credit derivatives, and how these may be used for speculation, hedging, and arbitrage purposes. The emphasis is on strategies devised to hedge long and short positions in underlying assets such as equities, bonds, and interest rates. The role of derivatives in the global financial market is also covered, including a discussion of the difficulties due to the unregulated use of derivatives. 
+  The second part of the class provides an introduction to the activities of treasury managers and the use of financial derivatives. We develop the treasury aspect of foreign exchange management into the broader area of multinational finance and consider the basic operation of the foreign exchange market and international capital budgeting. Emphasis is placed on practical techniques and the solution of problems, though not to the exclusion of theory. It will develop your understanding of international finance and capital markets, foreign exchange risk management and derivatives. 
+  The class provides an overview of international financial management in international banking and Eurocurrency and Eurobond markets. 
+  
+ List B
+ Database & Web Systems Development
+  
+  This module aims to provide conceptual and practical understanding of data modelling, database design and database technology. It also aims to give practical experience of developing web-based applications that integrate database server interaction. 
+ 
+ Business Analytics
+  
+  This module aims to: 
+   
+   provide an integrated set of tools and techniques for the effective delivery of information based services 
+   identify appropriate measures, metrics and methods for specifying and evaluating the performance of information based services 
+   address key concepts in system and information security in relation to end users and networked systems 
+   
+ 
+ Evolutionary Computation for Finance
+  
+  This module will help you to understand (a) nature of evolutionary computing (b) suitability of evolutionary computing for financial applications. It will provide practical experience in developing and operating evolutionary computing approaches for financial applications. 
+  
+ List C
+ Financial Stochastic Processes
+  
+  The class aims to expose you to a number of diverse topics in stochastic processes that can be used to model real systems, with an emphasis on the valuation of financial derivatives. In additional to theoretical analysis, appropriate computational algorithms using R are introduced. 
+ 
+ Financial Econometrics
+  
+  You'll be exposed to a number of diverse topics in econometrics that can be used to model real financial data, with an emphasis on the analysis of financial time series. The statistical software R is introduced for financial modelling. 
+ 
+ Games & Networks in Finance
+  
+  This module will introduce you to a number of diverse topics in game theory and its applications to financial problems as well as giving a sound background on network theory at both theoretical and applied level. 
+ 
+ Semester 3
+ 
+ Compulsory module for students enrolled on the MSc.
+  
+ Research Project
+ 
+   You'll undertake a research project. 
+  
+ Learning & teaching 
+ Classes are delivered by a number of teaching methods: 
+  
+  lectures (using a variety of media including electronic presentations and computer demonstrations) 
+  tutorials 
+  computer laboratories 
+  coursework 
+  projects. 
+  
+ Teaching is student-focused, with students encouraged to take responsibility for their own learning and development. Classes are supported by web-based materials. 
+ 

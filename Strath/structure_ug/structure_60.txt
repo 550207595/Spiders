@@ -1,0 +1,238 @@
+Course content 
+ Year 1 
+ Compulsory classes 
+ Machines, Languages & Computation
+ 
+   This class will help you achieve a broad knowledge of the essence of computation and computational systems, as embodied by the notions of computable functions, formal languages and recursion, logic and computability and abstract machines. 
+ 
+ Information & Information Systems
+ 
+   This class will help you understand a broad knowledge of information systems and how information is created, used and disseminated within an information society. 
+ 
+ Programming Foundations
+ 
+   This class will provide you with a solid foundation in the principles of computer programming. On completing this class you should have the necessary skills to be able to design, build and test a small system in a high-level language (Java in the current incarnation of the class). 
+ 
+ Computer Systems & Organisation
+  
+  Semester 1:  you'll develop an understanding and appreciation of a computer system's functional components – both hardware and software, their characteristics, their interactions, and their fundamental role in the manipulation of data. 
+  Semester 2: you'll further your knowledge of the design parameters of a typical computer system and the impact these have on the functionality, and implementation, of the hardware and software components. 
+ 
+ Topics in Computing 1 
+ 
+   This class will help you to develop a broader perspective of computer science and to develop problem solving, team working, presentational skills, as well as personal and professional development skills. 
+ 
+ Combinatorics for Computer Science 1
+ 
+   The aim of this class is to introduce the basic combinatorial tools of computer science, to train students in mathematical thinking and reasoning that is pertinent to computer science, and to present that reasoning in rigorous written text. 
+ 
+ Business Analysis & Technology
+  
+  This class will help raise awareness of the real world problems encountered by industry that can be solved through Management Science methodology. You'll: 
+   
+   develop an understanding of the tools and techniques used by business analysts 
+   highlight the integrative role of technology within organisations 
+   demonstrate the dynamic nature of technology 
+   
+ 
+ Year 2 
+ Compulsory classes 
+ Advanced Programming
+  
+  This class will further your skills in object-oriented programming, provide knowledge of key abstract data types along with their implementation and usage, and to provide experience in the development of larger scale software and an introduction to design. 
+  Your main goal is to be able to develop larger programs with specialized data structures and utilizing APIs from a specification, and being able to ensure and show how the system they developed matches the specification. 
+ 
+ Logic & Algorithms
+ 
+   This class will equip you with the tools to model and measure computation. To build on the module Machines, Languages and Computation, and develop further understanding of the mathematical foundations of computation. To foster an analytical and empirical appreciation of the behaviour of algorithms and the use of abstract data types. 
+ 
+ User & Data Modelling
+ 
+   This class will provide you with a critical appreciation and understanding of how to model user activities and the data to support them, together with how to implement systems and databases to support user activities. 
+ 
+ Computer Systems & Architecture
+ 
+   This class will allow you to develop a deeper understanding of typical computer architectures and their instruction sets and the complex tradeoffs between CPU clock speed, cache size, bus organisation, number of core processors, etc, that influence their design and have a fundamental impact on their performance. 
+ 
+ Professional Issues in Computing
+ 
+   This class will ensure you're aware of the legal, social, ethical and professional issues commensurate with the practice of Information Systems Engineering. 
+ 
+ Managing Business Processes and Information Systems 
+  
+  This class aims to provide you with an understanding of the key issues in the management of business processes and information systems within the wider context of the advent of the information/knowledge economy, including: 
+   
+   mapping & modelling of business processes 
+   business process measurement and improvement 
+   business process implementation 
+   enterprise resource planning (ERP) 
+   company-wide IS. 
+   
+  The class will also provide you with the opportunity to use an industry-standard ERP system to explore practical solutions to problems of business process integration. 
+  
+ Elective classes
+ 
+ You should choose one of the following classes.
+  
+ Topics in Computing 2
+ 
+   This class will help you to develop further their perspective of computer science and to enhance your problem solving, team working, and presentational skills. 
+ 
+ Combinatorics for Computer Science 2
+ 
+   The aim of this class is to introduce the combinatorics of discrete objects that are ubiquitous in theoretical computer science, namely graphs and relations. For both these objects, the overarching aim is to develop your skills in mathematical thinking and reasoning, and to be able to present that reasoning in rigorous written text. 
+ 
+ Year 3 
+ Compulsory classes 
+ Building Software Systems
+  
+  This class will extend and deepen your understanding of the analysis, design and implementation of software systems; to provide further experience in the activity of designing and implementing non-trivial systems; and to enable you to demonstrate practical competence in a group environment. 
+  Your goal is the development in a group setting of significant systems from scratch aiming not just at any solution but a good solution, and to be introduced to more general Software Engineering topics. 
+ 
+ Computer Systems & Concurrency
+  
+  This class will allow you to develop a deeper understanding of highly concurrent hardware and software systems. The class will also further your knowledge of the need for, and the design and implementation of, those other vital hardware and software components of a concurrent system, namely multiprocessors and their interconnections, operating systems and networks. 
+  The interactions between many of these components will be investigated by means of significant practical work that consolidates the lecture content in the context of: (i) multiprocessor architectures, (ii) concurrency, (iii) protection and security and (iv) networked and concurrent applications. Software developed in appropriate programming languages will form the basis of much of the practical work thus enabling the student to enhance their software design and implementation skills in this domain. 
+  
+ Compulsory classes
+ 
+ You should choose four of the following classes.
+  
+ Functional Programming
+  
+  Pre-requisites: Basic programming skills, as might be gained by taking the class Programming Foundations or a similar introductory programming class. 
+  To aim is to provide you with skills in basic functional programming and experience in integrated deployment of those skills. 
+ 
+ Mobile App Development
+  
+  Pre-requisites: Advanced Programming 
+  You should gain a good understanding of the issues in developing for mobile environments, approaches to handling these issues and skills in developing for a widespread mobile platform. 
+ 
+ Foundations of Artificial Intelligence
+  
+  Pre-requisites: Advanced Programming, Logic & Algorithms. 
+  This class will help to give you a broad appreciation of the scale and nature of the problems within Artificial Intelligence and to a detailed understanding of some of the fundamental techniques used to address those problems. 
+ 
+ Programming Language Definition & Implementation 
+  
+  The class will provide familiarisation with the definition of programming language syntax and semantics, and the translation of these definitions into an implementation of a programming language. 
+ 
+ Web Applications Development
+  
+  Pre-requisites: Advanced Programming, User & Data Modelling. 
+  This class will give you an understanding of the technologies used in the development of N-tier Internet-based applications. 
+ 
+ Internet Law 
+  
+  THIS CLASS MAY NOT RUN in 2014/15 
+  An increasing part of our everyday life and activities is realised online where information is constantly created and distributed influencing our political, social and economic conditions. 
+  The extensive uptake of new digital information technologies and particularly, the Internet, has also resulted in expanding our legal universe. New laws are being created, the application of older laws being challenged and reconfigured and, unavoidably, new legal challenges are arising due to conflicts of regulatory decisions with technological advances. 
+  The aim of this class is to address the basic issues arising from the advent of the Internet and related digital technologies. You'll become familiar with important legal developments that have taken place in the last 20 years. 
+ 
+ Year 4 
+ Compulsory classes 
+ Individual Project
+ 
+   This class will allow you to demonstrate practical and documentary competence. You'll also be expected to give a demonstration of your work. 
+ 
+ Industrial Placement 1 
+  
+  The placement enables you to experience the application of aspects of your degree course in an industrial context and the group work which such experience requires. 
+  You will normally do a three month placement between third and fourth year (Industrial Placement 1). In addition you may elect to take a second placement between fourth and fifth year (Industrial Placement 2). 
+  
+ Elective classes
+ 
+ You should pick four of the following classes.
+  
+ Software Architecture & Design
+  
+  This class aims to: 
+   
+   enable you to understand the challenges of advanced software design and the issues associated with large-scale software architectures, frameworks, patterns and components 
+   develop your understanding of the tools and techniques that may be used for the automatic analysis and evaluation of software 
+   
+ 
+ Advanced Functional Programming
+ 
+   This class will provide you with further skills in functional programming and an appreciation of the mathematical structures which underpin powerful general programming concepts and techniques. 
+ 
+ Theory of Computation
+ 
+   Building on the previous material in software development, you'll extend and formalise your abilities in the area of computational complexity. 
+ 
+ Information Access & Mining
+ 
+   This class will allow you to understand the fundamentals of information access and information mining. The class will cover a range of techniques for extracting information from textual and non-textual resources, modelling the information content of resources, detecting patterns within information resources and making use of these patterns. 
+ 
+ Embedded Systems
+ 
+   This class allows you to undertake the design and development process for embedded (dedicated) computer systems in relation to the environment in which they operate and to know how to integrate embedded hardware, software, and operating systems to meet the functional requirements of embedded applications. 
+ 
+ Digital Forensics
+ 
+   This class allows you to understand issues associated with the nature of cybercrime, digital evidence, detection methods and proof, in a variety of digital forensic contexts, including computers, networks and portable digital devices. 
+ 
+ Year 5 
+ Compulsory class 
+ Group Project 
+  
+  The aim is to give you "real-world" experience in team working and group project management by participating in a sustained and significant group-based project within the CIS domain. Working in project teams of three or four, you're expected to convert a given specification into an appropriate deliverable. Following initial liaison with supervisors, the student team is primarily responsible for all aspects of the project development including initial research, planning, design, implementation and reporting to supervisors. 
+  This class presents you with the opportunity to consolidate and enhance your technical skills, and also develop generic softer skills such as teamworking, negotiation, budgeting, sourcing and purchasing, project planning and management, and communication. 
+  
+ Elective classes
+ 
+ You should pick four of the following classes.
+  
+ Industrial Placement 2 
+  
+  100% by presentation. The placement is assessed on the basis of a short presentation made to staff and fellow students at the start of the year. The presentation will be marked by two assessors from the department. 
+ 
+ Advanced Topics in Software Engineering 
+  
+  The class will introduce you to a selection of recent advances in software engineering, along with some of the challenges and outstanding problems. 
+  The detailed aims of the class are: 
+   
+   To make you aware of key aspects of current software engineering research 
+   To familiarise you with the state-of-the-art in terms of what problems can be solved and what are the current exciting challenges 
+   To develop the necessary skills to allow you to contribute to the software engineering research community 
+   To equip you with the skills and background to appreciate the contributions to software engineering research across the full range of material presented at the key international conferences in the field 
+   
+ 
+ Designing Usable Systems 
+  
+  To develop research level understanding of the design of interfaces for newly emerging technologies and computing domains such as ubiquitous and mobile computing, universal access and collaborative displays. 
+ 
+ Distributed Information Systems 
+  
+  This class will help you to gain an extended understanding of the deep technical issues underlying information systems in the particular context of distributing content over the world-wide web. 
+ 
+ Mobile Software and Applications 
+  
+  The aim of this class is to develop an understanding of the underpinning theories, paradigms, algorithms and architectures for building software applications to function in mobile computing environments. 
+ 
+ Information Systems Architecture 
+  
+  This class aims to: 
+   
+   develop your enterprise-level analytical skills to allow you to contribute to the analysis and design of information system architecture (ISA) 
+   develop an understanding of methodological due process and best practice for ISA development 
+   develop an understanding of the challenges and critical success factors of ISA development 
+   
+ 
+ Information Retrieval & Access 
+  
+  This class aims to give a detailed examination of the field of information seeking and retrieval, the study of how people search for information and the sources, services and systems that can be used to help people access information. 
+ 
+ Business Analytics 
+  
+  This class aims to: 
+   
+   develop a critical awareness of the range of tools being marketed under the label "decision support" or more generally "business intelligence" (BI) 
+   provide an understanding of the key algorithms and techniques which are embodied in business intelligence solutions 
+   
+ 
+ Computer Security 
+  
+  This class aims to develop an in-depth understanding of the nature of security in the contexts of computers, information and networks. 
+  
+ 

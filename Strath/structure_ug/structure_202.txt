@@ -1,0 +1,106 @@
+Course content 
+ Year 1 
+ Experimental Physics
+ 
+   This class is an introduction to working in a laboratory environment. You'll undertake experiments related to the taught components of the first year physics curriculum, learning how to handle experimental uncertainties. In addition to laboratory work, you'll also undertake a group project. 
+ 
+ Mechanics, Optics & Waves
+ 
+   We'll provide you with an understanding of motion of simple mechanical systems, gravitation and simple harmonic motion. You'll also learn about the fundamentals of wave propagation and the superposition of waves as well simple optical phenomena such as diffraction. 
+ 
+ Quantum Physics & Electromagnetism
+ 
+   This class is designed to introduce you to quantum mechanics and electromagnetism. It highlights experimental observations that resulted in the development of quantum mechanics, such as the photoelectric effect and blackbody radiation. In terms of electromagnetism, you'll cover basic electrostatics such as Gauss's law and magnetostatics. 
+ 
+ Year 2 
+ Experimental Physics
+ 
+   This class is an extension of Experimental Physics from year 1. You'll undertake more complex experiments that are related to the taught components of the second year curriculum. You'll will see the statistical origin for experimental uncertainties. 
+ 
+ Mechanics, Optics & Waves
+ 
+   This class builds on Mechanics, Optics and Waves from year 1. You'll be introduced to special relativity, the vector treatment of rotational motion and the behaviour of systems when forced to oscillate. To extend your understanding of wave phenomena you'll be introduced to the wave equation, Fresnel and Fraunhofer diffraction and the operation of lasers. 
+ 
+ Quantum Physics & Electromagnetism
+ 
+   This class builds what you learned in year 1. you'll be introduced to the probabilistic nature of quantum mechanics and you'll develop a vector model of electromagnetism. 
+ 
+ Computational Physics
+ 
+   This class will introduce you to the fundamentals of computer programming and the applications of computer programming, using Matlab, to solve physical problems. 
+ 
+ Condensed Matter Physics
+ 
+   You'll be introduced to solid state physics covering topics such as bonding in solids, through to the difference between conductors, insulators and semi-conductors. 
+ 
+ Gases & Liquids
+ 
+   Here you'll discover some of the key concepts associated with liquids and gases. You'll cover topics such as ideal and imperfect gases, Maxwellian distributions, hydrostatics and Bernoulli's equation. 
+ 
+ Year 3 
+ Experimental Physics
+ 
+   This class extends the laboratory work developed in years 1 and 2. In this class the laboratory work is open ended with so you're able to fully explore the experiments in preparation for the final year project. 
+ 
+ Quantum Physics & Electromagnetism
+ 
+   Building on what you learned in year 2, this class will extend your understanding of quantum mechanics by introducing advanced concepts such as time independent perturbation theory and electromagnetism by exploring the wave like nature of electromagnetism as predicted by Maxwell's equations. 
+ 
+ Physics Skills
+ 
+   This class will develop your knowledge base and transferable skills in preparation for the project undertaken in years 4 and 5 of the course. It focuses on oral, written and graphical presentations, literature and group-work skills, individual data analysis and interpretation skills, and basic grounding in physics problem solving. 
+ 
+ Condensed Matter Physics
+ 
+   Here you'll cover condensed matter physics and be introduced to concepts such as the Fermi surface, superconductors, phonons and other forms of collective excitations. 
+ 
+ Statistical Physics
+ 
+   This class covers the fundamentals of thermodynamics through to an introduction to various distributions such as Maxwellian, Fermi-Dirac and Bose-Einstein. 
+ 
+ Practical Physics
+ 
+   This class is a reduced version Experimental Physics. It's offered only to students on the BSc Physics with Teaching degree. 
+ 
+ Year 4 
+ Project
+ 
+   The aim of this class is to help you develop as an enquiring independent physicist by undertaking a project under the supervision of a member of staff of the department. 
+ 
+ Physics Skills
+ 
+   This class will further develop your skills as a professional physicist. It'll introduce you to key concepts in the commercialisation of research thereby introducing you to the business world as well as further refining your problem solving skills. 
+ 
+ Topics in Physics
+ 
+   Here you'll be introduced to state-of-the-art developments in generation and use of charged particles in various forms such as free electron beams, plasmas and astrophysical plasmas. 
+ 
+ Topics in Solid State Physics
+ 
+   Here you'll track the development of key concepts in solid state physics and how these concepts can be exploited to form functional optical and electronic devices. 
+ 
+ Topics in Nanoscience
+ 
+   Here you'll be introduced to nanoscience. Specifically, the course will address concepts relating to Nanoparticle production, characterisation and structure before progressing to the physics associated with molecular nanoscience, including intermolecular forces and the techniques used to investigate these forces. 
+ 
+ Topics in Photonics
+ 
+   This class provides an introduction to laser physics, laser optics and nonlinear optics as required for the work in many photonic laboratories. 
+ 
+ Topics in Computational & Complexity Physics
+ 
+   You'll be introduced to the ideas and concepts associated with complexity physics and to the use of computer simulations to demonstrate these processes. 
+ 
+ Topics in Theoretical Physics
+ 
+   The aim of this class is to introduce you to the large scale structure of space-time. 
+ 
+ Topics in Quantum Physics
+ 
+   This class provides an introduction to the basic concepts and theoretical ideas of quantum optics. 
+ 
+ Topics in Atomic, Molecular & Nuclear Physics
+ 
+   This class aims to give a general overview and understanding of atomic and molecular physics and relate these to practical applications and related fields of study. 
+  
+ 

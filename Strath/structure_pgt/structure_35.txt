@@ -1,0 +1,59 @@
+Course content 
+ Compulsory classes 
+ (September to May) 
+ Digital Signal Processing Principles 
+  
+  You'll develop the necessary tools that will allow you to design, analyse and simulate (Matlab/Simulink) DSP systems by introducing core mathematical concepts, algorithms and fundamental properties of discrete signal and systems with applications. 
+ 
+ Information Transmission & Security 
+  
+  The aim of this class is to develop an understanding of the principles by which information can transmitted with varying levels of security and the techniques by which communication systems can be analysed and designed. 
+ 
+ Control Principles
+  
+  This class will introduce you to the basic concepts, mathematical tools and design methods of classical control theory. It will enable you to use analysis and design tools used in control engineering and appreciate the industrial applications of control systems. 
+  You'll also learn to analyse and design closed loop control system specifically using industrial three-term (PID) controllers. Through an introduction to advanced control methods, you'll gain a basic understanding of a time-domain approach to control analysis and design of industrial processes. 
+     
+ 
+ Assignment & Professional Studies 
+  
+  The aim of this class is to provide you with support for your general academic and professional development. 
+  You'll undertake an advanced investigation of an electronic or electrical engineering topic of your choice, to enhance your learning, and develop presentation and communication skills. 
+ 
+ Elective classes
+ Choose at least two from this list 
+ Communications Networks 
+  
+  This class will provide you with an understanding of the principles and key transport technologies which underpin high-speed heterogeneous broadband communications networks and architectures while giving an insight to the technical and strategic challenges associated with the provision of a Quality of Service (QoS)-based integrated future-network platform. 
+ 
+ Advanced Digital Signal Processing Principles
+  
+  The objective of this class is to ensure you develop the necessary skills that will allow you to analyse, design, implement and simulate advanced DSP techniques and algorithms for a variety of communications and general engineering problems. 
+ 
+ Embedded Systems Design 
+  
+  This class provides hands-on experience in translating Digital Signal Processing concepts into real-time embedded systems applications. 
+  Through a combination of lectures, up-to-date technical discussions and hardware programming, you'll learn to design and implement real-time embedded systems through familiarisation with Digital Signal Processors and FPGAs.   
+ 
+ Image & Video Processing 
+  
+  This class will provide an introduction to the techniques relevant to digital images and video. This includes techniques both to process images and video and also to efficiently compress and communicate them. 
+  The class will give you a comprehensive understanding of various image and video processing and coding standards. You'll also study some key applications of these standards. 
+ 
+ Control Techniques 
+  
+  Through an introduction to the concepts and tools of modelling, simulation for control of dynamical systems, and computer control engineering, you'll develop the skills required to understand and analyse digital control systems for real time engineering applications. You'll also appreciate the design of estimation and its use in control design. 
+  
+ Summer (June to September) 
+ MSc Research Project / Internship 
+  
+  The aim of the research project is to provide you with an opportunity to bring your knowledge and skills together and deploy them in a significant practical investigation, using relevant engineering literature, and where relevant, initial experiments or simulations. 
+  
+ Learning & teaching 
+ We use a blend of teaching and learning methods including interactive lectures, problem-solving tutorials and practical project-based laboratories. Our technical and experimental officers are available to support and guide you on individual subject material. 
+ Each module comprises approximately five hours of direct teaching per week. To enhance your understanding of the technical and theoretical topics covered in these, you're expected to undertake a further five to six hours of self-study, using our web-based virtual learning environment (MyPlace), research journals and library facilities. 
+ The teaching and learning methods used ensure you'll develop not only technical engineering expertise but also communications, project management and leadership skills. 
+ Industry engagement 
+ Interaction with industry is provided through our internships, teaching seminars and networking events. The department delivers monthly seminars to support students’ learning and career development. 
+ Xilinx, Texas Instruments, MathWorks, and Selex ES are just a few examples of the industry partners you can engage with during your course. 
+ 

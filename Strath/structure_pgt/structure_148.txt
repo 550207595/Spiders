@@ -1,0 +1,89 @@
+Course content 
+ You must take three specialist modules if you’re studying for the Postgraduate Certificate and up to five if you’re studying for a Postgraduate Diploma or MSc. 
+ Successful completion of six modules leads to the award of a Postgraduate Certificate. 
+ Process Design Principles 
+  
+  The focus of this module is on the principles of conceptual design and flowsheet development. 
+  You’ll focus on defining “design” and the associated terminology, and showing how this can be applied to equipment and process selection. You’ll also develop an understanding of the hierarchical and structural methods of developing conceptual designs including the effective design of utility systems to reduce energy use. 
+ 
+ Safety Management Practices
+  
+  This module provides you with an advanced level exposure to the role of management and management systems in safety and loss prevention. 
+  It will involve in-depth analysis of major incidents in recent history: pinpointing the structure of Safety Management Systems, approach to Auditing Safety Management, the role of Human Factors, and the process and concept of safe design. This course will also involve developing Site Emergency Plans and Accident Investigation skills, as well as a review of legal structure for the UK. 
+ 
+ Multi-phase Processing
+  
+  This module helps you to understand important concepts and principles in multi-phase processes and their application to chemical engineering. The concepts are limited to those involving only incompressible Newtonian fluids with flow through circular pipes and simple mixing in tanks. 
+ 
+ Petrochemical Engineering
+  
+  This module will look at: 
+   
+   the concepts of origin and formation of petroleum, and types and quality of refinery feedstock and products 
+   various sections of petroleum processing in refineries 
+   refinery economics and planning 
+   advanced topics in petrochemical engineering such as catalyst development, desulphurisation, pollution control and hydrogen production 
+   
+ 
+ Membrane Technology
+  
+  This module aims to provide you with a deeper understanding of membrane technology including: 
+   
+   advanced systems and processes for manufacture 
+   research and innovation in novel applications and materials 
+   markets and applications, particularly emerging applications 
+   theoretical models describing membrane performance 
+   
+ 
+ Fuel Cells
+  
+  This module provides you with an introduction to the fuel cell industry. The module covers: 
+   
+   technical aspects like construction 
+   choice of materials 
+   different electrolytes 
+   potential outputs 
+   alternative fuel cycle 
+   waste 
+   sustainability 
+   
+ 
+ Emerging Technologies
+  
+  This module is an introduction to key research areas across Chemical Engineering and Chemistry that are of industrial importance in the medium term. It will include a range of advanced technologies that support the innovation, design and development of processes that are more efficient, cleaner and have a reduced impact on the environment. 
+ 
+ Molecular Simulation in Chemical Engineering
+  
+  This module looks at: 
+   
+   how chemical engineering processes operate at a molecular scale and how the molecular scale eventually determines what happens at the process scale 
+   the usefulness of molecular simulation in chemical engineering 
+   the theoretical framework that underlies molecular simulations, thermodynamics and basic statistical mechanics 
+   molecular simulation conventions 
+   transferable skills useful for obtaining measurements from simulations, analysing data and communication of technical data and ideas 
+   
+ 
+ Nuclear Engineering
+  
+  This module gives you an introduction to the nuclear industry. The module covers: 
+   
+   radiation - fission & fusion 
+   reactor technology 
+   shielding 
+   health physics 
+   nuclear fuel cycle 
+   nuclear waste 
+   nuclear proliferation 
+   safety 
+   sustainability 
+   
+ 
+ Model-based Process Control 
+  
+  This module covers part of the requirements necessary for the IChemE’s new Process Automation Specialist syllabus. The module is directed at advanced control techniques and is particularly concerned with process modelling and then the use of such models in model-based control schemes. 
+ 
+ Sustainability 
+  
+  This class aims to provide you with an understanding of the concepts of sustainability and sustainable development. The social, environmental and economic impact of development strategies will be identified and the mitigation of negative impacts discussed. 
+ 
+ Environmental Impact 

@@ -1,0 +1,106 @@
+Course content 
+ Compulsory classes 
+ Engineering Composites
+  
+  The promise claimed for new materials in engineering is most likely to be realised through the use of composites and ceramics. This class aims to give a basic understanding of modern composite materials and an appreciation of predictive modelling and design implications when composites are applied to engineering structures. The main composite manufacturing processes will be outlined. 
+ 
+ Polymer & Polymer Composites
+  
+  Polymer and polymer composite materials have been increasingly used in modern engineering applications such as aerospace, automotive, construction, marine, oil and gas. This class provides background knowledge of polymer and a basic understanding of modern polymer composites. The class will be balanced between science and engineering. 
+ 
+ Industrial Metallurgy
+  
+  Students will develop an understanding of applied industrial metallurgy. Topics include material selection, properties of metals and alloys, characterisation methods, welding engineering, heat treatment and degradation processes. 
+ 
+ Optional classes 
+ Pressurised Systems
+  
+  This class aims to introduce the subject of industrial Pressurised Systems and ensure competency in the use of Standards and Design Codes. Pressurised Systems are inherently dangerous since they contain stored energy which must be carefully controlled. A methodology is set down whereby a range of pressurised components can be designed, manufactured, installed and operated to a high degree of safety. 
+ 
+ Aerodynamic Performance
+  
+  This module introduces students to the principles of experimental aerodynamics and computational aerodynamics performance assessment. It also provides an introduction to the importance of aeroelastic phenomena on aerodynamic design. A range of analysis techniques will be used to develop an understanding of the aerodynamic performance of aircraft and industrial aerodynamic problems. 
+ 
+ Aerodynamic Propulsion Systems
+  
+  The principles of propulsion systems for aircraft and rockets are covered. Throughout the class, the overall procedure and methodology for designing a propulsion device, starting from the aircraft concept and the associated engine requirements, through to the aero-thermal design of engine components is presented and discussed. Students will develop an understanding of the overall design process and the performance of aerospace propulsion systems. 
+ 
+ Systems Engineering 1
+  
+  This advanced class aims to introduce concepts of modelling and control design for engineering systems. It includes the study of the performance, characteristics and advantages of feedback control systems, and the introduction of control design techniques based on steady state and transient response specifications. Simulink is used as a industry-standard software tool. 
+ 
+ Systems Engineering 2
+  
+  This class is an optional continuation of ME501 Systems Engineering 1. The aim is to use advanced modelling and control design techniques appropriate for complex engineering systems. The use of Simulink will again facilitate the test of design specifications and the optimisation of systems performance. 
+ 
+ Machine Dynamics
+  
+  This class adopts an analytical approach to dynamic problems which occur in conventional and modern machines with a view to developing good design and control practice and analytical skills. It covers mathematical preliminaries, out of balance and balancing of rotor-dynamic and reciprocating machines, 1&2 degree of freedom machines and high-dimensional machines such as autonomous underwater vehicles and spacecraft. 
+ 
+ Machinery Diagnosis & Condition Monitoring
+  
+  Condition monitoring and fault detection in structures and machinery plays an important part in the maintenance and protection of equipment, and has come to the fore since the recent advances in computer-based systems. This class provides an understanding of Condition Monitoring (CM) and its relevance to industry. Particular attention is paid to vibration-based health monitoring and signal (time series) analysis. 
+ 
+ Mathematical Modelling in Engineering Science
+  
+  Mathematical modelling remains an important tool for engineers to understand complex phenomena and to predict the behaviour of complex systems. This class is designed to provide insights into generic problems in engineering science through ordinary differential equations. Examples include the use of bifurcation methods to understand buckling and the use of (singular) perturbation methods to understand boundary layers in fluid flow. 
+ 
+  
+ Spaceflight Mechanics
+  
+  This class is designed to provide a comprehensive overview of spaceflight mechanics, including both orbit and attitude dynamics. The classic two-body problem is solved then used to investigate various modes of orbit transfer and attitude stabilisation for both spin- and 3-axis stabilised spacecraft. The various elements of the class will be brought together to illustrate the mission analysis and design process. 
+ 
+ Advanced Topics in Fluid Systems Engineering
+  
+  Complex fluid flow and heat transfer problems are central to many advanced fluid engineering systems often at the cutting-edge of modern engineering. These include human biological flows, multiphase flows, micro- and nano- scale flows. In all of these our physical understanding is limited, which limits our engineering design ability. This class gives students the opportunity to identify and explore a number of advanced topics in heat transfer and fluid flow. 
+ 
+ Spaceflight Systems
+  
+  This class is designed to provide a comprehensive overview of spaceflight systems. An overview of the complete spacecraft lifecycle from proposal, through delivery and operations is covered, along with the function and purpose of the spacecraft sub-system level components. The various elements of the class are brought together through the production of competitive proposals for a typical spaceflight system development program. 
+ 
+ Advanced Boiler Technologies 1
+  
+  This module provides core knowledge of the modern conventional power plant boiler and enables students to develop a critical awareness of the operation, design and integration of the key components that comprise a boiler system. 
+ 
+ Advanced Boiler Technologies 2
+  
+  Pressurised systems are inherently dangerous since they contain stored energy which must be carefully controlled. The module sets down a methodology whereby a range of pressurised components (spheres, cylinders, cones, etc.) can be designed, manufactured, installed and operated to a high degree of safety. Topics include the design of the boiler, associated equipment and piping systems. 
+ 
+ Materials for Power Plant
+  
+  This module gives students a thorough introduction to the materials science and metallurgy that underpins the design of power plant. This will build on basic concepts to give an appreciation for the theory of alloy design and strengthening mechanisms, including an understanding of the importance of fracture and creep. 
+ 
+ Gas & Steam Turbines
+  
+  This module gives students an advanced knowledge of applications of both steam and gas turbines within the power generation industry. The module includes details of power-plants that have been developed specifically to integrate gas turbines such as (gas turbine exhaust gas) heat recovery steam generators (HRSGs) used in combined cycle gas turbine (CCGT) plants. 
+ 
+ Generic classes 
+ Design Management
+  
+  This module provides a structured introduction to the Design Management process, issues and tools. Topics include Integrated Product Development, and the different approaches and aspects to design development including concurrent engineering, team engineering, product management, design management, distributed design, and decision support. Other topics cover the design activity, team and management organisational structures, key issues concerning design complexity, and design performance and innovation. 
+ 
+ Information Management 
+  
+  This module gives students an understanding of the types of different approaches, techniques and systems used in building information based systems. Topics include the software engineering process, requirements specification, visual modelling and an understanding of information storage and retrieval systems. 
+ 
+ Project Management 
+  
+  This module provides students with skills relating to the use of engineering practices in Project Management with particular respect to the effective and efficient use of resources. The syllabus includes an introduction to project management techniques and project control, project networks including critical path analysis, procedural and graphical presentation techniques, an introduction to Contract Law and project budgetary control. 
+ 
+ Risk Management
+  
+  Under Health and Safety legislation, and under the wider European Post-Seveso Directives, it is mandatory for many industries to carry out risk assessments with the aim of showing that risk is As Low As Reasonably Practicable. This module introduces the fundamental techniques of risk analysis and risk-informed decision making. Students will learn the general principles of methods and their place in risk management, as well as the chance to develop skills in applying these methods to variety of engineering examples. 
+ 
+ Financial Engineering
+  
+  This module introduces elements of financial engineering that are applied to reduce risk of business insolvency and enhance the financial robustness of business enterprises. Questions addressed include: What is the best strategy for survival and growth?; What are the options for financing investment projects both in the private and public sectors of an economy?; How would the financial engineer propose to combine loan capital and equity capital to raise funds for an investment initiative; How would he/she advise his/her company/organization to build its investment portfolio to ensure financial security in volatile market conditions? 
+ 
+ Sustainability
+  
+  This module provides students with an understanding of the concepts of sustainability and sustainable development. The social, environmental, and economic impact of development strategies will be identified and the mitigation of negative impacts discussed. Topics covered include shifting world views with respect to technology and ecology, green politics, climate change, sustainable development and limits to growth. 
+ 
+ Knowledge Engineering & Management for Engineers
+  
+  This module aims to give students an understanding of the types of knowledge, techniques and systems used in building knowledge based systems and to discuss the application of these techniques. Topics include expert system and knowledge based systems development process, knowledge elicitation and acquisition, knowledge representations, reasoning, chaining and searching, and uncertainty techniques. 
+ 
+ Environmental Impact 

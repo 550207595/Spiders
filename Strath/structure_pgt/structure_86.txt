@@ -1,0 +1,59 @@
+Course content 
+ Semester 1 
+ Principles of Finance
+  
+  This class provides an introduction to the basic principles of financial decision taking and the theory of finance. It will develop the basic principles of valuation, the nature of risk and uncertainty, the relationship between risk and returns. 
+  While the analysis will be developed in the context of corporate finance, looking at companies’ decisions in relation to investments in assets and how these assets will be funded, it considers the principles underlying financial reasoning that can be applied on a more general basis. 
+ 
+ Accounting & Financial Analysis
+  
+  The aim of this class is to provide you with an understanding of the basic principles of financial accounting and financial analysis, the ability to interpret financial statements and their use in assessing the financial position and performance of companies. 
+  This class provides an introduction to the principles of accounting and the analysis of financial statements. It will enable you to prepare financial statements in accordance with International Financial Reporting Standards (IFRS) and to interpret and analyse these statements. 
+  Particular emphasis is placed on the accounting concepts and information employed in financial analysis and decision taking. You'll develop the ability to prepare and interpret financial statements and construct cash forecasts. In addition, you'll develop an understanding of the demand and supply for accounting information; an appreciation of the role of financial analysis and analysts; and an awareness of the statistical characteristics of accounting numbers. 
+ 
+ Quantitative Methods for Finance
+ 
+   This class aims to provide an introduction to statistical techniques that are commonly used in finance, a basic understanding of econometric analysis, and an appreciation of the general role of quantitative methods in finance. It also aims to develop the practical computational skills of participants by offering an opportunity to solve problems using statistical software. The class will focus on the application of statistical techniques in empirical analysis in finance. 
+ 
+ International Financial Markets & Banking
+  
+  The aim of the class is to provide you with an understanding of the financial system and the roles and functions of financial markets and institutions. 
+  A particular emphasis is placed on understanding the roles of intermediaries such as banks and investment firms. You'll develop an understanding of the various characteristics and roles of fixed income, equity, and foreign exchange markets. While some attention will be given to the UK financial markets, the global nature of financial markets will be widely discussed. 
+  This class aims to equip you with an awareness and understanding of financial markets and institutions in the context of the global economy. Particular emphasis will be placed on the role and contribution of the banking sector. This class covers the reasons for, and nature of, of financial markets and institutions with a particular focus on banking, the global nature of these markets and their regulation. 
+ 
+ Semester 2 
+ Topics in Corporate Finance
+  
+  The aim of this class is to discuss the different ways in which firms can raise funds, internally and externally, and the role of capital markets in determining the terms on which funding will be available, the costs and risks of difference sources of financing, and the role of taxation. 
+  The class will be a core requirement for the MSc International Banking and Finance, and MSc Investment and Finance programmes. The 10 credits from Topics in Corporate Finance will also contribute half of the assessment and credits towards the 20 credit Advanced Corporate Finance and Applications class, which will be a core requirement of the MSc Finance and MSc International Accounting and Finance programmes. 
+  The class will cover the capital structure of companies and their ability to raise finance through initial and seasoned equity capital raising, through a series of lectures and tutorials. This builds on the introductory investment appraisal, risk, return and cost of capital material covered in the module Principles of Finance. 
+ 
+ Derivatives & Treasury Management
+ 
+   The aims of this class are to provide a strong grounding in derivatives that may be used to manage the financial risks faced by individuals, financial institutions and business corporations. The class places an emphasis on corporate treasury management and the role of derivatives in managing treasury risk. 
+ 
+ Security Analysis
+ 
+   The aims of this class are to develop an appreciation of the investment characteristics of different types of securities, particularly bonds and shares, and to develop an understanding of how such securities are valued. This class will build on the analysis developed in the first semester class, Principles of Finance. It will consider the determination of interest rates, the valuation of bonds, the management of bond portfolios, and the valuation of equities. 
+ 
+ Portfolio Theory & Management
+ 
+   The aim of this class is to examine the Markowitz (1952) approach to optimal portfolio selection. The class explores issues relating to optimal portfolio choice and issues in practical fund management. 
+ 
+ Elective classes 
+ Choose one from the following: 
+ Empirical Methods in Finance
+ 
+   This class aims to build on the knowledge, understanding, and skills acquired in the Quantitative Methods in Finance class and extends it further, especially in the context of time series and panel data analysis. It focuses on applications in finance of econometric techniques and is extended to incorporate panel data analysis methods with their application in finance. 
+ 
+ Behavioural Finance
+  
+  The aim of the class is to provide you with an understanding of the main ideas of behavioural finance. A particular emphasis is placed on understanding the roles of non-rational actions and the development of new financial models that incorporate these ideas. 
+  You'll engage with up to date research and develop a critical view of existing and new finance theories and models. This class aims to introduce you to the rapid evolving area of behavioural finance. You'll develop an understanding of behavioural finance and an appreciation of its possible implications and applications. 
+  This class introduces you to behavioural finance and provides you with an understanding of the main flaws of “traditional” finance theory from a behavioural finance viewpoint. It will allow you to develop the ability to discuss issues arising from violations of the rationality assumption and will enable you to evaluate new theoretical models based on research in psychology. 
+  The course will allow you to appreciate the role of new developments in finance and their possible implications for established views of the functioning of financial markets. 
+  
+ Learning & teaching 
+ The taught component of the course will be covered in the first two semesters. Both of these semesters will run for 12 weeks. 
+ At MSc level, the research project stage of the course is taken during the summer semester. 
+ 
