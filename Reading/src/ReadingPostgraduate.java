@@ -64,7 +64,7 @@ public class ReadingPostgraduate {
 			e.printStackTrace();
 		}finally{
 			try {
-				exportExcel(FILE_PATH, "gen_data_"+SCHOOL_NAME+"_ptg.xls");
+				exportExcel(FILE_PATH, "gen_data_"+SCHOOL_NAME+"_pgt.xls");
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -72,7 +72,6 @@ public class ReadingPostgraduate {
 		}
 		
 	}
-	
 	public static void tryGet(){
 		try{
 			run(rowNum);
@@ -98,6 +97,7 @@ public class ReadingPostgraduate {
 			
 			for(Element link:links){//get majors
 				majorList.addAll(getMajorList(baseUrl+link.attr("href"),link.text()));
+				
 				//if(majorList.size()>10)return;
 				//System.out.println("majorList size: "+majorList.size());
 			}
@@ -146,14 +146,32 @@ public class ReadingPostgraduate {
 		List<MajorForCollection> list=new ArrayList<MajorForCollection>();
 		String baseUrl="http://www.reading.ac.uk";
 		for(Element e:links){
+			if(e.getElementsByTag("a").get(0).text().trim().equals(""))continue;
+			
 			MajorForCollection major=new MajorForCollection();
 			major.setSchool(schoolName);
-			major.setLevel("Undergraduate");
+			major.setLevel("Postgraduate");
 			major.setTitle(e.getElementsByTag("a").get(0).ownText().substring(
 					e.getElementsByTag("a").get(0).ownText().indexOf(" ")+1));
-			major.setType(e.getElementsByTag("a").get(0).ownText().substring(0, 
-					e.getElementsByTag("a").get(0).ownText().indexOf(" ")));
-			major.setLength(""+Integer.parseInt(e.getElementsByTag("p").get(1).text().substring(11,12))*12);
+			if(e.getElementsByTag("a").get(0).ownText().contains(" ")){
+				major.setType(e.getElementsByTag("a").get(0).ownText().substring(0, 
+						e.getElementsByTag("a").get(0).ownText().indexOf(" ")));
+			}
+			
+			if(e.getElementsByTag("p").get(1).text().toLowerCase().contains("year")){
+				if(e.getElementsByTag("p").get(1).text().contains(";")){
+					major.setLength(""+Integer.parseInt(e.getElementsByTag("p").get(1).text().substring(
+							e.getElementsByTag("p").get(1).text().indexOf(":")+2,
+							e.getElementsByTag("p").get(1).text().indexOf(":")+3))*12);
+				}else{
+					major.setLength(e.getElementsByTag("p").get(1).text());
+				}
+			}else if(e.getElementsByTag("p").get(1).text().toLowerCase().contains("month")){
+				major.setLength(e.getElementsByTag("p").get(1).text().substring(
+						e.getElementsByTag("p").get(1).text().indexOf(":")+2));
+			}else{
+				major.setLength(e.getElementsByTag("p").get(1).text());
+			}
 			major.setMonthOfEntry("9");
 			major.setUrl(baseUrl+e.getElementsByTag("a").get(0).attr("href"));
 			list.add(major);
@@ -167,13 +185,11 @@ public class ReadingPostgraduate {
 		Element e;
 		e=doc.getElementById("Panel1");
 		major.setAcademicRequirements(e.text());
-		major.setIELTS_Avg(e.text().substring(e.text().indexOf("IELTS ")+6,e.text().indexOf("IELTS ")+9));
-		major.setIELTS_Low(e.text().substring(e.text().indexOf("component below ")+16,e.text().indexOf("component below ")+19));
+		completeIELTS(e.text(), major);
 		e=doc.getElementById("Panel2").getElementsByClass("fade-panels").get(0);
 		major.setStructure(html2Str(e.outerHtml()));
 		e=doc.getElementById("Panel3").getElementsByTag("p").get(1);
-		major.setTuitionFee(e.text().substring(e.text().indexOf("£")+1,e.text().indexOf(" per year")).replace(",",""));
-		
+		major.setTuitionFee(e.text().substring(e.text().lastIndexOf("£")+1,e.text().lastIndexOf(" per year")));
 		
 		
 		//writeToExcel(row, APPLICATION_FEE, );
@@ -237,6 +253,51 @@ public class ReadingPostgraduate {
 		FileOutputStream fos=new FileOutputStream(file);
 		book.write(fos);
 		fos.close();
+	}
+	
+	public static void completeLength(String str, MajorForCollection major){
+		
+	}
+	
+	public static void completeIELTS(String str, MajorForCollection major){
+		if(str.toUpperCase().contains("IELTS")){
+			if(str.contains("7.0")){
+				major.setIELTS_Avg("7.0");
+				if(str.contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(str.contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(str.contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(str.contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(str.contains("6.5")){
+				major.setIELTS_Avg("6.5");
+				if(str.contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(str.contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(str.contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(str.contains("6.0")){
+				major.setIELTS_Avg("6.0");
+				if(str.contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(str.contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(str.contains("5.5")){
+				major.setIELTS_Avg("5.5");
+				if(str.contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(str.contains("5.0")){
+				major.setIELTS_Avg("5.0");
+				major.setIELTS_Low("5.0");
+			}
+		}
 	}
 
 	public static String getLastYear(Element e){
