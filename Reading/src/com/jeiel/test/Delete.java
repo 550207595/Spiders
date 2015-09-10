@@ -14,6 +14,7 @@ import net.sf.json.JSONObject;
 public class Delete {
 	private static String postUrl = "http://myoffer.cn/external/api/courses";
 	private static int index=1;
+	private static String SCHOOL_NAME = "Reading";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -40,7 +41,7 @@ public class Delete {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "");
+	    connection.setRequestProperty("Cookie", "connect.sid=s%3AZYPBPmZHwWQHWYkUkUrh7WzRsk2yB9fN.24BEpcJ34iSjpykHSA2eBhAiP%2F4RGKYwm%2BhZaxpOx8I; CNZZDATA1256122972=254321286-1441087693-%7C1441846761");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -61,7 +62,7 @@ public class Delete {
 		    
 		    //自定义值
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "Keele");
+		    value.put("university", SCHOOL_NAME);
 		    value.put("id", id);
 		   	entry.put("value", value);
 		    

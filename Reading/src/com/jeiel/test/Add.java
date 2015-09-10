@@ -23,8 +23,8 @@ import net.sf.json.util.JSONStringer;
 
 public class Add {
 	private static String postUrl = "http://myoffer.cn/external/api/courses";
-
-	private static int index=1;//露脭脫娄脪鲁脙忙id
+	private static String SCHOOL_NAME = "Reading";
+	private static int index=1;//对应页面id
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -58,7 +58,7 @@ public class Add {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "");
+	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=436580706-1440482499-http%253A%252F%252Fmyoffer.cn%252F%7C1441846761; connect.sid=s%3AA4m4IkkPUF6Fk9fxygaDE5jGlYufDC3-.Xbr3nx5dY%2BrAhEcIFJ7h3gpDYcu2Q0hbHZhK74DmOqo");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -74,12 +74,12 @@ public class Add {
 			HttpURLConnection connection = getConnection(postUrl);
 			DataOutputStream out= new DataOutputStream(connection.getOutputStream());
 			
-		    //鹿脤露篓脰碌
+		    //固定值
 		    JSONObject entry=new JSONObject();
 		    entry.put("target", "course");
 		    entry.put("action", "add");
 		    
-		    //脳脭露篓脪氓脰碌
+		    //自定义值
 		    
 		    JSONObject course=new JSONObject();
 		    course.put("school", major.getSchool());
@@ -127,13 +127,13 @@ public class Add {
 		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "Keele");
+		    value.put("university", SCHOOL_NAME);
 		    value.put("course", course);
 		   	entry.put("value", value);
 		    out.write(entry.toString().getBytes("utf8"));
 		    out.flush();
 		    
-		    //露脕脠隆脧矛脫娄
+		    //读取响应
 		    
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;
@@ -143,7 +143,7 @@ public class Add {
 		    	sb.append(lines);
 		    }
 		    
-		    
+		    System.out.println(sb);
 		    System.out.println("get return");
 		    
 		    out.close();

@@ -18,8 +18,8 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import java.util.*;
 
 public class POIReadAndPost {
-
-	public static String filepath="C:\\Users\\Administrator\\Desktop\\Keele\\gen_data_Keele_pgt.xls";
+	private static String SCHOOL_NAME = "Reading";
+	public static String filepath="C:\\Users\\Administrator\\Desktop\\"+SCHOOL_NAME+"\\gen_data_"+SCHOOL_NAME+"_pgt.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
