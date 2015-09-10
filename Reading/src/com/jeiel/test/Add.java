@@ -24,7 +24,7 @@ import net.sf.json.util.JSONStringer;
 public class Add {
 	private static String postUrl = "http://myoffer.cn/external/api/courses";
 
-	private static int index=1;//对应页面id
+	private static int index=1;//露脭脫娄脪鲁脙忙id
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -58,7 +58,7 @@ public class Add {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=436580706-1440482499-http%253A%252F%252Fmyoffer.cn%252F%7C1441589326; connect.sid=s%3ApiZieJwYTzyPxwL_JyMVG2XS9XyZ3Ms9.7SCYjpCwuSHKO1OB2b6BKtyYGahDZfg4hRB%2BDwzGCsE");
+	    connection.setRequestProperty("Cookie", "");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -74,12 +74,12 @@ public class Add {
 			HttpURLConnection connection = getConnection(postUrl);
 			DataOutputStream out= new DataOutputStream(connection.getOutputStream());
 			
-		    //固定值
+		    //鹿脤露篓脰碌
 		    JSONObject entry=new JSONObject();
 		    entry.put("target", "course");
 		    entry.put("action", "add");
 		    
-		    //自定义值
+		    //脳脭露篓脪氓脰碌
 		    
 		    JSONObject course=new JSONObject();
 		    course.put("school", major.getSchool());
@@ -133,7 +133,7 @@ public class Add {
 		    out.write(entry.toString().getBytes("utf8"));
 		    out.flush();
 		    
-		    //读取响应
+		    //露脕脠隆脧矛脫娄
 		    
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;
