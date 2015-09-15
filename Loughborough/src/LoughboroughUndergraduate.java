@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.ObjectInputStream.GetField;
 import java.net.HttpURLConnection;
 import java.net.SocketTimeoutException;
 import java.net.URL;
@@ -30,6 +29,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import com.google.gson.Gson;
 import com.jeiel.test.FilterToHTML;
 import com.jeiel.test.MajorForCollection;
 
@@ -61,10 +61,11 @@ public class LoughboroughUndergraduate {
 	public static int rowNum=1;
 	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();
 	public static JSONArray feeArray;
+	public static boolean getFeeSuccessed;
 	
 	public static void main(String[] args) {
 		try {
-			getFee(null);
+			//getFee(null);
 			initExcelWriter();
 			initMajorList("http://www.lboro.ac.uk/study/undergraduate/courses/");
 			System.out.println("start");
@@ -128,7 +129,7 @@ public class LoughboroughUndergraduate {
 		String fee = "";
 		try {
 			URL url = new URL("http://regweb.lboro.ac.uk/fees/service/search.php?"
-					+"title="+"Accounting and Financial Management"
+					+"title="+major.getTitle()
 					+"&level=U&year=2016");
 			HttpURLConnection connection = (HttpURLConnection) url.openConnection();
 		    connection.setDoInput(true);
@@ -144,9 +145,11 @@ public class LoughboroughUndergraduate {
 		    	sb.append(lines);
 		    }
 		    
-		    System.out.println(sb.toString().replace("searchResults(", "").replace(");", ""));
-			System.out.println(sb.substring(sb.indexOf("\"class\":\"international\""),sb.indexOf(",\"status\"", sb.indexOf("\"class\":\"international\""))));
-			
+		    //System.out.println(sb.toString().replace("searchResults(", "").replace(");", ""));
+		    major.setTuitionFee(sb.substring(sb.indexOf("\"value\"", sb.indexOf("\"class\":\"international\""))+"\"value\":\"".length(),
+					sb.indexOf("\",\"status\"", sb.indexOf("\"class\":\"international\""))));
+			//System.out.println(major.getTuitionFee());
+			getFeeSuccessed=true;
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -214,8 +217,11 @@ public class LoughboroughUndergraduate {
 		}else if(major.getTitle().equals("Communication and Media Studies")){
 			major.setIELTS_Avg("7.0");
 		}
+		getFeeSuccessed=false;
+		while(!getFeeSuccessed){
+			major.setTuitionFee(getFee(major));
+		}
 		
-		major.setTuitionFee(getFee(major));
 		
 		e=doc.getElementById("structure");
 		if(e!=null){
