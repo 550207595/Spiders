@@ -217,19 +217,19 @@ public class LoughboroughUndergraduate {
 	public static void exportExcel(String filePath, String fileName) throws Exception {
 		for(int row =0;row<majorList.size();row++){
 			addToSheet(row, SCHOOL, majorList.get(row).getSchool());
-			addToSheet(row, LEVEL, major.getLevel());
-			addToSheet(row, TITLE, major.getTitle());
-			addToSheet(row, TYPE, major.getType());
-			addToSheet(row, APPLICATION_FEE, major.getApplicationFee());
-			addToSheet(row, TUITION_FEE, major.getTuitionFee());
-			addToSheet(row, ACADEMIC_ENTRY_REQUIREMENT, major.getAcademicRequirements());
-			addToSheet(row, IELTS_AVERAGE_REQUIREMENT, major.getIELTS_Avg());
-			addToSheet(row, IELTS_LOWEST_REQUIREMENT, major.getIELTS_Low());
-			addToSheet(row, STRUCTURE, major.getStructure());
-			addToSheet(row, LENGTH_MONTHS, major.getLength());
-			addToSheet(row, MONTH_OF_ENTRY, major.getMonthOfEntry());
-			addToSheet(row, SCHOLARSHIP, major.getScholarship());
-			addToSheet(row, URL, major.getUrl());
+			addToSheet(row, LEVEL, majorList.get(row).getLevel());
+			addToSheet(row, TITLE, majorList.get(row).getTitle());
+			addToSheet(row, TYPE, majorList.get(row).getType());
+			addToSheet(row, APPLICATION_FEE, majorList.get(row).getApplicationFee());
+			addToSheet(row, TUITION_FEE, majorList.get(row).getTuitionFee());
+			addToSheet(row, ACADEMIC_ENTRY_REQUIREMENT, majorList.get(row).getAcademicRequirements());
+			addToSheet(row, IELTS_AVERAGE_REQUIREMENT, majorList.get(row).getIELTS_Avg());
+			addToSheet(row, IELTS_LOWEST_REQUIREMENT, majorList.get(row).getIELTS_Low());
+			addToSheet(row, STRUCTURE, majorList.get(row).getStructure());
+			addToSheet(row, LENGTH_MONTHS, majorList.get(row).getLength());
+			addToSheet(row, MONTH_OF_ENTRY, majorList.get(row).getMonthOfEntry());
+			addToSheet(row, SCHOLARSHIP, majorList.get(row).getScholarship());
+			addToSheet(row, URL, majorList.get(row).getUrl());
 		}
 		
 		File fileDir = new File(filePath);
