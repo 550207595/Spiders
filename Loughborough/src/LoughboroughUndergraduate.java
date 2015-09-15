@@ -151,7 +151,7 @@ public class LoughboroughUndergraduate {
 			e=e.getElementsByTag("table").get(0);
 			if(e!=null){
 				e=e.getElementsByTag("tr").get(1).getElementsByTag("td").get(1);
-				major.setLength(e.text());
+				major.setLength(""+Integer.parseInt(e.text().substring(e.text().indexOf(" y")-1, e.text().indexOf(" y")))*12);
 			}
 		}
 		
@@ -216,20 +216,20 @@ public class LoughboroughUndergraduate {
 
 	public static void exportExcel(String filePath, String fileName) throws Exception {
 		for(int row =0;row<majorList.size();row++){
-			addToSheet(row, SCHOOL, majorList.get(row).getSchool());
-			addToSheet(row, LEVEL, majorList.get(row).getLevel());
-			addToSheet(row, TITLE, majorList.get(row).getTitle());
-			addToSheet(row, TYPE, majorList.get(row).getType());
-			addToSheet(row, APPLICATION_FEE, majorList.get(row).getApplicationFee());
-			addToSheet(row, TUITION_FEE, majorList.get(row).getTuitionFee());
-			addToSheet(row, ACADEMIC_ENTRY_REQUIREMENT, majorList.get(row).getAcademicRequirements());
-			addToSheet(row, IELTS_AVERAGE_REQUIREMENT, majorList.get(row).getIELTS_Avg());
-			addToSheet(row, IELTS_LOWEST_REQUIREMENT, majorList.get(row).getIELTS_Low());
-			addToSheet(row, STRUCTURE, majorList.get(row).getStructure());
-			addToSheet(row, LENGTH_MONTHS, majorList.get(row).getLength());
-			addToSheet(row, MONTH_OF_ENTRY, majorList.get(row).getMonthOfEntry());
-			addToSheet(row, SCHOLARSHIP, majorList.get(row).getScholarship());
-			addToSheet(row, URL, majorList.get(row).getUrl());
+			addToSheet(row+1, SCHOOL, majorList.get(row).getSchool());
+			addToSheet(row+1, LEVEL, majorList.get(row).getLevel());
+			addToSheet(row+1, TITLE, majorList.get(row).getTitle());
+			addToSheet(row+1, TYPE, majorList.get(row).getType());
+			addToSheet(row+1, APPLICATION_FEE, majorList.get(row).getApplicationFee());
+			addToSheet(row+1, TUITION_FEE, majorList.get(row).getTuitionFee());
+			addToSheet(row+1, ACADEMIC_ENTRY_REQUIREMENT, majorList.get(row).getAcademicRequirements());
+			addToSheet(row+1, IELTS_AVERAGE_REQUIREMENT, majorList.get(row).getIELTS_Avg());
+			addToSheet(row+1, IELTS_LOWEST_REQUIREMENT, majorList.get(row).getIELTS_Low());
+			addToSheet(row+1, STRUCTURE, majorList.get(row).getStructure());
+			addToSheet(row+1, LENGTH_MONTHS, majorList.get(row).getLength());
+			addToSheet(row+1, MONTH_OF_ENTRY, majorList.get(row).getMonthOfEntry());
+			addToSheet(row+1, SCHOLARSHIP, majorList.get(row).getScholarship());
+			addToSheet(row+1, URL, majorList.get(row).getUrl());
 		}
 		
 		File fileDir = new File(filePath);
