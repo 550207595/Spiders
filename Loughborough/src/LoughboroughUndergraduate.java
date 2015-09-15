@@ -1,7 +1,13 @@
+import java.io.BufferedReader;
+import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.ObjectInputStream.GetField;
+import java.net.HttpURLConnection;
 import java.net.SocketTimeoutException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -10,6 +16,9 @@ import java.util.List;
 
 
 import java.util.Set;
+
+import net.sf.json.JSONArray;
+import net.sf.json.JSONObject;
 
 import org.apache.poi.hssf.usermodel.*;
 import org.jsoup.Connection;
@@ -24,7 +33,7 @@ import org.jsoup.select.Elements;
 import com.jeiel.test.FilterToHTML;
 import com.jeiel.test.MajorForCollection;
 
-//6.5,5.5
+
 public class LoughboroughUndergraduate {
 	public static final int SCHOOL=0;
 	public static final int LEVEL=1;
@@ -42,7 +51,7 @@ public class LoughboroughUndergraduate {
 	public static final int URL=13;
 	
 	public static final String SCHOOL_NAME="Loughborough";
-	public static final String FILE_PATH="C:\\Users\\Administrator\\Desktop\\wyl\\"+SCHOOL_NAME;
+	public static final String FILE_PATH="C:\\Users\\Jeiel\\Desktop\\wyl\\"+SCHOOL_NAME;
 
 	
 	public static boolean finish=false;
@@ -50,11 +59,12 @@ public class LoughboroughUndergraduate {
 	public static HSSFSheet sheet =null; 
 	public static HSSFRow row=null;
 	public static int rowNum=1;
-	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();;
+	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();
+	public static JSONArray feeArray;
 	
 	public static void main(String[] args) {
 		try {
-			
+			getFee(null);
 			initExcelWriter();
 			initMajorList("http://www.lboro.ac.uk/study/undergraduate/courses/");
 			System.out.println("start");
@@ -114,6 +124,37 @@ public class LoughboroughUndergraduate {
 		
 	}
 	
+	public static String getFee(MajorForCollection major){
+		String fee = "";
+		try {
+			URL url = new URL("http://regweb.lboro.ac.uk/fees/service/search.php?"
+					+"title="+"Accounting and Financial Management"
+					+"&level=U&year=2016");
+			HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+		    connection.setDoInput(true);
+		    connection.setRequestMethod("GET");
+    
+		    connection.connect();
+
+		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+		    String lines;
+		    StringBuffer sb = new StringBuffer("");
+		    while ((lines = reader.readLine()) != null) {
+		    	lines = new String(lines.getBytes());
+		    	sb.append(lines);
+		    }
+		    
+		    System.out.println(sb.toString().replace("searchResults(", "").replace(");", ""));
+			System.out.println(sb.substring(sb.indexOf("\"class\":\"international\""),sb.indexOf(",\"status\"", sb.indexOf("\"class\":\"international\""))));
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return fee;
+	}
+	
 	public static void run(int beginIndex) throws Exception{
 		
 		rowNum=1;
@@ -135,6 +176,9 @@ public class LoughboroughUndergraduate {
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
 		Element e;
+		if(doc.text().contains("IELTS")){
+			System.out.println(doc.text());
+		}
 		e=doc.getElementById("main-header-block");
 		if(e!=null){
 			if(e.getElementsByTag("h3").get(0).text().contains("Code:")){
@@ -160,10 +204,18 @@ public class LoughboroughUndergraduate {
 			major.setAcademicRequirements(e.text());
 		}
 		
-		//major.setIELTS_Avg(e.text().substring(e.text().indexOf("IELTS ")+6,e.text().indexOf("IELTS ")+9));
-		//major.setIELTS_Low(e.text().substring(e.text().indexOf("component below ")+16,e.text().indexOf("component below ")+19));
+		if(!doc.text().contains("IELTS")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}
+		if(major.getSchool().equals("School of Business and Economics")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("6.5");
+		}else if(major.getTitle().equals("Communication and Media Studies")){
+			major.setIELTS_Avg("7.0");
+		}
 		
-		
+		major.setTuitionFee(getFee(major));
 		
 		e=doc.getElementById("structure");
 		if(e!=null){
