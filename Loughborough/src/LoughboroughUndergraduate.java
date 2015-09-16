@@ -126,11 +126,12 @@ public class LoughboroughUndergraduate {
 	
 	public static String getFee(MajorForCollection major){
 		String fee = "";
+		HttpURLConnection connection=null;
 		try {
 			URL url = new URL("http://regweb.lboro.ac.uk/fees/service/search.php?"
 					+"title="+major.getTitle()
 					+"&level=U&year=2016");
-			HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+			connection = (HttpURLConnection) url.openConnection();
 		    connection.setDoInput(true);
 		    connection.setRequestMethod("GET");
     
@@ -140,7 +141,7 @@ public class LoughboroughUndergraduate {
 		    String lines;
 		    StringBuffer sb = new StringBuffer("");
 		    while ((lines = reader.readLine()) != null) {
-		    	lines = new String(lines.getBytes());
+		    	lines = new String(lines.getBytes("utf-8"));
 		    	sb.append(lines);
 		    }
 		    
@@ -149,9 +150,19 @@ public class LoughboroughUndergraduate {
 					sb.indexOf("\",\"status\"", sb.indexOf("\"class\":\"international\""))));
 			//System.out.println(major.getTuitionFee());
 			getFeeSuccessed=true;
+			reader.close();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
+			//e.printStackTrace();
 			e.printStackTrace();
+			System.out.print("getFee failed! Retrying: ");
+			System.out.println("http://regweb.lboro.ac.uk/fees/service/search.php?"
+					+"title="+major.getTitle()
+					+"&level=U&year=2016");
+		}finally{
+			if(connection!=null){
+				connection.disconnect();
+			}
 		}
 		
 		return fee;
