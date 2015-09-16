@@ -51,7 +51,6 @@ public class LoughboroughUndergraduate {
 	public static final int URL=13;
 	
 	public static final String SCHOOL_NAME="Loughborough";
-	public static final String FILE_PATH="C:\\Users\\Jeiel\\Desktop\\wyl\\"+SCHOOL_NAME;
 
 	
 	public static boolean finish=false;
@@ -79,7 +78,7 @@ public class LoughboroughUndergraduate {
 			e.printStackTrace();
 		}finally{
 			try {
-				exportExcel(FILE_PATH, "gen_data_"+SCHOOL_NAME+"_ug.xls");
+				exportExcel("gen_data_"+SCHOOL_NAME+"_ug.xls");
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -272,7 +271,7 @@ public class LoughboroughUndergraduate {
 		row.createCell(col).setCellValue(content);
 	}
 
-	public static void exportExcel(String filePath, String fileName) throws Exception {
+	public static void exportExcel(String fileName) throws Exception {
 		for(int row =0;row<majorList.size();row++){
 			addToSheet(row+1, SCHOOL, majorList.get(row).getSchool());
 			addToSheet(row+1, LEVEL, majorList.get(row).getLevel());
@@ -290,11 +289,7 @@ public class LoughboroughUndergraduate {
 			addToSheet(row+1, URL, majorList.get(row).getUrl());
 		}
 		
-		File fileDir = new File(filePath);
-		File file = new File(filePath, fileName);
-		if (!fileDir.exists()) {
-			fileDir.mkdirs();
-		}
+		File file = new File(fileName);
 		if (!file.exists()) {
 			file.createNewFile();
 		}
