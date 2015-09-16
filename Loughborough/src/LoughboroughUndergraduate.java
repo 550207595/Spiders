@@ -30,6 +30,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.jeiel.test.FilterToHTML;
 import com.jeiel.test.MajorForCollection;
 
@@ -146,6 +147,11 @@ public class LoughboroughUndergraduate {
 		    }
 		    
 		    //System.out.println(sb.toString().replace("searchResults(", "").replace(");", ""));
+		    /*JSONObject obj=JSONObject.fromString(sb.substring(14, sb.length()-2));
+		    System.out.println(sb.substring(14, sb.length()-2));
+		    System.out.println(obj);
+		    System.out.println(obj.getJSONArray("FTprogrammes").getJSONObject(0));*/
+		    if(sb.toString().contains("status: \"success\""))
 		    major.setTuitionFee(sb.substring(sb.indexOf("\"value\"", sb.indexOf("\"class\":\"international\""))+"\"value\":\"".length(),
 					sb.indexOf("\",\"status\"", sb.indexOf("\"class\":\"international\""))));
 			//System.out.println(major.getTuitionFee());
