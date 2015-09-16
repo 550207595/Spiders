@@ -18,8 +18,6 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import java.util.*;
 
 public class POIReadAndPost {
-	private static String SCHOOL_NAME = "Reading";
-	public static String filepath="C:\\Users\\Administrator\\Desktop\\"+SCHOOL_NAME+"\\gen_data_"+SCHOOL_NAME+"_pgt.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -30,16 +28,16 @@ public class POIReadAndPost {
 	public static void main(String[] args) throws IOException{
 		
 	}
-	public static List<Major> getData() throws Exception  {
+	public static List<Major> getData(String filePath) throws Exception  {
 		// TODO Auto-generated method stub
-		
-		InputStream is = new FileInputStream(filepath);
+
+		InputStream is = new FileInputStream(filePath);
         HSSFWorkbook hssfWorkbook = new HSSFWorkbook(is);
             HSSFSheet hssfSheet = hssfWorkbook.getSheetAt(0);//The first Sheet.
         
         List<Major> list=new ArrayList<Major>();
         Major major;
-            // Ñ­»·ÐÐRow
+            // Ñ­ï¿½ï¿½ï¿½ï¿½Row
         for (int rowNum = 1; rowNum <= hssfSheet.getLastRowNum(); rowNum++) {
         	
             HSSFRow hssfRow = hssfSheet.getRow(rowNum);

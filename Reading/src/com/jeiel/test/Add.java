@@ -16,6 +16,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.logging.Level;
 
 import net.sf.json.JSON;
 import net.sf.json.JSONObject;
@@ -24,7 +25,11 @@ import net.sf.json.util.JSONStringer;
 public class Add {
 	private static String postUrl = "http://myoffer.cn/external/api/courses";
 	private static String SCHOOL_NAME = "Reading";
-	private static int index=1;//¶ÔÓ¦Ò³Ãæid
+	private static String COOKIE="__utma=255880599.950065990.1440817756.1440817756.1440908413.2; __utmz=255880599.1440817756.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3ALmg88j5dCS6ks6wzwNKu4qbxSSN5NQZn.H4WPsX4N2IuLAiaJVUm8OD8M3lNuZP2JErvN4jwf4eE; CNZZDATA1256122972=2001768791-1440195715-%7C1442411011";
+	private static int index=1;//ï¿½ï¿½Ó¦Ò³ï¿½ï¿½id
+	private static String LEVEL="pgt";
+	private static String FILEPATH="gen_data_"+SCHOOL_NAME+"_"+LEVEL+".xls";
+	
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -33,7 +38,7 @@ public class Add {
 		// TODO Auto-generated method stub
 		try {
 			System.out.println("work start");
-			List<Major> list=POIReadAndPost.getData();
+			List<Major> list=POIReadAndPost.getData(FILEPATH);
 			for(;index<=list.size();){
 				add(postUrl,list.get(index-1));
 			}
@@ -58,7 +63,7 @@ public class Add {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=436580706-1440482499-http%253A%252F%252Fmyoffer.cn%252F%7C1441846761; connect.sid=s%3AA4m4IkkPUF6Fk9fxygaDE5jGlYufDC3-.Xbr3nx5dY%2BrAhEcIFJ7h3gpDYcu2Q0hbHZhK74DmOqo");
+	    connection.setRequestProperty("Cookie", COOKIE);
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -74,12 +79,12 @@ public class Add {
 			HttpURLConnection connection = getConnection(postUrl);
 			DataOutputStream out= new DataOutputStream(connection.getOutputStream());
 			
-		    //¹Ì¶¨Öµ
+		    //ï¿½Ì¶ï¿½Öµ
 		    JSONObject entry=new JSONObject();
 		    entry.put("target", "course");
 		    entry.put("action", "add");
 		    
-		    //×Ô¶¨ÒåÖµ
+		    //ï¿½Ô¶ï¿½ï¿½ï¿½Öµ
 		    
 		    JSONObject course=new JSONObject();
 		    course.put("school", major.getSchool());
@@ -133,7 +138,7 @@ public class Add {
 		    out.write(entry.toString().getBytes("utf8"));
 		    out.flush();
 		    
-		    //¶ÁÈ¡ÏìÓ¦
+		    //ï¿½ï¿½È¡ï¿½ï¿½Ó¦
 		    
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;
