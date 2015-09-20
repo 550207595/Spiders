@@ -38,7 +38,7 @@ import com.jeiel.test.FilterToHTML;
 import com.jeiel.test.MajorForCollection;
 
 
-public class LoughboroughUndergraduate {
+public class LoughboroughPostgraduate {
 	public static final int SCHOOL=0;
 	public static final int LEVEL=1;
 	public static final int TITLE=2;
@@ -70,7 +70,7 @@ public class LoughboroughUndergraduate {
 		try {
 			//getFee(null);
 			initExcelWriter();
-			initMajorList("http://www.lboro.ac.uk/study/undergraduate/courses/");
+			initMajorList("http://www.lboro.ac.uk/study/postgraduate/programmes/");
 			System.out.println("start");
 			while(!finish){
 				System.out.println("tryGet "+rowNum);
@@ -82,7 +82,7 @@ public class LoughboroughUndergraduate {
 			e.printStackTrace();
 		}finally{
 			try {
-				exportExcel("gen_data_"+SCHOOL_NAME+"_ug.xls");
+				exportExcel("gen_data_"+SCHOOL_NAME+"_pgt.xls");
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -105,15 +105,20 @@ public class LoughboroughUndergraduate {
 			System.out.println("preparing majorList");
 			Connection conn=Jsoup.connect(originalUrl);
 			Document doc=conn.timeout(60000).get();
-			Elements links=doc.getElementsByClass("a-to-z").get(0).getElementsByTag("a");
+			Elements links=doc.getElementsByClass("a-to-z-clearing").get(0).getElementsByClass("ug-course-info");
 			
 			String baseUrl="http://www.lboro.ac.uk";
 			MajorForCollection major;
 			for(Element link:links){//get majors
 				major=new MajorForCollection();
-				major.setTitle(link.text());
-				major.setLevel("Undergraduate");
-				major.setUrl(baseUrl+link.attr("href"));
+				major.setType(link.getElementsByTag("h3").get(0).text());
+				major.setTitle(link.getElementsByTag("a").get(0).text());
+				major.setLevel("Postgraduate");
+				if(link.getElementsByTag("a").size()>1){
+					major.setSchool(link.getElementsByTag("a").get(1).text());
+				}
+				
+				major.setUrl(baseUrl+link.getElementsByTag("a").get(0).attr("href"));
 				majorList.add(major);
 			}
 			
@@ -133,7 +138,7 @@ public class LoughboroughUndergraduate {
 		try {
 			URL url = new URL("http://regweb.lboro.ac.uk/fees/service/search.php?"
 					+"title="+major.getTitle()
-					+"&level=U&year=2016");
+					+"&level=P&year=2016");
 			connection = (HttpURLConnection) url.openConnection();
 		    connection.setDoInput(true);
 		    connection.setRequestMethod("GET");
@@ -175,7 +180,7 @@ public class LoughboroughUndergraduate {
 			System.out.print("getFee failed! Retrying: ");
 			System.out.println("http://regweb.lboro.ac.uk/fees/service/search.php?"
 					+"title="+major.getTitle()
-					+"&level=U&year=2016");
+					+"&level=P&year=2016");
 		}finally{
 			if(connection!=null){
 				connection.disconnect();
@@ -205,31 +210,14 @@ public class LoughboroughUndergraduate {
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
 		Element e;
-		if(doc.text().contains("IELTS")){
-			System.out.println(doc.text());
-		}
-		e=doc.getElementById("main-header-block");
+		e=doc.getElementById("main-header-block").getElementsByTag("h4").get(1);
 		if(e!=null){
-			if(e.getElementsByTag("h3").get(0).text().contains("Code:")){
-				major.setType(e.getElementsByTag("h3").get(0).text().substring(0, e.getElementsByTag("h3").get(0).text().indexOf("Code:")));
-			}else{
-				major.setType(e.getElementsByTag("h3").get(0).text());
-			}
-			
-			major.setSchool(e.getElementsByTag("h5").get(0).text());
+			major.setLength(e.text());
+			//major.setLength(""+Integer.parseInt(e.text().substring(e.text().indexOf(" y")-1, e.text().indexOf(" y")))*12);
 		}
 		
-		e=doc.getElementById("general");
-		if(e!=null){
-			e=e.getElementsByTag("table").get(0);
-			if(e!=null){
-				e=e.getElementsByTag("tr").get(1).getElementsByTag("td").get(1);
-				major.setLength(""+Integer.parseInt(e.text().substring(e.text().indexOf(" y")-1, e.text().indexOf(" y")))*12);
-			}
-		}
-		
-		if(doc.getElementById("options")!=null){
-			e=doc.getElementById("options").getElementsByClass("courseinfo").get(0);
+		if(doc.getElementById("accordion")!=null){
+			e=doc.getElementsByTag("div").get(1);
 			major.setAcademicRequirements(e.text());
 		}
 		
