@@ -17,6 +17,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
+import com.jeiel.test.Major;
+import com.jeiel.test.POIReadAndPost;
+
 import net.sf.json.JSON;
 import net.sf.json.JSONObject;
 import net.sf.json.util.JSONStringer;
