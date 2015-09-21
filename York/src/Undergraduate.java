@@ -116,6 +116,7 @@ public class Undergraduate {
 				major.setType(link.getElementsByClass("detail").get(0).getElementsByTag("li").get(0).text());
 				major.setLength(Integer.parseInt(link.getElementsByClass("detail").get(0).getElementsByTag("li").get(1).text().substring(0,1))*12+"");
 				major.setUrl(link.getElementsByTag("a").get(0).attr("href").replace("////", "//"));
+				if(major.getUrl().contains("course-error"))continue;
 				majorList.add(major);
 			}
 			
@@ -151,35 +152,58 @@ public class Undergraduate {
 	public static void getDetails(int row,MajorForCollection major) throws Exception {
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
+		if(doc.getElementsByClass("o-grid__row").size()>0){
+			getDetails2(row, major);
+			return;
+		}
 		Element e;
-		/*if(doc.text().contains("IELTS")){
-			System.out.println(doc.text());
-		}
-		e=doc.getElementById("main-header-block");
+		
+		e=doc.getElementById("lhcolumn");
 		if(e!=null){
-			major.setSchool(e.getElementsByTag("h5").get(0).text());
+			if(e.getElementsByTag("li").get(0).text().contains(" home")){
+				major.setSchool(e.getElementsByTag("li").get(0).text().substring(0,e.getElementsByTag("li").get(0).text().indexOf(" home")));
+
+			}else{
+				major.setSchool(e.getElementsByTag("li").get(0).text());
+			}
 		}
 		
-		if(doc.getElementById("options")!=null){
-			e=doc.getElementById("options").getElementsByClass("courseinfo").get(0);
-			major.setAcademicRequirements(e.text());
+		if(major.getSchool().equals("Medicine")){
+			major.setTuitionFee("25930");
+		}else if(major.getSchool().equals("Biology")||major.getSchool().equals("Biochemistry")||major.getSchool().equals("Chemistry")
+				||major.getSchool().equals("Computer Science")||major.getSchool().equals("Electronics")
+				||major.getSchool().equals("Environment")||major.getSchool().equals("Natural Sciences")
+				||major.getSchool().equals("Physics")||major.getSchool().equals("Psychology")){
+			major.setTuitionFee("19500");
+		}else if(major.getSchool().equals("Archaeology")||major.getSchool().equals("Economics and Related Studies")||major.getSchool().equals("Education")
+				||major.getSchool().equals("English and Related Literature")||major.getSchool().equals("History")
+				||major.getSchool().equals("History of Art")||major.getSchool().equals("Language and Linguistic Science")
+				||major.getSchool().equals("Law")||major.getSchool().equals("Management")
+				||major.getSchool().equals("Mathematics")||major.getSchool().equals("Music")
+				||major.getSchool().equals("Philosophy")||major.getSchool().equals("Politics")
+				||major.getSchool().equals("Politics, Economics and Philosophy")||major.getSchool().equals("Social Policy and Social Work")
+				||major.getSchool().equals("Sociology")||major.getSchool().equals("Social and Political Science")
+				||major.getSchool().equals("Theatre, Film and Television")){
+			major.setTuitionFee("15150");
+			
+		}else if("BSc Environmental Geography (extended degree)".contains(major.getTitle())||
+				"BSc Environmental Science (extended degree)".contains(major.getTitle())||
+				"BSc Environment, Economics and Ecology (extended degree)".contains(major.getTitle())||
+				"BA Human Geography and Environment (extended degree)".contains(major.getTitle())||
+				"BA in Applied Social Science and Social Policy (extended degree)".contains(major.getTitle())){
+			major.setTuitionFee("9000");
 		}
 		
-		if(!doc.text().contains("IELTS")){
-			major.setIELTS_Avg("6.5");
-			major.setIELTS_Low("6.0");
-		}
-		if(major.getSchool().equals("School of Business and Economics")){
-			major.setIELTS_Avg("7.0");
-			major.setIELTS_Low("6.5");
-		}else if(major.getTitle().equals("Communication and Media Studies")){
-			major.setIELTS_Avg("7.0");
-		}*/
 
 		e=doc.getElementById("course-content-content");
 		if(e!=null){
-			major.setStructure(html2Str(e.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\"").substring(0,
-					html2Str(e.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\"").indexOf("Academic integrity module")));
+			if(e.text().contains("Academic integrity module")){
+				major.setStructure(html2Str(e.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\"").substring(0,
+						html2Str(e.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\"").indexOf("Academic integrity module")));
+			}else{
+				major.setStructure(html2Str(e.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\""));
+			}
+			
 		}
 		
 		Elements es=doc.getElementsByClass("faq");
@@ -190,7 +214,15 @@ public class Undergraduate {
 				
 			}
 			major.setAcademicRequirements(str);;
+		}else{
+			e=doc.getElementById("course-applying-content");
+			if(e!=null){
+				if(e.text().contains("Entry requirements")){
+					major.setAcademicRequirements(e.text().substring(e.text().indexOf("Entry requirements")));
+				}
+			}
 		}
+		major.setIELTS_Avg("6.5");
 		if(major.getAcademicRequirements().contains("IELTS")){
 			if(major.getAcademicRequirements().contains("7.5")){
 				major.setIELTS_Avg("7.5");
@@ -239,6 +271,121 @@ public class Undergraduate {
 				}
 			}
 		}
+		
+		major.setScholarship("New scholarships for refugees$8100;"
+				+ "Scholarship for Overseas Students (SOS)$tuitionfee;"
+				+ "Overseas Research Scholarship (ORS)$5000;"
+				+ "Overseas Continuation Scholarship (OCS)$5000");
+			
+		major.setMonthOfEntry("9");
+		
+	}
+	
+	public static void getDetails2(int row,MajorForCollection major) throws Exception {
+		Connection conn=Jsoup.connect(major.getUrl());
+		Document doc=conn.timeout(60000).get();
+		Element e;
+
+		for(Element tmp:doc.getElementsByClass("o-grid__box--third")){
+			if(tmp.text().contains("Learn more")){
+				if(tmp.getElementsByTag("a").size()>0){
+					major.setSchool(tmp.getElementsByTag("a").get(0).text());
+				}
+			}
+		}
+		
+		if(major.getSchool().equals("Medicine")){
+			major.setTuitionFee("25930");
+		}else if(major.getSchool().equals("Biology")||major.getSchool().equals("Biochemistry")||major.getSchool().equals("Chemistry")
+				||major.getSchool().equals("Computer Science")||major.getSchool().equals("Electronics")
+				||major.getSchool().equals("Environment")||major.getSchool().equals("Natural Sciences")
+				||major.getSchool().equals("Physics")||major.getSchool().equals("Psychology")){
+			major.setTuitionFee("19500");
+		}else if(major.getSchool().equals("Archaeology")||major.getSchool().equals("Economics and Related Studies")||major.getSchool().equals("Education")
+				||major.getSchool().equals("English and Related Literature")||major.getSchool().equals("History")
+				||major.getSchool().equals("History of Art")||major.getSchool().equals("Language and Linguistic Science")
+				||major.getSchool().equals("Law")||major.getSchool().equals("Management")
+				||major.getSchool().equals("Mathematics")||major.getSchool().equals("Music")
+				||major.getSchool().equals("Philosophy")||major.getSchool().equals("Politics")
+				||major.getSchool().equals("Politics, Economics and Philosophy")||major.getSchool().equals("Social Policy and Social Work")
+				||major.getSchool().equals("Sociology")||major.getSchool().equals("Social and Political Science")
+				||major.getSchool().equals("Theatre, Film and Television")){
+			major.setTuitionFee("15150");
+			
+		}else if("BSc Environmental Geography (extended degree)".contains(major.getTitle())||
+				"BSc Environmental Science (extended degree)".contains(major.getTitle())||
+				"BSc Environment, Economics and Ecology (extended degree)".contains(major.getTitle())||
+				"BA Human Geography and Environment (extended degree)".contains(major.getTitle())||
+				"BA in Applied Social Science and Social Policy (extended degree)".contains(major.getTitle())){
+			major.setTuitionFee("9000");
+		}
+		
+
+		e=doc.getElementById("course-content");
+		if(e!=null){
+			e=e.getElementsByClass("c-tabs--vertical").get(0);
+			major.setStructure(html2Str(e.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\""));
+			
+		}
+		
+		e=doc.getElementById("entry");
+		if(e!=null){
+			major.setAcademicRequirements(e.text());;
+		}
+		major.setIELTS_Avg("6.5");
+		if(major.getAcademicRequirements().contains("IELTS")){
+			if(major.getAcademicRequirements().contains("7.5")){
+				major.setIELTS_Avg("7.5");
+				if(major.getAcademicRequirements().contains("7.0")){
+					major.setIELTS_Low("7.0");
+				}else if(major.getAcademicRequirements().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(major.getAcademicRequirements().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("7.0")){
+				major.setIELTS_Avg("7.0");
+				if(major.getAcademicRequirements().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(major.getAcademicRequirements().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("6.5")){
+				major.setIELTS_Avg("6.5");
+				if(major.getAcademicRequirements().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("6.0")){
+				major.setIELTS_Avg("6.0");
+				if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("5.5")){
+				major.setIELTS_Avg("5.5");
+				if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}
+		}
+		
+		major.setScholarship("New scholarships for refugees$8100;"
+				+ "Scholarship for Overseas Students (SOS)$tuitionfee;"
+				+ "Overseas Research Scholarship (ORS)$5000;"
+				+ "Overseas Continuation Scholarship (OCS)$5000");
 			
 		major.setMonthOfEntry("9");
 		

@@ -125,7 +125,7 @@ public class POIReadAndPost {
 		for(String scholarshipItem:scholarship.split(";")){
 			if(scholarshipItem.substring(scholarshipItem.indexOf("$")+1).equals("tuitionfee")){
 				result.put(scholarshipItem.substring(0,scholarshipItem.indexOf("$")), 
-						tuition);
+						Integer.parseInt(tuition)*0.25+"");
 			}else{
 				result.put(scholarshipItem.substring(0,scholarshipItem.indexOf("$")), 
 						scholarshipItem.substring(scholarshipItem.indexOf("$")+1));
