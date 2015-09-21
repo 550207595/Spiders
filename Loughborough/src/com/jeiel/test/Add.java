@@ -23,8 +23,8 @@ import net.sf.json.util.JSONStringer;
 
 public class Add {
 	private static String postUrl = "http://myoffer.cn/external/api/courses";
-	private static String SCHOOL_NAME = "Reading";
-	private static int index=1;//对应页面id
+	private static String SCHOOL_NAME = "Loughborough";
+	private static int index=1;//锟斤拷应页锟斤拷id
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -58,7 +58,7 @@ public class Add {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=436580706-1440482499-http%253A%252F%252Fmyoffer.cn%252F%7C1441846761; connect.sid=s%3AA4m4IkkPUF6Fk9fxygaDE5jGlYufDC3-.Xbr3nx5dY%2BrAhEcIFJ7h3gpDYcu2Q0hbHZhK74DmOqo");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.950065990.1440817756.1440817756.1440908413.2; __utmz=255880599.1440817756.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AMv5yQi0MGfjM1haAjhACovD4iI0HgNm9.06d44LJ0zsyACmZbVfI5lA3M61A8vnur5MDgT1WxhRQ; CNZZDATA1256122972=2001768791-1440195715-%7C1442804107");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -74,12 +74,12 @@ public class Add {
 			HttpURLConnection connection = getConnection(postUrl);
 			DataOutputStream out= new DataOutputStream(connection.getOutputStream());
 			
-		    //固定值
+		    //锟教讹拷值
 		    JSONObject entry=new JSONObject();
 		    entry.put("target", "course");
 		    entry.put("action", "add");
 		    
-		    //自定义值
+		    //锟皆讹拷锟斤拷值
 		    
 		    JSONObject course=new JSONObject();
 		    course.put("school", major.getSchool());
@@ -133,7 +133,7 @@ public class Add {
 		    out.write(entry.toString().getBytes("utf8"));
 		    out.flush();
 		    
-		    //读取响应
+		    //锟斤拷取锟斤拷应
 		    
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;

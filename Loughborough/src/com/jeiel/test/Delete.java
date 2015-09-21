@@ -14,7 +14,7 @@ import net.sf.json.JSONObject;
 public class Delete {
 	private static String postUrl = "http://myoffer.cn/external/api/courses";
 	private static int index=1;
-	private static String SCHOOL_NAME = "Reading";
+	private static String SCHOOL_NAME = "Loughborough";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -23,7 +23,7 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=70;){//indexÎªÍøÒ³ÉÏÏÔÊ¾µÄidºÅ
+		for(;index<=127;){//indexÎªï¿½ï¿½Ò³ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½idï¿½ï¿½
 			
 			delete(postUrl,index);
 		}
@@ -41,7 +41,7 @@ public class Delete {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "connect.sid=s%3AZYPBPmZHwWQHWYkUkUrh7WzRsk2yB9fN.24BEpcJ34iSjpykHSA2eBhAiP%2F4RGKYwm%2BhZaxpOx8I; CNZZDATA1256122972=254321286-1441087693-%7C1441846761");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.950065990.1440817756.1440817756.1440908413.2; __utmz=255880599.1440817756.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AMv5yQi0MGfjM1haAjhACovD4iI0HgNm9.06d44LJ0zsyACmZbVfI5lA3M61A8vnur5MDgT1WxhRQ; CNZZDATA1256122972=2001768791-1440195715-%7C1442804107");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -55,12 +55,12 @@ public class Delete {
 	    	HttpURLConnection connection=getConnection(postUrl);
 			DataOutputStream out= new DataOutputStream(connection.getOutputStream());
 			
-		    //¹Ì¶¨Öµ
+		    //ï¿½Ì¶ï¿½Öµ
 		    JSONObject entry=new JSONObject();
 		    entry.put("target", "course");
 		    entry.put("action", "remove");
 		    
-		    //×Ô¶¨ÒåÖµ
+		    //ï¿½Ô¶ï¿½ï¿½ï¿½Öµ
 		   	JSONObject value=new JSONObject();
 		    value.put("university", SCHOOL_NAME);
 		    value.put("id", id);
@@ -69,7 +69,7 @@ public class Delete {
 		    out.writeBytes(entry.toString());
 		    out.flush();
 		    
-		    //¶ÁÈ¡ÏìÓ¦
+		    //ï¿½ï¿½È¡ï¿½ï¿½Ó¦
 
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;

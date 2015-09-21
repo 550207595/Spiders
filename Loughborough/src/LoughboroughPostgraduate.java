@@ -212,7 +212,14 @@ public class LoughboroughPostgraduate {
 		Element e;
 		e=doc.getElementById("main-header-block").getElementsByTag("h4").get(1);
 		if(e!=null){
-			major.setLength(e.text());
+			if(e.text().contains(" year full-time")){
+				major.setLength(Integer.parseInt(e.text().substring(e.text().indexOf(" year full-time")-1,e.text().indexOf(" year full-time")))*12+"");
+			}else if(e.text().contains("years")&&!e.text().startsWith("P")){
+				major.setLength(Integer.parseInt(e.text().substring(0,1))*12+"");
+			}else{
+				major.setLength(e.text());
+			}
+			
 			//major.setLength(""+Integer.parseInt(e.text().substring(e.text().indexOf(" y")-1, e.text().indexOf(" y")))*12);
 		}
 		
@@ -221,10 +228,9 @@ public class LoughboroughPostgraduate {
 			major.setAcademicRequirements(e.text());
 		}
 		
-		if(!doc.text().contains("IELTS")){
-			major.setIELTS_Avg("6.5");
-			major.setIELTS_Low("6.0");
-		}
+		major.setIELTS_Avg("6.5");
+		major.setIELTS_Low("6.0");
+			
 		if(major.getSchool().equals("School of Business and Economics")){
 			major.setIELTS_Avg("7.0");
 			major.setIELTS_Low("6.5");
