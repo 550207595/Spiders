@@ -18,7 +18,7 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import java.util.*;
 
 public class POIReadAndPost {
-	private static String SCHOOL_NAME = "Loughborough";
+	private static String SCHOOL_NAME = "York";
 	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt.xls";
 	/**
 	 * @param args

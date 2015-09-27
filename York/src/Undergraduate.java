@@ -1,40 +1,19 @@
-import java.io.BufferedReader;
-import java.io.DataOutputStream;
+
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.SocketTimeoutException;
-import java.net.URL;
-import java.text.Format;
+
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
 
-
-
-
-import java.util.Set;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import net.sf.json.JSONArray;
-import net.sf.json.JSONObject;
 
 import org.apache.poi.hssf.usermodel.*;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
-import org.jsoup.examples.HtmlToPlainText;
-import org.jsoup.helper.DataUtil;
-import org.jsoup.helper.StringUtil;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.jeiel.test.FilterToHTML;
 import com.jeiel.test.MajorForCollection;
 
 
@@ -152,9 +131,19 @@ public class Undergraduate {
 	public static void getDetails(int row,MajorForCollection major) throws Exception {
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
-		if(doc.getElementsByClass("o-grid__row").size()>0){
+		if(doc.getElementsByClass("o-grid__row").size()>0&&!major.getUrl().toLowerCase().contains("htm")){
 			getDetails2(row, major);
 			return;
+		}
+/*		if(major.getUrl().toLowerCase().contains("htm")){
+			System.out.println("original url: " + major.getUrl());
+			major.setUrl(doc.getElementsByTag("head").get(0).getElementsByTag("meta").get(0).attr("content").substring(7));
+			throw new Exception("Throwed by self");
+		}*/
+		if(doc.getElementsByTag("body").get(0).text().equals("")){
+			System.out.println("original url: " + major.getUrl());
+			major.setUrl(doc.getElementsByTag("head").get(0).getElementsByTag("meta").get(0).attr("content").substring(7));
+			throw new Exception("Throwed by self");
 		}
 		Element e;
 		
@@ -165,6 +154,11 @@ public class Undergraduate {
 
 			}else{
 				major.setSchool(e.getElementsByTag("li").get(0).text());
+			}
+		}else{
+			e=doc.getElementById("nav");
+			if(e!=null){
+				major.setSchool(e.getElementsByTag("li").text());
 			}
 		}
 		
@@ -207,7 +201,7 @@ public class Undergraduate {
 		}
 		
 		Elements es=doc.getElementsByClass("faq");
-		if(es!=null){
+		if(es!=null&&es.size()>0){
 			String str="";
 			for(Element tmp:es){
 				str+=html2Str(tmp.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\"")+"\n";
@@ -222,6 +216,7 @@ public class Undergraduate {
 				}
 			}
 		}
+
 		major.setIELTS_Avg("6.5");
 		if(major.getAcademicRequirements().contains("IELTS")){
 			if(major.getAcademicRequirements().contains("7.5")){
