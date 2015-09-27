@@ -207,6 +207,8 @@ public class LoughboroughPostgraduate {
 	}
 
 	public static void getDetails(int row,MajorForCollection major) throws Exception {
+		if(major.getUrl().equals("http://www.lboro.ac.uk"))return;
+		if(row==12||row==14||row==51||row==52)return;
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
 		Element e;
@@ -224,8 +226,19 @@ public class LoughboroughPostgraduate {
 		}
 		
 		if(doc.getElementById("accordion")!=null){
-			e=doc.getElementsByTag("div").get(1);
-			major.setAcademicRequirements(e.text());
+			int i=1;
+			System.out.println(doc.getElementById("accordion"));
+			for(Element tmp:doc.getElementById("accordion").getElementsByTag("h3")){
+				if(tmp.text().contains("Entry")){
+					System.out.println("i=" + i);
+					e=doc.getElementById("accordion").getElementsByTag("div").get(i);
+					major.setAcademicRequirements(e.text());
+					System.out.println(major.getAcademicRequirements());
+					break;
+				}
+				i++;
+			}
+			
 		}
 		
 		major.setIELTS_Avg("6.5");
