@@ -25,7 +25,7 @@ import net.sf.json.JSONObject;
 import net.sf.json.util.JSONStringer;
 
 public class Add {
-	private static String postUrl = "http://myoffer.cn/external/api/courses";
+	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 	private static String SCHOOL_NAME = "Loughborough";
 	private static int index=1;//��Ӧҳ��id
 	/**
@@ -38,6 +38,10 @@ public class Add {
 			System.out.println("work start");
 			List<Major> list=POIReadAndPost.getData();
 			for(;index<=list.size();){
+				if(index<114){
+					index++;
+					continue;
+				}
 				add(postUrl,list.get(index-1));
 			}
 			System.out.println("work done");
@@ -61,7 +65,7 @@ public class Add {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.950065990.1440817756.1440817756.1440908413.2; __utmz=255880599.1440817756.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AqiLY4v3vnH50pvV3LcTfd85qJ9FuOQcF.R8q5UgsskOTsdYiEXKDFqGdaDYc7D8hW3hZUedpYhYs; CNZZDATA1256122972=2001768791-1440195715-%7C1443316251");
+	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=560488153-1443749818-%7C1445061307; connect.sid=s%3AQWci5aaFLn_-Edlvx-2l45VMfbgl6dxK.ybWF9w0fvXuvYqSHQeC1Gtsbc0NAXQZpmIGWA49zOP0");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");

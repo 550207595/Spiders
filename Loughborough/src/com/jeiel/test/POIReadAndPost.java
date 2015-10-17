@@ -19,7 +19,7 @@ import java.util.*;
 
 public class POIReadAndPost {
 	private static String SCHOOL_NAME = "Loughborough";
-	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt.xls";
+	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt_m.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
