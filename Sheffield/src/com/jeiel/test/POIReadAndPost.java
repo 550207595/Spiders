@@ -18,8 +18,8 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import java.util.*;
 
 public class POIReadAndPost {
-	private static String SCHOOL_NAME = "Reading";
-	public static String filepath="C:\\Users\\Administrator\\Desktop\\"+SCHOOL_NAME+"\\gen_data_"+SCHOOL_NAME+"_pgt.xls";
+	private static String SCHOOL_NAME = "Sheffield";
+	public static String filepath="gen_data_"+SCHOOL_NAME+"_ug.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -39,7 +39,7 @@ public class POIReadAndPost {
         
         List<Major> list=new ArrayList<Major>();
         Major major;
-            // Ñ­»·ÐÐRow
+            // Ñ­ï¿½ï¿½ï¿½ï¿½Row
         for (int rowNum = 1; rowNum <= hssfSheet.getLastRowNum(); rowNum++) {
         	
             HSSFRow hssfRow = hssfSheet.getRow(rowNum);
@@ -120,7 +120,7 @@ public class POIReadAndPost {
 	
 	public static LinkedHashMap<String,String> splitScholarship(String scholarship,String tuition){
 		LinkedHashMap<String,String> result=new LinkedHashMap<String,String>();
-		if(scholarship.equals("null"))return result;
+		if(scholarship.equals(""))return result;
 		
 		for(String scholarshipItem:scholarship.split(";")){
 			if(scholarshipItem.substring(scholarshipItem.indexOf("$")+1).equals("tuitionfee")){

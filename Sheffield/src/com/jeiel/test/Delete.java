@@ -12,7 +12,7 @@ import java.util.List;
 import net.sf.json.JSONObject;
 
 public class Delete {
-	private static String postUrl = "http://myoffer.cn/external/api/courses";
+	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 	private static int index=1;
 	private static String SCHOOL_NAME = "Sheffield";
 	/**
@@ -23,28 +23,22 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=70;){//indexÎªÍøÒ³ÉÏÏÔÊ¾µÄidºÅ
+		for(;index<=152;){//indexÎªï¿½ï¿½Ò³ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½idï¿½ï¿½
 			
 			delete(postUrl,index);
 		}
 	   
 	}
 	
-	public static HttpURLConnection getConnection(String postUrl) throws IOException{
+	public static HttpURLConnection getConnection(String postUrl) throws Exception {
 		URL url = new URL(postUrl);
 		HttpURLConnection connection = (HttpURLConnection) url.openConnection();
 	    connection.setDoOutput(true);
 	    connection.setDoInput(true);
 	    connection.setRequestMethod("POST");
-	    connection.setUseCaches(false);
-	    connection.setInstanceFollowRedirects(true);
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "connect.sid=s%3AZYPBPmZHwWQHWYkUkUrh7WzRsk2yB9fN.24BEpcJ34iSjpykHSA2eBhAiP%2F4RGKYwm%2BhZaxpOx8I; CNZZDATA1256122972=254321286-1441087693-%7C1441846761");
-	    connection.setRequestProperty("Connection", "keep-alive");
-	    connection.setRequestProperty("Pragma", "no-cache");
-	    connection.setRequestProperty("Cache-Control", "no-cache");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.950065990.1440817756.1440817756.1440908413.2; __utmz=255880599.1440817756.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AOcedKsPgerNTlD5s6Oj7CrnTSwc3-J59.ckOjvW%2Buc053uYxZY34Z5WJaagGE%2FiwYM0FVz5sSiGY; CNZZDATA1256122972=1457945077-1443749818-%7C1445134038");
 	    connection.connect();
 	    return connection;
 	}
@@ -55,12 +49,12 @@ public class Delete {
 	    	HttpURLConnection connection=getConnection(postUrl);
 			DataOutputStream out= new DataOutputStream(connection.getOutputStream());
 			
-		    //¹Ì¶¨Öµ
+		    //ï¿½Ì¶ï¿½Öµ
 		    JSONObject entry=new JSONObject();
 		    entry.put("target", "course");
 		    entry.put("action", "remove");
 		    
-		    //×Ô¶¨ÒåÖµ
+		    //ï¿½Ô¶ï¿½ï¿½ï¿½Öµ
 		   	JSONObject value=new JSONObject();
 		    value.put("university", SCHOOL_NAME);
 		    value.put("id", id);
@@ -69,7 +63,7 @@ public class Delete {
 		    out.writeBytes(entry.toString());
 		    out.flush();
 		    
-		    //¶ÁÈ¡ÏìÓ¦
+		    //ï¿½ï¿½È¡ï¿½ï¿½Ó¦
 
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;
@@ -86,6 +80,7 @@ public class Delete {
 		    reader.close();
 		    System.out.println("Deleted");
 		    index++;
+		    connection.disconnect();
 	    }catch(Exception e){
 	    	System.out.println("Terminated at "+index);
 	    	System.out.println("Restart at "+index);

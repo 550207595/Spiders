@@ -1,25 +1,14 @@
 package com.jeiel.test;
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.IOException;
-import java.net.SocketTimeoutException;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-
-
-
-
-import java.util.Set;
-
 import org.apache.poi.hssf.usermodel.*;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
-import com.jeiel.test.FilterToHTML;
 import com.jeiel.test.MajorForCollection;
 
 
@@ -40,35 +29,33 @@ public class Undergraduate {
 	public static final int URL=13;
 	
 	public static final String SCHOOL_NAME="Sheffield";
-	public static final String FILE_PATH="C:\\Users\\Administrator\\Desktop\\wyl\\"+SCHOOL_NAME;
-	public static final String STRUCTURE_PATH=FILE_PATH+"\\structure\\";
-	public static final String STRUCTURE_FILE_PREFIX="structure_ug";
-	public static final String STRUCTURE_FILE_SUFFIX=".txt";
+
 	
 	public static boolean finish=false;
 	public static HSSFWorkbook book=null;
 	public static HSSFSheet sheet =null; 
 	public static HSSFRow row=null;
 	public static int rowNum=1;
-	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();;
+	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();
+	
 	
 	public static void main(String[] args) {
 		try {
-			
 			initExcelWriter();
-			initMajorList("http://www.reading.ac.uk/");
+			initMajorList("https://www.sheffield.ac.uk/prospectus/courseCategory.do;jsessionid=D1D1E82F3D594079672DFBB1E5F20601.tcs-live-node-01?category=azlist");
 			System.out.println("start");
 			while(!finish){
 				System.out.println("tryGet "+rowNum);
 				tryGet();
 			}
 			System.out.println("finish");
+			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}finally{
 			try {
-				exportExcel(FILE_PATH, "gen_data_"+SCHOOL_NAME+"_ug.xls");
+				exportExcel("gen_data_"+SCHOOL_NAME+"_ug.xls");
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -80,7 +67,7 @@ public class Undergraduate {
 		try{
 			run(rowNum);
 		}catch(Exception e){
-			System.out.println("terminate in "+rowNum);
+			System.out.println("terminate in "+rowNum+"\t"+majorList.get(rowNum-1).getUrl());
 			e.printStackTrace();
 		}
 	}
@@ -89,21 +76,27 @@ public class Undergraduate {
 		
 		try {
 			System.out.println("preparing majorList");
-			Connection conn=Jsoup.connect(originalUrl);
+			Connection conn=Jsoup.connect(originalUrl);;
 			Document doc=conn.timeout(60000).get();
-			Elements subjectList=doc.getElementsByTag("article").get(0).getElementsByClass("subject-list");//schools container
-			Elements links=new Elements();
-			for(Element link:subjectList){//get schools
-				links.addAll(link.getElementsByTag("a"));
+			
+			Elements es=doc.getElementsByAttributeValue("summary", "main layout table").get(0).getElementsByTag("td").get(0).getElementsByTag("ul");
+			es.remove(0);
+			String baseUrl="https://www.sheffield.ac.uk/prospectus/";
+			for(Element e:es){//ul
+				for(Element li:e.getElementsByTag("li")){//a
+					MajorForCollection major = new MajorForCollection();
+					major.setTitle(li.getElementsByTag("a").text());
+					major.setLevel("Undergraduate");
+					major.setType(li.text().substring(li.text().indexOf("-")+2, li.text().lastIndexOf("(")));
+					major.setTuitionFee("9000");
+					major.setMonthOfEntry("9");
+					major.setUrl(baseUrl + li.getElementsByTag("a").get(0).attr("href"));
+					majorList.add(major);
+				}
 			}
 			
-			String baseUrl="http://www.reading.ac.uk";
 			
-			for(Element link:links){//get majors
-				majorList.addAll(getMajorList(baseUrl+link.attr("href"),link.text()));
-				//if(majorList.size()>10)return;
-				//System.out.println("majorList size: "+majorList.size());
-			}
+			
 			System.out.println("majorList prepared");
 			System.out.println("majorList size: "+majorList.size());
 		} catch (Exception e) {
@@ -113,6 +106,7 @@ public class Undergraduate {
 
 		
 	}
+
 	
 	public static void run(int beginIndex) throws Exception{
 		
@@ -122,16 +116,7 @@ public class Undergraduate {
 				rowNum++;
 				continue;
 			}
-			
-			writeToExcel(rowNum, SCHOOL, major.getSchool());			
-			writeToExcel(rowNum, TITLE, major.getTitle());
-			writeToExcel(rowNum, LEVEL, major.getLevel());
-			writeToExcel(rowNum, TYPE, major.getType());
-			writeToExcel(rowNum, LENGTH_MONTHS, ""+major.getLength());
-			writeToExcel(rowNum, MONTH_OF_ENTRY, major.getMonthOfEntry());
-			writeToExcel(rowNum, URL, major.getUrl());
 			getDetails(rowNum,major);
-			
 			System.out.println(rowNum+"\t"+major.getUrl());
 			rowNum++;
 			/*if(rowNum>20)
@@ -139,100 +124,288 @@ public class Undergraduate {
 		}
 		finish=true;
 	}
-	
-	public static List<MajorForCollection> getMajorList(String schoolUrl,String schoolName) throws Exception{
-
-		Connection conn=Jsoup.connect(schoolUrl);
-		Document doc=null;
-		doc=conn.timeout(60000).get();
-		Elements links=doc.getElementsByTag("section").get(0).getElementsByTag("li");
-		List<MajorForCollection> list=new ArrayList<MajorForCollection>();
-		String baseUrl="http://www.reading.ac.uk";
-		for(Element e:links){
-			MajorForCollection major=new MajorForCollection();
-			major.setSchool(schoolName);
-			major.setLevel("Undergraduate");
-			major.setTitle(e.getElementsByTag("a").get(0).ownText().substring(
-					e.getElementsByTag("a").get(0).ownText().indexOf(" ")+1));
-			major.setType(e.getElementsByTag("a").get(0).ownText().substring(0, 
-					e.getElementsByTag("a").get(0).ownText().indexOf(" ")));
-			major.setLength(""+Integer.parseInt(e.getElementsByTag("p").get(1).text().substring(11,12))*12);
-			major.setMonthOfEntry("9");
-			major.setUrl(baseUrl+e.getElementsByTag("a").get(0).attr("href"));
-			list.add(major);
-		}
-		return list;
-	}
 
 	public static void getDetails(int row,MajorForCollection major) throws Exception {
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
 		Element e;
-		e=doc.getElementById("Panel1");
-		major.setAcademicRequirements(e.text());
-		major.setIELTS_Avg(e.text().substring(e.text().indexOf("IELTS ")+6,e.text().indexOf("IELTS ")+9));
-		major.setIELTS_Low(e.text().substring(e.text().indexOf("component below ")+16,e.text().indexOf("component below ")+19));
-		e=doc.getElementById("Panel2").getElementsByClass("fade-panels").get(0);
-		major.setStructure(html2Str(e.outerHtml()));
-		e=doc.getElementById("Panel3").getElementsByTag("p").get(1);
-		major.setTuitionFee(e.text().substring(e.text().indexOf("£")+1,e.text().indexOf(" per year")).replace(",",""));
+		
+		if(doc.text().contains("Duration")){
+			doc.text().subSequence(doc.text().indexOf("Duration"), doc.text().indexOf(" ", doc.text().indexOf("year", doc.text().indexOf("Duration"))));
+			major.setLength("" + doc.text().subSequence(doc.text().indexOf("Duration"), doc.text().indexOf(" ", doc.text().indexOf("year", doc.text().indexOf("Duration")))));
+			major.setLength(""+Integer.parseInt(major.getLength().substring(major.getLength().indexOf(" "), major.getLength().lastIndexOf(" ")).trim())*12);
+		}
+		e=doc.getElementById("department");
+		major.setSchool(e.getElementsByTag("h3").get(0).text());
+		//System.out.println(major.getSchool());
+		
+
+		
+		e=doc.getElementById("qualifications");
+		//System.out.println(e.text());
+		for(Element tr:e.getElementsByTag("tr")){
+			if(tr.text().contains("Access to HE"))break;
+			major.setAcademicRequirements(major.getAcademicRequirements() + tr.text() + ";");
+		}
+		//System.out.println(major.getAcademicRequirements());
+		major.setAcademicRequirements(major.getAcademicRequirements().substring(0, major.getAcademicRequirements().length()-2));
+		e = e.getElementsByClass("pinkbg").get(0);
+		
+		if(e.text().contains("IELTS")){
+			if(e.text().contains("8.5")){
+				major.setIELTS_Avg("8.5");
+				if(e.text().contains("8.0")){
+					major.setIELTS_Low("8.0");
+				}else if(e.text().contains("7.5")){
+					major.setIELTS_Low("7.5");
+				}else if(e.text().contains("7.0")){
+					major.setIELTS_Low("7.0");
+				}else if(e.text().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(e.text().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(e.text().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(e.text().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(e.text().contains("8.0")){
+				major.setIELTS_Avg("8.0");
+				if(e.text().contains("7.5")){
+					major.setIELTS_Low("7.5");
+				}else if(e.text().contains("7.0")){
+					major.setIELTS_Low("7.0");
+				}else if(e.text().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(e.text().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(e.text().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(e.text().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(e.text().contains("7.5")){
+				major.setIELTS_Avg("7.5");
+				if(e.text().contains("7.0")){
+					major.setIELTS_Low("7.0");
+				}else if(e.text().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(e.text().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(e.text().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(e.text().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(e.text().contains("7.0")){
+				major.setIELTS_Avg("7.0");
+				if(e.text().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(e.text().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(e.text().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(e.text().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(e.text().contains("6.5")){
+				major.setIELTS_Avg("6.5");
+				if(e.text().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(e.text().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(e.text().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(e.text().contains("6.0")){
+				major.setIELTS_Avg("6.0");
+				if(e.text().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(e.text().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(e.text().contains("5.5")){
+				major.setIELTS_Avg("5.5");
+				if(e.text().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(e.text().contains("5.0")){
+				major.setIELTS_Avg("5.0");
+				major.setIELTS_Low("5.0");
+			}
+		}else if(major.getAcademicRequirements().contains("IELTS")){
+			if(major.getAcademicRequirements().contains("8.5")){
+				major.setIELTS_Avg("8.5");
+				if(major.getAcademicRequirements().contains("8.0")){
+					major.setIELTS_Low("8.0");
+				}else if(major.getAcademicRequirements().contains("7.5")){
+					major.setIELTS_Low("7.5");
+				}else if(major.getAcademicRequirements().contains("7.0")){
+					major.setIELTS_Low("7.0");
+				}else if(major.getAcademicRequirements().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(major.getAcademicRequirements().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("8.0")){
+				major.setIELTS_Avg("8.0");
+				if(major.getAcademicRequirements().contains("7.5")){
+					major.setIELTS_Low("7.5");
+				}else if(major.getAcademicRequirements().contains("7.0")){
+					major.setIELTS_Low("7.0");
+				}else if(major.getAcademicRequirements().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(major.getAcademicRequirements().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("7.5")){
+				major.setIELTS_Avg("7.5");
+				if(major.getAcademicRequirements().contains("7.0")){
+					major.setIELTS_Low("7.0");
+				}else if(major.getAcademicRequirements().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(major.getAcademicRequirements().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("7.0")){
+				major.setIELTS_Avg("7.0");
+				if(major.getAcademicRequirements().contains("6.5")){
+					major.setIELTS_Low("6.5");
+				}else if(major.getAcademicRequirements().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("6.5")){
+				major.setIELTS_Avg("6.5");
+				if(major.getAcademicRequirements().contains("6.0")){
+					major.setIELTS_Low("6.0");
+				}else if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("6.0")){
+				major.setIELTS_Avg("6.0");
+				if(major.getAcademicRequirements().contains("5.5")){
+					major.setIELTS_Low("5.5");
+				}else if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("5.5")){
+				major.setIELTS_Avg("5.5");
+				if(major.getAcademicRequirements().contains("5.0")){
+					major.setIELTS_Low("5.0");
+				}
+			}else if(major.getAcademicRequirements().contains("5.0")){
+				major.setIELTS_Avg("5.0");
+				major.setIELTS_Low("5.0");
+			}
+		}else{
+			major.setIELTS_Avg("6.5");
+		}
 		
 		
-		//writeToExcel(row, APPLICATION_FEE, );
-		writeToExcel(row, TUITION_FEE, major.getTuitionFee());
-		writeToExcel(row, ACADEMIC_ENTRY_REQUIREMENT, major.getAcademicRequirements());
-		writeToExcel(row, IELTS_AVERAGE_REQUIREMENT, major.getIELTS_Avg());
-		writeToExcel(row, IELTS_LOWEST_REQUIREMENT, major.getIELTS_Low());
-		writeToExcel(row, STRUCTURE, major.getStructure());
-		//writeToExcel(row, MONTH_OF_ENTRY, ""+9);
-		//writeToExcel(row, SCHOLARSHIP, );
 		
+		e=doc.getElementById("modules");
+		if(e!=null){
+			major.setStructure(html2Str(e.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\""));
+		}
+			
+		major.setScholarship("Alumni Fund scholarships$3000;"+
+							"HSBC care leavers' scholarships$1000;"+
+							"Asylum Seeker Scholarships$9840;"+
+							"Sports scholarships$1000");
+		if(major.getSchool().contains("Automatic Control and Systems Engineering")){
+			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
+		}
+		if(major.getSchool().contains("Bioengineering")){
+			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
+		}
+		if(major.getSchool().contains("Chemical and Biological Engineering")){
+			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
+		}
+		if(major.getSchool().contains("Computer Science")){
+			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
+		}
+		if(major.getSchool().contains("Electronic and Electrical Engineering")){
+			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
+		}
+		if(major.getSchool().contains("Materials Science and Engineering")){
+			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
+		}
 	}
 
 	public static void initExcelWriter()
 			throws Exception {
 		
-		//鍒涘缓EXCEL鏂囨。绫诲瀷  
+
         book = new HSSFWorkbook(); 
-        //鍒涘缓璇XCEL鐨勭涓�〉鍚嶄负鈥淪heet1鈥� 
+
          
 		if(sheet==null){
 			sheet = book.createSheet("Sheet1");
 		}
 		row = sheet.createRow((short) 0);
-		//鍒涘缓绗竴琛岀殑绗竴涓崟鍏冩牸  
-        row.createCell(0).setCellValue("School"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁 
-        row.createCell(1).setCellValue("Level"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(2).setCellValue("Title"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(3).setCellValue("Type"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(4).setCellValue("Application Fee"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(5).setCellValue("Tuition Fee"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(6).setCellValue("Academic Entry Requirement"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(7).setCellValue("IELTS Average Requirement"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(8).setCellValue("IELTS Lowest Requirement"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(9).setCellValue("Structure"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(10).setCellValue("Length (months)"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(11).setCellValue("Month of Entry"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(12).setCellValue("Scholarship"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
-        row.createCell(13).setCellValue("Url"); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
+
+        row.createCell(0).setCellValue("School");
+        row.createCell(1).setCellValue("Level");
+        row.createCell(2).setCellValue("Title");
+        row.createCell(3).setCellValue("Type");
+        row.createCell(4).setCellValue("Application Fee");
+        row.createCell(5).setCellValue("Tuition Fee");
+        row.createCell(6).setCellValue("Academic Entry Requirement");
+        row.createCell(7).setCellValue("IELTS Average Requirement");
+        row.createCell(8).setCellValue("IELTS Lowest Requirement");
+        row.createCell(9).setCellValue("Structure");
+        row.createCell(10).setCellValue("Length (months)");
+        row.createCell(11).setCellValue("Month of Entry");
+        row.createCell(12).setCellValue("Scholarship");
+        row.createCell(13).setCellValue("Url"); 
 	}
 
-	public static void writeToExcel(int rowNum, int col, String content)
+	public static void addToSheet(int rowNum, int col, String content)
 			throws Exception {
 		if(row==null||row.getRowNum()!=rowNum){
 			row = sheet.createRow((short)rowNum);
 		}
 		
-		row.createCell(col).setCellValue(content); // 琛ㄦ牸鐨勭涓�绗竴鍒楁樉绀虹殑鏁版嵁
+		row.createCell(col).setCellValue(content);
 	}
 
-	public static void exportExcel(String filePath, String fileName) throws Exception {
-		
-		File fileDir = new File(filePath);
-		File file = new File(filePath, fileName);
-		if (!fileDir.exists()) {
-			fileDir.mkdirs();
+	public static void exportExcel(String fileName) throws Exception {
+		for(int row =0;row<majorList.size();row++){
+			addToSheet(row+1, SCHOOL, majorList.get(row).getSchool());
+			addToSheet(row+1, LEVEL, majorList.get(row).getLevel());
+			addToSheet(row+1, TITLE, majorList.get(row).getTitle());
+			addToSheet(row+1, TYPE, majorList.get(row).getType());
+			addToSheet(row+1, APPLICATION_FEE, majorList.get(row).getApplicationFee());
+			addToSheet(row+1, TUITION_FEE, majorList.get(row).getTuitionFee());
+			addToSheet(row+1, ACADEMIC_ENTRY_REQUIREMENT, majorList.get(row).getAcademicRequirements());
+			addToSheet(row+1, IELTS_AVERAGE_REQUIREMENT, majorList.get(row).getIELTS_Avg());
+			addToSheet(row+1, IELTS_LOWEST_REQUIREMENT, majorList.get(row).getIELTS_Low());
+			addToSheet(row+1, STRUCTURE, majorList.get(row).getStructure());
+			addToSheet(row+1, LENGTH_MONTHS, majorList.get(row).getLength());
+			addToSheet(row+1, MONTH_OF_ENTRY, majorList.get(row).getMonthOfEntry());
+			addToSheet(row+1, SCHOLARSHIP, majorList.get(row).getScholarship());
+			addToSheet(row+1, URL, majorList.get(row).getUrl());
 		}
+		
+		File file = new File(fileName);
 		if (!file.exists()) {
 			file.createNewFile();
 		}
