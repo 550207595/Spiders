@@ -27,6 +27,8 @@ public class MajorForCollection{
 	private String monthOfEntry;
 	private String scholarship;
 	private String url;
+	private boolean distributed;
+	private boolean handled;
 
 	public MajorForCollection(){
 		school="";
@@ -47,6 +49,8 @@ public class MajorForCollection{
 		monthOfEntry="";
 		scholarship="";
 		url="";
+		distributed=false;
+		handled=false;
 	}
 
 	public String getSchool() {
@@ -191,7 +195,24 @@ public class MajorForCollection{
 
 	public void setUrl(String url) {
 		this.url = url;
+	}
+
+	public boolean isDistributed() {
+		return distributed;
+	}
+
+	public void setDistributed(boolean distributed) {
+		this.distributed = distributed;
+	}
+
+	public boolean isHandled() {
+		return handled;
+	}
+
+	public void setHandled(boolean handled) {
+		this.handled = handled;
 	};
+	
 	
 	
 

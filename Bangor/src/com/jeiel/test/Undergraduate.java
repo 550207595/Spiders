@@ -3,8 +3,12 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 
 import javax.xml.ws.handler.MessageContext.Scope;
 
@@ -35,36 +39,51 @@ public class Undergraduate {
 	public static final int URL=13;
 	
 	public static final String SCHOOL_NAME="Bangor";
-
+	public static final int MAX_THREAD_AMOUNT = 60;
 	
 	public static boolean finish=false;
 	public static HSSFWorkbook book=null;
 	public static HSSFSheet sheet =null; 
 	public static HSSFRow row=null;
-	public static int rowNum=1;
+	//public static int rowNum=1;
 	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();
 	
 	
 	public static void main(String[] args) {
+		long startTimeInMillis = Calendar.getInstance().getTimeInMillis();
 		try {
-			System.out.println(new Date());
 			initExcelWriter();
 			//initMajorList("http://www.bangor.ac.uk/courses/undergraduate/");
 			initMajorListWithData();
 			System.out.println("start");
-			while(!finish){
-				System.out.println("tryGet "+rowNum);
-				tryGet();
+			ExecutorService pool=Executors.newCachedThreadPool();
+			for(int i=0;i<MAX_THREAD_AMOUNT;i++){
+				Runnable r = new Runnable() {
+					
+					@Override
+					public void run() {
+						// TODO Auto-generated method stub
+						while(hasNextUnhandledMajor()){
+							get(nextUnhandledMajor());
+						}
+					}
+				};
+				pool.execute(r);
+				//t.start();
+				
 			}
+			pool.shutdown();//不再接收新提交的任务，但是仍在队列中的任务会被继续处理完
+			pool.awaitTermination(10, TimeUnit.MINUTES);
 			System.out.println("finish");
-			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}finally{
 			try {
+				
 				exportExcel("gen_data_"+SCHOOL_NAME+"_ug.xls");
-				System.out.println(new Date());
+				long endTimeInMillis=Calendar.getInstance().getTimeInMillis();
+				System.out.println("Total seconds: " + (endTimeInMillis-startTimeInMillis)/1000 + "s");
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -72,15 +91,26 @@ public class Undergraduate {
 		}
 		
 	}
-	public static void tryGet(){
-		try{
-			run(rowNum);
-		}catch(Exception e){
-			System.out.println("terminate in "+rowNum+"\t"+majorList.get(rowNum-1).getUrl());
-			e.printStackTrace();
+	
+	public static synchronized MajorForCollection nextUnhandledMajor(){//获取还未处理且还未分发的专业
+		for(MajorForCollection major:majorList){
+			if(!major.isDistributed()&&!major.isHandled()){
+				major.setDistributed(true);
+				return major;
+			}
 		}
+		return null;
 	}
 	
+	public static synchronized boolean hasNextUnhandledMajor(){//判断是否有还未处理的专业
+		for(MajorForCollection major:majorList){
+			if(!major.isHandled()){
+				return true;
+			}
+		}
+		return false;
+	}
+
 	public static void initMajorList(String originalUrl){
 		
 		try {
@@ -176,25 +206,28 @@ public class Undergraduate {
 		System.out.println("majorList prepared");
 		System.out.println("majorList size: "+majorList.size());
 	}
-	
-	public static void run(int beginIndex) throws Exception{
-		
-		rowNum=1;
-		for(MajorForCollection major:majorList){
-			if(rowNum<beginIndex){
-				rowNum++;
-				continue;
-			}
-			getDetails(rowNum,major);
-			System.out.println(rowNum+"\t"+major.getUrl());
-			rowNum++;
-			/*if(rowNum>20)
-				break;*/
-		}
-		finish=true;
-	}
 
-	public static void getDetails(int row,MajorForCollection major) throws Exception {
+	public static void get(MajorForCollection major){
+		if(major==null)return;
+		try{
+			System.out.println((majorList.indexOf(major)+1)+"\t"+major.getUrl());
+			getDetails(major);
+		}catch(Exception e){
+			mark(major, false);
+			System.out.println("Failed at "+(majorList.indexOf(major)+1)+"\t"+major.getUrl());
+			//e.printStackTrace();
+			System.out.println(e.getMessage());
+		}
+	}
+	
+	public static synchronized void mark(MajorForCollection major, boolean handled){//标记已完成的major
+		major.setHandled(handled);
+		if(!handled){
+			major.setDistributed(false);
+		}
+	}
+	
+	public static void getDetails(MajorForCollection major) throws Exception {
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
 		Element e;
@@ -209,7 +242,7 @@ public class Undergraduate {
 					content=content.substring(0, content.indexOf("Programme Specification"));
 				}
 			}
-			major.setStructure(content);
+			major.setStructure(replaceSpecialCharacter(content));
 		}
 		
 		e=doc.getElementById("tab-c4");
@@ -221,37 +254,13 @@ public class Undergraduate {
 			}else if(content.indexOf("More information")>0){
 				content=content.substring(0, content.indexOf("More information"));
 			}
-			major.setAcademicRequirements(content);
+			major.setAcademicRequirements(replaceSpecialCharacter(content));
 			getIELTS(content, major);
 		}
 		
-		/*e=doc.getElementById("modules");
-		if(e!=null){
-			major.setStructure(html2Str(e.outerHtml()).replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\""));
-		}*/
-			
-		/*major.setScholarship("Alumni Fund scholarships$3000;"+
-							"HSBC care leavers' scholarships$1000;"+
-							"Asylum Seeker Scholarships$9840;"+
-							"Sports scholarships$1000");
-		if(major.getSchool().contains("Automatic Control and Systems Engineering")){
-			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
-		}
-		if(major.getSchool().contains("Bioengineering")){
-			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
-		}
-		if(major.getSchool().contains("Chemical and Biological Engineering")){
-			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
-		}
-		if(major.getSchool().contains("Computer Science")){
-			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
-		}
-		if(major.getSchool().contains("Electronic and Electrical Engineering")){
-			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
-		}
-		if(major.getSchool().contains("Materials Science and Engineering")){
-			major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
-		}*/
+		getScholarship(major);
+		
+		mark(major, true);
 	}
 
 	public static void initExcelWriter()
@@ -335,7 +344,110 @@ public class Undergraduate {
 		return html.replaceAll("<[^>]+>", "");
 	}
 
+	public static String replaceSpecialCharacter(String content){
+		String result="";
+		if(content!=null){
+			result=content.replace("&nbsp;", " ").replace("&amp;", "&").replace("&quot;", "\"");
+		}
+		return result;
+	}
+	
 	public static void getIELTS(String content,MajorForCollection major){
+		if(major.getSchool().contains("Creative Studies and Media")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("English Literature")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Lifelong Learning")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("History, Welsh History and Archaeology")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Linguistics and English Language")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+			if(major.getTitle().contains("English Language Studies")){
+				major.setIELTS_Avg("5.0");
+				major.setIELTS_Low("5.0");
+			}
+		}else if(major.getSchool().contains("Modern Languages")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Music")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Philosophy and Religion")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Philosophy and Religion")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Welsh")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Bangor Business School")){
+			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Education")){
+			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Law")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+			if(major.getTitle().contains("Law with Professional English")){
+				major.setIELTS_Avg("6.0");
+				major.setIELTS_Low("5.5");
+			}
+		}else if(major.getSchool().contains("Social Sciences")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Environment, Natural Resources and Geography")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Biological Sciences")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Ocean Sciences")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Healthcare Sciences")){
+			major.setIELTS_Avg("7.0");//根据该学院大多数专业得出
+			major.setIELTS_Low("6.5");
+			if(major.getTitle().contains("Nursing")){
+				major.setIELTS_Avg("7.0");
+				major.setIELTS_Low("7.0");
+			}else if(major.getTitle().contains("Midwifery")){
+				major.setIELTS_Avg("7.0");
+				major.setIELTS_Low("7.0");
+			}else if(major.getTitle().contains("Radiography")){
+				major.setIELTS_Avg("7.0");
+				major.setIELTS_Low("6.5");
+			}else if(major.getTitle().contains("Healthcare Sciences")){
+				major.setIELTS_Avg("7.0");
+				major.setIELTS_Low("6.5");
+			}
+		}else if(major.getSchool().contains("Medical Sciences")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Psychology")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Sport, Health and Exercise Sciences")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Chemistry")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Computer Science")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Electronic Engineering")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}
+		
 		if(content.contains("IELTS")){
 			if(content.contains("8.5")){
 				major.setIELTS_Avg("8.5");
@@ -418,9 +530,32 @@ public class Undergraduate {
 				major.setIELTS_Avg("5.0");
 				major.setIELTS_Low("5.0");
 			}
-		}else{
-			major.setIELTS_Avg("");
 		}
+	}
+
+	public static void getScholarship(MajorForCollection major){
+		/*major.setScholarship("Alumni Fund scholarships$3000;"+
+		"HSBC care leavers' scholarships$1000;"+
+		"Asylum Seeker Scholarships$9840;"+
+		"Sports scholarships$1000");
+		if(major.getSchool().contains("Automatic Control and Systems Engineering")){
+		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
+		}
+		if(major.getSchool().contains("Bioengineering")){
+		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
+		}
+		if(major.getSchool().contains("Chemical and Biological Engineering")){
+		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
+		}
+		if(major.getSchool().contains("Computer Science")){
+		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
+		}
+		if(major.getSchool().contains("Electronic and Electrical Engineering")){
+		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$2000");
+		}
+		if(major.getSchool().contains("Materials Science and Engineering")){
+		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
+		}*/
 	}
 }
 
