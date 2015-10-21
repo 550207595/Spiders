@@ -14,7 +14,7 @@ import net.sf.json.JSONObject;
 public class Delete {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 	private static int index=1;
-	private static String SCHOOL_NAME = "Sheffield";
+	private static String SCHOOL_NAME = "Bangor";
 	/**
 	 * @param args
 	 * @throws IOException 

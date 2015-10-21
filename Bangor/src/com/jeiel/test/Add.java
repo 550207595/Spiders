@@ -27,7 +27,7 @@ import net.sf.json.util.JSONStringer;
 
 public class Add {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
-	private static String SCHOOL_NAME = "Sheffield";
+	private static String SCHOOL_NAME = "Bangor";
 	private static int index=1;//��Ӧҳ��id
 	/**
 	 * @param args

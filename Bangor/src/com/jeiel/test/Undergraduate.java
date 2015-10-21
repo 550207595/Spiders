@@ -41,7 +41,7 @@ public class Undergraduate {
 	public static final String SCHOOL_NAME="Bangor";
 	public static final int MAX_THREAD_AMOUNT = 60;
 	
-	public static boolean finish=false;
+	//public static boolean finish=false;
 	public static HSSFWorkbook book=null;
 	public static HSSFSheet sheet =null; 
 	public static HSSFRow row=null;
