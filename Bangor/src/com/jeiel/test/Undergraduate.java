@@ -41,11 +41,9 @@ public class Undergraduate {
 	public static final String SCHOOL_NAME="Bangor";
 	public static final int MAX_THREAD_AMOUNT = 60;
 	
-	//public static boolean finish=false;
 	public static HSSFWorkbook book=null;
 	public static HSSFSheet sheet =null; 
 	public static HSSFRow row=null;
-	//public static int rowNum=1;
 	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();
 	
 	
@@ -248,7 +246,7 @@ public class Undergraduate {
 		
 		e=doc.getElementById("tab-c4");
 		if(e!=null&&e.text().contains("Entry requirements")){
-			String content=html2Str(e.outerHtml());
+			String content=e.text();
 			content=content.substring(content.indexOf("Entry requirements"));
 			if(content.indexOf("General University entry requirements")>0){
 				content=content.substring(0, content.indexOf("General University entry requirements"));
