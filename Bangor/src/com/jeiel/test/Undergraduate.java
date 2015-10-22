@@ -231,6 +231,7 @@ public class Undergraduate {
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
 		Element e;
+		major.setMonthOfEntry("9");//international scholarship页面中有
 		e=doc.getElementById("tab-c2");
 		if(e!=null&&e.text().contains("Course Content")){
 			String content=html2Str(e.outerHtml());
@@ -534,11 +535,10 @@ public class Undergraduate {
 	}
 
 	public static void getScholarship(MajorForCollection major){
-		/*major.setScholarship("Alumni Fund scholarships$3000;"+
-		"HSBC care leavers' scholarships$1000;"+
-		"Asylum Seeker Scholarships$9840;"+
-		"Sports scholarships$1000");
-		if(major.getSchool().contains("Automatic Control and Systems Engineering")){
+		major.setScholarship("Merit Scholarship$15000;"+
+		"Alumni/Existing Students/Family Discount$11400;"+
+		"British Council GREAT Scholarship$18000");
+		/*if(major.getSchool().contains("Automatic Control and Systems Engineering")){
 		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
 		}
 		if(major.getSchool().contains("Bioengineering")){
@@ -557,6 +557,7 @@ public class Undergraduate {
 		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
 		}*/
 	}
+
 }
 
 
