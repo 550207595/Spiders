@@ -380,9 +380,6 @@ public class Undergraduate {
 		}else if(major.getSchool().contains("Philosophy and Religion")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Philosophy and Religion")){
-			major.setIELTS_Avg("6.5");
-			major.setIELTS_Low("6.0");
 		}else if(major.getSchool().contains("Welsh")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");

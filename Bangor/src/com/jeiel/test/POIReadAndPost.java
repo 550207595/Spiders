@@ -71,8 +71,8 @@ public class POIReadAndPost {
             major.setMonthOfEntry(String.valueOf(hssfRow.getCell(11)));
             major.setScholarship(splitScholarship(String.valueOf(hssfRow.getCell(12)),major.getTuitionFee()));
             list.add(major);
-            //System.out.println("{\""+major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+(major.getTuitionFee().indexOf(".")<0?major.getTuitionFee():major.getTuitionFee().substring(0, major.getTuitionFee().indexOf(".")))+"|"+major.getLength()+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
-            System.out.println("{\""+major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
+            //ug System.out.println("{\""+major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+(major.getTuitionFee().indexOf(".")<0?major.getTuitionFee():major.getTuitionFee().substring(0, major.getTuitionFee().indexOf(".")))+"|"+major.getLength()+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
+            //pgt System.out.println("{\""+major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+(major.getTuitionFee().indexOf(".")<0?major.getTuitionFee():major.getTuitionFee().substring(0, major.getTuitionFee().indexOf(".")))+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
         }
         hssfWorkbook.close();
         is.close();

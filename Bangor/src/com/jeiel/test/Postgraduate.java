@@ -204,7 +204,7 @@ public class Postgraduate {
 			major.setLevel("Postgraduate");
 			major.setTitle(singleData[0].split("\\|")[1]);
 			major.setType(singleData[0].split("\\|")[2]);
-			//major.setTuitionFee(singleData[0].split("\\|")[3]);
+			major.setTuitionFee(singleData[0].split("\\|")[3]);
 			/*if(singleData[0].split("\\|").length==5){
 				major.setLength(singleData[0].split("\\|")[4]);
 			}*/
@@ -285,7 +285,7 @@ public class Postgraduate {
 			major.setAcademicRequirements(content);
 			getIELTS(content, major);
 		}
-		//getScholarship(major);
+		getScholarship(major);
 		
 		mark(major, true);
 	}
@@ -376,12 +376,16 @@ public class Postgraduate {
 	}
 	
 	public static void getIELTS(String content,MajorForCollection major){
-		/*if(major.getSchool().contains("Creative Studies and Media")){
+		if(major.getSchool().contains("Creative Studies and Media")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
+			if(major.getTitle().contains("Filmmaking: Concept to Screen")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}
 		}else if(major.getSchool().contains("English Literature")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
 		}else if(major.getSchool().contains("Lifelong Learning")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
@@ -391,27 +395,24 @@ public class Postgraduate {
 		}else if(major.getSchool().contains("Linguistics and English Language")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("English Language Studies")){
-				major.setIELTS_Avg("5.0");
-				major.setIELTS_Low("5.0");
-			}
 		}else if(major.getSchool().contains("Modern Languages")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
+			if(major.getTitle().contains("Translation Studies")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}
 		}else if(major.getSchool().contains("Music")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Philosophy and Religion")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Philosophy and Religion")){
-			major.setIELTS_Avg("6.5");
-			major.setIELTS_Low("6.0");
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("6.5");
 		}else if(major.getSchool().contains("Welsh")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Bangor Business School")){
-			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
+			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Education")){
 			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
@@ -419,35 +420,52 @@ public class Postgraduate {
 		}else if(major.getSchool().contains("Law")){
 			major.setIELTS_Avg("6.5");
 			major.setIELTS_Low("6.0");
-			if(major.getTitle().contains("Law with Professional English")){
-				major.setIELTS_Avg("6.0");
-				major.setIELTS_Low("5.5");
-			}
 		}else if(major.getSchool().contains("Social Sciences")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
+			if(major.getTitle().contains("Criminology and Law")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}
 		}else if(major.getSchool().contains("Environment, Natural Resources and Geography")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
+			if(major.getTitle().contains("Distance Learning")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}
 		}else if(major.getSchool().contains("Biological Sciences")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Ocean Sciences")){
-			major.setIELTS_Avg("6.0");
+			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
 			major.setIELTS_Low("5.5");
+			if(major.getTitle().contains("Marine Biology")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}else if(major.getTitle().contains("Marine Environmental Protection")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}else if(major.getTitle().contains("Applied Marine Geoscience")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}else if(major.getTitle().contains("Physical Oceanography")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}
 		}else if(major.getSchool().contains("Healthcare Sciences")){
-			major.setIELTS_Avg("7.0");//根据该学院大多数专业得出
-			major.setIELTS_Low("6.5");
-			if(major.getTitle().contains("Nursing")){
-				major.setIELTS_Avg("7.0");
-				major.setIELTS_Low("7.0");
+			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
+			major.setIELTS_Low("5.5");
+			if(major.getTitle().contains("Public Health and Health Promotion")){
+				major.setIELTS_Avg("6.0");
+				major.setIELTS_Low("5.5");
+			}else if(major.getTitle().contains("Nursing")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
 			}else if(major.getTitle().contains("Midwifery")){
-				major.setIELTS_Avg("7.0");
-				major.setIELTS_Low("7.0");
-			}else if(major.getTitle().contains("Radiography")){
-				major.setIELTS_Avg("7.0");
-				major.setIELTS_Low("6.5");
-			}else if(major.getTitle().contains("Healthcare Sciences")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}else if(major.getTitle().contains("Non-clinical")){
 				major.setIELTS_Avg("7.0");
 				major.setIELTS_Low("6.5");
 			}
@@ -457,19 +475,37 @@ public class Postgraduate {
 		}else if(major.getSchool().contains("Psychology")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
+			if(major.getTitle().contains("Psychological Research")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}else if(major.getTitle().contains("Neuroimaging")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}else if(major.getType().contains("MRes")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}
 		}else if(major.getSchool().contains("Sport, Health and Exercise Sciences")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Chemistry")){
 			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("6.0");
+			major.setIELTS_Low("5.5");
+			if(major.getType().contains("MRes")){
+				major.setIELTS_Avg("7.0");
+				major.setIELTS_Low("6.5");
+			}
 		}else if(major.getSchool().contains("Computer Science")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Electronic Engineering")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
-		}*/
+			if(major.getTitle().contains("Nanotechnology and Microfabrication")){
+				major.setIELTS_Avg("6.5");
+				major.setIELTS_Low("6.0");
+			}
+		}
 		
 		if(content.contains("IELTS")){
 			if(content.contains("8.5")){
@@ -557,9 +593,11 @@ public class Postgraduate {
 	}
 
 	public static void getScholarship(MajorForCollection major){
-		major.setScholarship("Merit Scholarship$15000;"+
-		"Alumni/Existing Students/Family Discount$11400;"+
-		"British Council GREAT Scholarship$18000");
+		major.setScholarship("Merit Scholarship$tuitionfee;"+
+		"British Council GREAT Scholarship$8000;"+
+		"Santander$5000;"+
+		"Commonwealth Scholarship$12000;"+
+		"Commonwealth Shared Scholarship$tuitionfee");
 		/*if(major.getSchool().contains("Automatic Control and Systems Engineering")){
 		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
 		}
