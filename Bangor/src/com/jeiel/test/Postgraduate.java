@@ -251,6 +251,11 @@ public class Postgraduate {
 				}
 			}
 			major.setStructure(content);
+		}else{
+			e=doc.getElementById("overview");
+			if(e!=null){
+				major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml().replace(doc.getElementById("sidepanel").outerHtml(), ""))).trim());
+			}
 		}
 		
 		e=doc.getElementById("sidepanel");
@@ -263,8 +268,24 @@ public class Postgraduate {
 					content=content.substring(content.indexOf("Duration"));
 					if(content.indexOf("year")>0){
 						content=content.substring(0, content.indexOf("year")+4);
+						if(content.contains("1")){
+							content="12";
+						}else if(content.contains("2")){
+							content="24";
+						}else if(content.contains("3")){
+							content="36";
+						}else if(content.contains("4")){
+							content="48";
+						}else if(content.contains("5")){
+							content="60";
+						}else if(content.contains("6")){
+							content="72";
+						}else if(content.contains("One")){
+							content="12";
+						}
 					}
 					major.setLength(content);
+					
 				}
 			}
 		}

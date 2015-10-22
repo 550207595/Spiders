@@ -36,6 +36,7 @@ public class POIReadAndPost {
 			e.printStackTrace();
 		}
 	}
+	
 	public static List<Major> getData() throws Exception  {
 		// TODO Auto-generated method stub
 		
