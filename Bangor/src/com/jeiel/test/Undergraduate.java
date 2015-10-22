@@ -196,7 +196,8 @@ public class Undergraduate {
 			major.setType(singleData[0].split("\\|")[2]);
 			major.setTuitionFee(singleData[0].split("\\|")[3]);
 			if(singleData[0].split("\\|").length==5){
-				major.setLength(singleData[0].split("\\|")[4]);
+				major.setLength(""+Integer.parseInt(singleData[0].split("\\|")[4].replace("years", "").trim())*12);
+				
 			}
 			major.setUrl(singleData[1]);
 			majorList.add(major);
