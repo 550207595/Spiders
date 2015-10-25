@@ -56,7 +56,7 @@ public class Undergraduate {
 		try {
 			initExcelWriter();
 			initMajorList("http://www.birmingham.ac.uk/undergraduate/courses/search.aspx?CurrentTab=AtoZ&AtoZFilter=Undergraduate");
-			/*initMajorListWithData();
+			//initMajorListWithData();
 			System.out.println("start");
 			ExecutorService pool=Executors.newCachedThreadPool();
 			for(int i=0;i<MAX_THREAD_AMOUNT;i++){
@@ -75,7 +75,7 @@ public class Undergraduate {
 			}
 			pool.shutdown();//涓嶅啀鎺ユ敹鏂版彁浜ょ殑浠诲姟锛屼絾鏄粛鍦ㄩ槦鍒椾腑鐨勪换鍔′細琚户缁鐞嗗畬
 			pool.awaitTermination(10, TimeUnit.MINUTES);
-			System.out.println("finish");*/
+			System.out.println("finish");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -116,7 +116,7 @@ public class Undergraduate {
 		
 		try {
 			System.out.println("preparing majorList");
-			/*String letter="&CourseComplete_AtoZ_AtoZLetter=";
+			String letter="&CourseComplete_AtoZ_AtoZLetter=";
 			String page="&CourseComplete_atozlisting_goto=";
 			Connection conn=Jsoup.connect(originalUrl+letter+"A"+page+"1");
 			Document doc=conn.timeout(60000).get();
@@ -143,8 +143,8 @@ public class Undergraduate {
 						Elements tds=tr.getElementsByTag("td");
 						MajorForCollection major = new MajorForCollection();
 						if(tds.size()>=1){
-							//major.setTitle(tds.get(0).text());
-							//major.setType(GetType(tds.get(0).text()));
+							major.setTitle(tds.get(0).text());
+							major.setType(GetType(tds.get(0).text()));
 							major.setUrl(baseUrl+tds.get(0).getElementsByTag("a").get(0).attr("href"));
 						}
 						if(tds.size()>=4){
@@ -156,27 +156,37 @@ public class Undergraduate {
 						majorList.add(major);
 					}
 				}
-			}*/
-			Connection conn=Jsoup.connect(originalUrl);
+			}
+			/*Connection conn=Jsoup.connect(originalUrl);
 			Document doc=conn.timeout(60000).get();
 			
 			Elements es=doc.getElementsByClass("accordion__body");
 
 			String baseUrl = "http://www.birmingham.ac.uk";
 			String queryUrl="http://www.birmingham.ac.uk/undergraduate/courses/search.aspx?CourseKeywords=";
+			int i=1;
+			int sum=0;
 			for(Element div:es){
 				Elements uls=div.getElementsByTag("ul");
 				Elements h3s=div.getElementsByTag("h3");
 				if(uls.size()!=h3s.size()){
 					break;
 				}
+				
 				for(Element ul:uls){
+					sum+=uls.size();
 					for(Element li:ul.getElementsByTag("li")){
+						System.out.println(i++);
 						MajorForCollection major =new MajorForCollection();
 						major.setSchool(h3s.get(uls.indexOf(ul)).text());
 						major.setTitle(li.text());
 						major.setUrl(baseUrl+li.getElementsByTag("a").attr("href"));
-						conn=Jsoup.connect(queryUrl+major.getSchool().replace("&", "%26").replace(" ", "+"));
+						if(major.getTitle().contains("&")){
+							conn=Jsoup.connect(queryUrl+major.getTitle().replace("&", "%26").replace(" ", "+")+
+									major.getTitle().substring(major.getTitle().indexOf("&")).replace(" ", "+"));
+						}else{
+							conn=Jsoup.connect(queryUrl+major.getTitle().replace("&", "%26").replace(" ", "+"));
+						}
 						doc=conn.timeout(10000).get();
 						if(doc.getElementsByTag("tbody").size()>0){
 							Element tmp=doc.getElementsByTag("tbody").get(0);
@@ -190,7 +200,7 @@ public class Undergraduate {
 					}
 				}
 			}
-			
+			System.out.println(sum);*/
 			
 			System.out.println("majorList prepared");
 			System.out.println("majorList size: "+majorList.size());
@@ -276,18 +286,21 @@ public class Undergraduate {
 			e=doc.getElementsByClass("grid").get(0);
 			Elements dts=e.getElementsByTag("dt");
 			Elements dds=e.getElementsByTag("dd");
-			if(dts.size()!=dds.size()){
+			/*if(dts.size()!=dds.size()){
 				major.setApplicationFee("size not match: dts "+dts.size()+"; dds "+dds.size());
 				mark(major, true);
 				return;
-			}
+			}*/
 			for(Element dt:dts){
 				if(dt.text().contains("Duration")&&major.getLength().length()==0){
 					major.setLength(dds.get(dts.indexOf(dt)).text());
 				}else if(dt.text().contains("Fees")){
 					if(dds.get(dts.indexOf(dt)).text().contains("£")){
 						String str=dds.get(dts.indexOf(dt)).text();
-						str=str.substring(str.lastIndexOf("£")).replace("Funding opportunities are available", "");
+						str=str.substring(str.lastIndexOf("£")+1).replace("Funding opportunities are available", "").replace(",", "");
+						if(str.indexOf(" ")>0){
+							str=str.substring(0, str.indexOf(" "));
+						}
 						major.setTuitionFee(str);
 					}
 				}else if(dt.text().contains("Start date")){
@@ -296,6 +309,8 @@ public class Undergraduate {
 						major.setMonthOfEntry("9");
 					}else if(major.getMonthOfEntry().contains("October")){
 						major.setMonthOfEntry("10");
+					}else if(major.getMonthOfEntry().contains("January")){
+						major.setMonthOfEntry("1");
 					}
 				}else if(dt.text().contains("Study options")&&major.getLength().length()==0){
 					major.setLength("options "+dds.get(dts.indexOf(dt)).text());
@@ -306,33 +321,24 @@ public class Undergraduate {
 				}
 			}
 		}
-		//major.setMonthOfEntry("9");
-		/*e=doc.getElementById("tab-c2");
-		if(e!=null&&e.text().contains("Course Content")){
-			String content=html2Str(e.outerHtml());
-			if(content.indexOf("What will you study on this cours")>0){
-				content=content.substring(content.indexOf("What will you study on this cours"));
-				if(content.indexOf("Modules for the current academic year")>0){
-					content=content.substring(0, content.indexOf("Modules for the current academic year"));
-				}else if(content.indexOf("Programme Specification")>0){
-					content=content.substring(0, content.indexOf("Programme Specification"));
-				}
-			}
-			major.setStructure(replaceSpecialCharacter(content));
-		}*/
+		if(major.getMonthOfEntry().length()==0){
+			major.setMonthOfEntry("9");
+		}
 		
-		/*e=doc.getElementById("tab-c4");
-		if(e!=null&&e.text().contains("Entry requirements")){
-			String content=e.text();
-			content=content.substring(content.indexOf("Entry requirements"));
-			if(content.indexOf("General University entry requirements")>0){
-				content=content.substring(0, content.indexOf("General University entry requirements"));
-			}else if(content.indexOf("More information")>0){
-				content=content.substring(0, content.indexOf("More information"));
+		e=doc.getElementById("CourseDetailsTab");
+		if(e!=null){
+			major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml())));
+			if(major.getStructure().contains("Related links")){
+				major.setApplicationFee(major.getStructure().substring(major.getStructure().indexOf("Related links")+"Related links".length()));
 			}
-			major.setAcademicRequirements(replaceSpecialCharacter(content));
-			getIELTS(content, major);
-		}*/
+		}
+		
+		e=doc.getElementById("EntryRequirements");
+		if(e!=null){
+			major.setAcademicRequirements(e.text());
+			getIELTS(major.getAcademicRequirements(), major);
+		}
+		
 		
 		//getScholarship(major);
 		
@@ -372,7 +378,10 @@ public class Undergraduate {
 		if(row==null||row.getRowNum()!=rowNum){
 			row = sheet.createRow((short)rowNum);
 		}
-		
+		if(content.length()>32767){
+			row.createCell(col).setCellValue("32767");
+			return;
+		}
 		row.createCell(col).setCellValue(content);
 	}
 
@@ -429,7 +438,7 @@ public class Undergraduate {
 	}
 	
 	public static void getIELTS(String content,MajorForCollection major){
-		if(major.getSchool().contains("Creative Studies and Media")){
+		/*if(major.getSchool().contains("Creative Studies and Media")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("English Literature")){
@@ -519,7 +528,7 @@ public class Undergraduate {
 		}else if(major.getSchool().contains("Electronic Engineering")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
-		}
+		}*/
 		
 		if(content.contains("IELTS")){
 			if(content.contains("8.5")){
@@ -632,7 +641,7 @@ public class Undergraduate {
 
 	public static String GetType(String input)//BA BEng Bsc Msc MEng 
 	{
-		String types="BA;BEng;BSc;BDS;BN;BVSc;MOSci;MESci;MEcol;MPhys;MMath;MMarBiol;MBChB;MChem;MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Doctorate;Graduate Certificate;LLM;LLB;GradDip;MTh;MRes";
+		String types="BA;BEng;BSci;BSc;BDS;BN;BVSc;MOSci;MESci;MEcol;MPhys;MMath;MMarBiol;MBChB;MChem;MSci;MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Doctorate;Graduate Certificate;LLM;LLB;GradDip;MTh;MRes";
 		
 		String[] array=types.split(";");
 		for(int i=0;i<array.length;i++)
