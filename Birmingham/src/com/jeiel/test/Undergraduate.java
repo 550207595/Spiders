@@ -340,9 +340,6 @@ public class Undergraduate {
 		e=doc.getElementById("EntryRequirements");
 		if(e!=null){
 			major.setAcademicRequirements(e.text());
-			getIELTS(major.getAcademicRequirements(), major);
-		}
-		if(major.getIELTS_Avg().length()==0){
 			getIELTS(major.getApplicationFee(), major);
 		}
 		
@@ -581,7 +578,7 @@ public class Undergraduate {
 			major.setIELTS_Low("7.0");
 		}
 		
-		/*if(content.contains("IELTS")){
+		if(content.contains("IELTS")){
 			if(content.contains("8.5")){
 				major.setIELTS_Avg("8.5");
 				if(content.contains("8.0")){
@@ -663,7 +660,7 @@ public class Undergraduate {
 				major.setIELTS_Avg("5.0");
 				major.setIELTS_Low("5.0");
 			}
-		}*/
+		}
 	}
 
 	public static void getScholarship(MajorForCollection major){
