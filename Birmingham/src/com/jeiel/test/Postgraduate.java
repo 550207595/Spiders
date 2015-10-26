@@ -4,10 +4,18 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
+
+import javax.xml.ws.handler.MessageContext.Scope;
+
 import org.apache.poi.hssf.usermodel.*;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
@@ -35,7 +43,7 @@ public class Postgraduate {
 	public static final int URL=13;
 	
 	public static final String SCHOOL_NAME="Birmingham";
-	public static final int MAX_THREAD_AMOUNT = 50;
+	public static final int MAX_THREAD_AMOUNT = 60;
 	
 	public static HSSFWorkbook book=null;
 	public static HSSFSheet sheet =null; 
@@ -47,8 +55,8 @@ public class Postgraduate {
 		long startTimeInMillis = Calendar.getInstance().getTimeInMillis();
 		try {
 			initExcelWriter();
-			//initMajorList("http://www.bangor.ac.uk/courses/postgraduate/");
-			initMajorListWithData();
+			initMajorList("http://www.birmingham.ac.uk/postgraduate/courses/taught/listing.aspx?CourseListingAtoZ_goto=");
+			//initMajorListWithData();
 			System.out.println("start");
 			ExecutorService pool=Executors.newCachedThreadPool();
 			for(int i=0;i<MAX_THREAD_AMOUNT;i++){
@@ -63,10 +71,9 @@ public class Postgraduate {
 					}
 				};
 				pool.execute(r);
-				//t.start();
 				
 			}
-			pool.shutdown();//不再接收新提交的任务，但是仍在队列中的任务会被继续处理完
+			pool.shutdown();//涓嶅啀鎺ユ敹鏂版彁浜ょ殑浠诲姟锛屼絾鏄粛鍦ㄩ槦鍒椾腑鐨勪换鍔′細琚户缁鐞嗗畬
 			pool.awaitTermination(10, TimeUnit.MINUTES);
 			System.out.println("finish");
 		} catch (Exception e) {
@@ -86,7 +93,7 @@ public class Postgraduate {
 		
 	}
 	
-	public static synchronized MajorForCollection nextUnhandledMajor(){//获取还未处理且还未分发的专业
+	public static synchronized MajorForCollection nextUnhandledMajor(){//鑾峰彇杩樻湭澶勭悊涓旇繕鏈垎鍙戠殑涓撲笟
 		for(MajorForCollection major:majorList){
 			if(!major.isDistributed()&&!major.isHandled()){
 				major.setDistributed(true);
@@ -96,7 +103,7 @@ public class Postgraduate {
 		return null;
 	}
 	
-	public static synchronized boolean hasNextUnhandledMajor(){//判断是否有还未处理的专业
+	public static synchronized boolean hasNextUnhandledMajor(){//鍒ゆ柇鏄惁鏈夎繕鏈鐞嗙殑涓撲笟
 		for(MajorForCollection major:majorList){
 			if(!major.isHandled()){
 				return true;
@@ -109,13 +116,29 @@ public class Postgraduate {
 		
 		try {
 			System.out.println("preparing majorList");
-			Connection conn=Jsoup.connect(originalUrl);
+			int maxPage=19;
+			Connection conn=Jsoup.connect(originalUrl+"1");
 			Document doc=conn.timeout(60000).get();
 			
-			Elements es=doc.getElementById("schools").getElementsByTag("a");
-			for(Element e:es){//school
-				System.out.println(e.text());
-				majorList.addAll(getMajors(e.attr("href")));
+			Element e=null;
+			String baseUrl = "http://www.birmingham.ac.uk";
+			for(int i=1;i<=maxPage;i++){
+				conn=Jsoup.connect(originalUrl + i);
+				doc=conn.timeout(10000).get();
+				e=doc.getElementsByAttributeValue("class", "sys_uob-listing").get(0);
+				if(e!=null){
+					for(Element li:e.getElementsByTag("li")){
+						if(li.getElementsByTag("a").size()>0){
+							Element a = li.getElementsByTag("a").get(0);
+							MajorForCollection major = new MajorForCollection();
+							major.setLevel("Postgraduate");
+							major.setTitle(a.text());
+							major.setType(GetType(a.text()));
+							major.setUrl(baseUrl+a.attr("href"));
+							majorList.add(major);
+						}
+					}
+				}
 			}
 			
 			System.out.println("majorList prepared");
@@ -134,50 +157,14 @@ public class Postgraduate {
 			String baseUrl="http://www.bangor.ac.uk";
 			Connection conn=Jsoup.connect(baseUrl + schoolUrl);
 			Document doc = conn.timeout(60000).get();
-			Element e=doc.getElementById("contents");
-			boolean findBegin=false;
-			String school=e.getElementsByTag("h1").get(0).text();
-			school=school.substring(school.indexOf(":")+1).trim();
-			System.out.println(school);
-			for(Element tmp:e.children()){
-				//System.out.println(tmp.text());
-				if(findBegin){
-					if(tmp.text().contains("Research Programmes")){
-						//System.out.println("break");
-						break;
-					}
-					if(tmp.attr("id").equals("rightcol")){
-						//System.out.println("continue");
-						continue;
-					}
-					for(Element li:tmp.getElementsByTag("li")){
-						//System.out.println(li.text());
-						MajorForCollection major = new MajorForCollection();
-						major.setSchool(school);
-						major.setTitle(li.text());
-						//System.out.println("title:"+"\t"+major.getTitle());
-						major.setType(tmp.getElementsByTag("h3").get(0).text());
-						major.setTitle(major.getTitle().replace(major.getType(), "").trim());
-						//System.out.println("type:"+"\t"+major.getType());
-						major.setUrl(baseUrl + li.getElementsByTag("a").get(0).attr("href"));
-						//System.out.println("url:"+"\t"+major.getUrl());
-						majorList.add(major);
-					}
-				}else{
-					if(tmp.text().contains("Taught Postgraduate Courses")){
-						findBegin=true;
-						//System.out.println("find begin");
-					}
-				}
-			}
-			/*Elements innerES=doc.getElementById("contents").getElementsByTag("li");
+			Elements innerES=doc.getElementById("contents").getElementsByTag("li");
 			String school = doc.getElementById("contents").getElementsByTag("h1").get(0).text();
 			school = school.substring(school.indexOf(":") + 1).trim();
 			for(Element li:innerES){
 				MajorForCollection major = new MajorForCollection();
 				major.setSchool(school);
 				major.setTitle(li.getElementsByTag("a").get(0).text());
-				major.setLevel("Undergraduate");
+				major.setLevel("Postgraduate");
 				if(li.getElementsByTag("span").size()>0){
 					major.setType(li.getElementsByTag("span").get(0).ownText());
 					if(li.getElementsByTag("em").size()>0){
@@ -187,7 +174,7 @@ public class Postgraduate {
 				major.setLevel(major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+major.getLength());
 				major.setUrl(baseUrl + li.getElementsByTag("a").get(0).attr("href"));
 				list.add(major);
-			}*/
+			}
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -200,14 +187,8 @@ public class Postgraduate {
 		System.out.println("preparing majorList");
 		for(String[] singleData:Data.POSTGRADUATE_DATA){
 			MajorForCollection major = new MajorForCollection();
-			major.setSchool(singleData[0].split("\\|")[0]);
-			major.setLevel("Postgraduate");
-			major.setTitle(singleData[0].split("\\|")[1]);
-			major.setType(singleData[0].split("\\|")[2]);
-			major.setTuitionFee(singleData[0].split("\\|")[3]);
-			/*if(singleData[0].split("\\|").length==5){
-				major.setLength(singleData[0].split("\\|")[4]);
-			}*/
+			major.setLevel("Undergraduate");
+			major.setLength(singleData[0]);
 			major.setUrl(singleData[1]);
 			majorList.add(major);
 		}
@@ -228,7 +209,7 @@ public class Postgraduate {
 		}
 	}
 	
-	public static synchronized void mark(MajorForCollection major, boolean handled){//标记已完成的major
+	public static synchronized void mark(MajorForCollection major, boolean handled){//鏍囪宸插畬鎴愮殑major
 		major.setHandled(handled);
 		if(!handled){
 			major.setDistributed(false);
@@ -239,80 +220,107 @@ public class Postgraduate {
 		Connection conn=Jsoup.connect(major.getUrl());
 		Document doc=conn.timeout(60000).get();
 		Element e;
-		major.setMonthOfEntry("9");//apply标签中有
-		e=doc.getElementById("content");
-		if(e!=null){
-			String content=html2Str(e.outerHtml());
-			content=replaceSpecialCharacter(content);
-			if(content.indexOf("Course content")>0){
-				content=content.substring(content.indexOf("Course content"));
-				if(content.indexOf("Modules for the current academic year")>0){
-					content=content.substring(0, content.indexOf("Modules for the current academic year"));
-				}
-			}
-			major.setStructure(content);
-		}else{
-			e=doc.getElementById("overview");
-			if(e!=null){
-				major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml().replace(doc.getElementById("sidepanel").outerHtml(), ""))).trim());
-			}
-		}
 		
-		e=doc.getElementById("sidepanel");
-		if(e!=null){
-			if(e.getElementsByTag("ul")!=null&&e.getElementsByTag("ul").size()>0){
-				e=e.getElementsByTag("ul").get(0);
-				String content=e.text();
-				content=replaceSpecialCharacter(content);
-				if(content.indexOf("Duration")>0){
-					content=content.substring(content.indexOf("Duration"));
-					if(content.indexOf("year")>0){
-						content=content.substring(0, content.indexOf("year")+4);
-						if(content.contains("1")){
-							content="12";
-						}else if(content.contains("2")){
-							content="24";
-						}else if(content.contains("3")){
-							content="36";
-						}else if(content.contains("4")){
-							content="48";
-						}else if(content.contains("5")){
-							content="60";
-						}else if(content.contains("6")){
-							content="72";
-						}else if(content.contains("One")){
-							content="12";
+		if(doc.getElementsByClass("grid").size()>0){
+			e=doc.getElementsByClass("grid").get(0);
+			Elements dts=e.getElementsByTag("dt");
+			Elements dds=e.getElementsByTag("dd");
+			/*if(dts.size()!=dds.size()){
+				major.setApplicationFee("size not match: dts "+dts.size()+"; dds "+dds.size());
+				mark(major, true);
+				return;
+			}*/
+			for(Element dt:dts){
+				if(dt.text().contains("Duration")&&major.getLength().length()==0){
+					major.setLength(dds.get(dts.indexOf(dt)).text());
+					if(major.getLength().length()>0){
+						String lengthText=major.getLength().toLowerCase().replace("one", "1").replace("two", "2").replace("three", "3").replace(" ", "");
+						StringBuilder numStr=new StringBuilder();
+						String length=null;
+						for(int i=0;i<lengthText.length();i++){
+							if(lengthText.charAt(i)>=48&&lengthText.charAt(i)<=57){
+								numStr.append(lengthText.charAt(i));
+							}else if(numStr.length()>0&&i+4<=lengthText.length()){
+								if(lengthText.substring(i, i+4).equals("week")){
+									length = ""+Integer.parseInt(numStr.toString())/4;
+									break;
+								}else if(lengthText.substring(i, i+4).equals("mont")){
+									length = ""+Integer.parseInt(numStr.toString());
+									break;
+								}else if(lengthText.substring(i, i+4).equals("year")){
+									length = ""+Integer.parseInt(numStr.toString())*12;
+									break;
+								}else{
+									numStr.setLength(0);
+								}
+							}else{
+								numStr.setLength(0);
+							}
+						}
+						if(length!=null){
+							major.setLength(length+"#"+major.getLength());
 						}
 					}
-					major.setLength(content);
-					
+				}else if(dt.text().contains("Fees")){
+					if(dds.get(dts.indexOf(dt)).text().contains("£")){
+						String str=dds.get(dts.indexOf(dt)).text();
+						str=str.substring(str.lastIndexOf("£")+1).replace("Funding opportunities are available", "").replace(",", "");
+						if(str.indexOf(" ")>0){
+							str=str.substring(0, str.indexOf(" "));
+						}
+						major.setTuitionFee(str);
+					}
+				}else if(dt.text().contains("Start date")){
+					major.setMonthOfEntry(dds.get(dts.indexOf(dt)).text());
+					if(major.getMonthOfEntry().contains("September")){
+						major.setMonthOfEntry("9");
+					}else if(major.getMonthOfEntry().contains("October")){
+						major.setMonthOfEntry("10");
+					}else if(major.getMonthOfEntry().contains("January")){
+						major.setMonthOfEntry("1");
+					}
+				}else if(dt.text().contains("Study options")&&major.getLength().length()==0){
+					major.setLength("options "+dds.get(dts.indexOf(dt)).text());
+				}else if(dt.text().contains("School")){
+					major.setSchool(dds.get(dts.indexOf(dt)).text());
+				}else if(dt.text().contains("School")||dt.text().contains("Department")){
+					major.setSchool(dds.get(dts.indexOf(dt)).text());
 				}
 			}
+		}
+		if(major.getMonthOfEntry().length()==0){
+			major.setMonthOfEntry("9");
 		}
 		
-		e=doc.getElementById("requirements");
+		e=doc.getElementById("CourseDetailsTab");
 		if(e!=null){
-			String content=e.text();
-			content=replaceSpecialCharacter(content);
-			if(content.indexOf("Entry requirements")>0){
-				content=content.substring(content.indexOf("Entry requirements"));
-				if(content.indexOf("International Students")>0){
-					content=content.substring(0, content.indexOf("International Students"));
-				}else if(content.indexOf("Ask the IEC for assistance")>0){
-					content=content.substring(0, content.indexOf("Ask the IEC for assistance"));
-				}
+			major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml())));
+			if(major.getStructure().contains("Related links")){
+				major.setApplicationFee(major.getStructure().substring(major.getStructure().indexOf("Related links")+"Related links".length()));
 			}
-			
-			major.setAcademicRequirements(content);
-			getIELTS(content, major);
 		}
-		getScholarship(major);
+		e=doc.getElementById("Modules");
+		if(e!=null){
+			major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml())));
+		}
+		
+		e=doc.getElementById("EntryRequirements");
+		if(e!=null){
+			major.setAcademicRequirements(e.text());
+			//getIELTS(major.getApplicationFee(), major);
+		}
+		
+		//getScholarship(major);
 		
 		mark(major, true);
 	}
 
-	public static void initExcelWriter()throws Exception {
+	public static void initExcelWriter()
+			throws Exception {
+		
+
         book = new HSSFWorkbook(); 
+
          
 		if(sheet==null){
 			sheet = book.createSheet("Sheet1");
@@ -340,7 +348,10 @@ public class Postgraduate {
 		if(row==null||row.getRowNum()!=rowNum){
 			row = sheet.createRow((short)rowNum);
 		}
-		
+		if(content.length()>32767){
+			row.createCell(col).setCellValue(">32767");
+			return;
+		}
 		row.createCell(col).setCellValue(content);
 	}
 
@@ -397,135 +408,141 @@ public class Postgraduate {
 	}
 	
 	public static void getIELTS(String content,MajorForCollection major){
-		if(major.getSchool().contains("Creative Studies and Media")){
+		if(major.getSchool().contains("Biosciences")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("Filmmaking: Concept to Screen")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}
-		}else if(major.getSchool().contains("English Literature")){
-			major.setIELTS_Avg("6.5");
-			major.setIELTS_Low("6.0");
-		}else if(major.getSchool().contains("Lifelong Learning")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("History, Welsh History and Archaeology")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Linguistics and English Language")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Modern Languages")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("Translation Studies")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}
-		}else if(major.getSchool().contains("Music")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Philosophy and Religion")){
-			major.setIELTS_Avg("7.0");
-			major.setIELTS_Low("6.5");
-		}else if(major.getSchool().contains("Welsh")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Bangor Business School")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Education")){
-			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Law")){
-			major.setIELTS_Avg("6.5");
-			major.setIELTS_Low("6.0");
-		}else if(major.getSchool().contains("Social Sciences")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("Criminology and Law")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}
-		}else if(major.getSchool().contains("Environment, Natural Resources and Geography")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("Distance Learning")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}
-		}else if(major.getSchool().contains("Biological Sciences")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Ocean Sciences")){
-			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
-			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("Marine Biology")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}else if(major.getTitle().contains("Marine Environmental Protection")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}else if(major.getTitle().contains("Applied Marine Geoscience")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}else if(major.getTitle().contains("Physical Oceanography")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}
-		}else if(major.getSchool().contains("Healthcare Sciences")){
-			major.setIELTS_Avg("6.0");//根据该学院大多数专业得出
-			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("Public Health and Health Promotion")){
-				major.setIELTS_Avg("6.0");
-				major.setIELTS_Low("5.5");
-			}else if(major.getTitle().contains("Nursing")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}else if(major.getTitle().contains("Midwifery")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}else if(major.getTitle().contains("Non-clinical")){
-				major.setIELTS_Avg("7.0");
-				major.setIELTS_Low("6.5");
-			}
-		}else if(major.getSchool().contains("Medical Sciences")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Psychology")){
-			major.setIELTS_Avg("6.0");
-			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("Psychological Research")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}else if(major.getTitle().contains("Neuroimaging")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}else if(major.getType().contains("MRes")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}
-		}else if(major.getSchool().contains("Sport, Health and Exercise Sciences")){
+		}else if(major.getSchool().contains("Biomedical Materials Science")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Chemistry")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
-			if(major.getType().contains("MRes")){
-				major.setIELTS_Avg("7.0");
-				major.setIELTS_Low("6.5");
-			}
+		}else if(major.getSchool().contains("Chemical Engineering")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Civil Engineering")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Computer Science")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
-		}else if(major.getSchool().contains("Electronic Engineering")){
+		}else if(major.getSchool().contains("Electronic, Electrical and Systems Engineering")){
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
-			if(major.getTitle().contains("Nanotechnology and Microfabrication")){
-				major.setIELTS_Avg("6.5");
-				major.setIELTS_Low("6.0");
-			}
+		}else if(major.getSchool().contains("Geography, Earth and Environmental Sciences")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Mathematics")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Mechanical Engineering")){
+			major.setIELTS_Avg("6.0");//鏍规嵁璇ュ闄㈠ぇ澶氭暟涓撲笟寰楀嚭
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Metallurgy and Materials")){
+			major.setIELTS_Avg("6.0");//鏍规嵁璇ュ闄㈠ぇ澶氭暟涓撲笟寰楀嚭
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Nuclear")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Physics and Astronomy")){
+			major.setIELTS_Avg("6.0");
+			major.setIELTS_Low("5.5");
+		}else if(major.getSchool().contains("Business")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Economics")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Education")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("English")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Drama")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("American")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Canadian")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("History and Cultures")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Language")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Cultures")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Art History")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Music")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Liberal Arts")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Biomedical Science")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Philosophy")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Theology and Religion")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Political Science")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("International Relations")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Psychology")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Social Policy")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Sociology")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Sport Exercise")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Rehabilitation Science")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Urban and Regional Studies")){
+			major.setIELTS_Avg("6.5");
+			major.setIELTS_Low("6.0");
+		}else if(major.getSchool().contains("Dental Hygiene and Therapy")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("6.5");
+		}else if(major.getSchool().contains("Law")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("6.5");
+		}else if(major.getSchool().contains("Nursing")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("6.5");
+		}else if(major.getSchool().contains("Physiotherapy")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("6.5");
+		}else if(major.getSchool().contains("Social Work")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("6.5");
+		}else if(major.getSchool().contains("Dentistry ")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("7.0");
+		}else if(major.getSchool().contains("Medicine ")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("7.0");
+		}else if(major.getSchool().contains("Pharmacy")){
+			major.setIELTS_Avg("7.0");
+			major.setIELTS_Low("7.0");
 		}
 		
 		if(content.contains("IELTS")){
@@ -614,11 +631,11 @@ public class Postgraduate {
 	}
 
 	public static void getScholarship(MajorForCollection major){
-		major.setScholarship("Merit Scholarship$tuitionfee;"+
-		"British Council GREAT Scholarship$8000;"+
-		"Santander$5000;"+
-		"Commonwealth Scholarship$12000;"+
-		"Commonwealth Shared Scholarship$tuitionfee");
+		major.setScholarship("BP Scholarships$5000;"+
+		"Music Scholarships$3000;"+
+		"Sports Scholarships$6000;"+
+		"Lloyds Scholars Programme$25000"+
+		"Aston Villa Scholarships$1200");
 		/*if(major.getSchool().contains("Automatic Control and Systems Engineering")){
 		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
 		}
@@ -639,6 +656,21 @@ public class Postgraduate {
 		}*/
 	}
 
+	public static String GetType(String input)//BA BEng Bsc Msc MEng 
+	{
+		String types="BA;BEng;BSc;BDS;BN;BVSc;MOSci;MESci;MEcol;MPhys;MMath;MMarBiol;MBChB;MChem;MSci;MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Doctorate;Graduate Certificate;LLM;LLB;GradDip;MTh;MRes";
+		
+		String[] array=types.split(";");
+		for(int i=0;i<array.length;i++)
+		{
+			if(input.contains(array[i]))
+			{
+				return array[i];
+			}
+		}
+		//String result=array[array.length-1].replace(")", "");
+		return "";
+	}
 }
 
 
