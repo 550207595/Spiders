@@ -240,15 +240,29 @@ public class Postgraduate {
 						for(int i=0;i<lengthText.length();i++){
 							if(lengthText.charAt(i)>=48&&lengthText.charAt(i)<=57){
 								numStr.append(lengthText.charAt(i));
+							}else if(lengthText.charAt(i)=='–'&&numStr.length()>0){
+								numStr.append(lengthText.charAt(i));
 							}else if(numStr.length()>0&&i+4<=lengthText.length()){
 								if(lengthText.substring(i, i+4).equals("week")){
-									length = ""+Integer.parseInt(numStr.toString())/4;
+									if(numStr.toString().contains("–")){
+										length = ""+Integer.parseInt(numStr.substring(0, numStr.indexOf("–")))/4;
+									}else{
+										length = ""+Integer.parseInt(numStr.toString())/4;
+									}
 									break;
 								}else if(lengthText.substring(i, i+4).equals("mont")){
-									length = ""+Integer.parseInt(numStr.toString());
+									if(numStr.toString().contains("–")){
+										length = ""+Integer.parseInt(numStr.substring(0, numStr.indexOf("–")));
+									}else{
+										length = ""+Integer.parseInt(numStr.toString());
+									}
 									break;
 								}else if(lengthText.substring(i, i+4).equals("year")){
-									length = ""+Integer.parseInt(numStr.toString())*12;
+									if(numStr.toString().contains("–")){
+										length = ""+Integer.parseInt(numStr.substring(0, numStr.indexOf("–")))*12;
+									}else{
+										length = ""+Integer.parseInt(numStr.toString())*12;
+									}
 									break;
 								}else{
 									numStr.setLength(0);
@@ -258,7 +272,7 @@ public class Postgraduate {
 							}
 						}
 						if(length!=null){
-							major.setLength(length+"#"+major.getLength());
+							major.setLength(length);
 						}
 					}
 				}else if(dt.text().contains("Fees")){
@@ -307,10 +321,10 @@ public class Postgraduate {
 		e=doc.getElementById("EntryRequirements");
 		if(e!=null){
 			major.setAcademicRequirements(e.text());
-			//getIELTS(major.getApplicationFee(), major);
+			getIELTS(major.getApplicationFee(), major);
 		}
 		
-		//getScholarship(major);
+		getScholarship(major);
 		
 		mark(major, true);
 	}
