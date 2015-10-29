@@ -1,5 +1,6 @@
 package com.jeiel.Coventry;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -53,7 +54,7 @@ public class Postgraduate {
 		long startTimeInMillis = Calendar.getInstance().getTimeInMillis();
 		try {
 			initExcelWriter();
-			initMajorList("http://www.coventry.ac.uk/study-at-coventry/course-search/?searchText=&pageSize=20&page=2&showAll=true&filters=141%2C299");
+			initMajorList("coventry_pgt.html");
 			//initMajorListWithData();
 			System.out.println("start");
 			ExecutorService pool=Executors.newCachedThreadPool();
@@ -114,60 +115,37 @@ public class Postgraduate {
 		
 		try {
 			System.out.println("preparing majorList");
-			Connection conn=Jsoup.connect(originalUrl);
-			Document doc=conn.timeout(60000).get();
-			
-			Elements es=doc.getElementsByClass("span6").get(0).getElementsByTag("p");
+			FileInputStream fis=new FileInputStream(new File("coventry_pgt.html"));
+	        byte[] b=new byte[fis.available()];
+	        fis.read(b);
+	        fis.close();
+	        String htmls=new String(b);
+			Document doc = Jsoup.parse(htmls);
+			Elements es=doc.getElementsByTag("a");
 			String baseUrl="http://www.coventry.ac.uk";
 			for(Element e:es){//school
+				if(e.text().contains("Compare"))continue;
 				MajorForCollection major = new MajorForCollection();
-				if(e.text().contains("(")&&e.text().contains(")")){
-					major.setTitle(e.text().substring(0, e.text().lastIndexOf("(")).trim());
-				}else{
-					major.setTitle(e.text());
+				major.setTitle(e.text());
+				major.setLevel("Postgraduate");
+				major.setType(GetType(major.getTitle()));
+				if(major.getType().length()==0){
+					major.setType("MA");
 				}
-				if(!major.getTitle().contains("Foundation")){
-					major.setType(major.getTitle().substring(major.getTitle().lastIndexOf(" ")+1));
-					major.setTitle(major.getTitle().replace(major.getType(), "").trim());
-				}
-				major.setLevel("Undergraduate");
-				major.setUrl(baseUrl+e.getElementsByTag("a").get(0).attr("href"));
-				majorList.add(major);
-			}
-			
-			es=doc.getElementsByClass("span9").get(1).children();
-			for(Element e:es){
-				if(es.indexOf(e)<13||e.text().length()==0)continue;
-				for(Element p:e.getElementsByTag("p")){
-					MajorForCollection major = new MajorForCollection();
-					if(p.text().contains("-")){
-						major.setSchool(p.text().substring(p.text().indexOf("-")+1).trim());
-					}
-					if(p.text().contains("(")){
-						major.setTitle(p.text().substring(0, p.text().lastIndexOf("(")).trim());
-					}else{
-						major.setTitle(p.text());
-					}
-					if(!major.getTitle().contains("Foundation")){
-						major.setType(major.getTitle().substring(major.getTitle().lastIndexOf(" ")+1));
-						major.setTitle(major.getTitle().replace(major.getType(), "").trim());
-					}
-					major.setLevel("Undergraduate");
-					major.setUrl(baseUrl+p.getElementsByTag("a").get(0).attr("href"));
-					majorList.add(major);
-				}
-			}
-			
-			for(MajorForCollection major:majorList){
+				major.setUrl(baseUrl+e.attr("href"));
+				
 				if(major.getSchool().length()==0){
-					major.setSchool(major.getUrl().substring(major.getUrl().indexOf("course-structure/")+"course-structure/".length(), 
-							major.getUrl().indexOf("/", major.getUrl().indexOf("course-structure/")+"course-structure/".length())));
-				}
-				if(major.getType().length()==0&&major.getTitle().contains("Foundation")){
-					major.setType("BA");
+					Pattern p = Pattern.compile("course\\-structure/\\d{4}/[a-z\\-]+/");
+					Matcher m = p.matcher(major.getUrl());
+					if(m.find()){
+						major.setSchool(m.group());
+						major.setSchool(major.getSchool().substring("course-structure/2014/".length(), major.getSchool().length()-1));
+					}
 				}
 				major.setSchool(major.getSchool().replace("-", " "));
 				major.setSchool(toUpperCase(major.getSchool()));
+				
+				majorList.add(major);
 			}
 			
 			System.out.println("majorList prepared");
@@ -179,37 +157,6 @@ public class Postgraduate {
 
 		
 	}
-	
-	public static List<MajorForCollection> getMajors(String schoolUrl){
-		List<MajorForCollection> list = new ArrayList<MajorForCollection>();
-		try {
-			String baseUrl="http://www.bangor.ac.uk";
-			Connection conn=Jsoup.connect(baseUrl + schoolUrl);
-			Document doc = conn.timeout(60000).get();
-			Elements innerES=doc.getElementById("contents").getElementsByTag("li");
-			String school = doc.getElementById("contents").getElementsByTag("h1").get(0).text();
-			school = school.substring(school.indexOf(":") + 1).trim();
-			for(Element li:innerES){
-				MajorForCollection major = new MajorForCollection();
-				major.setSchool(school);
-				major.setTitle(li.getElementsByTag("a").get(0).text());
-				major.setLevel("Undergraduate");
-				if(li.getElementsByTag("span").size()>0){
-					major.setType(li.getElementsByTag("span").get(0).ownText());
-					if(li.getElementsByTag("em").size()>0){
-						major.setLength(li.getElementsByTag("em").get(0).text().replace("(", "").replace(")", ""));
-					}
-				}
-				major.setLevel(major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+major.getLength());
-				major.setUrl(baseUrl + li.getElementsByTag("a").get(0).attr("href"));
-				list.add(major);
-			}
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		return list;
-	}
 
 	public static void initMajorListWithData(){
 		
@@ -217,7 +164,7 @@ public class Postgraduate {
 		for(String[] singleData:Data.UNDERGRADUATE_DATA){
 			MajorForCollection major = new MajorForCollection();
 			major.setSchool(singleData[0].split("\\|")[0]);
-			major.setLevel("Undergraduate");
+			major.setLevel("Postgraduate");
 			major.setTitle(singleData[0].split("\\|")[1]);
 			major.setType(singleData[0].split("\\|")[2]);
 			major.setTuitionFee(singleData[0].split("\\|")[3]);
@@ -245,7 +192,7 @@ public class Postgraduate {
 		}
 	}
 	
-	public static synchronized void mark(MajorForCollection major, boolean handled){//鏍囪宸插畬鎴愮殑major
+	public static void mark(MajorForCollection major, boolean handled){//鏍囪宸插畬鎴愮殑major
 		major.setHandled(handled);
 		if(!handled){
 			major.setDistributed(false);
@@ -270,14 +217,14 @@ public class Postgraduate {
 					}
 				}
 				if(div.text().contains("Fees")){
-					major.setTuitionFee(getFee(div.text()));
+					major.setTuitionFee(div.text());
 					//System.out.println(major.getTuitionFee());
 				}
 			}
 		}
 		e=doc.getElementById("ctl00_ctl00_MainContent_MainContent_courseopendays");
 		if(e!=null){
-			major.setMonthOfEntry(e.text());
+			major.setMonthOfEntry(getMonthOfEntry(e.text()));
 			//System.out.println(e.text());
 		}
 		e=doc.getElementById("ctl00_ctl00_MainContent_MainContent_maincontentarea");
@@ -304,13 +251,8 @@ public class Postgraduate {
 		mark(major, true);
 	}
 
-	public static void initExcelWriter()
-			throws Exception {
-		
-
+	public static void initExcelWriter() throws Exception {
         book = new HSSFWorkbook(); 
-
-         
 		if(sheet==null){
 			sheet = book.createSheet("Sheet1");
 		}
@@ -634,7 +576,7 @@ public class Postgraduate {
 
 	public static String getLength(String content){
 		String length = "";
-		content=content.toLowerCase().replace(" ", "").replace(",", "")
+		content=content.toLowerCase().replace(" ", "").replace(",", "").replace("-", "-")
 				.replace("one", "1").replace("two", "2").replace("three", "3")
 				.replace("four", "4").replace("five", "5").replace("six", "6");
 		Pattern pY = Pattern.compile("[1-9](-[1-9]){0,1}year");
@@ -644,7 +586,7 @@ public class Postgraduate {
 		if(m.find()){
 			String tmp=m.group().replace("week", "");
 			if(tmp.contains("-")){
-				tmp.substring(0, tmp.indexOf("-"));
+				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
 			length = "" + Integer.parseInt(tmp)/4;
 			return length;
@@ -653,7 +595,7 @@ public class Postgraduate {
 		if(m.find()){
 			String tmp=m.group().replace("month", "");
 			if(tmp.contains("-")){
-				tmp.substring(0, tmp.indexOf("-"));
+				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
 			length = "" + Integer.parseInt(tmp);
 			return length;
@@ -662,7 +604,7 @@ public class Postgraduate {
 		if(m.find()){
 			String tmp=m.group().replace("year", "");
 			if(tmp.contains("-")){
-				tmp.substring(0, tmp.indexOf("-"));
+				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
 			length = "" + Integer.parseInt(tmp)*12;
 			return length;
@@ -670,6 +612,32 @@ public class Postgraduate {
 		return length;
 	}
 
+	
+	public static String GetType(String input)//BA BEng Bsc Msc MEng 
+	{
+		String types="PgCert;BA;BEng;BSci;BSc;BDS;BN;BVSc;MOSci;MESci;MEcol;MPhys;MMath;MMarBiol;MBChB;MChem;MSci;MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Doctorate;Graduate Certificate;LLM;LLB;GradDip;MTh;MRes";
+		
+		String[] array=types.split(";");
+		for(int i=0;i<array.length;i++)
+		{
+			if(input.contains(array[i]))
+			{
+				return array[i];
+			}
+		}
+		//String result=array[array.length-1].replace(")", "");
+		return "";
+	}
+	
+	public static String getMonthOfEntry(String content){
+		String month=content;
+		if(month.contains("NOV")){
+			month="11";
+		}else if(month.contains("DEC")){
+			month="12";
+		}
+		return month;
+	}
 }
 
 

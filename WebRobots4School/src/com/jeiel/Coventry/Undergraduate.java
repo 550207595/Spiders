@@ -277,7 +277,7 @@ public class Undergraduate {
 		}
 		e=doc.getElementById("ctl00_ctl00_MainContent_MainContent_courseopendays");
 		if(e!=null){
-			major.setMonthOfEntry(e.text());
+			major.setMonthOfEntry(getMonthOfEntry(e.text()));
 			//System.out.println(e.text());
 		}
 		e=doc.getElementById("ctl00_ctl00_MainContent_MainContent_maincontentarea");
@@ -644,7 +644,7 @@ public class Undergraduate {
 		if(m.find()){
 			String tmp=m.group().replace("week", "");
 			if(tmp.contains("-")){
-				tmp.substring(0, tmp.indexOf("-"));
+				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
 			length = "" + Integer.parseInt(tmp)/4;
 			return length;
@@ -653,7 +653,7 @@ public class Undergraduate {
 		if(m.find()){
 			String tmp=m.group().replace("month", "");
 			if(tmp.contains("-")){
-				tmp.substring(0, tmp.indexOf("-"));
+				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
 			length = "" + Integer.parseInt(tmp);
 			return length;
@@ -662,12 +662,22 @@ public class Undergraduate {
 		if(m.find()){
 			String tmp=m.group().replace("year", "");
 			if(tmp.contains("-")){
-				tmp.substring(0, tmp.indexOf("-"));
+				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
 			length = "" + Integer.parseInt(tmp)*12;
 			return length;
 		}
 		return length;
+	}
+	
+	public static String getMonthOfEntry(String content){
+		String month=content;
+		if(month.contains("NOV")){
+			month="11";
+		}else if(month.contains("DEC")){
+			month="12";
+		}
+		return month;
 	}
 
 }
