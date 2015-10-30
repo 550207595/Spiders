@@ -1,4 +1,4 @@
-package com.jeiel.Coventry;
+package com.jeiel.coventry;
 
 import java.util.regex.Pattern;
 

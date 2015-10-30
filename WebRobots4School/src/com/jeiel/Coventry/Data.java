@@ -1,4 +1,4 @@
-package com.jeiel.Coventry;
+package com.jeiel.coventry;
 
 public class Data {
 	public static String[][] UNDERGRADUATE_DATA=new String[][]{
