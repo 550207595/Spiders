@@ -426,10 +426,10 @@ public class Undergraduate {
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Bangor Business School")){
-			major.setIELTS_Avg("6.0");//鏍规嵁璇ュ闄㈠ぇ澶氭暟涓撲笟寰�?��
+			major.setIELTS_Avg("6.0");//鏍规嵁璇ュ闄㈠ぇ澶氭暟涓撲笟寰�?��
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Education")){
-			major.setIELTS_Avg("6.0");//鏍规嵁璇ュ闄㈠ぇ澶氭暟涓撲笟寰�?��
+			major.setIELTS_Avg("6.0");//鏍规嵁璇ュ闄㈠ぇ澶氭暟涓撲笟寰�?��
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Law")){
 			major.setIELTS_Avg("6.5");
@@ -451,7 +451,7 @@ public class Undergraduate {
 			major.setIELTS_Avg("6.0");
 			major.setIELTS_Low("5.5");
 		}else if(major.getSchool().contains("Healthcare Sciences")){
-			major.setIELTS_Avg("7.0");//鏍规嵁璇ュ闄㈠ぇ澶氭暟涓撲笟寰�?��
+			major.setIELTS_Avg("7.0");//鏍规嵁璇ュ闄㈠ぇ澶氭暟涓撲笟寰�?��
 			major.setIELTS_Low("6.5");
 			if(major.getTitle().contains("Nursing")){
 				major.setIELTS_Avg("7.0");
