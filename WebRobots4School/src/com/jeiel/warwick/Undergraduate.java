@@ -125,6 +125,7 @@ public class Undergraduate {
 				MajorForCollection major = new MajorForCollection();
 				major.setTitle(removeCourseCode(e.text(), major));
 				getIELTS(null, major);
+				major.setTuitionFee(getFee(major.getTuitionFee()));
 				major.setLevel("Undergraduate");
 				if(major.getTitle().equals("Spanish, see Hispanic Studies")){
 					major.setUrl(baseUrl + "r400/");
@@ -133,7 +134,7 @@ public class Undergraduate {
 							e.getElementsByTag("a").get(0).attr("href"):
 							baseUrl+e.getElementsByTag("a").get(0).attr("href").replace("/", ""));
 				}
-				major.setTuitionFee("16620");
+				major.setMonthOfEntry("9");
 				majorList.add(major);
 			}
 			
@@ -439,7 +440,15 @@ public class Undergraduate {
 	}
 	
 	public static String getFee(String content){
-		String fee="";
+		if(content.equals("Band A")){
+			return "16620";
+		}else if(content.equals("Band B")){
+			return "21200";
+		}else if(content.equals("Band C")){
+			return "21200";
+		}
+		return "";
+		/*String fee="";
 		Pattern p = Pattern.compile("£[0-9]+");
     	Matcher m = p.matcher(content.replace(",", "").replace(" ", ""));
     	List<Integer> moneyList=new ArrayList<Integer>();
@@ -456,7 +465,7 @@ public class Undergraduate {
     	    	fee = max + "";
     	    }
 	    }
-		return fee;
+		return fee;*/
 	}
 
 	public static String getLength(String content){
@@ -514,6 +523,7 @@ public class Undergraduate {
 			String code=m.group().replace("(", "").replace(")", "").trim();
 			if(courseLevelMap.containsKey(code)){
 				major.setIELTS_Avg(courseLevelMap.get(code));
+				major.setTuitionFee(courseLevelMap.get(code));
 			}else{
 				major.setIELTS_Avg(code);
 			}
