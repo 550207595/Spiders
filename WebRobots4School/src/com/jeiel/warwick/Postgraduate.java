@@ -23,6 +23,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import com.jeiel.entity.MajorForCollection;
+import com.jeiel.utils.FilterToHTML;
 
 
 public class Postgraduate {
@@ -211,6 +212,11 @@ public class Postgraduate {
 		if(m.find()){
 			getIELTS(m.group(), major);
 		}
+		p = Pattern.compile("(entry requirements:.*)|(Entry Requirements\\S*\\s*.*)");
+		m = p.matcher(doc.outerHtml());
+		if(m.find()){
+			major.setAcademicRequirements(getRequirement(m.group()));
+		}
 
 		if(doc.getElementsByAttributeValue("class", "nav-breadcrumb").size()>0){
 			e=doc.getElementsByAttributeValue("class", "nav-breadcrumb").get(0);
@@ -239,6 +245,16 @@ public class Postgraduate {
 			}
 		}
 
+		
+		if(doc.getElementsByClass("column-1-content").size()>0){
+			e = doc.getElementsByClass("column-1-content").get(0);
+			StringBuilder structure = new StringBuilder();
+			for(Element c:e.children()){
+				if(c.tagName().equals("div")) continue;
+				structure.append(replaceSpecialCharacter(html2Str(c.outerHtml())) + "\n");
+			}
+			major.setStructure(structure.toString().replaceAll("More information[\\s\\S]*", "").trim());
+		}
 		//getScholarship(major);
 		
 		mark(major, true);
@@ -631,6 +647,17 @@ public class Postgraduate {
 		}
 		return month;
 	}
+	
+	public static String getRequirement(String content){
+		String requirement = "";
+		content = content.replace("entry requirements:", "");
+		content = content.replace("Entry Requirements", "");
+		content = content.replaceAll("<[^>]+>", "");
+		requirement = content.trim();
+		return requirement;
+		
+	}
+	
 }
 
 

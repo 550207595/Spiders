@@ -234,16 +234,32 @@ public class Undergraduate {
 				}
 			}
 		}
+		e=doc.getElementById("course-tab-2");
+		if(e!=null){
+			boolean find=false;
+			for(Element tmp:e.children()){
+				if(tmp.tagName().contains("h")){
+					find=false;
+					if(tmp.text().contains("What will I learn")){
+						find=true;
+					}
+				}else{
+					if(find&&(tmp.text().toLowerCase().contains("year")||tmp.text().toLowerCase().contains("month"))){
+						major.setLength(major.getLength()+";"+tmp.text());
+					}
+				}
+			}
+			
+		}
 		e=doc.getElementById("course-tab-3");
 		if(e!=null){
 			boolean find=false;
 			for(Element tmp:e.children()){
 				if(tmp.tagName().contains("h")){
+					find=false;
 					if(tmp.text().contains("Entry Requirements")){
 						find=true;
-					}/*else{
-						find=false;
-					}*/
+					}
 				}else{
 					if(find){
 						major.setAcademicRequirements(major.getAcademicRequirements()+";"+tmp.text());
