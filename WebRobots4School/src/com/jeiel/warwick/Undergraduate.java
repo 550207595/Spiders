@@ -148,36 +148,6 @@ public class Undergraduate {
 		
 	}
 	
-	public static List<MajorForCollection> getMajors(String schoolUrl){
-		List<MajorForCollection> list = new ArrayList<MajorForCollection>();
-		try {
-			String baseUrl="http://www.bangor.ac.uk";
-			Connection conn=Jsoup.connect(baseUrl + schoolUrl);
-			Document doc = conn.timeout(60000).get();
-			Elements innerES=doc.getElementById("contents").getElementsByTag("li");
-			String school = doc.getElementById("contents").getElementsByTag("h1").get(0).text();
-			school = school.substring(school.indexOf(":") + 1).trim();
-			for(Element li:innerES){
-				MajorForCollection major = new MajorForCollection();
-				major.setSchool(school);
-				major.setTitle(li.getElementsByTag("a").get(0).text());
-				major.setLevel("Undergraduate");
-				if(li.getElementsByTag("span").size()>0){
-					major.setType(li.getElementsByTag("span").get(0).ownText());
-					if(li.getElementsByTag("em").size()>0){
-						major.setLength(li.getElementsByTag("em").get(0).text().replace("(", "").replace(")", ""));
-					}
-				}
-				major.setLevel(major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+major.getLength());
-				major.setUrl(baseUrl + li.getElementsByTag("a").get(0).attr("href"));
-				list.add(major);
-			}
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		return list;
-	}
 
 	public static void initMajorListWithData(){
 		
@@ -234,7 +204,7 @@ public class Undergraduate {
 				}
 			}
 		}
-		e=doc.getElementById("course-tab-2");
+		/*e=doc.getElementById("course-tab-2");
 		if(e!=null){
 			boolean find=false;
 			for(Element tmp:e.children()){
@@ -250,7 +220,7 @@ public class Undergraduate {
 				}
 			}
 			
-		}
+		}*/
 		e=doc.getElementById("course-tab-3");
 		if(e!=null){
 			boolean find=false;
@@ -297,6 +267,14 @@ public class Undergraduate {
 								major.setType(e.text());
 							}
 							
+						}
+						if(doc.getElementsByClass("widgetCourse").size()>0){
+							e = doc.getElementsByClass("widgetCourse").get(0);
+							for(Element tmp:e.children()){
+								if(tmp.tagName().equals("p")&&(tmp.text().toLowerCase().contains("year")||tmp.text().toLowerCase().contains("month"))){
+									major.setLength(tmp.text());
+								}
+							}
 						}
 						gotFrame=true;
 					}catch(Exception e1){
