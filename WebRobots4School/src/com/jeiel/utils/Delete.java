@@ -13,8 +13,8 @@ import net.sf.json.JSONObject;
 
 public class Delete {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
-	private static int index=1;
-	private static String SCHOOL_NAME = "Coventry";
+	private static int index=129;
+	private static String SCHOOL_NAME = "";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -23,7 +23,7 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=637;){//indexΪ��ҳ����ʾ��id��
+		for(;index<=129;){//indexΪ��ҳ����ʾ��id��
 			
 			delete(postUrl,index);
 		}
@@ -38,7 +38,7 @@ public class Delete {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.950065990.1440817756.1440817756.1440908413.2; __utmz=255880599.1440817756.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3A3u8BYTeK0yqamEgw4VMKyIZacWtMg5OA.1ubgCPyEStlrkwVDfrK%2FkLOvB8fSvBtjIV5GTMxpR1A; CNZZDATA1256122972=1457945077-1443749818-%7C1445517569");
+	    connection.setRequestProperty("Cookie", "connect.sid=s%3Ak_EsACf4d24EqxOtqhkZw0zQDwbPwYJm.YLYbkVneI2CjOVYVETkOApSsxUdrzmn1zeTxHeMJ1Ls; CNZZDATA1256122972=254321286-1441087693-%7C1448240003");
 	    connection.connect();
 	    return connection;
 	}

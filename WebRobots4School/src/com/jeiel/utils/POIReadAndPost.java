@@ -21,8 +21,8 @@ import com.jeiel.entity.Major;
 import java.util.*;
 
 public class POIReadAndPost {
-	private static String SCHOOL_NAME = "Bangor";
-	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt.xls";
+	private static String SCHOOL_NAME = Add.SCHOOL_NAME;
+	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt_modified.xls";
 	/**
 	 * @param args
 	 * @throws IOException 

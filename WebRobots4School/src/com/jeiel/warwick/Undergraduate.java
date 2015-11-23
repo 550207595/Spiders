@@ -244,8 +244,16 @@ public class Undergraduate {
 		if(e!=null){
 			if(e.text().contains("Find our more about the")){
 				major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml().substring(0, e.outerHtml().indexOf("Find our more about the")))));
-			}else{
+			}else if(e.text().contains("Find out more about the")){
+				major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml().substring(0, e.outerHtml().indexOf("Find out more about the")))));
+			}{
 				major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml())));
+			}
+			for(Element tmp:e.getElementsByTag("a")){
+				if(tmp.text().contains("Find")){
+					major.setLength(tmp.attr("href"));
+					break;
+				}
 			}
 		}
 		
@@ -268,14 +276,14 @@ public class Undergraduate {
 							}
 							
 						}
-						if(doc.getElementsByClass("widgetCourse").size()>0){
+						/*if(doc.getElementsByClass("widgetCourse").size()>0){
 							e = doc.getElementsByClass("widgetCourse").get(0);
 							for(Element tmp:e.children()){
 								if(tmp.tagName().equals("p")&&(tmp.text().toLowerCase().contains("year")||tmp.text().toLowerCase().contains("month"))){
 									major.setLength(tmp.text());
 								}
 							}
-						}
+						}*/
 						gotFrame=true;
 					}catch(Exception e1){
 						e1.printStackTrace();
