@@ -116,7 +116,7 @@ public class Postgraduate {
 		
 		try {
 			System.out.println("preparing majorList");
-			int maxPage=19;
+			int maxPage=21;
 			Connection conn=Jsoup.connect(originalUrl+"1");
 			Document doc=conn.timeout(60000).get();
 			
