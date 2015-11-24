@@ -20,7 +20,7 @@ import java.util.*;
 
 public class POIReadAndPost {
 	private static String SCHOOL_NAME = "Birmingham";
-	public static String filepath="gen_data_"+SCHOOL_NAME+"_ug.xls";
+	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt_modified.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -72,7 +72,7 @@ public class POIReadAndPost {
             major.setMonthOfEntry(String.valueOf(hssfRow.getCell(11)));
             major.setScholarship(splitScholarship(String.valueOf(hssfRow.getCell(12)),major.getTuitionFee()));
             list.add(major);
-            System.out.println("{\""+hssfRow.getCell(10).getStringCellValue()+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
+            //System.out.println("{\""+hssfRow.getCell(10).getStringCellValue()+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
             //pgt System.out.println("{\""+major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+(major.getTuitionFee().indexOf(".")<0?major.getTuitionFee():major.getTuitionFee().substring(0, major.getTuitionFee().indexOf(".")))+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
         }
         hssfWorkbook.close();

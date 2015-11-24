@@ -63,7 +63,7 @@ public class Add {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.950065990.1440817756.1440817756.1440908413.2; __utmz=255880599.1440817756.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AOcedKsPgerNTlD5s6Oj7CrnTSwc3-J59.ckOjvW%2Buc053uYxZY34Z5WJaagGE%2FiwYM0FVz5sSiGY; CNZZDATA1256122972=1457945077-1443749818-%7C1445134038");
+	    connection.setRequestProperty("Cookie", "connect.sid=s%3Ak_EsACf4d24EqxOtqhkZw0zQDwbPwYJm.YLYbkVneI2CjOVYVETkOApSsxUdrzmn1zeTxHeMJ1Ls; CNZZDATA1256122972=254321286-1441087693-%7C1448240003");
 	    connection.connect();
 	    return connection;
 	}
