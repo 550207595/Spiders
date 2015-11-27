@@ -38,10 +38,10 @@ public class Add {
 			System.out.println("work start");
 			List<Major> list=POIReadAndPost.getData();
 			for(;index<=list.size();){
-				/*if(index<=53){
+				if(index<=211){
 					index++;
 					continue;
-				}*/
+				}
 				add(postUrl,list.get(index-1));
 			}
 			System.out.println("work done");
@@ -62,7 +62,7 @@ public class Add {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "connect.sid=s%3Ak_EsACf4d24EqxOtqhkZw0zQDwbPwYJm.YLYbkVneI2CjOVYVETkOApSsxUdrzmn1zeTxHeMJ1Ls; CNZZDATA1256122972=254321286-1441087693-%7C1448240003");
+	    connection.setRequestProperty("Cookie", "connect.sid=s%3AwPq_spZ1efyHGfhmD6P9gHcD925HEdSe.YLiDOc%2Br8ECkDGKqbTJXwlW8IqytwvRNQhoAeeyn2%2FE; CNZZDATA1256122972=254321286-1441087693-%7C1448504041");
 	    connection.connect();
 	    return connection;
 	}

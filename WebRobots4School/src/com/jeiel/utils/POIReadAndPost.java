@@ -22,7 +22,7 @@ import java.util.*;
 
 public class POIReadAndPost {
 	private static String SCHOOL_NAME = Add.SCHOOL_NAME;
-	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt_modified.xls";
+	public static String filepath="gen_data_"+SCHOOL_NAME+"_ug_modified.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -56,7 +56,6 @@ public class POIReadAndPost {
                 continue;
             }
             major=new Major();
-
 
 //0.School;1.Level;2.Title;3.Type;4.ApplicationFee;5.Tuition Fee;6.Academic Requirements;
 //7.IELTS Average;8.IELTS Low;9.Structure;10.Length(month);11.Month of Entry;12.Scholarship                
@@ -131,9 +130,13 @@ public class POIReadAndPost {
 	
 	public static LinkedHashMap<String,String> splitScholarship(String scholarship,String tuition){
 		LinkedHashMap<String,String> result=new LinkedHashMap<String,String>();
-		if(scholarship.equals(""))return result;
+		if(scholarship!=null||scholarship.equals(""))return result;
 		
 		for(String scholarshipItem:scholarship.split(";")){
+			if(scholarshipItem.indexOf("$")<0){
+				System.out.println(scholarshipItem);
+				continue;
+			}
 			if(scholarshipItem.substring(scholarshipItem.indexOf("$")+1).equals("tuitionfee")){
 				result.put(scholarshipItem.substring(0,scholarshipItem.indexOf("$")), 
 						tuition);
