@@ -1,0 +1,97 @@
+Modules  
+  The structure of the MSc is modular, with individual modules being worth either 20 or 10 credits. One credit represents 10 hours of student work, so a 20-credit module represents 200 hours of study, including formal teaching, independent study, revision, and the preparation of assessments. The MSc degree requires the successful completion of 180 credits: 120 credits of taught modules, plus a 60-credit scientific computation dissertation.  There may be slight variations in the lists of optional modules permitted in any particular year.  
+  Compulsory Modules   
+  
+  Computational Applied Mathematics 
+  
+ 
+   Computational Applied Mathematics introduces you to a broad range of computational methods for solving problems in applied mathematics, showing you how to formulate and analyse different approaches so that you can select and implement the best (in terms of accuracy, efficiency and reliability) approach for solving a given problem. 
+  
+ 
+     
+  
+  
+  Scientific Computing and C++ 
+  
+ 
+   Scientific Computing and C++ provides you with the programming skills you will require to implement these algorithms in an efficient manner. 
+  
+ 
+     
+  
+  
+  Scientific Computation Dissertation 
+  
+ 
+   The Scientific Computation Dissertation is an individual project which allows you to focus in more detail on an area you have studied that particularly interests you, under the guidance of an expert in that area. 
+  
+ 
+     
+  
+  
+  Variational Methods 
+  
+ 
+   Variational Methods focuses on one of the most powerful and commonly-used techniques in the simulation of science and engineering applications, and uses it to introduce you to formal numerical analysis of algorithms for approximating partial differential equations. 
+  
+ 
+     
+  
+  Optional Modules  
+ 
+   Students must also take 60 credits of optional modules. We suggest that these are restricted to one of the three streams below. 
+  
+ 
+     
+  
+  Option Stream 1: Computational Science  
+  
+  Advanced Algorithms and Data Structures 
+  
+  
+  Advanced Techniques for Differential Equations 
+  
+  
+  Machine Learning 
+  
+  
+  Operations Research and Modelling 
+  
+  
+  Parallel and Distributed Computing 
+   
+  
+  
+  Software Engineering 
+  
+ 
+     
+  
+  Option Stream 2: Mathematical Medicine and Biology  
+  
+  Applied Nonlinear Dynamics 
+  
+  
+  Mathematical Medicine and Biology 
+  
+  
+  Topics in Biomedical Mathematics 
+  
+ 
+     
+  
+  Option Stream 3: Industrial Mathematics/Continuum Mechanics  
+  
+  Advanced Fluid Mechanics 
+  
+  
+  Advanced Techniques for Differential Equations 
+  
+  
+  Applied Nonlinear Dynamics 
+  
+  
+  Elasticity 
+  
+  
+  Fluid Mechanics

@@ -1,0 +1,14 @@
+Modules  
+  The credit rating and description of each module are as follows:  
+  Introduction to Medical Microbiology (10 credits)  To define the basic mechanisms and concepts underpinning medical microbiology.   
+ Immunity and the Immune System (10 credits) 
+  
+  To define the basic mechanisms and concepts underpinning the science of immunology.   
+  Research Methods in Microbiology and Immunology (20 credits)  To demonstrate how various research strategies are used to study microbiology and immunology and to employ the skills of performing and recording laboratory work.    
+  Bacterial Pathogenesis and Infections (20 credits)  Initial lectures will highlight the different mechanisms associated with disease pathogenesis for a selection of bacteria. Subsequent lectures and tutorials will give students an understanding of clinical syndromes – a systematic approach, including the microbiology of important diseases, diagnostic approaches and choice of antibiotic.    
+ Viral Pathogenesis and Infections (20 credits)   
+  This module will illustrate how viruses interact with cells, what are the underlying molecular mechanisms of infection and replication, and how these interactions lead to clinical disease.   
+  Innate Immune Recognition (20 credits)  To describe current understanding of pattern recognition receptors and pathogen associated molecular patterns within the context of infections, tumour recognition, immunoevasion and immunopathology.   
+  Therapeutic Immunology (20 credits)  To analyse current and potential therapeutic strategies and to assess the use of engineered antibodies and peptide vaccines for treating immunological diseases.   
+  Research Project (60 credits)  To establish the technical skills required for research at the host-pathogen interface and for designing experiments and to demonstrate the ability to write scientific text. Students will carry out a research project, with topics being determined by members of academic staff. Students will add to their practical and intellectual skills in scientific investigation. The students will also gain experience of project and time management, and acquire specialised skills related to the project.   
+  For more details on our modules, please see the module catalogue.

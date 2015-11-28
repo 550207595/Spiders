@@ -1,0 +1,78 @@
+Modules  
+     
+  
+  
+    Compulsory: students must take all modules in this group 
+   
+   
+    
+      Code  
+     Title   
+     Credits   
+     Compensatable   
+     Taught   
+    
+    
+     A34C01  
+        Molecular Basis of Cancer   
+     20  
+     N   
+     Autumn   
+    
+    
+     A34C02  
+      Tumour Physiology   
+     10  
+      Y  
+     Autumn   
+    
+    
+     A34C05  
+      Radiation Biology Applied to Therapy   
+     10  
+      Y  
+     Spring  
+    
+    
+     A34C10  
+      Cancer Statistics and Epidemiology   
+     10  
+      N  
+     Spring  
+    
+   
+  
+  Credit total: 50  
+     
+  
+  
+    Optional: students must take 10 credits from this group 
+   
+   
+    
+      Code  
+     Title   
+     Credits   
+     Compensatable   
+     Taught   
+    
+    
+      A34C03  
+      Cancer Treatment and Chemotherapy   
+     10  
+     Y   
+     Spring  
+    
+    
+      A34C04  
+      Clinical Pharmacology and Systemic Therapies*   
+     10  
+     Y  
+     Spring  
+    
+   
+  
+  Credit total: 10  
+  The selection of the optional module is undertaken by the candidate in consultation with the course director.  
+  * For those individuals wishing to follow the syllabus requirements for the Part I fellowship exam of the Royal College of Radiologists and for Medical Oncology candidates in a UK training post, Clinical Pharmacology and Systemic Therapies is regarded as a compulsory module.  
+  Modules are assessed at the end of the semester in which they are taught. Resit exams, if required, are taken following completion of all taught modules.

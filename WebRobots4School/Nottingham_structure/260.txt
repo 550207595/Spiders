@@ -1,0 +1,16 @@
+Modules  
+  
+   Imaging Principles and Technology with Project  
+   Integrated Photonics: Design and Technology  
+   Photonic Communications Components  
+   Photonics: Modelling, Analysis and Design  
+   Optical Communications with Project  
+   Digital Signal Processing for Telecommunications, Multimedia and Instrumentation with Project  
+   Digital Signal Processing for Telecommunications, Multimedia and Instrumentation  
+   Instrumentation and Measurement with Project  
+   Instrumentation and Measurement  
+   RF Microelectronics with project  
+   RF Microelectronics  
+   Mobile Communications with Project  
+   Mobile Communications  
+   MSc Project

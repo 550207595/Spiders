@@ -26,6 +26,7 @@ public class Major{
 	private String length;
 	private String monthOfEntry;
 	private LinkedHashMap<String, String>scholarship;
+	private String url;
 
 	public Major(){
 		school="";
@@ -45,6 +46,7 @@ public class Major{
 		length="";
 		monthOfEntry="";
 		scholarship=new LinkedHashMap<String, String>();
+		url = "";
 	}
 
 	public String getSchool() {
@@ -181,6 +183,14 @@ public class Major{
 
 	public void setScholarship(LinkedHashMap<String, String> scholarship) {
 		this.scholarship = scholarship;
+	}
+
+	public String getUrl() {
+		return url;
+	}
+
+	public void setUrl(String url) {
+		this.url = url;
 	};
 	
 	

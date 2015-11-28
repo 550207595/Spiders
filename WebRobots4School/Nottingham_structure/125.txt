@@ -1,0 +1,28 @@
+Modules  
+  Semester 1  
+  Elective modules  
+  
+   Instrumentation and Measurement*  
+   HDL for Programmable Logic with Project  
+   Electronic Design  
+   Solid State Devices  
+   Digital Communications  
+   Power Electronic Design  
+   Control Systems Design  
+   Software Engineering Design  
+   Embedded Computer  
+  
+  Semester 2  
+  Elective modules  
+  
+   Digital Signal Processing for Telecommunications, Multimedia and Instrumentation with Project  
+   RF Microelectronics*  
+   Mobile Communications*  
+   VLSI Design  
+   Telecommunication Electronics  
+   Web-based Computing  
+   Microwave Communications  
+  
+  Semester 3  
+  Research Project  
+  *These modules can be taken with or without a project.

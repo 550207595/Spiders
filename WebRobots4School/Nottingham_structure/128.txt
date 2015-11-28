@@ -1,0 +1,20 @@
+Modules  
+  Through a series of core modules, the autumn semester includes topics such as:  
+  
+   renewable energy systems  
+   energy and fuel cells with their associated applications  
+   advanced topics of heat transfer, including numerical analysis  
+   fuel combustion and pollution control, including Biomass systems  
+   the latest developments in management, policies and regulations at UK, EU and international level  
+   air conditioning technologies  
+  
+  The spring semester includes modules that cover:  
+  
+   energy efficient heating and power systems, such as CHP and Tri-generation technologies  
+   economic performance and appraisal of energy systems and technologies  
+   the applications and physical / engineering properties of sustainable building materials  
+   advanced studies in cooling techniques and applications  
+   the principles and application of fluid dynamics using commercial CFD packages (e.g. FLUENT) a detailed study of research methodologies  
+  
+  Please note that all module details are subject to change.  
+  For more details on our modules, please see the module atalogue.

@@ -1,7 +1,9 @@
 package com.jeiel.utils;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,19 +28,29 @@ public class ExcelGenerator {
 	public static final int MONTH_OF_ENTRY=11;
 	public static final int SCHOLARSHIP=12;
 	public static final int URL=13;
-	public static final int COUNT_RESULT=14;
+
 	
 	
 	private HSSFWorkbook book=null;
 	private HSSFSheet sheet =null; 
 	private HSSFRow row=null;
 	private List<MajorForCollection> majorList=null;
+	private String schoolName =null;
+	private boolean structureOverFlow = false;
 	
-	public ExcelGenerator(List<MajorForCollection> majorList){
+	public ExcelGenerator(String schoolName, List<MajorForCollection> majorList,boolean structureOverFlow){
+		this.schoolName = schoolName;
 		this.majorList = majorList;
+		this.structureOverFlow = structureOverFlow;
+		try {
+			initExcelWriter();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	
-	public void initExcelWriter()
+	private void initExcelWriter()
 			throws Exception {
 		
 
@@ -66,18 +78,20 @@ public class ExcelGenerator {
         row.createCell(13).setCellValue("Url"); 
 	}
 	
-	public void addToSheet(int rowNum, int col, String content)
+	private void addToSheet(int rowNum, int col, String content)
 		throws Exception {
 		if(row==null||row.getRowNum()!=rowNum){
 			row = sheet.createRow((short)rowNum);
 		}
 		
-		if(col==COUNT_RESULT){
-			row.createCell(col).setCellFormula(content);
+		if(col==STRUCTURE&&structureOverFlow){
+			File dir = new File(schoolName+"_structure");
+			if(!dir.exists())dir.mkdirs();
+			writeToTxt(schoolName+"_structure/"+rowNum+".txt", content.replace("\n", "\r\n"));
+			row.createCell(col).setCellValue(schoolName+"_structure/"+rowNum+".txt");
 		}else{
 			row.createCell(col).setCellValue(content);
 		}
-		
 	}
 	
 	public void exportExcel(String fileName) throws Exception {
@@ -96,9 +110,6 @@ public class ExcelGenerator {
 			addToSheet(row+1, MONTH_OF_ENTRY, majorList.get(row).getMonthOfEntry());
 			addToSheet(row+1, SCHOLARSHIP, majorList.get(row).getScholarship());
 			addToSheet(row+1, URL, majorList.get(row).getUrl());
-			/*addToSheet(row+1, COUNT_RESULT, "IF(COUNT(A"+(row+2)+",B"+(row+2)+",C"+(row+2)+",D"+(row+2)+
-													",F"+(row+2)+",G"+(row+2)+",H"+(row+2)+",J"+(row+2)+
-													",K"+(row+2)+",L"+(row+2)+")=10,\"\",\"Missed\")");*/
 		}
 		
 		File file = new File(fileName);
@@ -109,5 +120,18 @@ public class ExcelGenerator {
 		book.write(fos);
 		fos.close();
 	}
-
+	
+	public void writeToTxt(String fileName, String content){
+		File file = new File(fileName);
+		try(FileOutputStream fos = new FileOutputStream(file)){
+			
+			fos.write(content.getBytes());
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
 }

@@ -1,0 +1,271 @@
+Modules  
+  Semester one  
+  During semester one, you will take compulsory modules in:   
+  
+   Programming  
+  
+  In both semesters, you will then have the option to take some of the following optional modules, making up 120 credits in total from taught modules:  
+ 
+   Advanced Algorithms and Data Structures 
+  
+  
+   We study the theory used in the design and analysis of advanced algorithms and data structures. The topics covered include string algorithms (such as for string matching, longest common sub-sequence), graph algorithms (such as for minimum cuts and maximum flows), and advanced data structures (such as Binomial heaps and Bloom filters).  
+  
+ 
+     
+  
+ 
+   Advanced Computer Communications 
+  
+  
+   This module will provide you with an advanced knowledge of computer communications networks, using examples from all-IP core telecommunications networks to illustrate aspects of transmission coding, error control, media access, internet protocol, routing, presentation coding, services and security. You’ll spend around three hours per week in lectures and computer classes.  
+    Autonomous Robotic Systems The theory is practiced in weekly labs where we learn how to implement the algorithms and data structures as functional and imperative programs (using the languages Haskell and C), and apply these to solve large instances of real-world problems.  
+  
+ 
+     
+  
+ 
+   Computability 
+  
+  
+   You will begin by considering the attempts to characterise the problems that can theoretically be solved by physically-possible computational processes. You will then consider the area of complexity theory, looking at whether or not problems can be solved under limitations on resources such as time or space. A key topic is an examination of the classes P and NP and the definition of the term NP-complete. You will spend around two hours a week in lectures for this module.  
+  
+ 
+     
+  
+ 
+   Computer Graphics 
+  
+  
+   You will examine the principles of 3D computer graphics, focusing on modelling the 3D world on the computer, projecting onto 2D display and rendering 2D display to give it realism. Through two hours weekly of lectures and laboratory sessions, you will explore various methods and requirements in 3D computer graphics, balancing efficiency and realism.  
+  
+ 
+     
+  
+ 
+   Computer Vision 
+  
+  
+   You will examine current techniques for the extraction of useful information about a physical situation from individual and sets of images. You will cover a range of methods and applications, with particular emphasis being placed on the identification of objects, recovery of three-dimensional shape and motion, and the recognition of events. You will spend around three hours a week in lectures and tutorials.  
+  
+ 
+     
+  
+ 
+   Data Modelling and Analysis 
+  
+  
+   This module will enable you to appreciate the range of data analysis problems that can be modeled computationally and a range of techniques that are suitable to analyse and solve those problems. Topics covered include: basic statistics; types of data; data visualisation techniques; data modelling; data pre-processing methods including data imputation; forecasting methods; clustering and classification methods (decision trees, na&iuml;ive bayes classifiers, k-nearest neighbours); data simulation and model interpretation techniques to aid decision support.  
+  
+ 
+     
+  
+ 
+   Design Ethnography 
+  
+ 
+   This module introduces you to the theory and practice of design ethnography. You will cover a range of topics including: origins and evolution of ethnography, foundations and nature of the ethnomethodological approach, ethnographic analysis; and the perceived problems with the approach. You will spend around two hours each week in lectures and tutorials for this module. 
+  
+ 
+     
+  
+ 
+   Designing Intelligent Agents 
+  
+  
+   You will be given a basic introduction to the analysis and design of intelligent agents, software systems which perceive their environment and act in that environment in pursuit of their goals. Spending around two hours each week in lectures and tutorials, you will cover topics including task environments, reactive, deliberative and hybrid architectures for individual agents, and architectures and coordination mechanisms for multi-agent systems.  
+  
+ 
+     
+  
+ 
+   Foundations of Programming Mini-Project 
+  
+  
+   The purpose of this module is to provide you with the opportunity to deepen your understanding of the mathematical foundations of programming languages by studying in depth a specific topic related to your course. You will discuss your topic with your supervisor, choosing from a list of proposed topics. You will be required to write a report on your chosen topic and give a presentation on its central aspects.  
+  
+ 
+     
+  
+ 
+   Fuzzy Sets and Fuzzy Logic Systems 
+  
+  
+   You will review classical Boolean logic and set theory, including the common operations of union, intersection and complement. Fuzzy Logic Systems (FLSs) will be introduced and illustrated in conjunction to examples of real world applications in industrial control and other areas. You will spend around four hours each week in lectures and workshops, and will be given the opportunity to design, programme and deploy a fuzzy logic system, providing a tangible real world example of some underlying concepts of FLSs.  
+  
+ 
+     
+  
+ 
+   Games 
+  
+  
+   This module covers the history, development and state-of-the art in computer games and technological entertainment. Students will gain an appreciation of the range of gaming applications available and be able to chart their emergence as a prevalent form of entertainment.  
+   Students will study the fundamental principles of theoretical game design, and how these can be applied to a variety of modern computer games.  
+   Students will study the development of games as complex software sytems. Specific software design issues to be considered will include the software architecture of games, and the technical issues associated with networked and multiplayer games.  
+   Students will use appropriate software environments to individually develop a number of games to explore relevant theoretical design and practical implementation concepts.  
+  
+ 
+     
+  
+ 
+   Human Computer Interaction 
+  
+  
+   In this module, you will be introduced to the foundations of human-computer interaction (HCI). Topics covered include: the theoretical foundations of HCI, the relevance of users to the design process, user interface design, prototyping techniques, and user evaluation. You will spend two hours in lectures each week for this module.  
+  
+ 
+     
+  
+ 
+   Introduction to Image Processing 
+  
+  
+   This module introduces the field of digital image processing, a fundamental component of digital photography, television, computer graphics and computer vision. You’ll cover topics including: image processing and its applications; fundamentals of digital images; digital image processing theory and practice; and applications of image processing. You’ll spend around three hours in lectures and computer classes each week for this module.  
+  
+ 
+     
+  
+ 
+   Knowledge Representation and Reasoning 
+  
+  
+   This module examines how knowledge can be represented symbolically and how it can be manipulated in an automated way by reasoning programs. Some of the topics you will cover include: first order logic, resolution, description logic, default reasoning, rule-based systems, belief networks and fuzzy logic. You will have two hours of lectures each week for this module.  
+  
+ 
+     
+  
+ 
+   Machine Learning 
+  
+  
+   Providing you with an introduction to machine learning, this module will enable you to consider systems which are able to develop their own rules from trial-and-error experience to solve problems. You will cover a range of topics including: machine learning foundations, artificial neural networks, applications of machine learning, and evaluating hypotheses. You will spend around three hours each week in lectures and computer classes for this module.  
+  
+ 
+     
+  
+ 
+   Mathematical Foundations of Programming 
+  
+  
+   This module focuses on some of the fundamental mathematical concepts that underlie modern programming and programming languages, including aspects of recent and current research. Example topics include: basic lambda calculus, operational semantics, types and type systems, and domain theory. You will spend around two hours per week in lectures studying for this module.   
+  
+ 
+     
+  
+ 
+   Mixed Reality 
+  
+  
+   The term 'mixed reality' defines a spectrum of applications of computing that runs from virtual reality, in which a user is immersed in a computer-generated environment at one extreme to augmented reality, and ubiquitous computing, in which the everyday world appears to be overlaid with digital information at the other. In this module you will explore the Human-Computer Interaction challenges and principles that arise when creating mixed reality applications.The module will introduce the concepts and technologies that underlie different forms of mixed reality, and will illustrate these using a variety of applications ranging from entertainment to wellbeing. You will learn about the concepts and techniques of mixed reality, and will gain hands-on experience of applying these to the design of a prototype application.  
+  
+ 
+     
+  
+ 
+   Mobile Device Programming 
+  
+  
+   You will look at the development of software applications for mobile devices, with a practical focus on the Android operating system. You will consider and use the software development environments for currently available platforms and the typical hardware architecture of mobile devices. You will spend around three hours per week in lectures and computer classes for this module.  
+  
+ 
+     
+  
+ 
+   New Media Design 
+  
+  
+   This is a practical course covering the critical elements of New Media Design, with a particular focus on its use in the web. Critical elements such as typography, layout, colour, and the usage of images, sound and video will be introduced and discussed, in addition to broader issues around usability and interaction. Processes to support effective design work will also be considered. This course aims to provide you with hands-on experience of technologies used to manipulate New Media in a professional context. Such tools will be put into context with emerging paradigms, including new media for mobile platforms.  
+  
+ 
+     
+  
+ 
+   Operations Research and Modelling 
+  
+  
+    The module provides an entry point to operations research with emphasis in techniques for computational optimisation. Operations Research (OR) is a discipline that uses modelling techniques, analytics and computational methods to solve complex optimisation problems in industry and business. You will learn to interpret and create formal models of optimisation problems and to develop computer-based solutions to solve those problems. The module covers topics such as linear programming, integer programming, combinatorial optimisation, modelling and optimisation software, and multi-objective optimisation among others. You will spend around three hours per week in lectures and workshops for this module.  
+  
+ 
+     
+  
+ 
+   Parallel and Distributed Computing 
+  
+  
+   A simple sequential computer program effectively executes one instruction at a time on individual data items. Various strategies are used in CPU design to increase the speed of this basic model (see the module on Advanced Computer Architecture), but at the cost of CPU complexity and power-consumption. To further increase performance the task must be re-organised to explicitly execute on multiple processors and/or on multiple data items simultaneously This module charts the broad spectrum of approaches that are used to increase the performance of computing tasks by exploiting parallelism and/or distributed computation. It then considers in more detail a number of contrasting examples. The course deals mainly with the principles involved, but there is the chance to experiment with some of these approaches in the supporting labs. Topics covered include: common applications of parallel and distributed computing; parallel and distributed machine architectures including Single Instruction Multiple Data (SIMD) or short-vector processing, multi-core and multi-processor shared memory, custom co-processors including DSPs and GPUs, and cluster and grid computing; programming approaches including parallelising compilers, explicit message-passing (such as MPI), specialised parallel computing abstractions (such as MapReduce), and specialised co-processor programming (such as for GPUs)  
+  
+ 
+     
+  
+ 
+   Planning, Search and Artificial Intelligence Programming 
+  
+  
+   You’ll be introduced to Artificial Intelligence (AI) algorithms and programming techniques for search and planning. Topics covered include: classical search; search with non-determinism and partial observability; local search; classical planning, reasoning about actions; planning under uncertainty; conditional planning; planning with time and resources; other typical AI problems and how to implement them in an AI programming language. You’ll spend around three hours per week in lectures and computer classes studying for this module.  
+  
+ 
+     
+  
+ 
+   Research Project 
+  
+  
+   You will conduct a piece of empirical and/or theoretical research in an appropriate strand of the degree, under the supervision of a member of academic staff. Where appropriate,your project may also be conducted in conjunction with an external organisation and may or not involve a substantial software implementation.  
+  
+ 
+     
+  
+ 
+   Selected Topics in Artificial Intelligence 
+  
+  
+  
+    Artificial intelligence is the science and engineering of making intelligent machines, especially intelligent computer programs, and covers a variety of topics including, agents, bioinformatics, bio-inspired computational systems, computer vision, data mining, fuzzy logic, machine learning, modelling and optimization, operational research, pattern recognition, scheduling, and simulation. Areas of artificial intelligence are intensively researched and new theories and technologies are emerging all the time. The module will introduce students to the latest developments and technological trends in selected topics in artificial intelligence. 
+   
+   
+    
+   
+  
+ 
+     
+  
+ 
+   Simulation for Decision Support 
+  
+ 
+   This module introduces you to three broad simulation paradigms commonly used in Operations Research and Management Science: System Dynamics, Discrete Event, and Agent-Based. Covering topics such as the introduction to the principles of modelling and simulation, conceptual modelling, model implementation, and output analysis, you will become competent in choosing and implementing the correct method for your particular problem. You will spend around four hours per week in lectures and computer classes for this module. 
+  
+ 
+     
+  
+ 
+   Software Engineering 
+  
+ 
+   This module will give you instruction in modern, agile approaches for requirements engineering and software design, and you will apply these methods during the development of a real-world, medium-scale software system. You will also work in a team to break down a problem into a set of manageable tasks. You will spend around three hours per week in lectures and computer classes. 
+  
+ 
+     
+  
+ 
+   Software Project Management 
+  
+ 
+   Through two hours of lectures each week, you will consider the required activities and the tools available, to manage commercial software development projects. Real case studies will be used to illustrate many of the tools and techniques introduced. 
+  
+ 
+     
+  
+ 
+   Ubiquitous Computing 
+  
+ 
+   You will explore the emerging field of ubiquitous computing, in which computation spreads away from the desktop to become embedded into the world around us, including into artefacts, furniture, buildings and ultimately into our own bodies. You will cover the distinctive design challenges in this field including designing for public settings, adapting to context and coping with uncertainty in positioning and wireless communications. You will spend around three hours in lectures and computer classes each week. 
+  
+ 
+     
+  
+  Please note that all module details are subject to change.   
+  Over the summer period towards the end of the course, you will undertake a research project in computer science. This project involves conducting a piece of research with depth, carried out under the supervision of a member of academic staff.  
+  For more details on our modules, please see the module catalogue.

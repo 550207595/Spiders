@@ -1,0 +1,121 @@
+Modules  
+  The course structure consists of 160 core credits allowing 20 credits to drawn from other level 4 courses offered by partner schools.  
+  Core modules (codes to be confirmed)  
+  
+   
+    
+      Code   
+      Title   
+      Credits   
+      Taught   
+    
+    
+      F14ITS   
+      Introduction to Sustainability Project   
+      10   
+      Autumn   
+    
+    
+      F14EMF    
+      Energy and Feedstocks   
+      10   
+      Autumn   
+    
+    
+      F14SSC   
+      Sustainable Synthesis (Chemical)   
+      10   
+      Autumn   
+    
+    
+      F14SSB    
+      Sustainable Synthesis (Biological)   
+      10   
+      Autumn   
+    
+    
+      N14T15   
+      Innovation and Technology Transfer   
+      10   
+      Autumn   
+    
+    
+      F14CIS   
+      Chemistry in-silico   
+      10   
+      Spring   
+    
+    
+      F14RPM   
+      Research Planning and Management   
+      20   
+      Spring   
+    
+    
+      F14SIA   
+      Sustainability in Action   
+      10   
+      Year Long   
+    
+    
+      F14B2B   
+      Bench to Bank   
+      10   
+      Year Long   
+    
+    
+      F14SRP    
+      Research Project   
+      60   
+      Summer   
+    
+    
+      Credit Total   
+      160   
+    
+   
+  
+     
+  Additional Components – Maximum of 20 credits of optional modules  
+  A short list of examples is included here, this list is by no means comprehensive and convenor/course director approval must be secured prior to commencement of this course which each have their own pre-requisites (Each module is 10 credits).  
+  
+   
+    
+      Code   
+      Title   
+      Taught   
+    
+    
+      D24BFF   
+      Biofuel Fermentation   
+      Autumn   
+    
+    
+      H84PGC   
+      Power Generation and Carbon Capture   
+      Autumn   
+    
+    
+      K14RE1   
+      Renewable Energy Technologies   
+      Autumn   
+    
+    
+      MM3EM1   
+      Energy Efficiency for Sustainability   
+      Autumn   
+    
+    
+      N14C31   
+      Managing Projects   
+      Autumn   
+    
+    
+      N14G01   
+      Creative problem solving    
+      Autumn   
+    
+    
+      D24BPD   
+      Biofuel Process Design   
+      Spring

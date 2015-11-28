@@ -1,0 +1,17 @@
+Modules  
+  
+   Control Systems Design   
+   Power Electronic Design   
+   Power Networks   
+   Electrical Machines   
+   Instrumentation and Measurement with/without project   
+   Advanced Control System Design with project   
+   Energy Conversion for Motor & Generator Drives   
+   FACTS and Distributed Generation   
+   Advanced AC Drives   
+   Advanced Power Conversion   
+   Technologies for Wind Generation   
+   Power Systems for Aerospace, Marine & Automotive Applications   
+   Advanced Electrical Machines  
+  
+  For more details on our modules, please see the Module Catalogue.

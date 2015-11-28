@@ -1,0 +1,33 @@
+Modules  The structure of the MSc is modular, with individual modules having either 20, 15 or 10 credits. One credit represents 10 hours of student work, meaning that a 20 credit module represents 200 hours of study including formal teaching, independent study, revision, and the preparation of assessments. The MSc degree requires the successful completion of 180 credits, 120 of which are taught modules, and 60 credits of a financial mathematics dissertation.
+  
+  
+  There may be slight variations in the lists of modules permitted in any particular year.  
+  Compulsory  
+  Advanced Financial Mathematics  
+  Computational Applied Mathematics  
+  Financial Mathematics  
+  Financial and Computational Mathematics Dissertation  
+  Scientific Computing and C++  
+  The Financial Mathematics module introduces the main concepts of financial mathematics, such as pricing and hedging of financial instruments (forwards, futures, options, swaps) with a focus on discrete models. It also develops your knowledge of probability and stochastic calculus. The Advanced Financial Mathematics module builds upon the concepts from finance and your knowledge of probability and stochastic processes introduced in the Financial Mathematics module. It has three major topics: continuous time modelling for equity derivatives pricing, pricing interest rate (fixed-income) derivatives, and credit risk modelling, which are underpinned by the theory of stochastic processes and stochastic differential equations. In these two modules you will acquire knowledge and skills relevant to the mathematical modelling widely used in the financial industry for financial risk management.  
+  The modules Scientific Computing and C++ and Computational Applied Mathematics aim at improving and developing your knowledge of computational techniques which are widely used in the financial industry and at learning programming in C++.  
+  Students must also take 40 credits restricted to one of the three streams below:  
+  Optional Stream 1 (Maths/Stats and Computing)  
+  Optimization  
+  Statistical Foundations  
+  Time Series and Forecasting   
+  Optional Stream 2A  
+  Econometic Theory  
+  Financial and Macro Econometrics  
+  Game Theory  
+  Mathematics for Engineering Management  
+  Time Series Econometrics  
+  Optional Stream 2B  
+  
+  Economics of Corporate Finance  
+  Game Theory  
+  Mathematics for Engineering Management  
+  Macroeconomic Analysis  
+  Microeconomic Analysis  
+  Monetary Theory and Practice  
+  Further Economics Information  
+  Full details regarding economics modules in stream 2A and 2B taught by the School of Economics is available on their school website.

@@ -27,6 +27,7 @@ import net.sf.json.util.JSONStringer;
 public class Add {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 	public static String SCHOOL_NAME = "";
+	public static boolean STRUCTURE_OVERFLOW = false;
 	private static int index=1;//��Ӧҳ��id
 	/**
 	 * @param args
@@ -36,7 +37,7 @@ public class Add {
 		// TODO Auto-generated method stub
 		try {
 			System.out.println("work start");
-			List<Major> list=POIReadAndPost.getData();
+			List<Major> list=POIReadAndPost.getData(STRUCTURE_OVERFLOW);
 			for(;index<=list.size();){
 				if(index<=211){
 					index++;

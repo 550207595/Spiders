@@ -1,0 +1,21 @@
+Modules  
+  Compulsory modules  
+  Functional Imaging Methods (20 credits): This module covers brain imaging methods such as magnetic resonance imaging (MRI), magnetoencephalography (MEG), electroencephalography (EEG) and transcranial magnetic stimulation (TMS).  An additional focus is on the strengths and limitations of these methods in health and disease.  
+  Experimental Design for Functional Imaging (10 credits): This module covers principles of experimental design; the topics include lectures on how to design, conduct and analyse neuroimaging experiments in various research areas.  
+  Introduction to Matlab programming (10 credits): Problem-based learning to support lectures on neuroimaging topics. Topics covered include an introduction to computer programming with MATLAB, the design and analysis of behavioural experiments, and the analysis of functional MRI data.  
+  Analytical Research Methods (10 credits): This module covers advanced statsitcs such as multiple regression, correlation analysis, exploratory factor analysis and bootstrapping.  
+  Professional Skills (20 credits): This module involves participation in courses of the Graduate School in order to develop skills that are relevant for working in a research environment.  
+  Pathways  
+  The Cognitive Neuroscience pathway: Focuses on the neuroscientific approach to cognition.  It is also rooted within neurobiology.  A number of optional modules are available such as Sensory Neuroscience, and Neuronal Signalling.  
+  The Neuropsychology pathway:  Focuses on the brain-behavioural relation and addresses various functions in normal and disordered states, and across the lifespan.  Some of the optional modules available here include Clinical Neuropsychology, and Clinical Neuroscience.  
+  The Computational Methods pathway: Focuses on image processing operations and techniques as well as their application for studying advanced topics in related fields.  Optional modules in this pathway include computational Neuroscience and Neuroinformatics, Scientific Computing, and Signal Processing and Control Engineering  
+  The Developmental Science pathway: Focuses on developmental psychology and developmental cognitive neuroscience, including brain development to cognitive or social change.  A number of optional modules are available such as Topics in Child and Adolescent Mental Health, and Developmental Cognitive Neuropsychology.  
+  Integrative Neuroscience: Focuses on the neural basis of animal and human behaviour and addresses brain functioning across one or more interacting levels of neural organisation. A number of optional modules are available such as Current Trends in Neuroscience, and Translational Neuroscience  
+  
+     
+  
+     
+  Each pathway has a research placement and project:  
+  Research Placement (20 credits): This module involves a project of limited size within a specific research area.  The methods used for this practial work depends on the topic chosen and can be brain imaging, psychophysics, or computational modelling.  Students work under the supervision of a research adviser.  
+  Research Project (60 credits): This module involves a substantial project within a specific research area.  The method used for this practical work depends on the topic chosen and students again work under the supervision of a research adviser.  
+  For more details on our modules, please see the Module Catalogue.

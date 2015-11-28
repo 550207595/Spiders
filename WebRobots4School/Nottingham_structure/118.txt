@@ -1,0 +1,21 @@
+Modules  
+  
+   Control Systems Design  
+   Electronic Design  
+   IT Infrastructure  
+   Power Electronic Design  
+   Telecommunications Electronics  
+   Bioelectronic and Biophotonic Interfacing  
+   HDL for Programmable Logic   
+   HDL for Programmable Logic with project  
+   Photonics Communications Components  
+   RF Microelectronics   
+   RF Microelectronics with project  
+   Power Electronics Integration  
+   Advanced Electrical Machines  
+   Advanced AC drives   
+   Advanced AC drives with project  
+   Power Systems for Aerospace, Marine and Automotive Applications  
+   Advanced Power Conversion  
+   Technologies for Wind Generation  
+   Technologies for the Hydrogen Transport Economy

@@ -1,0 +1,894 @@
+Modules  
+  A full list of available modules can be found in our  Economics postgraduate module guide  
+   
+  Core modules    
+ 
+   Macroeconomic Theory 
+  
+  
+   The module examines the analytical and theoretical issues in macroeconomics, including:  
+   
+    modelling aggregate variables under adaptive and rational expectations  
+    modelling with imperfect competition  
+    constructing overlapping generations models  
+    price inertia  
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     familiarise students with advanced theory and techniques in macroeconomics  
+    
+   
+  
+ 
+     
+  
+ 
+   Microeconomic Theory 
+  
+  
+   The module looks at:  
+   
+    modern techniques of microeconomic theory  
+    foundations and applications of game theory  
+    information economics  
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce students to the technical tools required for understanding and developing microeconomic models of behaviour of optimising individuals  
+     show how these tools facilitate the analysis of simple optimising models of choice and of the interaction of optimising individuals  
+     provide some practice, through exercises, in the application of these technical tools  
+    
+   
+  
+ 
+     
+  
+  And either:  
+ 
+   Quantitative Economics III 
+  
+  
+   This module is an introduction to the theory and practice of econometric methods, focusing on regression analysis and its application to economic situations.  
+   The module will pay particular attention to the principles of estimation and inference in the multiple regression model, and will rely on illustrations and intuition to develop understanding of the techniques and their interpretation.   
+   Students deepen their understanding of the material covered in class via a series of ‘hands-on’ computer classes using specialist econometric software (EViews) and a set of tutorials that will review worked examples.  
+   This module aims to:  
+   
+    introduce students to the principles, uses and interpretation of regression analysis most commonly employed in applied economics using cross-section data  
+    provide students with sufficient knowledge of regression methods to critically evaluate and interpret published empirical research  
+    enable students to undertake empirical analyses using specialist econometric software  
+   
+  
+ 
+     
+  
+ 
+   Quantitative Economics IV 
+  
+  
+   This module is an introduction to the theory and practice of econometric methods, focusing on regression analysis and its application to economic situations.  
+   It will focus on practical issues relating to data modelling and issues relating to model specification and testing, as well as introducing students to regression analysis using time series data. It will rely on illustrations and intuition to develop understanding of the techniques and their interpretation.   
+   Students will advance their understanding of the material covered in class via a series of ‘hands-on’ computer classes using EViews.   
+   This module aims to:  
+   
+    introduce students to the principles, uses and interpretation of regression techniques most commonly employed in applied economics using cross-section and time-series data  
+    provide students with sufficient knowledge of regression methods to critically evaluate and interpret published empirical research  
+    enable students to undertake empirical analyses using specialist econometric software  
+   
+  
+ 
+     
+  
+  OR  
+ 
+   Econometrics I 
+  
+  
+   This module generalizes and builds upon the econometric techniques covered in the Year I module, Introductory Econometrics.  
+   This will involve introducing a number of new statistical and econometric concepts, together with some further development of the methodology that was introduced in Year I.   
+   The multivariate linear regression model will again provide our main framework for analysis.  
+   This module aims to:  
+   
+    provide the necessary mathematical and statistical tools needed to conduct theoretical econometric analysis at an advanced level  
+    develop the analytical skills required to demonstrate the theoretical properties of different econometric estimation and testing procedures under various modelling assumptions  
+    provide a sound understanding of the applicability and limitations of the multivariate linear regression model as a vehicle for econometric analysis for economic data  
+   
+  
+ 
+     
+  
+ 
+   Econometrics II 
+  
+  
+   This module introduces students to a range of statistical techniques that can be used to analyse the characteristics of univariate economic time series.  
+   The basic theoretical properties of time series models are discussed and we consider methods for fitting and checking the adequacy of empirical time series models.   
+   Methods of forecasting future values of economic time series are then considered.  
+   This module aims to:  
+   
+    provide the necessary background techniques needed to analyse the behaviour of time series processes  
+    develop the analytical skills required to characterize the theoretical properties of different time series processes  
+    provide a sound understanding of the applicability and limitations of the univariate time series methodology as a means for empirical modelling and producing forecasts of economic time series  
+   
+  
+ 
+     
+  
+  30 credits from year 3 modules:  
+ 
+   Advanced Development Economics 
+  
+  
+   This module adopts a broad focus on factors influencing growth and development.   
+   Topics covered include:   
+    
+   
+    macroeconomic policies  
+    aid  
+    debt  
+    trade  
+    growth experiences in East Asia, China and Africa  
+   
+   This module aims to:  
+    
+   
+    introduce some of the main economic issues facing developing countries  
+    provide students with appropriate theoretical tools to analyse and understand these issues  
+    provide students with guidance as to sources of empirical analysis and evidence, which they can follow up via the reading list and in work for tutorials  
+    introduce key policy issues relating to the topics discussed  
+   
+  
+ 
+     
+  
+ 
+   Advanced Econometric Theory 
+  
+  
+   This module generalizes and builds upon the econometric techniques applied to the multivariate linear regression model covered in the Year II module, Econometrics I.  
+   This will involve introducing a number of new statistical and econometric concepts.   
+   In particular, we study large sample, or asymptotic, theory. This is needed in order to obtain tractable results about the behaviour of estimators when the standard modelling assumptions - which frequently cannot be verified in practice - are relaxed.   
+   We also extend the analysis from a single equation model to simultaneous equation models.  
+   This module aims to:  
+   
+    provide the necessary statistical techniques needed to conduct asymptotic econometric theory  
+    develop the analytical skills required to demonstrate theoretical asymptotic properties of different econometric estimation and testing procedures under weakened modelling assumptions  
+    provide a proper understanding of the applicability and limitations of asymptotic theory in econometric analysis  
+   
+  
+ 
+     
+  
+ 
+   Advanced Environmental and Resource Economics 
+  
+  
+  
+    This module covers the below areas: 
+   
+   
+   
+    
+     principles of resource policy: efficiency and sustainability  
+     the depletion of non-renewable natural resources: resource use under social optimum and in imperfectly competitive markets  
+     renewable resources: the economics of fisheries and forestry  
+     climate change and intertemporal efficiency  
+     energy markets and policy: the economics of electricity markets, market power, renewable energy  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     look at natural resource use from an economic perspective and provide an overview of the economic tools that are used to address resource management and energy policy issues  
+    
+   
+  
+ 
+     
+  
+ 
+   Advanced Experimental and Behavioural Economics 
+  
+  
+  
+    The module complements the existing second year module Experimental Economics I.  
+   
+   
+    
+   
+  
+    Its objective is to provide a broader review of the emerging discipline of experimental economics. Illustrative content is as follows: 
+   
+   
+   
+    
+     principles of laboratory testing  
+     the endowment effect  
+     dynamic choice experiments  
+     ultimatum, dictator and trust games  
+     coordination games  
+     public goods games  
+     market experiments: efficiency and convergence  
+     auctions  
+     experiments, economic policy, and contingent valuation methodology  
+     the limits of experiments  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     
+      develop understanding of principles of experimental design in experimental economics  
+      provide a wide-ranging review of the types of experiment that can be undertaken in Economics and to enable students to assess their strengths and weaknesses  
+      acquaint students with the central findings of the experimental research programmes considered and to encourage consideration of their implications for economics  
+     
+    
+   
+  
+ 
+     
+  
+ 
+   Advanced Financial Economics 
+  
+  
+   This module examines issues related to the impact of financial frictions on the financial system and the economy.  
+   Potential topics include:   
+   
+    the effects of financial constraints on the ability of firms to raise funds from different sources  
+    the impact of financial constraints on consumer credit  
+    the role of financial intermediaries  
+   
+   The module will also examine the transmission of shocks from the financial system to the macroeconomy and discuss relevant policies.  
+   This module aims to:  
+   
+    analyze the role of financial markets in the presence of frictions  
+    examine the implications of financial frictions for corporate and consumer finance  
+    examine the impact of financial shocks on the economy  
+   
+  
+ 
+     
+  
+ 
+   Advanced International Trade Theory 
+  
+  
+   This module looks at:  
+   
+    models of intra-industry trade  
+    trade policy in oligopolistic industries  
+    mathematical enterprises  
+    testing trade theories  
+    the WTO and 'new issues'  
+   
+   This module aims to:  
+   
+    provide a coherent theoretical framework that will give students a firm basis for the analysis of policy issues in the area of trade in imperfectly competitive markets  
+    discuss how alternative trade theories might be distinguished empirically  
+    identify and analyse changes in the nature and scale of protection in both developed and developing countries and to discuss the likely impacts of international agreements on trade and related policies  
+   
+  
+ 
+     
+  
+ 
+   Advanced Macroeconomics 
+  
+  
+   This module covers the theory for the solution and estimation of dynamic stochastic models that are widely used in all fields of macroeconomics. The module is structured in a way such that students will be exposed both to theory and the practical implementation of the methods taught.  
+   It covers topics from approximation methods for stochastic non-linear macroeconomic models, such as linear and higher-order Taylor approximation as well as dynamic programming techniques. It also exposes students to the empirical evaluation of these models ranging from calibration to classical and Bayesian estimation methods.   
+   The module applies the techniques to contemporary general equilibrium macroeconomic models designed for positive and policy analysis such as the New Keynesian model but also models that are designed to explain partial equilibrium behaviour such as consumer saving and industry investment.  
+   This module aims to:  
+   
+    introduce the theory and estimation of dynamic stochastic macroeconomic models  
+   
+  
+ 
+     
+  
+ 
+   Advanced Mathematical Economics 
+  
+  
+   The module is intended to provide an introduction to mathematical techniques used in economics.  
+   In particular, examples of economic issues that can be analyzed using mathematical models will be discussed in detail.   
+   Particular attention will be given to providing an intuitive understanding of the logic behind the formal results presented. Students who wish to pursue a higher degree in economics will find the module particularly useful.  
+   This module aims to:  
+   
+    provide a rigorous grounding in certain mathematical tools and methods of argumentation used in microeconomic theory  
+    develop a clear perception of the role of mathematical tools and logical methods in the construction of the formal theory of individual decision-making  
+    inculcate the ability to analyze economic problems through rigorous applications of the formal theory of individual decision-making  
+   
+  
+ 
+     
+  
+ 
+   Advanced Monetary Economics 
+  
+  
+   This module will provide an outline of the elements of monetary theory and of theoretical policy issues.  
+   This module aims to:  
+    
+   
+    convey all the basic rudiments of monetary economics  
+   
+  
+ 
+     
+  
+ 
+   Advanced Public Economics I 
+  
+  
+   The module will introduce some major themes of public economics, using microeconomic tools to analyse public policy.  
+   The equity and efficiency implications of policies will be examined within an economic framework.  
+   This module aims to:  
+   
+    introduce students to some of the important concepts and techniques required to identify the limits of what markets can achieve  
+    evaluate the potential for benevolent government intervention to achieve better outcomes  
+   
+  
+ 
+     
+  
+ 
+   Advanced Time Series Econometrics 
+  
+  
+   This module is a continuation of the module on time series analysis taken in the second semester of the second year.  
+   While the earlier module was devoted to basic time series model building methodology, applicable over a broad range of disciplines, the present module concentrates on those developments which can be applied in the subject of Economics.   
+   In particular, the emphasis will be on aspects of the behaviour of typical economic time series, and the implications of that behaviour in practical analysis, such as the construction of models linking economic time series.   
+   The key issues addresses will be the identification of non-stationarity through the construction of formal tests and the implications for modelling with non-stationary data. Particular attention will be paid to the contributions of Sir Clive Granger to the spurious regression problem and to cointegration analysis, for which he was ultimately awarded the Nobel Prize.  
+   This module aims to:  
+   
+    introduce the concept of unit autogressive roots, and the consequences of that concept for the analysis of economic time series  
+   
+  
+ 
+     
+  
+ 
+   Health Economics 
+  
+  
+   This module offers an introduction to:  
+   
+    health and health economics  
+    health care as a commodity (Grossman model, market complications, such as rationality, externalities, uncertainty)  
+    implications of health and health care demand (prices, insurance, supply-induced demand, consumer protection)  
+    health behaviour (illness prevention, such as tobacco smoking, vaccination, cancer screening)  
+    economic aspects of the UK National Health Service (excess demand, efficiency, equity)  
+    health care supply (factor substitution, economies of scale, technology diffusion)  
+    international aspects of health care  
+   
+   This module aims to:  
+   
+    explore the behavioural theories relevant to the analysis of health and health care  
+    analyse the implications of alternative methods of health care delivery  
+    demonstrate how economic analysis can inform and appraise decisions on health policy  
+   
+  
+ 
+     
+  
+ 
+   Industrial Organisation 
+  
+  
+   The module examines central theoretical aspects of industrial organisation.  
+   This module aims to:  
+   
+    provide students with a solid theoretical background to allow them to follow the theoretical debate in the most relevant journals in the IO area, such as the RAND Journal of Economics, the Journal of Industrial Economics, the International Journal of Industrial Organisation and the Journal of Economics and Management Strategy  
+    impart students with the knowledge and tools that will allow them to carry out their own original research in this area  
+   
+  
+ 
+     
+  
+ 
+   International Money and Macroeconomics 
+  
+  
+   This module will provide an introduction to international monetary issues, including:  
+   
+    the determination of exchange rates  
+    the functioning of the international monetary system  
+    international macroeconomic policy co-ordination  
+   
+   This module aims to:  
+   
+    provide an introduction to the international monetary economics  
+   
+  
+ 
+     
+  
+ 
+   International Trade Policy 
+  
+  
+   This module looks at:  
+   
+    trade policy  
+    theory and evidence  
+    trade policy and imperfect competition  
+    trade and distortions  
+    the political economy of protection and trade policy reform  
+   
+   This module aims to:  
+   
+    provide a coherent theoretical framework that will give students a firm basis for the analysis of trade policy issues under competitive and incompetitive conditions  
+   
+  
+ 
+     
+  
+ 
+   Numerical Methods in Economics 
+  
+  
+  
+    This module covers: 
+   
+   
+   
+    
+     numerical solution methods  
+     numerical static optimization methods  
+     applications: resource allocation, computable general equilibrium  
+    
+   
+     This 
+    module aims to: 
+    
+    
+    
+     
+      
+       provide a detailed understanding of numerical methods used in Economics  
+       develop an understanding of how the discussed methods can be applied to various economic problems  
+      
+     
+    
+   
+  
+ 
+     
+  
+ 
+   Political Economy 
+  
+  
+  
+    This module covers the following: 
+   
+   
+   
+    
+     foundations: the rational political individual?  
+     collective action  
+     the rational society?  
+     core: the economic approach to voters, parties and bureaucracies  
+     core: the politics of markets and government intervention  
+     political economy in action  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     
+      acquaint students with the modern literature in theoretical and applied political economy  
+      provide an opportunity for interdisciplinary study within the Economics degree  
+      promote understanding of what economic techniques have to offer political science  
+      enrich students' study of economics with insights from political science and political philosophy  
+     
+    
+   
+  
+ 
+     
+  
+ 
+   Topics in Econometrics  
+  
+  
+   This module seeks to illustrate the application of econometric techniques to the modelling and analysis of a series of economic problems, applying econometric modelling methods acquired in earlier econometrics modules.  
+   This module aims to:  
+   
+    introduce a range of state-of-the-art techniques used in modern time series econometric modelling and analysis, including an understanding of how these techniques relate to and are motivated by stylised features of economic data  
+    provide an appreciation and understanding of the possible pitfalls associated with and opportunities provided by time series econometric modelling  
+   
+  
+ 
+     
+  
+  20 credits from year 2 modules:  
+ 
+   Careers & Employability for Economists 
+  
+  
+  
+    This module aims to provide a means for enabling students to reflect on their personal development and the implications this might have for their future career paths.  
+   
+   
+    
+   
+  
+    It will include: 
+   
+   
+   
+    
+     guidance on recording and evaluating skills  
+     guidance on careers from the Centre for Career Development  
+     information, guidance and advice form a range of graduate employers and alumni  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     
+      raise the profile of employability issues within the undergraduate programme  
+      provide students with the opportunity to reflect formally on their learning and wider experiences while at university  
+      develop skills of reflection and recording amongst the student body  
+     
+    
+   
+  
+ 
+     
+  
+ 
+   Development Economics 
+  
+  
+   This module offers a general introduction to the economic problems of developing countries.  
+   It will cover such topics as:  
+   
+    the implications of history and expectation  
+    poverty, income distribution and growth  
+    fertility and population  
+    employment, migration and urbanization  
+    markets in agriculture  
+    agricultural household models  
+    risk and insurance  
+    famines  
+   
+   This module aims to:  
+   
+    introduce some of the main economic issues facing developing countries  
+    provide students with appropriate theoretical tools to analyse and understand these issues  
+    provide students with guidance as to sources of empirical analysis and evidence, which they can follow up via the reading list and in work for tutorials  
+    introduce key policy issues relating to the topics discussed  
+    illustrate the application of relevant economic theory and analysis to real economic issues  
+   
+  
+ 
+     
+  
+ 
+   Econometrics I 
+  
+  
+   This module generalizes and builds upon the econometric techniques covered in the Year I module, Introductory Econometrics.  
+   This will involve introducing a number of new statistical and econometric concepts, together with some further development of the methodology that was introduced in Year I.   
+   The multivariate linear regression model will again provide our main framework for analysis.  
+   This module aims to:  
+   
+    provide the necessary mathematical and statistical tools needed to conduct theoretical econometric analysis at an advanced level  
+    develop the analytical skills required to demonstrate the theoretical properties of different econometric estimation and testing procedures under various modelling assumptions  
+    provide a sound understanding of the applicability and limitations of the multivariate linear regression model as a vehicle for econometric analysis for economic data  
+   
+  
+ 
+     
+  
+ 
+   Econometrics II 
+  
+  
+   This module introduces students to a range of statistical techniques that can be used to analyse the characteristics of univariate economic time series.  
+   The basic theoretical properties of time series models are discussed and we consider methods for fitting and checking the adequacy of empirical time series models.   
+   Methods of forecasting future values of economic time series are then considered.  
+   This module aims to:  
+   
+    provide the necessary background techniques needed to analyse the behaviour of time series processes  
+    develop the analytical skills required to characterize the theoretical properties of different time series processes  
+    provide a sound understanding of the applicability and limitations of the univariate time series methodology as a means for empirical modelling and producing forecasts of economic time series  
+   
+  
+ 
+     
+  
+ 
+   Environmental and Resource Economics 
+  
+  
+  
+    This module covers the below areas: 
+   
+   
+   
+    
+     principles of environmental policy: efficiency and sustainability  
+     market failure and the need for environmental policy; the Coase theorem  
+     instruments of environmental policy: efficiency advantages of market instruments; applications of market instruments, especially the EU Emission Trading Scheme  
+     valuation of the benefits of environmental policy  
+     biodiversity and its benefits  
+     international trade in polluting goods  
+     mobile capital: race to the bottom?  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     look at environmental issues from an economic perspective and provide an overview of the economic tools that are used to address environmental problems  
+    
+   
+  
+ 
+     
+  
+ 
+   Experimental and Behavioural Economics 
+  
+  
+   This module provides a foundation in behavioural economics and the role of experimental methods in economics.  
+   The traditional approach in economics is to explain market outcomes and economic decision-making using simple theoretical models based on perfectly rational, self-interested agents who maximise their well-being by carefully weighing up the costs and benefits of different alternatives. Behavioural economics, on the other hand, aspires to relax these stringent assumptions and develop an understanding of how real people actually make decisions.   
+   The module will introduce students to behavioural and experimental economics, discuss these fields from a methodological perspective and examine several areas of economic analysis in which they are applied. This will include individual choice under risk and uncertainty, decision-making in strategic situations and competition in markets.  
+   This module aims to:  
+   
+    engender thinking about economics as an empirical science and what that entails  
+    introduce students to attempts to relax conventional assumptions such as unlimited rationality and own-payoff maximisation  
+    provide a foundation knowledge relating to the design and implementation of appropriate experimental tests of economic theories  
+    engender presentation and communications skills  
+   
+  
+ 
+     
+  
+ 
+   Financial Economics 
+  
+  
+   This module will begin by introducing some theoretical concepts related to the functioning of financial markets. Then, it will apply these concepts in three main areas; namely consumer finance, corporate finance and financial intermediation.  
+   This module aims to:  
+   
+    introduce some basic theoretical tools useful for analyzing financial market operations  
+    provide an understanding of the behavior of financially constrained consumers and firms  
+    analyze the role of financial intermediation  
+   
+  
+ 
+     
+  
+ 
+   Industrial Economics 
+  
+  
+   This module provides an economic analysis of the theory and practice of organization of firms and industries.  
+   It explores the nature of competition among firms and their behaviour in various markets, with the specific emphasis on imperfectly competitive markets.   
+   Tools for both empirical and theoretical approaches to the analysis of industries are covered. Starting from a detailed analysis of market structures, the module goes on to discuss various aspects of firms' behaviour and their influence on market outcome. Among the behaviours covered in the module are price discrimination, vertical integration, advertising, research and development activities and entry and exit of firms.   
+   Government regulation of industries is also discussed.  
+   This module aims to:  
+   
+    introduce students to economic theories used in the analysis of industries  
+    evaluate these theories in view of empirical evidence  
+    describe policy implications of these theories and their empirical evaluation  
+   
+  
+ 
+     
+  
+ 
+   International Trade 
+  
+  
+   This module is an introduction to international trade theory and policy. It covers the core trade theories under perfect and imperfect competition and applies them to understanding the pattern of trade, gains from trade and modern topics like foreign outsourcing.  
+   On the policy side, it examines the effects of different government trade policy instruments and the role of international trade agreements.  
+   This module aims to:  
+   
+    provide an introduction to core theories of international trade  
+    evaluate the effects of government policies like tariffs, quotas and export subsidies  
+   
+  
+ 
+     
+  
+ 
+   Introduction to Political Economy 
+  
+  
+   This module is concerned with the effect of political and institutional factors on economic variables as well as with the study of politics using the techniques of economics.  
+   This module aims to:  
+   
+    acquaint students with the modern literature in theoretical and applied political economy  
+    provide an opportunity for interdisciplinary study within the Economics degree  
+    promote understanding of what economic techniques have to offer political science  
+    enrich students' study of economics with insights from political science  
+   
+  
+ 
+     
+  
+ 
+   Labour Economics 
+  
+  
+   This module provides an introduction to the economics of the labour market.  
+   We will look at some basic theories of how labour markets work and examine evidence to see how well these theories explain the facts.   
+   Particular attention will be given to the relationship between the theory, empirical evidence and government policy.   
+   The module will refer especially to the UK labour market, but reference will also be made to other developed economies.  
+   This module aims to:  
+   
+    provide an introduction to theories of economic behaviour in the labour market  
+    summarise and explain the empirical evidence on these theories  
+    provide a description of the UK labour market and an analysis of recent policy in the light of this theory and evidence  
+   
+  
+ 
+     
+  
+ 
+   Macroeconomic Theory 
+  
+  
+   The module examines the analytical and theoretical issues in macroeconomics, including:  
+   
+    modelling aggregate variables under adaptive and rational expectations  
+    modelling with imperfect competition  
+    constructing overlapping generations models  
+    price inertia  
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     familiarise students with advanced theory and techniques in macroeconomics  
+    
+   
+  
+ 
+     
+  
+ 
+   Microeconomic Theory 
+  
+  
+   The module looks at:  
+   
+    modern techniques of microeconomic theory  
+    foundations and applications of game theory  
+    information economics  
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce students to the technical tools required for understanding and developing microeconomic models of behaviour of optimising individuals  
+     show how these tools facilitate the analysis of simple optimising models of choice and of the interaction of optimising individuals  
+     provide some practice, through exercises, in the application of these technical tools  
+    
+   
+  
+ 
+     
+  
+ 
+   Monetary Economics 
+  
+  
+   This course will provide a foundation for the monetary economics modules in the third year and is a complement to financial economics for the second and third years.  
+   It will cover topics such as the definitions and role of money, portfolio choice, financial markets and banks, central banks and monetary policy, and the monetary transmission mechanism.   
+   Under these headings the module will address issues of theory, policy and practice relating to recent experience in the UK and other countries. The module will feature some current debates and controversies based on recent events.  
+   This module aims to:  
+   
+    build on core macroeconomic understanding to explore monetary economics  
+    study in detail various topical issues in the field of monetary economics  
+    give students a comprehensive grasp of underpinnings of monetary policy analysis  
+   
+  
+ 
+     
+  
+ 
+   Public Sector Economics 
+  
+  
+   This module looks at:  
+   
+    public finances in the UK  
+    market failures  
+    fundamental theorems of welfare economics  
+    social welfare functions  
+    externalities  
+    public goods  
+    natural monopolies  
+    public choice  
+    social insurance: social security, taxation and equity  
+    excess burden of taxation and tax incidence  
+   
+   This module aims to:  
+   
+    introduce students to the basic conceptual vocabulary of the economic analysis of public sector economics  
+    lay the foundations necessary for an understanding of those Third Year courses drawing on such a conceptual framework  
+    stimulate an interest in public sector issues  
+    inform students of the current agenda of public sector analysis  
+    instruct in the basic analytic techniques, thereby enabling students to make informed policy judgements in the field  
+   
+  
+ 
+     
+  
+ 
+   Quantitative Economics III 
+  
+  
+   This module is an introduction to the theory and practice of econometric methods, focusing on regression analysis and its application to economic situations.  
+   The module will pay particular attention to the principles of estimation and inference in the multiple regression model, and will rely on illustrations and intuition to develop understanding of the techniques and their interpretation.   
+   Students deepen their understanding of the material covered in class via a series of ‘hands-on’ computer classes using specialist econometric software (EViews) and a set of tutorials that will review worked examples.  
+   This module aims to:  
+   
+    introduce students to the principles, uses and interpretation of regression analysis most commonly employed in applied economics using cross-section data  
+    provide students with sufficient knowledge of regression methods to critically evaluate and interpret published empirical research  
+    enable students to undertake empirical analyses using specialist econometric software  
+   
+  
+ 
+     
+  
+ 
+   Quantitative Economics IV 
+  
+  
+   This module is an introduction to the theory and practice of econometric methods, focusing on regression analysis and its application to economic situations.  
+   It will focus on practical issues relating to data modelling and issues relating to model specification and testing, as well as introducing students to regression analysis using time series data. It will rely on illustrations and intuition to develop understanding of the techniques and their interpretation.   
+   Students will advance their understanding of the material covered in class via a series of ‘hands-on’ computer classes using EViews.   
+   This module aims to:  
+   
+    introduce students to the principles, uses and interpretation of regression techniques most commonly employed in applied economics using cross-section and time-series data  
+    provide students with sufficient knowledge of regression methods to critically evaluate and interpret published empirical research  
+    enable students to undertake empirical analyses using specialist econometric software  
+   
+  
+ 
+     
+  
+  Please note that all module details are subject to change.

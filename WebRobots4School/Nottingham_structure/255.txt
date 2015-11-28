@@ -1,0 +1,179 @@
+Modules  
+  Core modules  
+  
+   Molecular Basis of Cancer  
+  
+  
+   This 20 credit module consisting of a series of lectures, will give students an in-depth understanding of normal cell regulatory mechanisms and how these are altered by the acquisition of the carcinogenic phenotype. Students will gain an understanding of the molecular basis of cancer and how this may impact upon subsequent patient treatment and prognosis.  
+   Topics covered include: DNA structure and function, carcinogenesis, regulation of transcription and translation, transcriptional factors in oncogenesis, oncogenes and tumour suppressor genes, molecular biology of the cell cycle, chromosome abnormalities in human cancer, and familial cancer syndromes.  
+   The module is assessed using a group presentation (30%) and a 2 hour exam consisting of multiple-choice questions and short essay questions (70%).  
+   More information on this module  
+  
+ 
+     
+  
+  
+   Tumour Physiology  
+  
+  
+   A series of specialist lectures will be provided on the growth and differentiation of tumours and their interaction with the host. Particular emphasis will be placed upon the role of angiogenesis and the host's immune system as determinants of tumour growth. This module will develop the students understanding of the tumour in relationship to the whole organism. Topics include: tumour-host interactions, tumour vasculature (structure and function), tumour growth kinetics, angiogenesis and vascular mediated strategies, growth factors and receptors, the biology of metastasis, and molecular and cellular aspects of apoptosis. This module is taught in year one of the part-time course.  
+   This 10 credit module is assessed by a 1500 word essay submitted as coursework (20%), and a 1 hour exam consisting of essay questions, multiple-choice and short answer questions (80%).  
+   More information on this module  
+  
+ 
+     
+  
+  
+   Tumour Immunology  
+  
+  
+   This 10-credit module is structured to provide a good understanding of immunological approaches to cancer immunotherapy. This is subsequently developed into a detailed knowledge of immunological mechanisms and how these may be used to optimise therapeutic approaches. Topics include: humoral, cellular and innate immunity, immune surveillance, antibody therapies and cancer vaccines, antigenic targets, antigen presentation, clinical trial design and a cancer vaccine workshop.  
+   This module is assessed by a 1500 word essay submitted as coursework (30%) and a 1 hour exam consisting of essay questions, multiple-choice and short answer questions (70%).  
+  More information on this module  
+  
+ 
+     
+  
+  
+   Diagnostic Pathology of Cancer  
+  
+  
+   During this 20 credit module a series of lectures will be given on the clinical aspects of tumour growth and dissemination. Students will become familiar with practical microscopy of human tumours; understand the technique of immunohistochemistry and be able to interpret results from basic immunohistochemical panels of tumour markers to arrive at a cellular phenotype; be familiar with nomenclature applied to histological and cytological features of tumours, and be familiar with the classification of human neoplastic conditions.  
+   Topics include: adaptive and maladaptive patterns of tissue growth, neoplasia, in situ neoplasia, tumour classification, staging and grading, diagnostic techniques (immunohistochemistry, flow cytometry, molecular markers) .  
+   This module is assessed by a two hour exam consisting of multiple-choice and short answer questions (100%).  
+   More information on this module  
+  
+ 
+     
+  
+  
+   Cancer Statistics & Epidemiology  
+  
+  
+   The aim of this 10 credit module is to give students a basic understanding of the principles underlying the design and analysis of epidemiological studies and clinical trials. Topics will include: study design, bias and confounding, sampling variation, summarising and presenting data, measures of effect, hypothesis testing (t-test, chi-squared test), survival and longitudinal data, meta-analysis, non-parametric methods, correlation, introduction to multivariate regression analysis, screening, sample size and power.  
+   Students will have the ability to use a range of routinely available statistical sources for clinical research, and to describe and explain concepts fundamental to clinical research of all kinds. They will be able to describe, interpret and appraise the applicability of statistical methods used in a wide range of clinical and biological research.  
+   This module is assessed by a computing practical session (30%) and a 1 hour exam consisting of multiple-choice and short answer questions (70%).   
+   More information on this module  
+  
+ 
+     
+  
+  
+   Drug Design and Pharmacology  
+  
+  
+   At the end of the series of lectures and interactive workshops students should be able to: appreciate the interplay of chemistry, pharmacology, computational and clinical factors in the discovery and development of new anticancer therapeutic products. Students will develop their analytical skills through scrutiny of controversial papers in drug design, and will be required to work as a group when giving presentations at interactive workshop sessions.  
+   This 10-credit module is assessed by an essay submitted as coursework (30%) and a final exam consisting of multiple-choice and short answer questions (70%).    
+   More information on this module  
+  
+ 
+     
+  
+  
+   Techniques in Cellular and Molecular Biology  
+  
+  
+   A series of lectures will be given on the various practical and analytical techniques commonly used in the scientific investigation of cancer. An extensive set of laboratory practicals are conducted to allow students to experience a variety of the techniques taught in lectures. The student will acquire a theoretical and practical understanding of the majority of techniques used in modern molecular biology. This will provide them with a basic grounding to be used in subsequent laboratory-based research.  
+   This 20-credit module is assessed by a 2 hour exam consisting of multiple-choice and short answer questions (100%).  
+   More information on this module  
+  
+ 
+     
+  
+  
+   Radiation Biology Applied to Therapy  
+  
+  
+   A series of specialist lectures will provide students with an overview of the principles of the interaction of ionising radiation with living systems. Particular attention will be given to the scientific basis of fractionation in radiotherapy, radiation pathology and normal tissue effects, tumour radiobiology and molecular aspects of radiation biology.  
+   By the end of the module the student will be able to describe the response of biological systems following exposure to ionising radiation, to interpret the biological basis and consequences of conventional and novel fractionation regimes in radiotherapy and to critically appraise the significance of new research findings.  
+   This 10-credit module is assessed by a 1500 word essay (10%) and a 90 minute exam consisting of multiple-choice and short answer questions (90%).   
+   More information on this module  
+  
+ 
+     
+  
+  Optional modules  
+  
+   Clinical Pharmacology and Systematic Therapies*  
+  
+  
+   A series of specialist lectures will be given on medical oncology with special emphasis given to current and novel treatment protocols.  
+   This module includes:  
+   
+    Chemotherapy - basic principles  
+    Pharmacology of analgesiscs, steroids and anti-emetics  
+    Pharmacokinetics/Pharmacodynamics  
+    High Dose Chemotherapy Approaches  
+    Alkylating Agents/Pyrimidine Antimetabolites/Antifolates  
+    Topoisomerase Inhibition  
+    Complications of Cancer Treatment  
+    Drug Resistance and other related topics  
+   
+   This is a 10 credit module comprising one two-hour lecture per week (26 hours).  It is assessed by a 1.5 hr exam consisting of MCQ’s and short essay questions.  
+   More information on this module  
+  
+ 
+     
+  
+  
+   Cancer Treatment and Chemotherapy  
+  
+  
+   A series of lectures will be provided on current approaches to cancer treatment. The intention of this module is to give the student (clinical and basic science) a fundamental appreciation of protocols currently used in the clinical management of cancer.  
+   This module includes:  
+   
+    Health Economics  
+    Organisation of Cancer Services  
+    Surgical Management of Cancer  
+    Principles of Chemotherapy  
+    Endocrine Therapy  
+    Novel Approaches to Cancer Therapy/Gene Therapy  
+   
+   This is a 10 credit module comprising one two-hour lecture per week (26 hours). It is assessed by a one hour exam consisting of MCQ’s and short essay questions.  
+   More information on this module   
+  
+ 
+     
+  
+  The selection of optional module is undertaken by the candidate in consultation with the course director and is subject to approval by the Head of School.  
+  *For those individuals wishing to follow the syllabus requirements for the Part I fellowship exam of the Royal College of Radiologists and for Medical Oncology candidates in a UK training post, Clinical Pharmacology and Systemic Therapies is regarded as a compulsory module in year one.  
+  Please note that all module details are subject to change.   
+  Research project  
+  
+   What the research project entails  
+  
+  
+   The research project module is a key aspect of our MSc courses, accounting for a third of the total course marks.  
+   Students will normally carry out laboratory (or literature) based research projects. Students will develop not only their practical and analytical skills but will also gain grounding in the philosophy of scientific research. Skills in presentation and scientific writing will also be refined.  
+   The project will begin during the spring semester, and continue through the summer semester by full-time candidates, or immediately upon completion of first year exams by part-time candidates. The dissertation should be based upon 400-450 hours of research together with 135-185 hours to prepare the dissertation and presentation.  
+   The student's practical ability will be assessed by observations made by the project supervisor, according to provided guidelines, and will account for 15% of the final mark. The work will be presented in the form of 5,000 word dissertation in the style of a research paper (50% final module mark). Examination by viva voce with two examiners and an external examiner will account for the remaining 35% final mark.  
+   Upon completion of the module the candidate will be able to demonstrate creative thinking, problem solving, critical analysis including appropriate statistical approaches, and effective communication and bio-informatic skills. The project aims to provide training for candidates wishing to enter into a PhD training programme.  
+  
+ 
+     
+  
+  
+   List of previous research projects  
+  
+  
+   Previous full-time research projects have included the following:  
+   
+    Investigation of interference of NF-kB – DNA binding by novel inhibitors of thioredoxin signal transduction  
+    Transcriptional/translational analysis of breast cancer providing a modern clinical classification system  
+    Polymorphisms in DNA repair and detoxification genes in acute myeloid leukaemia and myelodysplastic syndrome  
+    The role of hypoxia in physiological versus tumour angiogenesis  
+    Investigation of WNT signalling pathway involvement in supratentorial primitive neuroectodermal tumours  
+    The contribution of drug resistant cancer stem cells to paediatric brain tumours  
+    The effects of chemotherapy on cognition and hippocampal stem cell proliferation in an animal model  
+    Cancer Neural Stem Cells: the role of the cellular microenvironment in brain tumour behaviour  
+    Prognostic and predictive role of redox protein expression in locally advanced breast cancer  
+    Delineating the role of MLH1 in colorectal cancer  
+   
+   Previous part-time research projects have included the following:  
+   
+    An observational study to assess patients preferences for the communication of bad news in a cancer centre  
+    Would CT scan of the thorax as opposed to chest X-ray, change the stage, and therefore management, of metastatic gestational trophoblastic neoplasia, as opposed to using chest X-ray alone  
+    Concordance of coping styles between asian and caucasian cancer patients and their families: a cross sectional survey  
+    Genetic Basis of Abnormal Radiosensitivity  
+    Supraomohyoid Neck Dissection in Oral Cancer - does imaging influence use?  
+    Change in practice in central line care - does it influence infection rates?

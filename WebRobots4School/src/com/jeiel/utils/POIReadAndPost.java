@@ -22,7 +22,8 @@ import java.util.*;
 
 public class POIReadAndPost {
 	private static String SCHOOL_NAME = Add.SCHOOL_NAME;
-	public static String filepath="gen_data_"+SCHOOL_NAME+"_ug_modified.xls";
+	//private static String SCHOOL_NAME="Nottingham";
+	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -32,14 +33,14 @@ public class POIReadAndPost {
 	
 	public static void main(String[] args) throws IOException{
 		try {
-			getData();
+			getData(false);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
 	
-	public static List<Major> getData() throws Exception  {
+	public static List<Major> getData(boolean structureOverFlow) throws Exception  {
 		// TODO Auto-generated method stub
 		
 		InputStream is = new FileInputStream(filepath);
@@ -68,13 +69,28 @@ public class POIReadAndPost {
             major.setAcademicRequirements(String.valueOf(hssfRow.getCell(6)));
             major.setIELTS_Avg(String.valueOf(hssfRow.getCell(7)));
             major.setIELTS_Low(String.valueOf(hssfRow.getCell(8)));
-            major.setStructure(splitStructure(String.valueOf(hssfRow.getCell(9))));
+            
+            if(structureOverFlow){
+    			File file = new File(String.valueOf(hssfRow.getCell(9)));
+    			FileInputStream fis = new FileInputStream(file);
+				StringBuilder sb = new StringBuilder();
+				byte[] bytes = new byte[10240];
+				int len = 0;
+				while((len=fis.read(bytes))>0){
+					sb.append(new String(bytes, 0, len));
+				}
+				fis.close();
+				major.setStructure(splitStructure(sb.toString()));
+    		}else{
+                major.setStructure(splitStructure(String.valueOf(hssfRow.getCell(9))));
+    		}
+            
             major.setLength(String.valueOf(hssfRow.getCell(10)));
             major.setMonthOfEntry(String.valueOf(hssfRow.getCell(11)));
             major.setScholarship(splitScholarship(String.valueOf(hssfRow.getCell(12)),major.getTuitionFee()));
+            major.setUrl(hssfRow.getCell(13).getStringCellValue());
             list.add(major);
-            //ug System.out.println("{\""+major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+(major.getTuitionFee().indexOf(".")<0?major.getTuitionFee():major.getTuitionFee().substring(0, major.getTuitionFee().indexOf(".")))+"|"+major.getLength()+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
-            //pgt System.out.println("{\""+major.getSchool()+"|"+major.getTitle()+"|"+major.getType()+"|"+(major.getTuitionFee().indexOf(".")<0?major.getTuitionFee():major.getTuitionFee().substring(0, major.getTuitionFee().indexOf(".")))+"\",\""+hssfRow.getCell(13).getStringCellValue()+"\"},");
+            //System.out.println("{\""+major.getApplicationFee()+"\",\""+major.getUrl()+"\"},");
         }
         hssfWorkbook.close();
         is.close();

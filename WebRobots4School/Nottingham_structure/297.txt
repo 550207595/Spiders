@@ -1,0 +1,12 @@
+Modules  
+  Advanced Group Theory  
+  Advanced Linear Analysis  
+  Algebraic Geometry  
+  Algebraic Number Theory  
+  Combinatorial Group Theory  
+  Complex Analysis  
+  Foundations of Advanced Analysis  
+  Further Topics in Analysis  
+  Further Topics in Rings and Modules  
+  Higher Number Theory  
+  Pure Mathematics Dissertation

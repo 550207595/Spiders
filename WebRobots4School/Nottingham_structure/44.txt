@@ -1,0 +1,27 @@
+Modules  
+  Core modules  
+  
+   Human Structure and Function for Engineers  
+   Cell Structure and Function for Engineers  
+   Advanced Engineering Research Preparation  
+   Spring semester  
+   Medical Device Regulation  
+   Advanced Engineering Research Project Organisation and Design  
+  
+  Optional modules  
+  
+   Biomedical Applications of Biomaterials  
+   Advanced Biomaterial Structures  
+   Imaging Principles and Technology  
+   Biosensors  
+   Simulation & Digital Human Modelling  
+   Computational Fluid Dynamics  
+   Finite Element Analysis in Structural Mechanics  
+   Biomechanics  
+   Cell-Material Interactions  
+   Spinal Biomechanics and Instrumentation  
+   Biomaterials Modelling  
+   Biomedical Optical Engineering  
+   Digital Signal Processing with Bioengineering Project  
+  
+  For more details on our modules, please see the Module Catalogue.
