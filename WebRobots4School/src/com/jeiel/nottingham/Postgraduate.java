@@ -54,7 +54,7 @@ public class Postgraduate {
 			e.printStackTrace();
 		}finally{
 			try {
-				ExcelGenerator excelGenerator = new ExcelGenerator(SCHOOL_NAME,majorList,true);
+				ExcelGenerator excelGenerator = new ExcelGenerator(SCHOOL_NAME,"pgt",majorList,true);
 				excelGenerator.exportExcel("gen_data_"+SCHOOL_NAME+"_pgt.xls");
 				long endTimeInMillis=Calendar.getInstance().getTimeInMillis();
 				System.out.println("Total seconds: " + (endTimeInMillis-startTimeInMillis)/1000 + "s");
@@ -217,8 +217,8 @@ public class Postgraduate {
 		Document doc=conn.timeout(60000).get();
 		Element e = null;
 		
-		if(doc.select("#ugStudyFactfile > div.parentSchool > *:nth-child(2)").size()>0){
-			e=doc.select("#ugStudyFactfile > div.parentSchool > *:nth-child(2)").get(0);
+		if(doc.select("div.parentSchool > *:nth-child(2)").size()>0){
+			e=doc.select("div.parentSchool > *:nth-child(2)").get(0);
 			major.setSchool(e.text().trim());
 		}
 		
@@ -237,10 +237,13 @@ public class Postgraduate {
 			major.setLength(getLength(e.ownText()));
 		}
 
-		if(doc.select("#EntryRequirements").size()>0){
-			e=doc.select("#EntryRequirements").get(0);
-			major.setAcademicRequirements(e.text().indexOf("English language requirements")>0?
-					e.text().substring(0, e.text().indexOf("English language requirements")):e.text());
+		if(doc.select("div.sys_factfileItem.sys_factfileRequirements").size()>0){
+			e=doc.select("div.sys_factfileItem.sys_factfileRequirements").get(0);
+			major.setAcademicRequirements(e.text());
+		}
+		
+		if(doc.select("div.sys_factfileItem.sys_factfileIELTS").size()>0){
+			e=doc.select("div.sys_factfileItem.sys_factfileIELTS").get(0);
 			getIELTS(e.text(), major);
 		}
 		
@@ -249,8 +252,9 @@ public class Postgraduate {
 			major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml())).trim());
 		}
 		
-		if(doc.text().indexOf("starts in")>0){
-			major.setMonthOfEntry(doc.text().substring(doc.text().indexOf("starts in"),doc.text().indexOf("starts in")+20));
+		if(doc.select("div.sys_factfileItem.sys_factfileStartDate").size()>0){
+			e=doc.select("div.sys_factfileItem.sys_factfileStartDate").get(0);
+			major.setMonthOfEntry(e.text());
 		}
 		
 		/*if(doc.select("#proxy_collapseFees > div > p:nth-child(1) > a").size()>0){
@@ -259,6 +263,8 @@ public class Postgraduate {
 		}
 		*/
 		
+		//学费
+		//http://www.nottingham.ac.uk/fees/tuitionfees/201617/pgtcourses201617.aspx
 		
 		mark(major, true);
 	}

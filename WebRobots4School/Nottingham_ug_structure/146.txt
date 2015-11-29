@@ -1,0 +1,441 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.   
+  
+    Typical Year One Modules   
+  
+  
+  
+    Analytical and Computational Foundations
+    
+   
+   
+   
+     This module will introduce you to three core concepts and techniques that underpin all maths modules in your degree. These are mathematical reasoning – the language of maths and providing concrete proof of your theories, an introduction to the computer packages of MAPLE and MATLAB – their use and application, and basic analysis methods. You’ll have a mix of lectures, workshops and tutorials averaging about five hours per week throughout the year. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Calculus 
+   
+   
+   
+     This module brings together all A-level work. In the first semester you’ll practice using the basic concepts and methods of calculus including limits, functions, continuity, Taylor series, and Laplace transforms. In the second semester you’ll move onto more advanced usage of calculus. Topics will be based around the calculus of functions of several variables and include partial derivatives, chain rules, the vector operator grad, Lagrange multipliers and multiple integrals. This module is taught in two 1-hour lectures per week as well as problem classes and 3 hour tutorial support per week.
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Linear Mathematics 
+   
+   
+   
+     This module introduces you to the methods and practices that you’ll need in subsequent modules on your course. Complex numbers, vector algebra and matrix algebra are established then you’ll expand your knowledge to include vector spaces, linear transformations and inner product spaces. You’ll have two hours of lectures per week combined with problem classes and tutorial support.
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Statistics 
+   
+   
+   
+     Building on the foundations of previous knowledge, this module offers you the chance to learn about a range of statistical ideas and skills. Concepts and techniques for modelling will be explained and practical data analysis skills will be taught. You’ll learn to write reports based on these topics which will help you in further studies. Around four hours per week will be spent in a mix of lectures, workshops and problem classes.
+     
+    
+   
+  
+      
+   
+  
+    Probability 
+   
+   
+   
+     This module provides a foundation to probability and problematic reasoning, covering a number of areas. Random variables and the topics surrounding them will also be introduced. In this module you’ll develop a mathematical framework for the logic of uncertainty, advancing your skills in problem classes with tutors fortnightly. You’ll also spend two hours in lectures per week.   
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Business Finance 
+   
+   
+   
+     This module introduces you to the fundamental concepts of finance and in particular. You’ll learn that there is a relationship between the risk of an investment and the expected returns. You’ll understand the concept of the time value of money and be able to calculate the present value of a single and multiple future cash flows. You’ll be able to apply NPV to project appraisal in realistic situations and to be able to estimate cost of capital for equity (CAPM and dividend growth model) and bonds (market value and IRR). You’ll study this module through 11 two-hour weekly lectures and 3 one-hour tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Financial Accounting 
+   
+   
+   
+     Introducing you to the nature and purpose of Financial Accounting, you’ll study key accounting concepts, the impact of accounting policy selection, accounting standards and the recording and collating of accounting information. Accounting reports e.g. Income Statements, Balance Sheets and Cash Flow statements will be developed from accounting data and you’ll gain an understanding of some contemporary accounting issues.  You’ll have 20 one-hour lectures plus 3 one-hour seminars. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Management Accounting and Decisions I 
+   
+   
+   
+     In this module you’ll be introduced to the techniques of management accounting and how they assist in management decision-making. You’ll learn about the development and operations of markets for resources, goods and services and the use of accounting and other information systems for managerial applications among others. Skills including communicative data interpretation and extrapolation will be learnt along with the ability to apply business models to business problems and phenomena. You’ll spend around six hours per week in lectures, tutorials and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Microeconomics for Business (A) 
+   
+   
+   
+     This module introduces you to the microeconomic theory of the market and the firm. Topics covered include: market demand; supply and equilibrium; firm production and costs; market structure; perfect competition; monopolistic competition; oligopoly and monopoly. For this module you will have 10 two-hour lectures, and 3 one-hour tutorials. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Two Modules  
+  
+  
+  
+    Introduction to Numerical Methods 
+   
+   
+   
+     In this year-long module you’ll be introduced to basic techniques in numerical methods and numerical analysis. You’ll build upon your core Year One modules to generate approximate solutions to problems that may not be easy to analyse. There’ll be a wide range of topics such as iterative methods for nonlinear equations, discussion of errors (including rounding errors), polynomial interpolation and orthogonal polynomials among others. You’ll spend two hours per week in lectures and one hour per week in computer labs. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Differential Equations and Fourier Analysis 
+   
+   
+   
+     In this module you’ll be introduced to Fourier series and integral transforms including methods of solving linear ordinary and partial differential equations. You’ll explore the wide-ranging use of the Fourier series and methods in applied mathematics. You’ll spend 3 hours per week in lectures and workshops, along with one problem-solving class fortnightly to aide your learning.
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mathematical Analysis 
+   
+   
+   
+     This module provides an introduction to mathematical analysis building upon the experience of limits of sequences and properties of real numbers gained in your Year One core modules. Topics will include limits and continuity of functions between Euclidean spaces, differentiation and integration. You’ll learn how to use a mathematically-rigorous approach to analyse example data. There will be two hours of lectures and one workshop per week.
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Probability Models and Methods 
+   
+   
+   
+     This year-long module will give you an introduction to the theory of probability and random variables, with particular attention being paid to continuous random variables. Fundamental concepts relating to probability will be discussed in detail including well-known limit theorems and multivariate normal distribution. You’ll then move onto complex topics such as transition matrices, one-dimensional random walks and absorption probabilities. You’ll spend three hours per week in lectures and workshops.
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Professional Skills for Mathematicians 
+   
+   
+   
+     This year-long module will equip you with the skills needed for graduate employment. You’ll work on two group projects based on open-ended mathematical topics agreed by your group. You’ll also work independently to improve you communication skills and learn how to summarise technical mathematical data for a general audience. You’ll be provided with some commercial and business awareness and explore how to use your mathematical sciences degree for your future career. You’ll attend a two hour workshop week. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Statistical Models and Methods 
+   
+   
+   
+     The first part of this year-long module provides an introduction to statistical concepts and methods and the second part introduces a wide range of techniques used in a variety of quantitative subjects. The key concepts of inference including estimation and hypothesis testing will be described as well as practical data analysis and assessment of model adequacy along with other topics. You’ll spend two hours in lectures along with a mix of one hour example and problem classes per week.
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Computational Finance 
+   
+   
+   
+     In this module you’ll be introduced to the fundamentals of finance to provide you with knowledge and understanding of the key finance subjects such as money market, return metric, portfolio models, asset pricing models etc. It will equip you with the essential techniques applied in financial calculations through eleven two-hour lectures and five one-hour computer lab workshops.
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Financial Management 
+   
+   
+   
+     You’ll be introduced  to corporate investment and financing decision and the interaction between them. To cover material in this module you’ll have eleven 90 minute weekly lectures and two one-hour seminars.  
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Financial Reporting 
+   
+   
+   
+     This module will pay particular attention to the application of financial reporting principles by listed companies and the impact of International Financial Reporting Standards. You’ ll have eleven 90 minute lectures and two 60 minute seminars.  
+    
+   
+       
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Three  Modules   
+  
+  
+  
+    Mathematical Finance 
+   
+   
+   
+     In this module the concepts of discrete time Markov chains are explored and used to provide an introduction to probabilistic and stochastic modelling for investment strategies, and for the pricing of financial derivatives in risky markets. You’ll gain a well-rounded knowledge of contemporary issues which are of importance in research and applications. You’ll spend four hours per week in lectures, example and problem classes. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Optimization 
+   
+   
+   
+     In this module a variety of techniques and areas of mathematical optimization will be covered including Langrangian methods for optimisation, Simplex Algorithm Linear Programming and dynamic programming among others. You’ll develop techniques for application which can be used outside the mathematical arena. You’ll have a mix of lectures and computer workshops totalling around four hours per week. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Vocational Financial Mathematics 
+   
+   
+   
+     This year-long module involves the application of mathematics to a variety of practical, open-ended problems, typical of those that mathematicians encounter in the financial industry. You’ll examine specific projects through workshops and student-led group activities. The real-life nature of the problems enables you to develop skills in model development and refinement, report writing and teamwork. You’ll have a three hour workshop weekly during this module. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Coding and Cryptography 
+   
+   
+   
+     In this module you’ll be introduced to two main topics of coding theory; error-correction codes and cryptography. Within these topics you’ll learn the main concepts, theorems and techniques and practise applying these with specific example. You’ll have two hours of lectures per week. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Game Theory 
+   
+   
+   
+     In this module you’ll explore the connection between numbers and games and how games can be analysed. You’ll learn about the algorithms of gaming, stemming from many areas of mathematics and computing. You’ll be able to use the mathematical knowledge you’ve gained so far on the course to analyse various situations in a logical manner practicing strategic decision-making. You’ll spend two hours per week in lectures. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Statistical Inference 
+   
+   
+   
+     In this module you’ll explore two main concepts of statistical inference; classical (frequentist) inference and Bayesian inference. Topics such as sufficiency, estimating equations, likelihood ratio tests and best-unbiased estimators will be discussed in detail. You’ll gain knowledge of the theory and concepts underpinning contemporary research in statistical inference and methodology. You’ll spend four hours per week in a mix of lectures, example and problem classes. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Time Series Analysis 
+   
+   
+   
+     This module will provide a general introduction to the analysis of data that arise sequentially in time. Several commonly occurring models will be discussed and their properties derived along with methods for model identification for real time series data. You’ll develop techniques for estimating the parameters of a model, assessing its fit and forecasting future values. You’ll have three hours of lectures and a one hour workshop per-week. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Corporate Finance 
+   
+   
+   
+     This module will develop your knowledge of financial decision-making and strategic financial decisions, including takeovers and mergers. You’ll have 11 one-hour lectures and 2 two-hour seminars per semester. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Financial Analysis 
+   
+   
+   
+     This module uses a combination of lectures and group work to develop your understanding of financial reporting, the links between strategic and financial management, and the ways in which the stock market responds to financial information. The module involves detailed study and critical analysis of the financial strategy and performance of a major UK quoted company. Over the duration of the module you will have 11 one-hour lectures and 2 two-hour workshops. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Financial Economics 
+   
+   
+   
+     This module presents an introduction to Financial Economics focusing on topics such as: the determination of interest rates, the role of financial institutions in the financial and monetary system, banking regulation and risk management in banks. You’ll have eleven 90-minute lectures as well as two 60-minute seminars to cover material in this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Financial Markets 
+   
+   
+   
+     This module examines the workings of the major financial markets and looks at the way in which the prices of financial instruments are calculated. Markets for equity and debt are dealt with, as are markets for derivative instruments. You’ll cover the key theoretical models of modern finance, capital asset pricing model, arbitrage pricing model, and financial risk management with derivative instruments. You’ll study these topics through 10 two-hour lectures and 2 one-hour seminars delivered over the course of the module.  
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Stochastic Models 
+   
+   
+   
+     In this module you will develop your knowledge of discrete-time Markov chains by applying them to a range of stochastic models for use in natural sciences and scientific industries. You will be introduced to Poisson and birth-and-death processes, then you’ll move onto more extensive studies of epidemic models and queuing models with introductions to component and system reliability. You’ll have a mix of lectures, example and problem classes totalling three hours per week.

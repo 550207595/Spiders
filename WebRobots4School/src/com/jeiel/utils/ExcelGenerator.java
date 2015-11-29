@@ -36,10 +36,12 @@ public class ExcelGenerator {
 	private HSSFRow row=null;
 	private List<MajorForCollection> majorList=null;
 	private String schoolName =null;
+	private String level =null;
 	private boolean structureOverFlow = false;
 	
-	public ExcelGenerator(String schoolName, List<MajorForCollection> majorList,boolean structureOverFlow){
+	public ExcelGenerator(String schoolName,String level, List<MajorForCollection> majorList,boolean structureOverFlow){
 		this.schoolName = schoolName;
+		this.level = level;
 		this.majorList = majorList;
 		this.structureOverFlow = structureOverFlow;
 		try {
@@ -85,10 +87,10 @@ public class ExcelGenerator {
 		}
 		
 		if(col==STRUCTURE&&structureOverFlow){
-			File dir = new File(schoolName+"_structure");
+			File dir = new File(schoolName+"_"+level+"_structure");
 			if(!dir.exists())dir.mkdirs();
-			writeToTxt(schoolName+"_structure/"+rowNum+".txt", content.replace("\n", "\r\n"));
-			row.createCell(col).setCellValue(schoolName+"_structure/"+rowNum+".txt");
+			writeToTxt(dir.getName()+"/"+rowNum+".txt", content.replace("\n", "\r\n"));
+			row.createCell(col).setCellValue(dir.getName()+"/"+rowNum+".txt");
 		}else{
 			row.createCell(col).setCellValue(content);
 		}

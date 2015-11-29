@@ -1,0 +1,456 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.  
+  Please view the Business School website for information on their modules.  
+  Typical year one modules  
+  Core geography modules  
+ 
+   Careers Skills for Geographers 
+  
+  
+   
+    Self-marketing and CVs  
+    Preparing for interviews and assessment  
+    Careers for geographers  
+    Subject-focused vocational talk  
+    Postgraduate study (masters and PhD)   
+    Guest lectures (eg. from Royal Geographical Society - Institute of British Geographers)   
+    Career planning   
+   
+   Topics will be delivered by the school's Career Advisor from the Careers and Employability Service (CES) and academics from the School of Geography.  
+   Importantly, you will be expected to make regular use of the Careers and Employability Service (CES) to assist with progress during the year and attend a range of employer presentations and other events (eg. employer fairs).  
+   The module aims to:  
+   
+    introduce the issues of career education and employability within the Geography undergraduate curriculum  
+    develop and enhance the students' key skills for use in seeking work experience, graduate employment and postgraduate opportunities   
+    provide students with the opportunity to critically evaluate and reflect on their personal and key skill development in the School of Geography and the University   
+    inform students of the role of the Careers and Employability Service (CES)  
+   
+  
+ 
+     
+  
+ 
+   Exploring Human Geography 
+  
+  
+   The module provides students with introductory knowledge about current issues in human geography. It critically examines the complex relations between people and places through key themes and concepts in current human geography.  
+   Attention is given to innovative work in cultural, historical, medical, environmental, economic and development geography and to the traditionally broad perspective of human geography as a whole. The module will examine a variety of key themes that may vary from year to year.  
+   This module provides a foundation for more specialised human geography modules at Levels 2 and 3.  
+   This module aims to provide undergraduates with detailed introductory knowledge and understanding of a range of current issues in human geography. The issues relate to current themes of interest across the broad range of human geography including cultural, medical, environmental, economic, development, financial and urban. A selection of these themes will be covered.  
+  
+ 
+     
+  
+ 
+   Geographical Field Course 
+  
+  
+   A four day intensive residential field study period. Teaching will concentrate on the rationale and techniques of field study in both human and physical aspects of geography. Particular emphasis is placed on the design, practice and analysis of small research projects based on geographical issues.  
+   The aims of this module are to:  
+   
+    provide a field course experience away from Nottingham   
+    provide the opportunity to evaluate issues involved in applying research design and execution skills within the specific context of field-based research  
+    provide the opportunity to evaluate field based techniques and approaches to the collection of geographical information   
+    foster an awareness of the ethical issues related to data gathering   
+    foster a culture of safe field work through awareness, management and practice of both general and specific safety issues  
+    develop skills of risk assessment related to field work   
+    further develop intellectual and communication skills gained with tutorials  
+   
+  
+ 
+     
+  
+ 
+   Interpreting Geographical Data 
+  
+  
+   This module will provide the basic statistical concepts and techniques required for studying geography. Topics will include:  
+   
+    Spreadsheets and statistical packages  
+    Introduction to statistical concepts   
+    Descriptive statistics and distributions  
+    Exploratory data analysis  
+    Parametric and non-parametric tests  
+    Correlation and regression  
+    ANOVA  
+   
+   This module aims to:  
+   
+    introduce students to the core concepts and techniques of geographical data handling  
+    introduce students to the core concepts and practical applications in statistical analysis (parametric, non-parametric and spatial)  
+    provide training in the use of standard packages for data handling and analysis (including a standard spreadsheet and a standard statistical package)  
+    introduce students to the concepts of statistical thinking, of using statistical methods to present problems, to challenge assumptions and promote critical thinking  
+    provide students with the grounding in the practical and technical skills necessary to support the student's work throughout the geography degree course including understanding quantitative concepts quoted in the literature and undertaking project and field-work  
+    provide a basis for more specific technical modules, both core and optional, in the second and third years of the course  
+   
+  
+ 
+     
+  
+ 
+   Introduction to Geographic Information Systems 
+  
+  
+   The module provides students with the theoretical background and practical training to undertake basic spatial analysis within a contemporary Geographic Information System (GIS).   
+   It aims to ensure competency in the use of a contemporary GIS software package whilst developing transferable ICT skills. It also encourages students to develop the analytical skills necessary for the creation of workflows that utilise the built-in analytical functionality of a GIS to solve a spatial problem.   
+   Specific topics covered are:   
+   
+    What is GIS?  
+    Cartographic principles behind GIS  
+    Spatial data models and database management systems  
+    Fundamental spatial analysis  
+    Creating maps within a GIS  
+   
+   This module aims to develop the fundamental practical and conceptual skills necessary to undertake simple GIS analysis, and the theoretical and practical competency necessary to study GIS at a higher level.   
+   It aims to introduce the student to commercially available software, instruct students in the use of this software in applied GIS analysis scenarios and ensures a solid theoretical and conceptual foundation in GIS fundamental methods and analyses.  
+  
+ 
+     
+  
+ 
+   Orientation and Study Skills 
+  
+  
+   This module covers:  
+   
+    Orientation: academic study at University and in the School of Geography   
+    Advanced study skills: The academic craft, introduction to studying effectively  
+    Advanced study skills consolidation: Information - sources, quality, referencing  
+   
+   This module aims to:  
+   
+    introduce newly enrolled students to studying in the School of Geography  
+    equip students with the knowledge and skills required to perform well at University level in the School of Geography  
+    impart understanding of the nature and craft of University-level study  
+   
+  
+ 
+     
+  
+ 
+   Tutorial 
+  
+  
+   Small group tutorials in both the Autumn and Spring semesters in which emphasis will be placed on discussion, essay writing and seminar presentations which will be based on topics in the Qualifying Year geography modules and from broader intellectual, cultural and political fields.  
+   The aims of the module are to:  
+   
+    develop intellectual skills in small-group tutorials based on topics in Qualifying Year geography and from wider intellectual, cultural and political fields   
+    develop skills of problem recognition and definition   
+    develop powers to identify and evaluate approaches to problem-solving  
+    develop skills of information collection and synthesis and evaluate the significance and relevance of information  
+    develop powers of reasoning, discussion and cogent argument  
+    develop communication skills in the form of essay writing, verbal articulation of ideas and issues through group discussions and seminar presentations  
+   
+  
+ 
+     
+  
+  
+  Core business modules  
+  Business Economics Consumers and Markets Organisational Behaviour Work and Society  
+  
+  Typical year two modules  
+  Core geography modules  
+ 
+   Dissertation Preparation 
+  
+  
+   This module is taught by formal lectures, scheduled preliminary fieldwork, supervision meetings with dissertation tutor. It covers the following:  
+   
+    Introduction to the dissertation process and procedures   
+    What is a dissertation?   
+    Ethics, risk and safety implications when conducting Geographical research   
+    Preparing a dissertation proposal   
+    Analysing material   
+    Critically reflecting on literature and writing a coherent literature review   
+    Evaluation of past dissertations  
+   
+   The aims of this module are to prepare undergraduate geography students for undertaking their 40 credit dissertation which is a significant piece of supervised research that includes working in the field, collecting primary and/or secondary data, conducting a literature review, undertaking independent research and writing their research up to produce a significant piece of original scholarship.  
+   The module will equip students with an understanding of research design and methodology, will explore the nature of the dissertation and how to select a topic, determine appropriate methodologies and methods of analysis and will explain the ethical, risk and safety frameworks under which dissertations are undertaken. The module will detail the timetable, procedures and processes that students need to follow in order to complete the dissertation.  
+  
+ 
+     
+  
+ 
+   Economic Geography 
+  
+  
+   The module will cover the following topics:  
+   
+    Economic globalisation  
+    Changing geographies of the world economy during the 20th century   
+    Economic geographies of advanced producer services   
+    World cities   
+    Distinctive spatialities of economic behaviour: industrial clusters, global production sites, and the creative economy, for example  
+   
+   The module aims to provide an understanding of the evolution of Economic Geography from a variety of perspectives. The module will build on foundation principles taught during the Qualifying Year and will feed in to more specialised, research-led modules in Part 2.  
+   Students studying this module will be expected to develop a broad and critical understanding of the geographies of the global space economy, different ways of conceptualising change, and of the importance of different scales of analysis. The module will also consider these broader conceptual issues through the lens of particular empirical examples from around the world.  
+  
+ 
+     
+  
+ 
+   Research Tutorial 
+  
+  
+   This module will cover the breadth of world-leading research being carried out in the School of Geography and is reflected in the school's research themes.  
+   The two lectures will introduce the role, breadth and practice of research in geography. Joint delivered by researchers on the physical and human sides of the discipline, the lectures will examine the epistemological and philosophical bases of research in geography, with a focus on the diversity but also shared, unifying features of geographical research, providing broader context for the small group tutorials.  
+   Each student will be assigned to a small tutorial group for the semester and will participate in tutorials with a different member of staff. Specific topics will be chosen by staff members based on their own, active, research programs and will reflect the leading research questions and problems in the discipline. Students will be supplied with a set of readings prior to each tutorial. Students will also be required to research the background context of the readings.  
+   This module will expose students to the breadth and depth of research undertaken in geography. The module aims to develop a critical appreciation of contemporary research problems in geography and introduce students to alternative approaches to geographical research.  
+   Students will benefit through discussing the complete research process, from idea and project development, to methods, dissemination and evaluation of research in geography.  
+  
+ 
+     
+  
+ 
+   Techniques in Human Geography 
+  
+  
+   This module allows students to understand and experience human geography research methods through participation in three practical projects. The module covers methods for:  
+   
+    arts and humanities research (such as archival research, visual and textual analysis)   
+    social science research (such as interviewing, questionnaires and discussion groups)   
+    quantitative human geography research (such as mapping and visualisation)  
+   
+   This module aims to explore methods for students undertaking original research in human geography including for their dissertation. The module comprises a small number of lectures on different types of sources followed by three practical projects through which students undertake research methods for the arts and humanities, for social science and for quantitative human geography.   
+  
+ 
+     
+  
+  
+  Core business modules  
+  Strategic Management Technology and Organisation  
+  Optional geography modules include:  
+ 
+   Cultural and Historical Geography 
+  
+  
+   This module introduces students to cultural and historical geography, including:  
+   
+    The development of cultural and historical geography as sub-disciplines  
+    The key thematic areas of contemporary cultural and historical geography, including landscape, identity, culture, power and knowledge   
+    The theoretical underpinnings of cultural and historical geography   
+    The links between cultural and historical geography and other fields of enquiry in the humanities and social sciences   
+    The methods and sources used in cultural and historical geographical research, including archives, texts and images, and field study   
+    The work of key figures from the sub-disciplines past and present  
+   
+   The module aims to introduce students to the sub-disciplines of cultural and historical geography, covering both empirical and theoretical issues. Students are given a grounding in the contribution of geography to cultural and historical study, and the module thus provides a foundation for specialist modules and dissertation research within the School of Geography.  
+   On completion of the module students will have a clear conception of cultural and historical geography as fields of enquiry, the ability to connect theoretical discussion with empirical case studies, and a clear appreciation of the methods and sources required for such work.  
+  
+ 
+     
+  
+ 
+   Digital Explorers 
+  
+  
+   This module provides a consideration of:  
+   
+    Introduction to GI Science/Systems/Studies/Services   
+    Spatial Data Types and Sources   
+    Vector Processing Algorithms   
+    Raster Processing Algorithms  
+    Spatial Analysis and Decision Making   
+    Professional Training in ArcGIS   
+    Project planning, implementation and reporting  
+   
+   The aim of this module is to produce students that have both theoretical and technical competence in the use of GIS software for spatial data analysis. It encompasses both taught instruction and project based learning to ensure that students have sufficient skills to independently develop, justify, undertake and report a complex GIS-based analysis project in response to a project brief.  
+  
+ 
+     
+  
+ 
+   Medical Geography 
+  
+  
+   This module explores aspects of medical geography, with special reference to the geography of infectious diseases. Topics include:  
+   
+    Nature of Medical Geography and the Geography of Health  
+    History of Medical Geography  
+    Epidemiological concepts   
+    The disease record   
+    The epidemiological transition   
+    Spatial diffusion of infectious diseases   
+    The geography of disease emergence and re-emergence   
+    Islands as epidemiological laboratories   
+    Geography of war and disease   
+    Disease forecasting and control  
+   
+   The module aims to provide a comprehensive introduction to the rapidly developing interdisciplinary field of medical geography.  
+  
+ 
+     
+  
+ 
+   Rural Environmental Geography 
+  
+  
+   This module explores a range of rural environmental issues in the global South and supplements macro-scale perspectives on the evolution of environmentalism and development thinking with closer examinations of rural environmental issues from the perspective of a range of different stakeholders.  
+   Throughout the module, particular attention is placed on how environmental use and management varies by socio-economic status, community and gender. Emphasis is placed on the viewpoints of different stakeholders regarding the rural environmental issues they experience. As the module is based strongly on research-led teaching, a significant proportion of the case studies given in lectures are centred on India.  
+   The main aims of this module are to:  
+   
+    enhance understanding of the evolution of environmentalism and development thinking  
+    investigate rural environmental issues from a range of time periods and locations in the global South and from the perspectives of stakeholders from different socio-economic, gender and community groups  
+    heighten appreciation of the different environmental knowledge systems possessed by these different stakeholder groups and the impacts of these on environmental management  
+    investigate the impacts of agricultural modernisation on different socio-economic, gender and landowner groups  
+    critically examine the value of participatory appraisal for investigating rural environmental problems and issues  
+    foster an appreciation of the complexity of rural environmental issues over a range of time scales and spatial contexts  
+   
+  
+ 
+     
+  
+  
+  Optional business modules include:  
+  Human Resources Management International Firms Managing the Responsible Business Marketing Management  
+  
+  Typical year three modules  
+  Core geography modules  
+ 
+   Dissertation BA 
+  
+  
+   This is an individual project based on a geographical topic involving fieldwork and/or secondary data, and agreed by the candidate with their tutor and a specialist supervisor.  
+   The module aims are:  
+   
+    Developing skills of problem recognition and definition   
+    Raising awareness of and responding to the ethical issues related to gathering data   
+    Implementing risk assessment skills related to fieldwork and developing a culture of safety and appropriate research practices   
+    The opportunity to develop and apply research design and investigation skills in a field-based environment   
+    Enhance skills of information collection and synthesis, and the ability to evaluate the significance and relevance of information  
+   
+  
+ 
+     
+  
+  
+  Optional geography modules include:  
+ 
+   Advances in Remote Sensing 
+  
+  
+   The anticipated content and structure is:  
+   Part I - Principles and Systems  
+   
+    Introduction: the past, present and the future  
+    Electromagnetic radiation and the terrestrial environment  
+    Interaction of radiation with matter   
+    Interaction of radiation with matter   
+    Sensing systems from a range of vantage points   
+    Remote sensing scale and data selection issues   
+    Using remote sensing data I, II and III   
+   
+   Part II - Information Extraction  
+   
+    Exploiting advances in the spatial, spectral and temporal domains   
+    Exploiting strengths of data: data fusion   
+    Technological innovations   
+    Integrating remote sensing and GIS   
+    Practising remote sensing   
+    Student led assessment  
+   
+   The aim of the module is to provide an advanced study into the rapidly evolving field of remote sensing. The module will cover the basic physical principles of remote sensing, key remote sensing systems, digital image processing and applications.  
+   The main focus of the module is on the remote sensing of the terrestrial environment using a range of sensors, at a range of vantage points. The students will be taken to the research frontier within the discipline with exposure to the current issues, for example, use of volunteered information, terrestrial and atmospheric carbon accounting and unmanned aerial vehicles (UAVs).  
+  
+ 
+     
+  
+ 
+   Environment, Development and Livelihoods 
+  
+  
+   This module investigates key linkages between development, livelihood and environmental problems in the global South with particular reference to competition and conflict over environmental resources. Attention is placed on exploring livelihood-environment interactions from the perspectives of different income, gender and community groups and contrasting their everyday realities with key development concepts and aggregate statistics.  
+   The module contains a mixture of lecture-based sessions, seminar-based sessions and workshops involving role-play, practical exercises and data analysis. The module emphasises the importance of livelihood concerns to an understanding of the motivations of those participating in environmental management. As teaching is strongly research-led teaching, a significant proportion of the case studies given in lectures are centred on India.  
+   The aims of this module are to:  
+   
+    enhance understanding of the interactions between livelihoods and environmental issues in the global South from the perspectives of people from different income, gender and community groups   
+    take a political ecology approach to highlight variations in livelihood security by gender, community socio-economic status and dependence on natural resources  
+    enhance understandings of how the 'messy realities' underlying key development concepts and aggregate statistics are experienced by different socio-economic, gender and community groups through participation in group-based role-play exercises  
+    heighten appreciation of environment and livelihood interactions and how these are experienced by different socio-economic and gender groups in a range of geographical contexts   
+    emphasise the diverse economic, socio-cultural linkages between environmental problems, livelihoods and development and foster an appreciation of the complexity of environmental issues at a range of scales and in different geographical contexts  
+   
+  
+ 
+     
+  
+ 
+   European Urban Geographies (Berlin Fieldcourse) 
+  
+  
+   The module will cover the following topics:  
+   
+    The historical development of a major European city, to be visited on a field excursion (full costs will be supplied nearer the time of the trip)  
+    A critical approach to the cultural, historical, social and economic geography of same city  
+    A wide range of methodologies for conducting urban fieldwork  
+   
+   The module aims to provide an understanding of the evolution, and socio-economic, political, and cultural dynamics of the city of Berlin which will be visited on a weekly fieldcourse during the reading week in early November.   
+   The module will be divided into two parts. The first section will include a series of lectures to provide some background in advance of the field course, while the second involves a five day field trip to Berlin. The module will build on foundation principles taught during Part I of the geography degree in pre-requisite modules. Students studying this module will be expected to develop a broad and critical understanding of the geographies of European cities and their regions, particularly Berlin, the different ways of conceptualising change, and of the importance of different scales of analysis.   
+   The modules will be delivered entirely in Semester 1, students will be required to submit a six page essay on Berlin (excluding references) and a 5,000 word report or equivalent on the fieldcourse.  
+  
+ 
+     
+  
+ 
+   Geographies of Fashion and Food 
+  
+  
+   This module covers a range of issues relating to the geographies of fashion and food. Topics covered include:  
+   
+    Commodity chains, global networks of supply and regulation   
+    The embodied and material practices of food and fashion consumption   
+    Branding, labelling, consumer knowledges and reflexive consumption   
+    Commodity biographies, origins and the social life of things   
+    Retail power, architecture and space   
+    Theorising agency and value   
+    Transforming, industrialising and globalising food   
+    City foodscapes   
+    Alternative food networks and food quality   
+    Gender and food provisioning  
+   
+   This module aims to explore the economic geographies of fashion and food - two of the most global and yet most intimate and personal commodities. It explores the two sectors from a variety of scales and examines the contested conceptual bases of work on commodity chains, ethical systems of provision, retailing and exchange.  
+   The module examines the geographies of production, employment, commodity movement, retailing, regulation and consumption of both fashion and food. We will be critically questioning who makes our food and clothes, where, how, why and under what conditions? Throughout we expect students to critically reflect on a range of geographical and other relevant literatures and to understand a variety of approaches to the topic.  
+  
+ 
+     
+  
+ 
+   Geographies of Money and Finance 
+  
+  
+   This module aims to explore the economic geographies of money and of the contemporary processes of financialisation. Competing theories of money, and the changing landscapes of finance and the financial services industry are explored at a variety of spatial scales. Spaces examined include the global financial system, the UK retail financial market, the City of London and the emergence of local currency systems.  
+   More specifically, the following core topics are covered:  
+   
+    The history and theory of money   
+    Financial services and financial intermediation   
+    Globalisation and the international financial system   
+    The City of London as international financial centre   
+    Landscapes of retail financial services   
+    Alternative and imagined landscapes of money  
+   
+   This module aims to explore the economic geographies of money, finance and the financial services industry. It reveals the contested nature of knowledge about money and finance and in so doing it enables students to critically reflect on a range of geographical and other relevant literatures.  
+  
+ 
+     
+  
+ 
+   Geographies of Violence 
+  
+  
+   This module will cover the following topics:  
+   
+    Political, historical, and cultural geographies of war   
+    Spaces of internal violence and non-violence relating to colonialism, anti-colonialism, religious nationalism, and decolonisation/partition   
+    Spaces of terrorism and the war against terror   
+    Case studies from a variety of national and international contexts  
+   
+   The module aims to provide an understanding of the violent realities by which the geographies of the present and the past have been crafted. The three fundamental modes of violence that will be examined are war, colonialism, and terror. This violence will be traced not only in its materiality and technologies, but also in its geopolitical visions, rhetorical and epistemological categories, evolution, translatability, and mobility.  
+   The more general aims will be pursued through detailed historical investigations of Britain, Continental Europe, the United States and India, and the post-9/11 world.  
+   Students will benefit from being pushed to integrate theoretical, global and local studies. They will also be engaging with a revived and exciting sub-discipline of geography (geopolitics) whilst benefiting from an historical perspective on contemporary issues.  
+   Students will learn how to interpret contemporary media reports, theoretical discussions, and methodological debates regarding the geographies of violence. These debates will contribute to the more general project of inducing a critical awareness of the contemporary environment, an historical understanding of contemporary geographies, and an appreciation of the contribution of technology and culture to processes of domination and resistance.  
+  
+ 
+     
+  
+  
+  Optional business modules include:  
+  Consumer Behaviour Human Resource Management Marketing and Society Marketing Services Strategic Management

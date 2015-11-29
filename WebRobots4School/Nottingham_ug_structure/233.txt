@@ -1,0 +1,629 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff. They’re also shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules on offer.  
+  
+  Typical Year One Modules 
+  
+  
+   
+  Compulsory 
+   
+  
+    Design and Manufacture 1 
+   
+   
+   
+     This year long module introduces students to basic concepts and practice of design and manufacture and includes the following topics: The process of design supported by practical design activities; Engineering drawing; Solid modelling and drawing generation; Machine shop practical training; Machine elements, machining processes; Metrology. You’ll spend 3 hours in lectures, 3 hours in computing, 3 hours in workshops and 4 hours in every week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Materials and Materials Forming 
+   
+   
+   
+     The module gives a broad introduction to the properties and processing of materials used in engineering applications and is intended to provide a course in engineering materials for students with no previous background in the subject. The final section of the module covers failure of materials, and seeks to cover the main failure mechanisms which a designer will be concerned with (overload, fracture, creep, fatigue etc). You’ll spend 2 hours in lectures and 6 hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Thermofluids 1 
+   
+   
+   
+     The aim of this module is to introduce students to fundamental concepts and principles of thermo-fluids and their applications to simple engineering problems. You’ll spend 1 hour in lectures, 2 hours in practicals and 1 hour in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Mathematics 1 
+   
+   
+   
+     This module introduces the algebra of complex numbers to provide a key mathematical tool for analysis of linear mathematical and engineering problems. The complexity of solving general systems of equations is introduced and their study using matrix techniques. You’ll spend around three hours per week in lectures and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mechanics of Solids 1 
+   
+   
+   
+     The aim of this module is to introduce students to fundamental concepts and principles of solid mechanics and their applications to simple engineering problems. By the end of the module you will be able to comprehend the fundamental concepts of solid mechanics and apply these concepts to simplified engineering scenarios. You’ll spend 2 hours in lectures, 6 hours in practicals and 1 hour in a seminar each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+   Computer Programming with Matlab 
+   
+   
+   
+     The module teaches students how to use MATLAB both as a desktop calculator (and graphics display) and as a programming language. The programming elements are largely common to other serial procedural languages also. Since MATLAB will be available to the students throughout their degree and will be used in numerous other courses and in some projects, this course is as much about equipping the students with a skill as it is about transferring specific knowledge. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Mathematics 2 
+   
+   
+   
+     You’ll be introduced to techniques for solving selected first-order and second-order differential equations relevant to the analysis of generic engineering problems. The module also provides mathematical tools in terms of advanced differential calculus and vectors for modelling of generic engineering situations given in terms of multi-dimensional models. You’ll spend around three hours per week in lectures and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Dynamics of Mechanical Systems 
+   
+   
+   
+     The aim of this module is to introduce students to fundamental concepts and principles of dynamics and their application to mechanical engineering systems. You will recognise and construct an appropriate analysis technique to apply when presented with a simple engineering scenario in a dynamics context. You’ll spend 1 hour in lectures, 2 hours in practicals and 1 hour in tutorials each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Professional Studies 
+   
+   
+   
+     The module covers a number of global and ethical issues relating to engineering .The module introduces many of the key transferrable skills required by engineers (and others) within the context of these issues, including: report writing; literature searching and presentation skills. You’ll spend 2 hours in lectures and 5 hour in seminars each week when studying this module.
+     
+     
+    
+   
+  
+      
+   
+   
+   
+  
+ 
+     
+  
+     
+  
+  Typical Year Two Modules 
+  
+  
+   
+  Compulsory
+   
+   
+  
+    Design and Manufacture 2 
+   
+   
+   
+     This module will introduce design methodology through the entire design cycle from establishing users' needs and generating creative concepts to developing fabricable engineered solutions. You will develop knowledge of machine elements and mechanical systems and develop enhanced skills in communicating effectively in a team environment and operating machine tools for manufacturing and testing of design. You’ll spend 2 hours in lectures, 4 hours in practicals and 8 hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Business Operations 
+   
+   
+   
+     This module aims to provide an initial appreciation of the main elements and techniques of operations management, within a business context. You’ll have 11 ninety-minute lectures and 2 sixty-minute seminars to cover material for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Near Net Shape Manufacture 
+   
+   
+   
+     This module examines modern manufacturing techniques currently being exploited within industry which results in near net shape parts. You will be provided with the essential knowledge which will enable you to understand common place and emerging near net shape manufacturing techniques. You’ll spend 3 hours in lectures and 1 hour in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Ergonomics in Design 
+   
+   
+   
+     This module aims to introduce the cognitive, physical, environmental and organisational bases of ergonomics/human factors. The course will provide knowledge and understanding of when an ergonomics intervention is required and how to manage, organise and evaluate such a programme. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Automated Manufacture 
+   
+   
+   
+     This module will give an understanding of the need for automation and robotics in manufacturing industry. You will be introduced to the fundamental concepts of automated manufacture, the role of automation in manufacturing, and its advantages and limitations. You’ll spend 2 hours in lectures and 4 hours in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Probabilistic/Statistical Techniques for Eng 
+   
+   
+   
+     This module aims to introduce the concepts and applications of probability and statistics needed in engineering problems where there is a degree of uncertainty associated with the relevant factors. You’ll spend 1 hour in lectures and 2 hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Design for Manufacture 
+   
+   
+   
+     The aim of this module is to develop knowledge, understanding and practical skills in Design for Manufacturing and Manufacturing and Product Development. It covers design for manufacturability, design for assembly, rapid prototyping and manufacturing, jigs and fixtures, process planning and group technology and design for cost. You’ll spend 2 hours in lectures and 3 hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Production and Inventory Management 
+   
+   
+   
+     This module describes the main factors which influence the needs of a manufacturing control (production and inventory control) system including the market, the manufacturing and information processing technology and the skills of the workforce. You’ll spend 2 hours in lectures each week when studying this module.
+     
+     
+    
+   
+  
+      
+   
+  
+    Manufacturing Development Project 
+   
+  
+    This group manufacturing development project module allows you to apply design, manufacturing, financial and project management knowledge and skills to an industrially focused project. This will involve three hours a week of project meetings and presentation sessions.
+    
+    
+   
+  
+      
+   
+   
+  Optional  
+   20 credits must be taken from this group.  
+  
+    Differential Equations and Calculus for Engineers 
+   
+   
+   
+     This module aims to allow you to understand, apply and manipulate standard techniques for solving important classes of ordinary differential equations. The fundamental concepts for solving partial differential equations relevant to modelling of thermodynamic, fluid or elastic problems is introduced and illustrated by obtaining fundamental solutions using techniques developed within the module. You’ll spend 1 hour in lectures and 2 hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Marketing A 
+   
+   
+   
+     This module aims to introduce the concept of marketing as an approach to business and investigates the challenges of managing the marketing mix.  You’ll spend 2 hours in lectures and 1 hour in seminars each week when studying this module.
+     
+     
+    
+   
+  
+      
+   
+   
+   
+     Computer Modelling Systems
+     
+    
+   
+   
+   
+     This module will teach and develop knowledge and skills in the uses of two types of software: Computer aided design software and computer animation and visualisation software.  Students are taught free form surface modelling and other advanced modelling techniques in Pro E. In 3D Studio Max you are taught to produce photo realistic images from CAD data. You’ll spend 2 hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Materials in Design 
+   
+   
+   
+     This module aims to introduce students to methodologies for materials selection and process selection for design improvement. This module seeks to develop an understanding of the role of materials in the design of a range of components, from consumer goods to large scale structures.  You’ll spend 2 hours in lectures and 2 hours in workshops each week when studying this module.
+     
+     
+    
+   
+  
+      
+   
+  
+    Management Studies 1 
+   
+   
+   
+     This module introduces you to modern management methods relevant to the running of a company. Topics include: Introduction to basic economics; the essential requirements and aims of a business; preparing a business plan; accounting; interpretation of accounts; programme management; the essentials of “lean” manufacture and the management of innovation. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Marketing B 
+   
+   
+   
+     This module is primarily intended for non-Business School students. This module aims to introduce the concept of marketing as an approach to business and to discuss the nature of marketing strategy. You’ll investigate the challenges of managing the marketing mix. You’ll spend 2 hours in lectures and 1 hour in a seminar each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Quantitative Decision Making 
+   
+   
+   
+     This module develops an understanding of when and how different approaches, models and methods are used in management decision-making. You will cover many aspects, including: Strategic, Marketing Planning, Buyer Behaviour and Marketing Research. You’ll spend 2 hours in lectures and 2 hours in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+   
+  
+ 
+     
+  
+     
+  
+  Typical Year Three Modules 
+  
+  
+   
+  Compulsory
+   
+   
+  
+    Investigatory Methods in Engineering 
+   
+   
+   
+     This module will introduce a range of methods & methodologies for studies relevant to innovation in Manufacturing and Product Development. Students will visit several companies to understand in depth how they operate and are organised. You’ll spend 8 hours in lectures and time on fieldtrips each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Sustainable Manufacturing 
+   
+   
+   
+     This module aims to provide you with the knowledge of key environmental and sustainability issues that are relevant to modern manufacturing. It also aims to provide a set of tools and skills that may be used to design, analyse, and improve manufacturing processes, products, and business operations. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Flexible Automated Manufacture 
+   
+   
+   
+     This module gives students a detailed understanding of the important aspects of advanced automated manufacturing principles. The aim of the module is to enable students to develop a sound understanding of flexible automated manufacturing solutions as well as their role, advantages, and limitations in the context of today’s and tomorrow’s manufacturing challenges. You’ll spend 2 hours in lectures, 2 hours in seminars and 2 hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Logistics and Supply Chain Management 
+   
+   
+   
+     The module provides an introduction to logistics and supply chain management within the international context. This module provides an awareness of key fundamentals. Particular focus is placed on competitive advantage in the context of cost and value as well as the operational and economic aspects relating to transport and logistics operations. You’ll spend 2 hours in lectures and 1 hour in a seminar each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Management of Quality 
+   
+   
+   
+     This module aims to develop an understanding of the issues involved and the approaches employed in quality management and knowledge of the techniques of quality improvement. You’ll spend 2 hours in lectures and 2 hours in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  Optional
+   
+  
+    The options selected for year 3 must include at least 30 credits from the engineering/ technology modules and at least 10 credits from the management, ergonomics and human factors modules. 
+   
+  
+    Below is a selection of modules available.
+    
+    
+   
+     Polymer Engineering 
+    
+    
+    
+      This module will allow you to gain an understanding of the chemistry of polymers, the routes to polymerisation and their effect on the material; the rheology of polymer melts, the basics of the main polymer processing operations, and the interaction between rheology and processing; the mechanical properties of polymers. You’ll spend 2 hours in lectures and 1 hour in a seminar each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Conservation and Recycling of Materials 
+    
+    
+    
+      This module will develop an appreciation of the world resources of materials, and of the factors affecting their patterns of consumption. The economics and technologies of waste disposal and of materials recycling will be examined in relation to the value to be gained by recycling. You’ll spend 2 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Cognitive Ergonomics in Design 
+    
+    
+    
+      This module will provide you with a thorough understanding of cognitive ergonomics and the way in which the consideration of cognitive ergonomics can impact on human performance in the workplace. You’ll spend 2 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Engineering Biomaterial Structures 
+    
+    
+    
+      This module introduces students to the methods used in the fabrication of medical devices and to methods for modification of surfaces to improve their biocompatibility. It aims to give them a working knowledge of these techniques, and an understanding of their effects on unprocessed/unmodified raw materials. You’ll spend 4 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Fibre Reinforced Composites Engineering 
+    
+    
+    
+      This introductory module will give students an introduction to fibre reinforced composite materials. You will study the design, manufacture and performance of fibre-reinforced composite materials. You’ll spend 2 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Aerospace Manufacturing Technology 
+    
+    
+    
+      This module covers a range of topics relating to basic airframe structure. Airframe component manufacturing techniques, automated manufacture, geometry and material constraints will be covered.  You’ll spend 2 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+  
+    Food Factory Designs and Operations 
+   
+   
+   
+     This module is to provide a level of understanding about the operations of a food factory commensurate with that expected by a manager to include: information on the units operations, appropriate legislative issues, control of goods in and out of the establishment, appropriate hygienic regimes and controlled flows. You’ll spend 4 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Plant Location and Design 
+   
+   
+   
+     This module provides an understanding of the factors which influence a company's choice of location, and of how to approach the design of layouts to support a company's strategic objectives and maximise the efficiency of its operations. You’ll spend 1 hour in lectures and 2 hours in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Quantitative Decision Making 
+   
+   
+   
+     This module develops an understanding of when and how different approaches, models and methods are used in management decision-making. You will cover many aspects, including: Strategic, Marketing Planning, Buyer Behaviour and Marketing Research. You’ll spend 2 hours in lectures and 2 hours in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Managing Service Operations 
+   
+   
+   
+     This module will include topics that will help students to appreciate the growing importance of services, and understand the operations function in service industries. This module aims to illustrate the growing importance of services in today's economy and provide an appreciation of the issues involved in managing the operations function of service organisations. You’ll spend 2 hours in lectures and 1 hour in a seminar each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Simulation and Digital Human Modelling 
+   
+   
+   
+     This module aims to equip students with the knowledge and skills required to use digital human modelling and systems simulation approaches in Human Factors research and design/evaluation work. In addition, the module aims to provide students with an understanding of the fundamental assumptions upon which digital human modelling and simulation tools are based and their primary capabilities and limitations. You’ll spend 2 hours in lectures and 2 hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Management Studies 2 
+   
+   
+   
+     On completion of this module you will be able to understand how projects are selected and financially evaluated. You'll be able to construct and monitor the elements of an engineering or business programme and acquire an ability to manage risks and quality issues in the industrial and business context. You'll develop an understanding of the basics of English Law. You’ll spend 2 hours in lectures in tutorials each week when studying this module.

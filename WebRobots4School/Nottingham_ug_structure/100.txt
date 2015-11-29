@@ -1,0 +1,282 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer. You can also view the undergraduate modules guide (PDF).  
+  Please view the Contemporary Chinese Studies website for information on their modules.  
+  Typical year one modules   
+  Core modules   
+ 
+   Current Economic Issues and Perspectives 
+  
+  
+  
+    This module focuses on a range of current issues facing the world economy, seeks to illustrate how economists model such issues, and examines potential policy responses.  
+   
+   
+    
+   
+  
+    Example topics to be covered are: 
+   
+   
+   
+    
+     Globalisation  
+     Economic growth  
+     The global financial crisis  
+     The world economy  
+     Emerging economic superpowers  
+     Consequences of rising economic nationalism  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     examine critically a number of current economic challenges facing the UK and the world economy  
+     use economic analysis to investigate and clarify the underlying drivers of these challenges  
+     identify potential gainers and losers and the role of economic policy in maximising the net benefits/minimizing the net costs  
+    
+   
+  
+ 
+     
+  
+ 
+   Foundations of Macroeconomics 
+  
+  
+   Macroeconomics is the study of the aggregate economy. This module will focus on the determinants of aggregate output, both in the short run - addressing cyclical movements of booms and busts - and in the long run - providing an introduction to economic growth.  
+   A running theme will be debates over the role of the government in macroeconomic management, covering fiscal and monetary policy. The module will introduce a series of basic models used in modern macroeconomics.  
+   This module aims to:  
+   
+   
+    provide a sound basis in the fundamentals of macroeconomics and their application to both theoretical and real world situations  
+    develop analytical skills using the major methods of mathematics and diagrams  
+    engender the ability to communicate and report findings, particularly via tutorial essays, presentations and exercises  
+   
+  
+ 
+     
+  
+ 
+   Foundations of Microeconomics 
+  
+  
+   This module begins by analysing how the economic choices of households and firms can be understood using consumer and producer theory. It then looks at how these individual choices are aggregated into market demand and supply to be mediated through the price mechanism.  
+   A variety of market settings are considered, ranging from the paradigm of perfect competition to strategic interactions in oligopolistic markets. The module concludes by providing an introduction to the normative evaluation of economic outcomes in terms of individuals’ welfare, covering both market and government failures.  
+   This module aims to:  
+   
+   
+    provide a sound basis in the fundamentals of micro-economics and their application to both theoretical and real world situations  
+    develop analytical skills using the major methods of mathematics and diagrams  
+   
+  
+ 
+     
+  
+ 
+   Mathematical Economics and Econometrics 
+  
+  
+  
+    The module is intended to provide an introduction to mathematical techniques used in economics. In particular, examples of economic issues that can be analysed using mathematical models will be discussed in detail. 
+   
+  
+    Particular attention will be given to providing an intuitive understanding of the logic behind the formal results presented. Students who wish to pursue a higher degree in economics will find the module particularly useful. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide a rigorous grounding in certain mathematical tools and methods of argumentation used in microeconomic theory  
+     develop a clear perception of the role of mathematical tools and logical methods in the construction of the formal theory of individual decision-making  
+     develop the ability to analyse economic problems through rigorous applications of the formal theory of individual decision-making  
+    
+   
+  
+ 
+     
+  
+  
+  Or  
+ 
+   Quantitative Economics 
+  
+  
+   
+    
+     Introduction to mathematical economics: mathematical finance  
+     Analysis of functions  
+     Supply and demand  
+     Matrix algebra  
+     Differentiation  
+     Elasticities  
+     Maximisation/minimisation  
+     Optimisation subject to constraints  
+     Langrange multipliers  
+     Integration  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide a basis in the fundamentals of Mathematics most relevant to the study of Economics  
+     allow students to see how mathematical tools can be applied in the analysis of theoretical economic problems  
+     facilitate the development of analytical skills leading to an understanding of which economic problems are susceptible to a formal treatment, and which results are capable of formal proof  
+    
+   
+  
+ 
+     
+  
+     
+  Typical year two modules   
+  Core modules    
+ 
+   Principles of Macroeconomics 
+  
+  
+  
+    This module will address both the fundamental and applied aspects of macroeconomic theory. 
+   
+   
+    
+   
+  
+    In particular, the module will focus on: 
+   
+   
+   
+    
+     Introducing the modern theory of expectations and economic dynamics  
+     Using this approach to think about short run fluctuations  
+     Studying the role of macro policy on short run fluctuations  
+    
+   
+  
+    The module will review the so-called modern approach to aggregate demand and aggregate supply. This entails incorporating into the classical approach to aggregate supply and aggregate demand insights from Keynesian economics. This will serve as a base to discuss the role of macro-policy in controlling for fluctuations in output and employment. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce the students to the main issues and developments of modern macroeconomics.  
+    
+   
+  
+ 
+     
+  
+ 
+   Principles of Microeconomics 
+  
+  
+  
+    Intermediate microeconomics including general equilibrium analysis, welfare economics, elementary game theory, and strategic behaviour of firms. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     build upon the microeconomics you encountered in year 1  
+     develop analytical skills by employing standard diagrammatic analysis and reference to the underlying mathematical techniques  
+    
+   
+  
+ 
+     
+  
+ 
+   Econometrics 
+  
+  
+  
+    This module generalises and builds upon the econometric techniques covered in the Year I module, Introductory Econometrics. This will involve introducing a number of new statistical and econometric concepts, together with some further development of the methodology that was introduced in Year I. The multivariate linear regression model will again provide our main framework for analysis. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide the necessary mathematical and statistical tools needed to conduct theoretical econometric analysis at an advanced level  
+     develop the analytical skills required to demonstrate the theoretical properties of different econometric estimation and testing procedures under various modelling assumptions  
+     provide a sound understanding of the applicability and limitations of the multivariate linear regression model as a vehicle for econometric analysis for economic data  
+    
+   
+  
+ 
+     
+  
+  
+  Or  
+ 
+   Quantitative Economics 
+  
+  
+   
+    
+     Introduction to mathematical economics: mathematical finance  
+     Analysis of functions  
+     Supply and demand  
+     Matrix algebra  
+     Differentiation  
+     Elasticities  
+     Maximisation/minimisation  
+     Optimisation subject to constraints  
+     Langrange multipliers  
+     Integration  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide a basis in the fundamentals of Mathematics most relevant to the study of Economics  
+     allow students to see how mathematical tools can be applied in the analysis of theoretical economic problems  
+     facilitate the development of analytical skills leading to an understanding of which economic problems are susceptible to a formal treatment, and which results are capable of formal proof  
+    
+   
+  
+ 
+     
+  
+     
+  Typical year three modules  
+  Core modules  
+ 
+   Economics with Chinese Studies Dissertation 
+  
+  
+   You’ll independently write a 6,000-8,000 word dissertation based on a topic related to the Chinese economy. You’ll be supported in this through weekly seminars and sessions with your specialist supervisor.

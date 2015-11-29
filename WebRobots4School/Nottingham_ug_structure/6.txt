@@ -1,0 +1,346 @@
+Modules  
+  Our modules are chosen and developed to best support your development as an aerospace engineer. They’re also shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules on offer.  
+  
+  Typical Year One Modules 
+  
+  
+   
+   Compulsory  
+   Engineering Design and Analysis  
+   Aerospace Electrical and Electronic Engineering 1  
+   Airframe and Materials 1  
+   Propulsion and Aerodynamics 1   
+  
+ 
+     
+  
+     
+  
+  Typical Year Two Modules 
+  
+  
+   
+   Compulsory  
+   Engineering Design and Professional Skills  
+   Aerospace Electrical and Electronic Engineering 2  
+   Airframe and Materials 2  
+   Propulsion and Aerodynamics 2  
+  
+ 
+     
+  
+     
+  
+  Typical Year Three Modules 
+  
+  
+   
+   Compulsory  
+   Group Design and Make Project  
+   Certification, Safety and Reliability  
+   Engineering Management and Public Engagement   
+  Optional
+   
+  
+    The options selected for year 3 must include at least 30 credits from the engineering/ technology modules and at least 10 credits from the management, ergonomics and human factors modules. 
+   
+  
+    Below is a selection of modules available. 
+   
+   
+    
+   
+     General Aerospace Stream 
+    
+    
+     
+      
+      Core
+       Stress Analysis Techniques
+       
+       
+      
+      
+      Optional
+       Introduction to Rotorcraft  
+      
+     
+       Introduction  
+      to Spacecraft  
+      
+      
+      Aerodynamics  
+      
+      
+      Aircraft Propulsion  
+      Systems  
+      
+      
+      More Electric Aircraft 
+      
+      
+      Modelling  
+      of Electromechanical Systems  
+      
+      
+      Avionic  
+      Systems 
+        
+      
+      
+      Electrical Power Systems  
+      
+      
+      Aerospace  
+      Manufacturing Technology  
+      
+      
+      Ergonomics in  
+      Aerospace Design  
+      
+      
+      Structural Vibration 
+      
+      
+        
+      
+     
+    
+   
+       
+    
+   
+     Aeromechanics Stream 
+    
+    
+     
+      
+      Core
+       Stress Analysis Techniques
+       Computational  
+      Fluid Dynamics   
+      
+      
+      Optional 
+      
+     
+       Aerospace Manufacturing Technology 
+      
+     
+       Introduction to Rotorcraft 
+      
+     
+       Introduction to  
+      Spacecraft 
+      
+      
+      Aerodynamics  
+      
+      
+      Aircraft Propulsion  
+      Systems  
+      
+      
+      Structural Vibration  
+      
+      
+      Advanced  
+      Dynamics of Machines  
+      
+      
+      Fibre Reinforced  
+      Composites 
+      
+      
+      Processing of Engineering Alloys 
+      
+     
+       Introduction to Transport Materials 
+      
+      
+       
+      
+     
+    
+   
+       
+    
+   
+     Aeroelectrical Stream 
+    
+    
+     
+     Core 
+     
+    
+      Avionic Systems 
+     
+     
+      
+     
+     
+     Optional 
+     
+    
+      Aerospace Manufacturing Technology 
+     
+    
+      Introduction to Rotorcraft 
+     
+    
+      Introduction to  
+     Spacecraft 
+     
+     
+     Mapping for Engineering Surveying  
+     and GIS  
+     
+     
+     Electrical Power Systems 
+     
+     
+     More Electric  
+     Aircraft 
+     
+     
+     Power Electronic Design  
+     
+     
+     Control  
+     Systems Design 
+     
+     
+       
+     
+    
+   
+       
+    
+   
+  
+ 
+     
+  
+    
+  
+  Typical Year Four Modules 
+  
+  
+   
+   Compulsory  
+   MEng Individual Project  
+   Aerospace Technology Review  
+   Engineering Integration  
+  Optional
+   
+   
+  
+    General Aerospace Stream 
+   
+   
+    
+     
+      Options  
+     
+    
+      Introduction to Turbulence and  
+     Turbulent Flows 
+     
+     
+     Computational Fluid Dynamics 
+     
+    
+      More Electric Aircraft 
+     
+    
+      Material Models and  
+     Modes of Failure 
+     
+     
+     Finite Element Analysis 
+     
+    
+      Human Machine Systems  
+     
+    
+      Electrical Power  
+     Systems   
+     
+    
+   
+  
+      
+   
+  
+    Aeromechanics Stream 
+   
+   
+    
+     
+      Options 
+     
+    
+      Advanced Computational Fluid  
+     Dynamics;  
+     
+     
+     Introduction to Turbulence and  
+     Turbulent Flows 
+     
+     
+     Advanced Aerodynamics 
+     
+    
+      Material Models and Modes of Failure 
+     
+    
+      Finite  
+     Element Analysis 
+     
+     
+     Materials Design against  
+     Failure  
+     
+     
+     Aeroacoustics  
+     
+     
+     Human Machine  
+     Systems   
+     
+    
+   
+  
+      
+   
+  
+    Aeroelectrical Stream 
+   
+   
+    
+     
+      Options 
+     
+    
+      Advanced More Electric Aircraft (with  
+     Project) 
+     
+     
+     Advanced Electrical Power Systems  
+     (with Project)  
+     
+     
+     Advanced Avionics (with Project) 
+     
+    
+      Human Machine Systems 
+     
+    
+      Satellite-Based  
+     Positioning 
+     
+     
+     Cognitive Ergonomics in Design 
+     
+    
+      Systems Engineering and Human Factors

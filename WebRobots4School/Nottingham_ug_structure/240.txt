@@ -1,0 +1,329 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.  
+  
+    Typical Year One Modules   
+  
+  
+  
+    Analytical and Computational Foundations 
+   
+   
+   
+     This module will introduce you to three core concepts and techniques that underpin all maths modules in your degree. These are mathematical reasoning – the language of maths and providing concrete proof of your theories, an introduction to the computer package MATLAB – its use and application, and basic analysis methods. You will have a combination of lectures, workshops and tutorials averaging about five hours per week throughout the year. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Calculus 
+   
+   
+   
+     In this module, you will begin by practicing the basic concepts and methods of calculus including limits, functions, continuity, Taylor series, and Laplace transforms. In the second semester you will move onto more advanced usage of calculus. Topics will be based around the calculus of functions of several variables and include partial derivatives, chain rules, the vector operator grad, Lagrange multipliers and multiple integrals. This module is taught in two 1-hour lectures per week as well as problem classes and three hour tutorial support per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Linear Mathematics 
+   
+   
+   
+     This module introduces you to the methods and practices of linear mathematics that you will need in subsequent modules on your course. Complex numbers, vector algebra and matrix algebra are established. You will then expand your knowledge to include vector spaces, linear transformations and inner product spaces through two hours of lectures per week combined with problem classes and tutorial support. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Probability 
+   
+   
+   
+     This module provides an introduction to probability by developing a framework for the logic of uncertainty. Random variables and the topics surrounding them will also be introduced. You will spend two hours in lectures per week.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Statistics 
+   
+   
+   
+     This module offers you the chance to learn about a range of statistical ideas and skills. In addition, concepts and techniques for modelling and practical data analysis skills will be taught. You will learn to write reports based on these topics which will help you in further studies. You will have a combination of lectures, problem classes and workshops totalling around four hours per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Microeconomics 
+   
+   
+   
+     You will be introduced to microeconomics including behaviour of firms and households in situations of competitive and imperfectly competitive markets. You will spend around three hours in lectures and have a one hour tutorial each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Macroeconomics 
+   
+   
+   
+     You will be introduced to modern macroeconomic analysis including issues such as growth and employment, wage and price dynamics and consumption and saving behaviour. You will learn about the two main modern schools of macroeconomic thought: one broadly characterised as 'New Classical' and one as 'Keynesian'. You will have four hours of lectures and seminars each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Two Modules  
+  
+  
+  
+    Introduction to Numerical Methods 
+   
+  
+    In this year-long module you will be introduced to basic techniques in numerical methods and numerical analysis. You will build upon your core year one modules to generate approximate solutions to problems that may not be easy to analyse on paper. There will be a wide range of topics including: iterative methods for nonlinear equations, discussion of errors (including rounding errors), polynomial interpolation and orthogonal polynomials among others. You will spend two hours per week in lectures and one hour per week in computer labs.
+    
+    
+   
+  
+      
+   
+  
+    Probability Models and Methods
+    
+   
+  
+    This module will give you an introduction to the theory of probability and random variables, with particular attention paid to continuous random variables. Fundamental concepts relating to probability will be discussed in detail including well-known limit theorems and the multivariate normal distribution. You will then progress onto complex topics such as transition matrices, one-dimensional random walks and absorption probabilities. For this module you will spend three hours per week in lectures and workshops.
+    
+    
+   
+  
+      
+   
+  
+    Statistical Models and Methods 
+   
+  
+    The first part of this module provides an introduction to statistical concepts and methods and the second part introduces a wide range of techniques used in a variety of quantitative subjects. The key concepts of inference including estimation and hypothesis testing will be described as well as practical data analysis and assessment of model adequacy alongside other topics. You will have a combination of lectures, example and problem classes each week. 
+    
+    
+   
+  
+      
+   
+  
+    Microeconomic Theory 
+   
+   
+   
+     You will study intermediate microeconomics including general equilibrium analysis, welfare economics, elementary game theory, and strategic behaviour of firms. You will have a combination of lectures and modules totalling around three hours each week.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Monetary Economics 
+   
+   
+   
+     This module will provide you with a foundation for the monetary economics modules in year three, which compliments financial economics in years two and three. It will cover topics such as the definitions and role of money, portfolio choice, financial markets and banks, central banks and monetary policy, and the monetary transmission mechanism. Under these headings you will address issues of theory, policy and practice relating to recent experience in the UK and other countries. You will spend around three hours per week in lectures and tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Public Sector Economics 
+   
+   
+   
+     For this module you will consider public finances in the UK, Market Failures, Fundamental Theorems of Welfare Economics, Social Welfare Functions, Externalities, Public Goods, Natural Monopolies, Public Choice, Social Insurance: Social Security, Taxation and Equity, Excess Burden of Taxation and Tax Incidence. For this module you will have three hours per week in lectures and tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Three Modules  
+  
+  
+  
+    Coding and Cryptography 
+   
+  
+    In this module you will be introduced to two main topics of coding theory; error-correction codes and cryptography. Within these topics you will learn the main concepts, theorems and techniques and practise applying these with specific example. You will have two hours of lectures each week.
+    
+    
+   
+  
+      
+   
+  
+    Game Theory 
+   
+  
+    In this module you will explore the connection between numbers and games and how games can be analysed. You will learn about the algorithms of gaming, stemming from many areas of mathematics and computing. You will be able to use the mathematical knowledge you have gained so far on the course to analyse various situations in a logical manner practicing strategic decision-making. You will spend two hours per week in lectures.
+    
+    
+   
+  
+      
+   
+  
+    Mathematical Finance 
+   
+  
+    In this module the concepts of discrete time Markov chains are explored and used to provide an introduction to probabilistic and stochastic modelling for investment strategies, and for the pricing of financial derivatives in risky markets. You will gain well-rounded knowledge of contemporary issues which are of importance in research and applications.  For this module there will be a combination of lectures, problem and example classes for around four hours each week.
+    
+    
+   
+  
+      
+   
+  
+    Statistical Inference
+    
+   
+  
+    In this module you will explore two main concepts of statistical inference; classical (frequentist) inference and Bayesian inference. Topics include: sufficiency, estimating equations, likelihood ratio tests and best-unbiased estimators will be discussed in detail. You will gain knowledge of the theory and concepts underpinning contemporary research in statistical inference and methodology. For this module there will be a combination of lectures, problem and example classes for around four hours each week.
+    
+    
+   
+  
+      
+   
+  
+    Stochastic Models 
+   
+  
+    In this module you will develop your knowledge of discrete-time Markov chains by applying them to a range of stochastic models for use in natural sciences and scientific industries. You will be introduced to Poisson and birth-and-death processes and then you will move onto more extensive studies of epidemic models and queuing models with introductions to component and system reliability. For this module there will be a combination of lectures, problem and example classes for around three hours each week.
+    
+    
+   
+  
+      
+   
+  
+    Topics in Statistics 
+   
+   
+   
+     In this module you will build your knowledge from previous modules by covering three main topics relating to statistics, sequential analysis, multivariate analysis and designed experiments. The skills you build will be of relevance to a professional statistician. You will have four hour lectures each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced Financial Economics 
+   
+   
+   
+     You will examine issues related to the impact of financial frictions on the financial system and the economy. Topics studied include: the effects of financial constraints on the ability of firms to raise funds from different sources, the impact of financial constraints on consumer credit, and the role of financial intermediaries. You will spend around three hours each week in lectures and tutorials.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced International Trade Theory 
+   
+   
+   
+     You will study topics such as the models of intra-industry trade, trade policy in oligopolistic industries, mathematical enterprises and testing trade theories spending around three hours per week in lectures and tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced Public Economics 
+   
+   
+   
+     In this module you will be introduced to some major themes of public economics, using microeconomic tools to analyse public policy. The equity and efficiency implications of policies will be examined within an economic framework through spending around three hours each week in lectures and tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Health Economics
+    
+   
+   
+   
+     You will be introduced to health and health economics, health care as a commodity (Grossman model, market complications, such as rationality, externalities, uncertainty), implications of health and health care demand (prices, insurance, supply-induced demand, consumer protection), health behaviour (illness prevention, such as tobacco smoking, vaccination, cancer screening), economic aspects of the UK National Health Service (excess demand, efficiency, equity), health care supply (factor substitution, economies of scale, technology diffusion) and international aspects of health care. You will spend around three hours each week in lectures and tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Numerical Methods in Economics 
+   
+   
+   
+     You will focus on static numerical methods, dynamic numerical optimization and agent-based economic modelling. Example topics include: numerical solution methods, dynamic numerical optimization, discrete dynamic programming and the foundations of agent-based modelling. You will spend around three hours each week in lectures and tutorials as well as spending an hour each week in computer classes.

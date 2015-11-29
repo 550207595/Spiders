@@ -1,0 +1,325 @@
+Modules  
+  Our modules provide a balance of fundamental principles and applications, engineering practice and design elements.  Modules are shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.  
+  
+   Typical Year One Modules  
+  
+  
+  
+    Fluid Mechanics 
+   
+   
+    This module covers the essential fluid mechanics needed by engineers to design tanks, vessels, piping systems and pumps and to understand their operation. It also forms a basis for later modules on heat and mass transfer in fluids. You’ll spend around three hours in lectures and three hours in practicals per week.  
+   
+  
+      
+   
+  
+    Engineering Mathematics 1 
+   
+   
+    This module introduces the algebra of complex numbers to provide a key mathematical tool for analysis of linear mathematical and engineering problems. The complexity of solving general systems of equations is introduced and their study using matrix techniques. You’ll spend around three hours per week in lectures and workshops  
+   
+  
+      
+   
+  
+    Engineering Mathematics 2 
+   
+   
+    You’ll be introduced to techniques for solving selected first-order and second-order differential equations relevant to the analysis of generic engineering problems. The module also provides mathematical tools in terms of advanced differential calculus and vectors for modelling of generic engineering situations given in terms of multi-dimensional models. You’ll spend around three hours per week in lectures and workshops.  
+   
+  
+      
+   
+  
+    Heat and Mass Transfer 
+   
+   
+    The module will introduce the basic concepts of heat and mass transfer with particular emphasis on the chemical process industries. In addition, you’ll use the concept of dimensionless analysis and the use of dimensionless numbers for the correlation of data. You’ll spend around three hours in lectures and have a three hour per week for this module.  
+   
+  
+      
+   
+  
+    Process Engineering Fundamentals 
+   
+   
+    In this module you’ll cover material balances including topics such as: flowsheets for continuous processes, batch processes, steady and unsteady state operation, reacting and non-reacting systems, energy balances, and combustion calculations. You’ll spend around three hours in lectures and have a three hour practical per week.  
+   
+  
+      
+   
+  
+    Separation Processes Fundamentals 
+   
+   
+    This module covers the principles of physical separation processes namely gas absorption, single and multiple effect evaporation, vapour recompression integrated with evaporator, cascade and counter-current leaching process, stagewise and continuous liquid-liquid extraction process. You’ll spend around three hours in lectures each week.  
+   
+  
+      
+   
+  
+    Introductory Chemistry 
+   
+   
+    This module aims to provide you with the necessary pre-requisite skills required for the study of modules that require foundation knowledge of Chemistry. You’ll spend around five hours in lectures and 13 hours in practicals per week.  
+   
+  
+      
+   
+  
+    Engineering Thermodynamics 
+   
+   
+    This module will present the basics of thermodynamics with particular emphasis on applications to process plant. By the end of the module it is expected that you’ll be able to analyse most of the common energy-based operations found on process plant. You’ll spend around three hours in lectures and three hours in practicals each week.   
+   
+  
+      
+   
+  
+    Introductory Geology 
+   
+   
+    This module provides a basic understanding of geology and includes topics such as: introduction to the main rock types and minerals, rock forming processes; the composition of the Earth; geological structures; natural hazards including volcanism and earthquakes and geological map interpretation. You’ll spend two hours in lectures and five hours in practicals studying for this module.  
+   
+  
+      
+   
+  
+    Physics and Process Chemistry 
+   
+   
+    This module comprises of two distinct parts. The first, which accounts for approximately 60% of the material presented during the course, is a revision and extension of important aspects of A-level physics. The second part of the course covers basic physical chemistry concepts used by chemical and Environmental Engineers in relevant process industries. You’ll spend three hours in lectures studying for this module.  
+   
+  
+      
+   
+  
+    Chemistry in the Environment 
+   
+   
+    This module aims primarily to provide students with the necessary pre-requisite skills required for the study of modules that require foundation knowledge of chemistry in order to provide students with a working knowledge of basic chemical principles and practice. You’ll spend three hours in lectures and five hours in practicals studying for this module.  
+   
+  
+      
+   
+  
+    Fundamentals of Engineering Design 
+   
+   
+    This module aims to ensure that students understand the fundamental basis of design, and the design tools most commonly used by engineers in industry. This module is 12 weeks and you’ll study a different topic area each week. In the final week there will be presentations. You’ll spend 6 hours in lectures each week studying for this module. For this module you’ll have a combination of lectures and presentations per week.  
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Two Modules  
+  
+  
+  
+    Separation Processes 1 
+   
+   
+    This module establishes the principles of mass transfer separation processes, with binary distillation, gas absorption/stripping and drying being studied in detail. It also introduces the basic principles of bioseparations. You’ll spend 3 hours in lectures and 4 hours in practicals per week.  
+   
+  
+      
+   
+  
+    Plant Design 
+   
+   
+    This module aims to ensure that students understand the fundamental basis of design, and the design tools most commonly used by engineers in industry. You’ll learn the design criterions for few process equipment such as pumps, heat exchangers, and phase separators. To learn the basics of process plant economics and plant optimisation using cost models. You’ll spend three hours in lectures and four hours in workshops each week studying for this module.  
+   
+  
+      
+   
+  
+    Chemical and Phase Equilibria 
+   
+   
+    This module is an introduction to chemical thermodynamics and its applications to chemical, vapour/liquid, liquid/liquid and solid/liquid equilibria, and Correlation and prediction of data. You’ll spend 2 hours in lectures and one hour in practicals per week studying for this module.  
+   
+  
+      
+   
+  
+    Particle Mechanics 
+   
+   
+    In this module you’ll study the flow of fluids through beds of particles. You’ll study modules including: simultaneous flow of gas and liquid through packed columns dynamics of a single particle, terminal velocity, solid/liquid separation processes, solid/ centrifugal separations particle size reduction; drops and bubbles; conveying. You’ll spend three hours in lectures and three hours in practicals per week.  
+   
+  
+      
+   
+  
+    Differential Equations and Calculus for Engineers 
+   
+   
+    The majority of the module is concerned with providing techniques for solving selected classes of ordinary differential equations (ODEs). This module provides the fundamental concepts for solving partial differential equations relevant to modelling of thermodynamic, fluid or elastic problems which is then introduced and illustrated by obtaining fundamental solutions using techniques developed within the module. You’ll spend one hour in lectures and two hours in practicals per week.  
+   
+  
+      
+   
+  
+    Probabilistic and Numerical Techniques for Engineers 
+   
+   
+    The module is divided into two sections: Numerical techniques for ordinary differential equations and probability theory and Introductory statistical inference. The module aims to develop the foundations of probability theory and to apply large sample statistics within an engineering context. You’ll spend one hour in lectures and two hours in workshops per week.  
+   
+  
+      
+   
+  
+    Engineering Materials 
+   
+   
+    This module provides an introduction to the properties of engineering materials including topics such as: chemical bonding and structure, mechanical properties, elasticity, viscoelasticity, creep, fatigue and fracture. The module also provides elements of mechanical and structural design using engineering materials. You’ll spend three hours in lectures per week studying for this module.   
+   
+  
+      
+   
+  
+    Site Investigation 
+   
+   
+    The module develops through practical application an understanding of the principles and methods of site investigation. The course will include the structured approach to site investigation methods of assessing risk on a site and how to interpret and present findings. You’ll spend two hours in lectures per week.  
+   
+  
+      
+   
+  
+    Waste Management 
+   
+   
+    This module introduces students to a range of knowledge and skills applicable to the management of waste. Increasingly, waste is viewed as a valuable resource that must be managed and utilised effectively to minimise environmental impact. You will also study the development of legislation and how directives from the European Union impact on our daily lives will be covered. You’ll spend three hours in lectures per week studying for this module.  
+   
+  
+      
+   
+  
+    Environmental Field Course 
+   
+   
+    The module provides team based practical field experience in environmental impact assessment, site investigation, health and safety in practice and in academia, process design and inherently safe design. Groups of students will plan, manage and undertake field tasks in site investigation and environmental impact assessment.  You’ll spend three hours in lectures and two hours in practicals per week.  
+   
+  
+      
+   
+  
+    Analytical Measurement 
+   
+   
+    This module is designed to give an introduction, in both theory and practice to the principles of analytical measurement. Particular emphasis of the module is towards quality control, quality assurance and accreditation and how these underpin the topic. You’ll spend nine hours in lectures, a one hour computing, and 13 hours in workshops per week.  
+   
+  
+      
+   
+  
+    Fundamentals of Process Control 
+   
+   
+    This module forms an introduction to computational techniques and computing and process dynamics and control. Students will gain experience in computer programming, dynamic process simulation and process control concepts. (The computer packages currently in use are: Matlab programming, Matlab/Simulink dynamic simulation.) You’ll spend four hours in lectures and three hours in computing per week.  
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Three Modules  
+  
+  
+   
+  
+    Process Dynamics and Control 
+   
+   
+    This module provides an appreciation of the dynamic behaviour of processes, effects of disturbances and single loop controllers, the features and constraints on choice of conventional process control instruments and equipment and a basis for process analysis and design using dynamic process models and dynamic simulation. You’ll spend three hours in lectures and three hours in practicals per week..   
+   
+  
+      
+   
+  
+    Reactor Design 
+   
+   
+    This module is made up of eight topics. You will become familiar basic concepts which will then be used to analyse problems of increasing sophistication including non-isothermal and catalytic reactors. You will work through problems in self-study sessions. You’ll spend three hours in lectures per week.  
+   
+  
+      
+   
+  
+    Process Simulation 1 
+   
+   
+    This module is an introduction to steady-state process simulation by computer. Students will use a commercial package in a design environment and will develop an understanding of the benefits and drawbacks of such tools. You’ll spend one hour in lectures and three hours in practicals per week.  
+   
+  
+      
+   
+  
+    Air Pollution 
+   
+   
+    This module gives knowledge and understanding of air pollution problems, including a categorization of the types of natural and anthropogenic air pollution sources, sinks, and the effects that air pollutants may produce within the natural and manmade environments. You will be introduced to the processes of selection and design of pollutant monitoring and control technologies that may be applied to control atmospheric emissions from industrial processes. You’ll spend two hours in lectures and one hour in practicals per week.  
+   
+  
+      
+   
+  
+    Project Management 
+   
+   
+    The aim of this module is for students to gain an appreciation of the key techniques that are applied by companies in the planning and financial management of projects. You will review project planning procedures and the assessment of the impact of a project on a company's financial and managerial performance. You’ll spend 3 hours in lectures per week.  
+   
+  
+      
+   
+  
+    Multicomponent Separations 
+   
+   
+    In this module you’ll look in detail at the process of mass transfer in multi-component separation equipment and multicomponent separation processes. You’ll learn principles of design for distillation and absorption columns and use computer applications. You’ll spend two hours in lectures and one hour in workshops per week studying for this module.  
+   
+  
+      
+   
+  
+    Design Project 
+   
+   
+    This is a group design project involving the preparation of heat and mass balances and flow sheets for a particular process scheme and the detailed design of certain important plant items. A study of the control, operational, safety, environmental and economic aspects will be included. You’ll spend one hour in a tutorial and make use of self-study sessions each week studying for this module.   
+   
+  
+      
+   
+  
+    Advanced Transport Phenomena 
+   
+   
+    This module aims to provide an in depth knowledge of heat, mass and momentum transport that is necessary in assessing, analysing and developing chemical, biochemical and environmental processes. Furthermore, this module fills the gap between first year transport phenomena and the fourth year CFD module while introducing the multi-physics aspect of the discipline. You’ll spend three hours in lectures and three hours in practicals each week studying for this module.   
+   
+  
+      
+   
+  
+    Water Treatment 
+   
+   
+    This module introduces students to a range of knowledge and skills applicable to water and wastewater treatment. Students will gain an understanding in water availability, sources of pollution and the legislative framework for water quality from an EU perspective. Municipal water and wastewater treatment processes will be covered, focusing on key unit processes including sedimentation, filtration and disinfection. You’ll spend three hours per week studying for this module.  
+   
+  
+      
+   
+  
+    Chemical Engineering Laboratory 
+   
+   
+    In this module, students will be set a laboratory-based problem aiming to give students experience in planning and carrying out experiments as independently as possible. By solving a laboratory-based problem they should gain the confidence in making decisions in a technical/scientific environment and adopt a rational, efficient approach to problem solving. You’ll spend two hours in lectures and six hours in practicals per week.

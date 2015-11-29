@@ -54,7 +54,7 @@ public class Undergraduate {
 			e.printStackTrace();
 		}finally{
 			try {
-				ExcelGenerator excelGenerator = new ExcelGenerator(SCHOOL_NAME,majorList,true);
+				ExcelGenerator excelGenerator = new ExcelGenerator(SCHOOL_NAME,"ug",majorList,true);
 				excelGenerator.exportExcel("gen_data_"+SCHOOL_NAME+"_ug.xls");
 				long endTimeInMillis=Calendar.getInstance().getTimeInMillis();
 				System.out.println("Total seconds: " + (endTimeInMillis-startTimeInMillis)/1000 + "s");
@@ -163,6 +163,11 @@ public class Undergraduate {
 		Document doc=conn.timeout(10000).get();
 		Element e = null;
 		
+		if(doc.select("div.sys_factfileItem.sys_factfileUcas").size()>0){
+			e=doc.select("div.sys_factfileItem.sys_factfileUcas").get(0);
+			major.setApplicationFee(e.ownText());
+		}
+		
 		if(doc.select("#ugStudyFactfile > div.parentSchool > *:nth-child(2)").size()>0){
 			e=doc.select("#ugStudyFactfile > div.parentSchool > *:nth-child(2)").get(0);
 			major.setSchool(e.text().trim());
@@ -195,15 +200,11 @@ public class Undergraduate {
 			major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml())).trim());
 		}
 		
-		if(doc.text().indexOf("starts in")>0){
+		/*if(doc.text().indexOf("starts in")>0){
 			major.setMonthOfEntry(doc.text().substring(doc.text().indexOf("starts in"),doc.text().indexOf("starts in")+20));
-		}
+		}*/
 		
-		/*if(doc.select("#proxy_collapseFees > div > p:nth-child(1) > a").size()>0){
-			e=doc.select("#proxy_collapseFees > div > p:nth-child(1) > a").get(0);
-			major.setTuitionFee(requestFee(e.attr("href")));
-		}
-		*/
+		major.setMonthOfEntry("9");
 		
 		
 		mark(major, true);

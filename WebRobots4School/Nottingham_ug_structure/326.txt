@@ -1,0 +1,665 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff. They’re also shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules on offer.   
+  
+   Typical Year One Modules   
+  
+  
+  Compulsory
+   
+   
+  
+    Engineering Mathematics 1 
+   
+   
+   
+     This module introduces the algebra of complex numbers to provide a key mathematical tool for analysis of linear mathematical and engineering problems. The complexity of solving general systems of equations is introduced and their study using matrix techniques. You’ll spend around three hours per week in lectures and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Mathematics 2 
+   
+   
+   
+     You’ll be introduced to techniques for solving selected first-order and second-order differential equations relevant to the analysis of generic engineering problems. The module also provides mathematical tools in terms of advanced differential calculus and vectors for modelling of generic engineering situations given in terms of multi-dimensional models. You’ll spend around three hours per week in lectures and workshops. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Circuits and Fields 
+   
+   
+   
+     This module provides the understanding of the physical world including an introduction to electric and magnetic fields and circuit theory and passive components. For study of this module you’ll spend around three hours in lectures each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Electronic Engineering 
+   
+   
+   
+     This module provides an introduction to Electronic Engineering, including topics such as: Boolean algebra and minimisation techniques, linear amplifiers and other circuits utilising the operational amplifier, the physical principles of diodes, bipolar and field-effect transistors and their application to circuits. You’ll have three 1-hour lectures per week plus eight 1-hour progress tests per year to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Communications Engineering 
+   
+   
+   
+     You’ll be given an introduction to communication systems and an overview of fundamental signal and system concepts. The module looks at methods to describe signals mathematically and in terms of their time and frequency domain representation. You’ll examine aspects of noise on signals and system performance, filters, amplitude and frequency modulation and basic concepts in digital signal processing. MATLAB will be used in problem solving. You’ll have three 1-hour lectures per week plus four 1-hour progress tests per semester to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Computer Engineering 
+   
+   
+   
+     Introducing you to computer engineering, you’ll cover topics such as: an overview of computer architectures, software design methodologies, the software life-cycle, C-programming, software development strategies and verification and validation procedures. You’ll have two 1-hour lectures per week as well as nine 3-hour laboratories and four 1-hour progress tests per semester to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Electrical Engineering 
+   
+   
+   
+     This module provides an introduction to Electrical Engineering and covers topics including: basic electromagnetic principles and the characteristics of electrical coils, the operation of ideal and non-ideal transformers, the equivalent circuit and their applications, reactive and apparent power, basic electro-mechanics .You’ll also have a basic introduction to electrical machines focusing on the operation and analysis of the 3-phase AC cage induction machine. You’ll have two 1-hour lectures and one 1-hour examples class per week plus four 1-hour progress tests per semester to study for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Laboratory and Presentation Skills A 
+   
+   
+   
+     This module provides the practical experience which complements modules in the first year of all undergraduate courses in the Department of Electrical and Electronic Engineering. It includes experimental and project work, the development of laboratory and team working skills, and technical report writing. You’ll spend around two hours in lectures and three hours in practicals each week for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Renewable and Sustainable Energy Sources 
+   
+   
+   
+     This module provides an introduction to renewable and sustainable energy sources. It covers the various types of renewable energy and the resources available and explains the physical principles of various types of energy conversion and storage, in relation to electrical power generation. You’ll spend around two hours in lectures and three hours in practicals for study of this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Two Modules   
+  
+  
+  Compulsory
+   
+   
+  
+    Probabilistic and Numerical Techniques for Engineers 
+   
+   
+   
+     This module is divided into two sections, one part develops the foundations of probability theory and allows you to apply large sample statistics within an engineering context. The other part provides you with an introduction to numerical techniques used for obtaining approximate solutions to ordinary differential equations. You’ll normally spend around one hour per week in lectures and two hours in workshops studying for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Signal Processing and Control Engineering 
+   
+   
+   
+     You’ll develop your understanding of systems and system analysis tools as well as basic analogue and digital signal processing methods that would be of use in a wide range of applications in electrical and electronic engineering and beyond. You’ll have three 2-hour lectures and three 1-hour practical classes each week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Telecommunications 
+   
+   
+   
+     This module provides an introduction to telecommunication systems. Topics covered include: modulation schemes (amplitude, frequency and phase), receiver configurations, noise and interference in analogue systems, delivery systems (copper, fibre, radio wave propagation and transmission-line characteristics) and multiple access techniques. You’ll spend around three hours in lectures and have a three hour practical per week for study of this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Power Supply Electronics 
+   
+   
+   
+     Introducing you to the subject of power electronics you’ll cover subjects such as: methods of analysis for power electronic circuits, comparison of power supplies for electronic equipment, linear and switching regulators, single phase diode rectifiers comparison of power device types; calculation and management of losses in power devices and practical considerations for high speed switching circuits. You’ll have two 1-hour lectures and one 1-hour problem class per week plus two laboratory sessions for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electronic Engineering 
+   
+   
+   
+     You’ll cover a range of topics in Electronic Engineering including: schmitt trigger, feedback and relaxation oscillators, synchronous counters with external input; electron mobility, joule heating, and  structure of bipolar. You’ll spend around six hours per week in lectures as well as having a three hour practical laboratory session to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Professional Skills for Electrical & Electronic Engineers 
+   
+   
+   
+     Providing you with the key skills required to give professional presentations, you’ll gain an awareness of the different techniques required for varying size audiences, the technologies available and the limitations. Through group working, you’ll develop skills in the preparation of material in a purely visual sense, for example poster, flyer and rolling presentation forms as well as gaining professional skills in the form of CV production and application preparation. You’ll have one 1-hour lecture per week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electrical Engineering Design Project - Renewables 
+   
+   
+   
+     This module takes the form of a laboratory-based project which is performed in groups of either two or three students. The overall aim of the project is to design, build, test and document a renewable energy powered device with microcomputer control. The project exercises and develops skills in electrical and electronic design, energy system design, real-time software, presentation and group working. You’ll have one 2-hour lecture and one 1-hour lecture during the first week plus one 3-hour laboratory session per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mathematical Techniques for Electrical and Electronic Engineers 1 
+   
+   
+   
+     The majority of the module is concerned with providing techniques for solving selected classes of ordinary differential equations (ODEs) relevant to the analysis of engineering topics. This module also provides the basic calculus to help analyse engineering problems in two- or three-dimensions and special solutions of partial differential equations relevant to engineering applications. You’ll have a one hour lecture and two hour workshop to study for this module.   
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electronic Construction Project 
+   
+   
+   
+     The aim of this module is to develop awareness of and ability to solve problems in the field of electronic design and construction. You’ll develop a range of practical and experimental skills, focusing on the design and development of a system. You’ll work in small groups and will be required to go through a phase of research and independent learning, as well as keep good traceability of your work during all phases of the project. The applications will be in the field of audio signal processing, an example is the design, building and testing of an audio amplifier and related power supply. You’ll spend around three hours in lectures and three hours in practicals for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Energy and the Environment 
+   
+   
+   
+     This module examines the environmental impacts of the energy industries. It will encompass the methodologies for quantitative impact assessment and their specific application to the energy industries. The full life cycle for fossil and renewable energy will be included along with large and small scale energy systems. You’ll spend around two hours in lectures each week to study for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Three Modules   
+  
+  
+  Compulsory
+   
+   
+  
+    Power Networks 
+   
+   
+   
+     This module provides you with an understanding of power system apparatus and their behaviour under normal and fault conditions. Through a two hour lecture each week, you’ll cover topics such as: concept and analysis of load flow, voltage/current symmetrical components, computation of fault currents, economic optimisation, power-system control and stability, power system protection and power quality. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electrical Machines 
+   
+   
+   
+     This module provides you with an understanding of the operational characteristics of common electrical machines (dc, ac induction, ac synchronous and stepping). Both theoretical and practical characteristics are covered including: electromagnetic theory applied to electrical machines, principles and structure of dc machines - commutation effects, principles and structure of induction machines, principles and structure of synchronous machines, parameterisation for performance prediction and machine testing and evaluation. You’ll have two 1-hour lectures per week, supplemented with practical demonstrations for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Control Systems Design 
+   
+   
+   
+     This module enables you to design both analogue and digital controllers for linear single-input single-output systems. You’ll have access to CAD control design packages for evaluating control design. Through three 1-hour lectures per week, you’ll cover topics such as: design of analogue controllers using Root Locus Method; closed loop performance and frequency response; microprocessor implementation; practical problems in digital control; design of digital controllers using z-plane techniques and practice with CAD package. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Energy Conversion for Motor and Generator Drives 
+   
+   
+   
+     Introducing you to the concepts and operating principles of variable speed electric motor drives systems, you’ll use a number of system examples to demonstrate how the drive systems are specified, designed, controlled and operated. You’ll have a two-hour lecture each week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Power Electronic Design 
+   
+   
+   
+     Providing an understanding of the operational principles of power electronic converters and their associated systems, this module covers: 3-phase naturally commutated ac-dc/dc-ac converters, capacitive and inductive smoothing-device ratings, dc-ac PWM inverters and modulation strategies, resonant converters, high power factor utility interface circuits and power converter topologies for high power (multilevel). You’ll have two 1-hour lectures per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Industrial Awareness 
+   
+   
+   
+     This module is taught via a number of full day workshops devoted to industrially relevant subjects, run jointly by departmental staff and industrial colleagues. Coursework will be set following each workshop. Activities will include: group work, role playing, presentations, decision making, information gathering, literature searches, strategy formulation and preparation of a summary report. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Group Project 
+   
+   
+   
+     Working in groups of between four and six, under the supervision of a member of academic staff, you’ll work on projects encompassing a broad range of engineering skills, involving the design, analysis and evaluation of systems or engineering problems. Assessment of the societal impact of the outcome will form part of the requirement of the project. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Renewable Generation Technologies and Control 
+   
+   
+   
+     This module covers the analysis and design of renewable and sustainable energy systems. It covers the various types of renewable energy and the resources available. It uses an understanding of the physical principles of various types of energy resources in order to develop analytical models which can be applied to the design of renewable energy systems, including energy conversion and storage, especially for electrical power generation. You’ll have a two-hour weekly lecture to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    FACTS and Distributed Generation 
+   
+   
+   
+     This module provides students with an understanding of power systems which include renewable energy generators. It investigates the operation of renewable energy generators at a systems level, including analysis of distributed generation systems. The module covers some of the following topics: analysis of load flow in distributed generation systems; operation and control of microgrids; distributed power system control and stability; Use of STATCOM devices, and Flexible AC transmission systems (FACTS). You’ll have one 2-hour lecture per week and will spend time in the computing laboratory working on CAD problems. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  Optional
+   You must take one of the following modules:
+   
+   
+  
+    Mathematics for Engineering Management 
+   
+   
+   
+     This module examines and classifies various (non-statistical) management and operational research problems and their formulation and techniques for solution. Techniques introduced and used concentrate on operations research problems such as linear programming (LP), dynamic programming and nonlinear programming problems. Each week there will normally be one 1-hour lecture and a two-hour workshop to introduce key mathematical knowledge on module topics. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced Mathematical Techniques in Ordinary Differential Equations for Engineers 
+   
+   
+   
+     This module covers advanced analytic mathematical techniques used to provide exact or approximate solutions to common classes of ordinary differential equations (ODES) typical in Engineering. Techniques covered include: method of variation of parameters, Laplace transform methods, Taylor series method, Frobenius method, asymptotic regular perturbations and strained coordinates and multiple scales. Each week there will normally be one 1-hour lecture and a two-hour workshop to introduce key mathematical knowledge on module topics. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mathematical Techniques in Partial Differential Equations for Engineers 
+   
+   
+   
+     Covering a variety of analytic techniques for solving partial differential equations, topics include: characteristic methods, separation of variables, transform methods (Fourier and Laplace), similarity methods and D’Alembert’s solution and Duhamel’s principle. Each week there will normally be one 1-hour lecture and a two-hour workshop to introduce key mathematical knowledge on module topics. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Computerised Mathematical Methods in Engineering 
+   
+   
+   
+     The methodology and associated numerical techniques are introduced to enable a selection of mathematical operations to be evaluated with the use of computer-based software algorithms to problems that cannot be solved analytically. Topics include: introduction to concepts of numerical analysis, quadrature and curve fitting, numerical linear algebra, qualitative and finite-difference methods for ODEs and numerical methods for solving PDEs. Each week there will normally be one 1-hour lecture and a two-hour workshop to introduce key mathematical knowledge on module topics. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Four Modules   
+  
+  
+  Compulsory
+   
+   
+  
+    Industrial/Research Orientated Project 
+   
+   
+   
+     You’ll work on an individual project of direct industrial or research relevance which will usually be undertaken in collaboration with a suitable company. The normal expectation is that the project specification will be drawn up following consultation between you, your project supervisor and an advisor at the collaborating company. You’ll work under the supervision of a member of staff with weekly individual tutorials and where appropriate will maintain contact with the collaborating company through meetings and visits. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  Optional
+   
+   
+  
+    Technologies for the Hydrogen Transport Economy 
+   
+   
+   
+     This module aims to develop your understanding of hydrogen and other sustainable vehicle technologies. The module will cover technologies currently under development and those likely to be used in future vehicle power-train systems, such as fuel cells. It will also cover technologies for hydrogen storage and distribution through a two-hour weekly lecture.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced AC Drives 
+   
+   
+   
+     This module covers the control of AC drives. The first part covers vector controlled induction motor drives. A review of induction machine operation and basic open-loop induction motor drives is given. The second part of the module introduces both AC and Brushless DC permanent magnet motor drives and the second part covers permanent magnet motor drives. Teaching takes place over a 5-week period in which there are a total of 20 hours of timetabled lectures. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Technologies for Wind Generation 
+   
+   
+   
+     This module provides you with an understanding of the technologies used in wind power systems. It investigates the operation of wind generators and of wind farms and the current developments in electrical engineering for wind power. You’ll have a four-hour lecture delivered each week over the five week duration of the module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced AC Drives with Project 
+   
+   
+   
+     This module addresses the control of AC drives and consists of a lecture component and a design and assessment project. The lecture component covers vector controlled induction motor drives and permanent magnet motor drives. Both AC and Brushless DC permanent magnet motor drives are introduced. The project component is a design and simulation exercise using MATLAB/Simulink. You’ll be required to design an indirect vector controlled induction motor drive, implement the design in Simulink, and undertake evaluative tests covering current and speed loop performance, including field weakening for high speed. Teaching takes place over a five week period in which there are 15-20 hours of timetabled lectures and demonstrations. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced Electrical Machines 
+   
+   
+   
+     This module will build on the material covered in “Electrical Machines” by introducing advanced concepts and applications in the area of more electric transport, renewable generation and industrial automation. Both theoretical and practical characteristics are covered through six hours of lectures and two hours of practical classes each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction To Finance 
+   
+   
+   
+     You’ll be introduced to basic corporate and personal finance concepts, including the time value of money, financial markets, shares and bonds, financial risk and return, raising money, and the elements of investment. You’ll spend around two hours in lectures and have one 1-hour workshop per week for study of this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Entrepreneurship and Business 
+   
+   
+   
+     This module provides you with a formal analysis of entrepreneurship in theory and practice leading on to a consideration of creativity and business concept generation. The module concludes with the practical application of these theories and concepts in business planning and business concept presentation. You’ll have one 2-hour lecture per week.
+     
+    
+   
+  
+      
+   
+  
+    Science, Technology & Business 
+   
+   
+   
+     Introducing you to the importance of, and the processes involved in the commercialisation of science and technology, the content of this module is highly relevant in the current climate where Government is placing much evidence on the wealth creation process. The aims of the module will achieved by a combination of experiential learning via lectures and seminars each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Marketing A 
+   
+   
+   
+     This module aims to introduce you to the concept of marketing as an approach to business and discuss the nature of marketing strategy. You’ll investigate the challenges of managing the marketing mix and illustrate how understanding and application of the principles of marketing can assist in the strategic management of the firm. You’ll spend around three hours per week in lectures and seminars studying for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Marketing B 
+   
+   
+   
+     This module will expand your understanding of topics studied in the previous module Introduction to Marketing A module. You’ll spend around three hours per week in lectures and seminars studying for this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    New Venture Creation 
+   
+   
+   
+     New Venture Creation will engage you in the more practical elements of innovation and enterprise activity, not just in terms of creating new businesses, but also in terms of entrepreneurship within the corporate environment. This module will prepare you for enterprise activity across a variety of contexts. You’ll spend around three hours per week in lectures and workshops studying for this module.

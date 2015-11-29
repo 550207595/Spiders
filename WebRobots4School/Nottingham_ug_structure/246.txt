@@ -1,0 +1,624 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff. They’re also shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules on offer.  
+  
+  Typical Year One Modules 
+  
+  
+   
+  Compulsory:
+   
+   
+  
+    Engineering Mathematics 1 
+   
+   
+   
+     This module introduces the algebra of complex numbers to provide a key mathematical tool for analysis of linear mathematical and engineering problems. The complexity of solving general systems of equations is introduced and their study using matrix techniques. You’ll spend around 3 hours per week in lectures and workshops studying for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Mathematics 2 
+   
+   
+   
+     You’ll be introduced to techniques for solving selected first-order and second-order differential equations relevant to the analysis of generic engineering problems. The module also provides mathematical tools in terms of advanced differential calculus and vectors for modelling of generic engineering situations given in terms of multi-dimensional models. You’ll spend around 3 hours per week in lectures and workshops studying for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Design and Manufacture 1 
+   
+   
+   
+     This year long module introduces students to basic concepts and practice of design and manufacture and includes the following topics: The process of design supported by practical design activities; Engineering drawing; Solid modelling and drawing generation; Machine shop practical training; Machine elements, machining processes; Metrology. You’ll spend 3 hours in lectures, 3 hours in computing, 3 hours in workshops and 4 hours in every week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to materials and materials forming 
+   
+   
+   
+     The module gives a broad introduction to the properties and processing of materials used in engineering applications and is intended to provide a course in engineering materials for students with no previous background in the subject. The final section of the module covers failure of materials, and seeks to cover the main failure mechanisms which a designer will be concerned with (overload, fracture, creep, fatigue etc). You’ll spend 2 hours in lectures and 6 hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mechanics of Solids 1 
+   
+   
+   
+     The aim of this module is to introduce students to fundamental concepts and principles of solid mechanics and their applications to simple engineering problems. By the end of the module you will be able to comprehend the fundamental concepts of solid mechanics and apply these concepts to simplified engineering scenarios. You’ll spend 2 hours in lectures, 6 hours in practicals and 1 hour in a seminar each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Professional Studies 
+   
+   
+   
+     The module covers a number of global and ethical issues relating to engineering .The module introduces many of the key transferrable skills required by engineers (and others) within the context of these issues, including: report writing; literature searching and presentation skills. You’ll spend 2 hours in lectures and 5 hour in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Thermodynamics & Fluid Mechanics 1 
+   
+   
+    
+    
+      The aim of this module is to introduce students to fundamental concepts and principles of thermo-fluids and their applications to simple engineering problems. You’ll spend 1 hour in lectures, 2 hours in practicals and 1 hour in seminars each week when studying this module. 
+     
+     
+      
+     
+    
+   
+  
+      
+   
+  
+    Dynamics of Mechanical Systems 
+   
+   
+   
+     The aim of this module is to introduce students to fundamental concepts and principles of dynamics and their application to mechanical engineering systems. You will recognise and construct an appropriate analysis technique to apply when presented with a simple engineering scenario in a dynamics context. You’ll spend 1 hour in lectures, 2 hours in practicals and 1 hour in tutorials each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Computer Programming with MATLAB 
+   
+   
+   
+     This module sets out to equip students with the ability to create and run elementary programs with MATLAB and to exploit the tools which are built-in within it. As well as giving some insight into what all computer programming languages can do and being an academic subject in its own right, this module endeavours to equip students with a tool which will serve them well through the remainder of their engineering degree. You’ll spend 2 hours in lectures and 1 hour computing each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  
+ 
+     
+  
+  
+  
+  Typical Year Two Modules 
+  
+  
+   
+  Compulsory:
+   
+   
+  
+    Computer Programming 
+   
+   
+   
+     This module sets out to equip students with the ability to create and run elementary programs with MATLAB and to exploit the tools which are built-in within it. As well as giving some insight into what all computer programming languages can do and being an academic subject in its own right, this module endeavours to equip students with a tool which will serve them well through the remainder of their engineering degree. You’ll spend 2 hours in lectures and 1 hour in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Differential Equations and Calculus for Engineers 
+   
+   
+   
+     This module aims to allow you to understand, apply and manipulate standard techniques for solving important classes of ordinary differential equations. The fundamental concepts for solving partial differential equations relevant to modelling of thermodynamic, fluid or elastic problems is introduced and illustrated by obtaining fundamental solutions using techniques developed within the module. You’ll spend 1 hour in lectures and 2 hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Materials in Design 
+   
+   
+   
+     This module aims to introduce students to methodologies for materials selection and process selection for design improvement. This module seeks to develop an understanding of the role of materials in the design of a range of components, from consumer goods to large scale structures.  You’ll spend 2 hours in lectures and 2 hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Design and Manufacture 2 
+   
+   
+   
+     This module will introduce design methodology through the entire design cycle from establishing users' needs and generating creative concepts to developing fabricable engineered solutions. You will develop knowledge of machine elements and mechanical systems and develop enhanced skills in communicating effectively in a team environment and operating machine tools for manufacturing and testing of design. You’ll spend 2 hours in lectures, 4 hours in practicals and 8 hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Dynamics 
+   
+   
+   
+     This module aims to introduce concepts of rigid body dynamics, vibrations and feedback control, and develop the student's ability to analyse these aspects in simplified engineering situations. You’ll spend 2 hours in lectures, 6 hours in practicals and 1 hour in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Thermodynamics & Fluid Mechanics 2 
+   
+   
+   
+     In this module you will apply concepts and principles of thermofluids to fluid mechanics, thermodynamics and heat transfer situations in simplified applied situations. You’ll spend 2 hours in lectures, 8 hours in practicals and 1 hour in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Management Studies 1 
+   
+   
+   
+     This module introduces students to modern management methods relevant to the running of a company. Topics include: Introduction to basic economics; the essential requirements and aims of a business; preparing a business plan; accounting; interpretation of accounts; programme management; the essentials of “lean” manufacture and the management of innovation. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mechanics of Solids 2 
+   
+   
+   
+     The aim of this module is to introduce more advanced topics in linear elastic solid mechanics, plasticity and failure, introduce relevant analysis methods for this materials behaviour and demonstrate the application of these methods to the design of engineering components. You’ll spend 2 hours in lectures, 6 hours in practicals and 2 hours in tutorials each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mechanics of Solids 3 
+   
+   
+   
+     The aim of this module is to introduce more advanced topics in linear elastic solid mechanics, plasticity and failure. You will be introduced to relevant analysis methods for this materials behaviour and demonstrate the application of these methods to the design of engineering components. You’ll spend 2 hours in lectures, 6 hours in practicals and 2 hours in tutorials each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  
+ 
+     
+  
+  
+  
+  Typical Year Four Modules 
+  
+  
+   
+  Compulsory:
+   
+   
+  
+    Management Studies 2 
+   
+   
+   
+     On completion of this module you will be able to understand how projects are selected and financially evaluated. You'll be able to construct and monitor the elements of an engineering or business programme and acquire an ability to manage risks and quality issues in the industrial and business context. You'll develop an understanding of the basics of English Law. You’ll spend 2 hours in lectures in tutorials each week when studying this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Group Design and Make 
+   
+   
+   
+     The project involves 2 or more students, working as a team to design, manufacture and develop a product. Starting from the design brief prepared by the supervisor, the group will be required to devise and evaluate alternative design concepts, undertake the detailed engineering analysis and mechanical design, manufacture a prototype, evaluate its performance and undertake development work to improve it. Assessment of the financial viability and marketability of the product will be a major requirement. You’ll spend 1 hour in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Computer Modelling Techniques 
+   
+   
+   
+     This module aims to provide students with a basic knowledge and understanding of the main stream computer modelling techniques used in modern engineering practice, including Finite Element, Finite Difference & Finite Volume methods. You’ll spend 2 hours in lectures in tutorials each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  Optional:
+   Group 1 - Students must take a minimum of 20 and a maximum of 60 credits from this group.
+   
+   
+  
+    Energy Efficiency for Sustainability 2 
+   
+   
+   
+     This module provides students with an awareness of the use of energy and the environmental impact of its use. It will give students an understanding of the key principles of engineering science that can be used to analyse energy systems and the ability to apply them. It will also provide students with knowledge of the technology and techniques that may be used to make energy systems more sustainable through energy conservation. You’ll spend 3 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Control and Instrumentation 
+   
+   
+   
+     This module covers the basic techniques for the analysis and development of simple control systems with an emphasis on their application to mechanical and process systems. The module covers theoretical methods and hardware considerations in the analysis and design of open-loop and closed-loop systems. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced Dynamics of Machines 
+   
+   
+   
+     This module covers advanced concepts and analytical techniques used to analyse the dynamics of mechanical systems. You will develop understanding, familiarity and knowledge of the analysis techniques required to describe the dynamical and vibration behaviour of mechanical systems moving in 2- and 3-dimensions. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Heat Transfer 
+   
+   
+   
+     This is an advanced module covering heat transfer theory. The module covers in more detail the mechanisms of heat transfer and provides potential solutions to practical applications. Several methods of solving problems of heat transfer are outlined and examples from industry and research are used to underline the usefulness of the techniques. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Stress Analysis Techniques 
+   
+   
+   
+     This is an advanced module dealing with experimental, analytical and numerical methods for determining stresses and deformations in complex engineering components. Some of the topics covered include: membrane stresses; Beams on elastic foundations; Bending of flat plates; and experimental stress analysis methods. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Structural Vibration 2 
+   
+   
+   
+     This module aims to develop understanding, familiarity and knowledge of the analysis techniques required for describing the vibration behaviour of linear structures under arbitrary deterministic excitation. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Computer Aided Engineering 
+   
+   
+   
+     This module will enable you to create, display and analyse complex forms and assemblies. Various elements of CAE will be covered including, solid & surface modelling, rendering and analysis. Review of the CAE software and industry. You’ll spend 3 hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  
+ 
+     
+  
+  
+  
+  Typical Year Five Modules 
+  
+  
+   
+  Compulsory:
+   
+   
+  
+    Advanced Technology Review 
+   
+   
+   
+     This module exposes you to topics relevant to engineers today that are new and/or developing rapidly and which may be associated with important segments of the UK economy. The aim of the Case Study is to develop your skills in acquiring, assimilating, synthesising and presenting technical and business information in an appropriate form based on sound research. You’ll spend 4 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Integrated Systems Analysis 
+   
+   
+   
+     This module covers topics aligned to the design, description and analysis of dynamically complex, integrated systems. The module is motivated by the recognition that the processes and concerns associated with designing and validating systems are distinct from those connected with designing and validating components. You’ll spend 2 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    MEng Individual Project 
+   
+   
+   
+     The project aims to give experience in the practice of engineering at a professional level. It involves the planning, execution and reporting of a programme of work which will normally involve a mixture of experimental, theoretical and computational work together with a review of relevant previous work in the field.  
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  Optional:
+   
+  
+    Group 1 - Students must take a minimum of 20 and a maximum of 60 credits from this group. 
+   
+   
+    
+   
+     Introduction to Turbulence and Turbulent Flows 
+    
+    
+    
+      This is an advanced module in fluid mechanics applicable to a wide range of engineering disciplines. You will develop understanding and application skills of basic concepts and fundamental knowledge in turbulence and turbulent flows in engineering. You’ll spend 2 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Computational Fluid Dynamics 
+    
+    
+    
+      This module will allow you to develop an understanding of advanced knowledge of fluid mechanics, covering various areas of engineering. You’ll spend 4 hours in lectures and 2 hours in practicals each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Aerodynamics 
+    
+    
+    
+      This module aims to develop your understanding and application skills of basic concepts and fundamental knowledge in fluid mechanics in aerospace engineering. You will study a range of topics: Applied aerodynamics fundamentals and several relevant theories. You’ll spend 2 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Internal Combustion Engines 
+    
+    
+    
+      The aim of this module is to provide students with the knowledge of internal combustion engine fundamentals, design and performance. The module also develops the skills to analyse engine behaviour and formulate design specifications to meet performance requirements through the selection/application of appropriate models. You’ll spend 2 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Aircraft Propulsion Systems 
+    
+    
+    
+      The aim of this module is to provide you with an understanding of the basic thermo-fluid principles of aircraft propulsion and gas turbine engines. You will develop your knowledge of the layout and design principles of jet engines and how individual components can be designed to achieve the required performance. You’ll spend 2 hours in lectures and 1 hour computing each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+     Automotive Vehicle Dynamics 
+    
+    
+    
+      This module will present the applications of principles from dynamics, vibration and control to the analysis of vehicle dynamics, and to develop understanding in the performance analysis of modern automotive vehicles. You’ll spend 2 hours in lectures each week when studying this module. 
+     
+     
+      
+     
+    
+   
+       
+    
+   
+  
+    Advanced Numerical Methods in Engineering 
+   
+   
+   
+     This module will give you the theoretical and practical background of computational techniques required for the numerical solution of complex engineering problems. You’ll spend 1 hour in lectures and 1 hour in practicals each week for 11 weeks when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Material Models and Modes of Failure 
+   
+   
+   
+     This is an advanced module dealing with material constitutive models and modes of failure in complex engineering components.  You will apply engineering mechanics concepts and materials behaviour models to predict the failure loads and/or lives of complex engineering components in order to produce efficient designs. You’ll spend 2 hour in lectures each week for 11 weeks when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  
+    Streamed versions of this degree are available covering: Aerospace;  
+   Automotive;  
+   Bioengineering;  
+   Management;  
+   Manufacturing;  
+   Materials;  
+   Modern Language and  
+   Sustainability. For more information please refer to the course overview tab or the departmental website.

@@ -1,0 +1,277 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.  
+  
+   Typical Year One Modules  
+  
+  
+  
+    Mathematics for Physics and Astronomy  
+   
+   
+   You will study a selection of mathematical techniques that are useful for analysing physical behaviour. The module topics are: complex numbers, calculus of a single variable, plane geometry and conic sections, ordinary differential equations, calculus of several variables and matrices and matrix algebra. 
+    
+   
+  
+      
+   
+  
+    From Newton to Einstein  
+   
+   
+   This year-long module aims to introduce core topics in physics which will underpin all subsequent physics modules. You’ll discuss classical mechanics in the language of vectors and the key notion of harmonic motion which is extended to cover wave phenomena. You’ll have an introduction to Einstein's special theory of relativity as well as the basic ideas of electromagnetism and electrical circuits and quantum physics. There will be four hours of lectures and a one hour tutorial weekly plus 2 two-hour workshops throughout the year. 
+    
+   
+  
+      
+   
+  
+    Frontiers in Physics  
+   
+   
+   This module introduces you to major areas of physics beyond those encountered in the core modules, including those at the forefront of modern research. Particular focus is placed on introductions to astronomy, biophysics and nanoscience. Other topics include condensed matter physics, atomic and particle physics and the physics of the environment. 
+    
+   
+  
+      
+   
+  
+    Quantitative Physics  
+   
+   
+   This year-long module will train you in the mathematical modelling of physical processes. You’ll be trained in topics such as basic statistics and errors, dimensional analysis, curve sketching, orders of magnitude and estimates and integrating problems in physics among others. You’ll have an hour per week of lectures plus a number of 90 minute workshops throughout the year to assist in your learning. 
+    
+   
+  
+      
+   
+  
+    Computing For Physical Science  
+   
+   
+   In this year-long module you’ll learn the techniques for solving physical problems using MatLab. Topics will include variables and operators, vectors and arrays and plotting 2D and 3D graphs among others. You have a mix of three hour-long lectures, and a number of computer workshops lasting between ninety minutes and three hours throughout the year. 
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Two Modules   
+  
+  
+  
+    Principles of Dynamics  
+   
+   
+   In this module you’ll be introduced to the mathematical language for discussing extreme problems. The formulations of mechanics due to Lagrange and Hamilton will be described and techniques for the solutions of the consequent equations of motion will be discussed. You’ll learn the underlying principles of dynamics and develop techniques for the solution of dynamical problems. You’ll have two hours per week of lectures studying this module. 
+    
+   
+  
+      
+   
+  
+    The Quantum World  
+   
+   
+   This module will provide an introduction to the theory and applications of quantum mechanics, a theory that is one of the key achievements of 20th century physics. This module will begin with a discussion of simple systems and develop the mathematical formulation of quantum mechanics. The module will then extend the formalism to cope with the movement of particles and make links to the material that you have seen in the 'From Newton to Einstein' module. 
+    
+   
+  
+      
+   
+  
+    Thermal and Statistical Physics  
+   
+   
+   In this year-long module you’ll learn about the two main themes relating to the description of important physical properties of matter; thermodynamics and statistical mechanics. You’ll discover that they share common features through two hours of lectures weekly and four practical workshops throughout the year. 
+    
+   
+  
+      
+   
+  
+    Wave Phenomena  
+   
+   
+   Many physical systems support the propagation of waves, from the familiar waves on the surface of water to the electromagnetic waves that we perceive as light. The first half of the module will focus on optics: the study of light. Topics to be covered will include: geometrical optics; wave description of light; interference and diffraction; optical interferometry. The second half of the module will introduce more general methods for the discussion of wave propagation, and Fourier methods. 
+    
+   
+  
+      
+   
+  
+    Symmetry and Action Principles in Physics 
+   
+   
+   Symmetry is a powerful notion, both in the development of theories of physical phenomena and in the solution of physical models. In this module the basic aspects of the mathematical language of symmetry will be introduced and applied to a range of physical phenomena, as well as the principle of least action, introduced in The Principles of Dynamics module, will be further developed. 
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Three Modules  
+  
+  
+  
+    Scientific Computing  
+   
+   
+   This module aims to provide you with the skills necessary to use computational methods in the solution of non-trivial problems in physics and astronomy. You’ll also sharpen your programming skills through a three hour computing class and one hour of lectures per week.  
+    
+   
+  
+      
+   
+  
+    Quantum Dynamics  
+   
+   
+   In this module you’ll develop your knowledge of quantum theory with a focus on how quantum systems evolve over time. You’ll enhance your knowledge of mathematical formalism of quantum mechanics as well as introducing important physical models and calculation techniques. You’ll cover the dynamics of operators and wavefunctions which can be applied to time-dependant problems. These ideas will then be used to explore some of the quantum dynamical properties of the harmonic oscillator and the two-level system. You’ll have two hours of lectures per week plus two ninety-minute workshops studying this module. 
+    
+   
+  
+      
+   
+  
+    Atoms, Photons and Fundamental Particles  
+   
+   
+   In this year-long module you’ll be introduced to the physics of atoms, nuclei and the fundamental constituents of matter and their interactions. You’ll gain knowledge about the quantum mechanical description of their interactions.  You’ll have two hours weekly of lectures with five 90 minute workshops throughout the year to aide your understanding. 
+    
+   
+  
+      
+   
+  
+    Introduction to Solid-State Physics  
+   
+   
+   In this year-long module you’ll be introduced to solid state physics. You’ll explore the topics of bonding, crystal structures, band theory, semi-conductors, phonons and magnetism among others. You’ll apply theoretical ideas to the quantitative analysis of physical situations. You’ll have two hours per week of lectures plus five 90 minute workshops throughout the year. 
+    
+   
+  
+      
+   
+  
+    Theoretical Elementary Particle Physics 
+   
+   
+   In this module you’ll have an introduction to theoretical aspects of the standard model of particle physics. You’ll learn about ideas such a symmetry and conservation laws through a number of different topics including relativistic notation, relativistic particles, Feynman diagrams and discrete symmetries among others. You’ll have two hours per week of lectures studying this module. 
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Four Modules  
+  
+  
+  
+    Gravity  
+   
+   
+   This module provides an introduction to the modern theory of gravitation: Einstein's general theory of relativity. This module is based on a regular series of two 1-hour lectures per week supplemented by a 2 hour workshop once a fortnight. 
+    
+   
+  
+      
+   
+  
+    Light and Matter  
+   
+   
+   
+     This module will extend previous work in the areas of atomic and optical physics to cover modern topics in the area of quantum effects in light-matter interactions. Some basic material will be introduced in six staff-led seminars and you’ll have around two hours of lectures and student-led workshops each week.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Optional Modules   
+  
+  
+  
+    The Structure of Stars  
+   
+   
+   This module will develop your knowledge of the various physical processes occurring in stars of different types. You’ll use this knowledge to build both mathematical models and your qualitative physical understanding of stellar structure and evolution will be enhanced. You’ll have two hours per week of lectures studying this module. 
+    
+   
+  
+      
+   
+  
+    Health Physics  
+   
+   
+   Radiation is a term which can cover many different phenomena and in the public eye radiation can often be seen as a danger. In this module you will learn how physicists can harness the health benefits of using radiation, as well as measuring and controlling levels of radiation in the environment.  You’ll examine the biological effects of radiation and the principles which govern safe exposure limits. Around two hours per week will be spent in lectures supplemented by student-led workshop sessions. 
+    
+   
+  
+      
+   
+  
+    The Structure of Galaxies  
+   
+   
+   This module will develop your current understanding of the various physical processes that dictate the formation, evolution and structure of galaxies. You’ll explore a number of topics including The Milky Way, The Dynamics of Galaxies, Active Galaxies and Galaxy Evolution among others. You’ll spend two hours per week in lectures studying this module. 
+    
+   
+  
+      
+   
+  
+    Introduction to Cosmology  
+   
+   
+   In this module you’ll be introduced to modern cosmology – the scientific study of the Universe as a whole. Topics will cover recent observations and theoretical developments including Friedmann models, the thermal history of the Big Bang and classical cosmological tests among others. You’ll have two hours per week of lectures along with two 2 hour workshops to assist your learning whilst studying this module. 
+    
+   
+  
+      
+   
+  
+    Functional Medical Imaging  
+   
+   
+   The techniques for magnetic resonance imaging (MRI) and spectroscopy (MRS) are explored. You’ll be introduced to the brain imaging technique of functional magnetic resonance imaging (fMRI), giving an overview of the physics involved in this technique. You’ll spend two hours per week in lectures.  
+    
+   
+  
+      
+   
+  
+    Force and Function at the Nanoscale  
+   
+   
+   This module will provide an introduction to how forces at the nanoscale are radically different to those observed in macroscopic systems and how they can be exploited in nanometre-scale processes and devices. You’ll spend two hours per week in lectures and have two practical workshops during the semester. 
+    
+   
+  
+      
+   
+  
+    Molecular Biophysics 
+   
+   
+   This module will explore the structure of molecules of biological importance and their mutual interactions and dynamics. Emphasis will be placed on the physical determination of molecular structure and intermolecular forces. Furthermore, techniques to study dynamics on the molecular level will be discussed.

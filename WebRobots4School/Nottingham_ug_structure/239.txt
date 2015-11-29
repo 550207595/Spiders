@@ -1,0 +1,288 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change, and from the second year upwards only partial, but should give you a flavour of the modules we offer.   
+  
+    Typical Year One Modules  
+  
+  
+    Compulsory  
+  
+    Analytical and Computational Foundations 
+   
+   
+   
+     This module will introduce you to three core concepts and techniques that underpin all maths modules in your degree. These are mathematical reasoning – the language of maths and providing concrete proof of your theories, an introduction to the computer package MATLAB – its use and application, and basic analysis methods. You will have a combination of lectures, workshops and tutorials averaging about five hours per week throughout the year.
+     
+     
+    
+   
+  
+      
+   
+  
+    Calculus 
+   
+   
+   
+     In this module, you will begin by practicing the basic concepts and methods of calculus including limits, functions, continuity, Taylor series, and Laplace transforms. In the second semester you will move onto more advanced usage of calculus. Topics will be based around the calculus of functions of several variables and include partial derivatives, chain rules, the vector operator grad, Lagrange multipliers and multiple integrals. This module is taught in two 1-hour lectures per week as well as problem classes and three hour tutorial support per week.
+     
+     
+    
+   
+  
+      
+   
+  
+    Linear Mathematics 
+   
+   
+   
+     This module introduces you to the methods and practices of linear mathematics that you will need in subsequent modules on your course. Complex numbers, vector algebra and matrix algebra are established. You will then expand your knowledge to include vector spaces, linear transformations and inner product spaces through two hours of lectures per week combined with problem classes and tutorial support.
+     
+     
+    
+   
+  
+      
+   
+    Optional  
+  
+    Foundations of Pure Mathematics 
+   
+   
+   
+     This module will provide a foundation for all further pure mathematics studies on your course. You will learn that pure mathematics is a language based on the notion of sets, functions and relations. This module will help you to learn how to read and write this language. There will also be discussions with examples on the application and use of Pure Mathematics. You will have two hours per week of lectures plus problem/example classes to develop your skills.
+     
+     
+    
+   
+  
+      
+   
+  
+    Applied Mathematics 
+   
+   
+   
+     In this module, you will receive an introduction to classical mechanics and modelling in applied mathematics. This will provide you with a foundation in applied mathematics and you will begin to apply your knowledge to real-world problems. You will spend two hours in lectures each week and have a fortnightly one hour problem class.
+     
+     
+    
+   
+  
+      
+   
+  
+    Probability 
+   
+   
+   
+     This module provides an introduction to probability by developing a framework for the logic of uncertainty. Random variables and the topics surrounding them will also be introduced. You will spend two hours in lectures per week. 
+     
+     
+    
+   
+  
+      
+   
+  
+    Statistics 
+   
+   
+   
+     This module offers you the chance to learn about a range of statistical ideas and skills. In addition, concepts and techniques for modelling and practical data analysis skills will be taught. You will learn to write reports based on these topics which will help you in further studies. You will have a combination of lectures, problem classes and workshops totalling around four hours per week.
+     
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Two Modules  
+  
+  
+  
+    Algebra and Number Theory 
+   
+   
+   
+     This module is based on concepts from Year One pure mathematics modules.  You will develop these concepts further to include those of groups and rings, substructures and quotient structures. Basic elementary number theory is introduced and you will be shown how to apply your knowledge to concrete situations using number theory. You will spend around three hours in lectures and problem classes per week studying this module as well as four tutorials in the Autumn semester.
+     
+     
+    
+   
+  
+      
+   
+  
+    Complex Functions 
+   
+   
+   
+     In this module you will learn about the theory and applications of functions of a complex variable using a method and applications approach. You will develop understanding of the theory of complex functions and evaluate certain real integrals using your new skills. There will be two hours of lectures per week and a one hour fortnightly problem class.
+     
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Mathematical Physics 
+   
+   
+   
+     This year-long module explores the classical and quantum mechanical description of motion.  You will investigate the laws of classical mechanics and apply different forms to problems such as planetary and rigid body motion and vibrating systems. The knowledge gained in this module will benefit you for more advanced studies of mathematical physics in Years Three and Four. You will have a combination of lectures, problem and example classes totalling around three hours per week.
+     
+     
+    
+   
+  
+      
+   
+  
+    Mathematical Analysis 
+   
+   
+   
+     In this module you will build on the foundation of knowledge gained from your core year one modules in Computational and Analytical Mathematics and Calculus. You will learn to follow a rigorous approach needed to produce concrete proof of your workings. There will be 2 one-hour lectures each week and a fortnightly problem class.
+     
+     
+    
+   
+  
+      
+   
+  
+    Modelling with Differential Equations 
+   
+   
+   
+     In this year-long module you will further explore mathematical modelling based on your knowledge from your core Year One modules. You will learn techniques for studying linear and nonlinear systems of ordinary differential equations, using linearisation and phase planes. Models based on partial differential equations and how to analyse them will also be explored along with continuum models to analyse the flow of fluids. You will have three hours of lectures, problem and example classes each week. 
+     
+     
+    
+   
+  
+      
+   
+  
+    Statistical Models and Methods 
+   
+   
+   
+     The first part of this module provides an introduction to statistical concepts and methods and the second part introduces a wide range of techniques used in a variety of quantitative subjects. The key concepts of inference including estimation and hypothesis testing will be described as well as practical data analysis and assessment of model adequacy alongside other topics. You will have a combination of lectures, example and problem classes each week. 
+     
+     
+    
+   
+  
+      
+   
+  
+    Professional Skills for Mathematicians 
+   
+   
+   
+     This module will equip you with the skills needed for graduate employment. You will work on two group projects based on open-ended mathematical topics agreed by your group. You will also work independently to improve your communication skills and learn how to summarise technical mathematical data for a general audience. You will be provided with some commercial and business awareness and explore how to use your mathematical sciences degree for your future career. You will attend a two hour workshop each week.
+     
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Three Modules  
+  
+  
+    You will spend this year abroad. Please contact the  School of Mathematical Sciences for information.  
+  
+ 
+     
+  
+  
+   
+     Typical Year Four Modules  
+   
+   
+     Optional  
+   
+     Advanced Quantum Theory 
+    
+    
+    
+      In this module you will apply the general theory you learnt in Introduction to Mathematical Physics to more general problems. New topics will be introduced such as the quantum theory of the Hydrogen atom and aspects of angular momentum such as spin. You will have around four hours of lectures each week.
+      
+      
+     
+    
+   
+       
+    
+   
+     Game Theory 
+    
+    
+    
+      In this module you will explore the connection between numbers and games and how games can be analysed. You will learn about the algorithms of gaming, stemming from many areas of mathematics and computing. You will be able to use the mathematical knowledge you have gained so far on the course to analyse various situations in a logical manner practicing strategic decision-making. You will spend two hours per week in lectures.
+      
+      
+     
+    
+   
+       
+    
+   
+     Mathematical Medicine and Biology 
+    
+    
+    
+      In this module you will learn that mathematics can be applied to a wide range of applications in medicine and biology. Prior knowledge of biology is not essential as the foundation of this module stems from the Modelling with Differential Equations module in Year Two of your studies. There is considerable emphasis on model building and development relating to topics such as the spread of disease, the growth of tumours and biological oscillations among others. For this module there will be two hours of lectures and two hours of example or problem classes each week. 
+      
+      
+     
+    
+   
+       
+    
+   
+     Medical Statistics 
+    
+    
+    
+      In this module you will learn that medical statistics is one of the largest areas of application of statistical methodology. You will build on your theoretical knowledge of statistical inference by a practical implementation of the generalised linear model. You will move on to enhance your understanding of statistical methodology including the analysis of discrete and survival data. You will also be trained in the use of a high-level statistical computer program. For this module there will be a combination of lectures, computer workshops and problem classes totalling around three hours each week.
+      
+      
+     
+    
+   
+       
+    
+   
+     Number Fields and Galois Theory 
+    
+    
+    
+      This module will help you develop your knowledge of the basic theory of fields, their extensions and their automorphism groups with applications to classical problems. Particular emphasis is laid on finite fields and number fields as you prove the basic propositions concerning Galois Theory. You will build a theoretical foundation to the construction of splitting fields and then move onto the factorization of polynomials. For this module there will be a combination of lectures, problem and example classes for around three hours each week.
+      
+      
+     
+    
+   
+       
+    
+   
+     Topics in Scientific Computation 
+    
+    
+    
+      In this module you will learn how to use numerical techniques for determining the approximate solution of ordinary and partial differential equations where a solution is not able to be reached through analytical methods alone. You will also cover topics including: Initial Value Problems for ordinary differential equations, boundary value problems, eigenvalues, eigenvectors for symmetric matrices and the Krylov subspace method. For this module there will be a combination of lectures, problem and example classes for around three hours each week.

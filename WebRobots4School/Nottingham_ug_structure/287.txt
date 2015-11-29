@@ -1,0 +1,275 @@
+Modules  
+  The following are examples of modules which you may study over the course of your degree. You can also view our undergraduate module guide (PDF).  
+  Please view the Department of Philosophy and School of Politics and International Relations for information on their modules.  
+  Typical year one modules  
+  Core modules  
+ 
+   Foundations of Macroeconomics 
+  
+  
+   Macroeconomics is the study of the aggregate economy. This module will focus on the determinants of aggregate output, both in the short run - addressing cyclical movements of booms and busts - and in the long run - providing an introduction to economic growth.  
+   A running theme will be debates over the role of the government in macroeconomic management, covering fiscal and monetary policy. The module will introduce a series of basic models used in modern macroeconomics.  
+   This module aims to:  
+   
+   
+    provide a sound basis in the fundamentals of macroeconomics and their application to both theoretical and real world situations  
+    develop analytical skills using the major methods of mathematics and diagrams  
+    engender the ability to communicate and report findings, particularly via tutorial essays, presentations and exercises  
+   
+  
+ 
+     
+  
+ 
+   Foundations of Microeconomics 
+  
+  
+   This module begins by analysing how the economic choices of households and firms can be understood using consumer and producer theory. It then looks at how these individual choices are aggregated into market demand and supply to be mediated through the price mechanism.  
+   A variety of market settings are considered, ranging from the paradigm of perfect competition to strategic interactions in oligopolistic markets. The module concludes by providing an introduction to the normative evaluation of economic outcomes in terms of individuals’ welfare, covering both market and government failures.  
+   This module aims to:  
+   
+   
+    provide a sound basis in the fundamentals of micro-economics and their application to both theoretical and real world situations  
+    develop analytical skills using the major methods of mathematics and diagrams  
+   
+  
+ 
+     
+  
+ 
+   Quantitative Economics I 
+  
+  
+   
+    
+     Introduction to mathematical economics: mathematical finance  
+     Analysis of functions  
+     Supply and demand  
+     Matrix algebra  
+     Differentiation  
+     Elasticities  
+     Maximisation/minimisation  
+     Optimisation subject to constraints  
+     Langrange multipliers  
+     Integration  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide a basis in the fundamentals of Mathematics most relevant to the study of Economics  
+     allow students to see how mathematical tools can be applied in the analysis of theoretical economic problems  
+     facilitate the development of analytical skills leading to an understanding of which economic problems are susceptible to a formal treatment, and which results are capable of formal proof  
+    
+   
+  
+ 
+     
+  
+ 
+   Quantitative Economics II 
+  
+  
+  
+    The module introduces those statistical methods and concepts most applicable in Economics. The analysis of economic data necessarily proceeds in an environment where there is uncertainty about the processes that generated the data. Statistical methods provide a framework for understanding and characterising this uncertainty. These concepts are most conveniently introduced through the analysis of single-variable problems.  
+   
+   
+    
+   
+  
+    However, economists are most often concerned about relationships among variables. 
+   
+   
+    
+   
+  
+    The module builds towards the study of regression analysis, which is often applied by economists in studying such relationships. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce such fundamental statistical concepts as probability, the normal distribution, sampling distributions, point estimation, confidence intervals, and hypothesis testing  
+     introduce the ideas behind regression analysis through simple linear regression  
+    
+   
+  
+ 
+     
+  
+ 
+   Writing Economics 
+  
+  
+  
+    This module aims to introduce students to the essential skills required for writing as an economist. It will be delivered in conjunction with Libraries, Research and Learning Resources (LRLR), who will cover content on key information skills relating to the library and learning resources. 
+   
+   
+    
+   
+  
+    The module will centre around economic approaches to analysing human behaviour and provide a guide to good economics writing. It will give an introduction to the language of economics and basic research skills. Among the topics covered will be: 
+   
+   
+   
+    
+     academic integrity and plagiarism  
+     time management  
+     writing essays  
+     writing quantitative projects  
+     presentation skills  
+     referencing and using the internet  
+     revision and examinations  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce students to the issues and methods underpinning effective study at the Nottingham School of Economics  
+     highlight the resources that are available at the University and how to access them  
+     highlight the practical techniques to get the most out of study time  
+     indicate good essay technique  
+     highlight how to perform well in examinations  
+    
+   
+  
+ 
+     
+  
+  
+  Core philosophy modules include:  
+  Elementary Logic Introduction to Ethics Reasoning and Argument  
+  Core politics modules include:  
+  Introduction to Comparative Politics  
+  Typical year two modules  
+  Core modules    
+ 
+   Careers and Employability for Economists 
+  
+  
+  
+    This module aims to provide a means for enabling students to reflect on their personal development and the implications this might have for their future career paths. 
+   
+   
+    
+   
+  
+    It will include: 
+   
+   
+    
+   
+  
+    • Guidance on recording and evaluating skills 
+   
+  
+    • Guidance on careers from the Centre for Career Development 
+   
+  
+    • Information, guidance and advice form a range of graduate employers and alumni 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+    
+   
+  
+    • raise the profile of employability issues within the undergraduate programme 
+   
+  
+    • provide students with the opportunity to reflect formally on their learning and wider experiences while at university 
+   
+  
+    • develop skills of reflection and recording amongst the student body 
+   
+  
+ 
+     
+  
+ 
+   Principles of Macroeconomics 
+  
+  
+  
+    This module will address both the fundamental and applied aspects of macroeconomic theory. 
+   
+   
+    
+   
+  
+    In particular, the module will focus on: 
+   
+   
+   
+    
+     Introducing the modern theory of expectations and economic dynamics  
+     Using this approach to think about short run fluctuations  
+     Studying the role of macro policy on short run fluctuations  
+    
+   
+  
+    The module will review the so-called modern approach to aggregate demand and aggregate supply. This entails incorporating into the classical approach to aggregate supply and aggregate demand insights from Keynesian economics. This will serve as a base to discuss the role of macro-policy in controlling for fluctuations in output and employment. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce the students to the main issues and developments of modern macroeconomics.  
+    
+   
+  
+ 
+     
+  
+ 
+   Principles of Microeconomics 
+  
+  
+  
+    Intermediate microeconomics including general equilibrium analysis, welfare economics, elementary game theory, and strategic behaviour of firms. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     build upon the microeconomics you encountered in year 1  
+     develop analytical skills by employing standard diagrammatic analysis and reference to the underlying mathematical techniques  
+    
+   
+  
+ 
+     
+  
+  Typical year three modules  
+  You will be able to take either 40 credits worth of politics, philosophy and economics modules or 60 credits worth of modules from any two of politics, philosophy and economics.

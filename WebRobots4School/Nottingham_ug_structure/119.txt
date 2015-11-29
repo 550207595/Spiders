@@ -1,0 +1,551 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff. They’re also shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules on offer.  
+  
+    Typical Year One Modules  
+  
+  
+  
+    Engineering Mathematics 1 
+   
+   
+   
+     This module introduces the algebra of complex numbers to provide a key mathematical tool for analysis of linear mathematical and engineering problems. The complexity of solving general systems of equations is introduced and their study using matrix techniques. You’ll spend around three hours per week in lectures and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Mathematics 2 
+   
+   
+   
+     You’ll be introduced to techniques for solving selected first-order and second-order differential equations relevant to the analysis of generic engineering problems. The module also provides mathematical tools in terms of advanced differential calculus and vectors for modelling of generic engineering situations given in terms of multi-dimensional models. You’ll spend around three hours per week in lectures and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Circuits and Fields 
+   
+   
+   
+     This module provides the understanding of the physical world including an introduction to electric and magnetic fields and circuit theory and passive components. For study of this module you’ll spend around three hours in lectures each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Electronic Engineering 
+   
+   
+   
+     This module provides an introduction to Electronic Engineering, including topics such as: Boolean algebra and minimisation techniques, linear amplifiers and other circuits utilising the operational amplifier, the physical principles of diodes, bipolar and field-effect transistors and their application to circuits. You’ll have three 1-hour lectures per week plus eight 1-hour progress tests per year to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Communications Engineering 
+   
+   
+   
+     You’ll be given an introduction to communication systems and an overview of fundamental signal and system concepts. The module looks at methods to describe signals mathematically and in terms of their time and frequency domain representation. You’ll examine aspects of noise on signals and system performance, filters, amplitude and frequency modulation and basic concepts in digital signal processing. MATLAB will be used in problem solving. You’ll have three 1-hour lectures per week plus four 1-hour progress tests per semester to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Computer Engineering 
+   
+   
+   
+     Introducing you to computer engineering, you’ll cover topics such as: an overview of computer architectures, software design methodologies, the software life-cycle, C-programming, software development strategies and verification and validation procedures. You’ll have two 1-hour lectures per week as well as nine 3-hour laboratories and four 1-hour progress tests per semester to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Electrical Engineering 
+   
+   
+   
+     This module provides an introduction to Electrical Engineering and covers topics including: basic electromagnetic principles and the characteristics of electrical coils, the operation of ideal and non-ideal transformers, the equivalent circuit and their applications, reactive and apparent power, basic electro-mechanics. You’ll also have a basic introduction to electrical machines focusing on the operation and analysis of the 3-phase AC cage induction machine. You’ll have two 1-hour lectures and one 1-hour examples class per week plus four 1-hour progress tests per semester to study for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to real-time systems 
+   
+   
+   
+     This project based module uses a Digital Signal Processor to introduce design methodologies appropriate to real-time systems. You’ll work in teams to design hardware and software to implement a real-time system. You’ll have a one hour lecture in the first week plus nine 3-hour laboratory sessions per semester to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Laboratory and Presentation Skills A 
+   
+   
+   
+     This module provides the practical experience which complements modules in the first year of all undergraduate courses in the Department of Electrical and Electronic Engineering. It includes experimental and project work, the development of laboratory and team working skills, and technical report writing. You’ll spend around two hours in lectures and three hours in practicals each week for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Two Modules  
+  
+  
+  
+    Probabilistic and Numerical Techniques for Engineers 
+   
+   
+   
+     This module is divided into two sections, one part develops the foundations of probability theory and allows you to apply large sample statistics within an engineering context. The other part provides you with an introduction to numerical techniques used for obtaining approximate solutions to ordinary differential equations. You’ll normally spend around one hour per week in lectures and two hours in workshops studying for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Signal Processing and Control Engineering 
+   
+   
+   
+     You’ll develop your understanding of systems and system analysis tools as well as basic analogue and digital signal processing methods that would be of use in a wide range of applications in electrical and electronic engineering and beyond. You’ll have three 2-hour lectures and a three 1-hour practical each week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Telecommunications 
+   
+   
+   
+     This module provides an introduction to telecommunication systems. Topics covered include: modulation schemes (amplitude, frequency and phase), receiver configurations, noise and interference in analogue systems, delivery systems (copper, fibre, radio wave propagation and transmission-line characteristics) and multiple access techniques. You’ll spend around three hours in lectures and have a three hour practical per week for study of this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Power Supply Electronics 
+   
+   
+   
+     Introducing you to the subject of power electronics you’ll cover subjects such as: methods of analysis for power electronic circuits, comparison of power supplies for electronic equipment, linear and switching regulators, single phase diode rectifiers comparison of power device types; calculation and management of losses in power devices and practical considerations for high speed switching circuits. You’ll have two 1-hour lectures and one 1-hour problems class per week plus two laboratory sessions. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electronic Engineering Design Project 
+   
+   
+   
+     This module takes the form of a laboratory-based project which is performed in groups of three or four students. The overall aim of the project is to design, build, test and document a basic RF communications system with microcomputer control. The tasks are specifically designed to be open- ended. The project exercises and develops skills in analogue electronic design, digital electronic design, real-time software, presentation and group working. You’ll have one 2-hour lecture during week 1 and one 1-hour lecture during week 2 plus one 3-hour laboratory session per week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electronic Engineering 
+   
+   
+   
+     You’ll cover a range of topics in Electronic Engineering including: schmitt trigger, feedback and relaxation oscillators, synchronous counters with external input; electron mobility, joule heating, and  structure of bipolar. You’ll spend around six hours per week in lectures as well as having a three hour practical laboratory session to study for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Software Engineering Design 
+   
+   
+   
+     Introducing you to the different software design paradigms in use across the range of engineering activity, you’ll examine the concept of object oriented software and its practical implementation in C++, with a full appreciation of the need to design for robustness and the wider needs of code recycling, maintenance and expansion necessary in the modern commercial and technological environment. You’ll spend around two hours in lectures and two hours in practicals per week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Professional Skills for Electrical & Electronic Engineers 
+   
+   
+   
+     Providing you with the key skills required to give professional presentations, you’ll gain an awareness of the different techniques required for varying size audiences, the technologies available and the limitations. Through group working, you’ll develop skills in the preparation of material in a purely visual sense, for example poster, flyer and rolling presentation forms as well as gaining professional skills in the form of CV production and application preparation. You’ll have one 1-hour lecture per week  this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mathematical Techniques for Electrical and Electronic Engineers 1 
+   
+   
+   
+     The majority of the module is concerned with providing techniques for solving selected classes of ordinary differential equations (ODEs) relevant to the analysis of engineering topics. This module also provides the basic calculus to help analyse engineering problems in two- or three-dimensions and special solutions of partial differential equations relevant to engineering applications. You’ll have a one hour lecture and two hour workshop to study for this module.   
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electronic Construction Project 
+   
+   
+   
+     The aim of this module is to develop awareness of and ability to solve problems in the field of electronic design and construction. You’ll develop a range of practical and experimental skills, focusing on the design and development of a system. You’ll work in small groups and will be required to go through a phase of research and independent learning, as well as keep good traceability of your work during all phases of the project. The applications will be in the field of audio signal processing, an example is the design, building and testing of an audio amplifier and related power supply. You’ll spend around three hours in lectures and three hours in practicals for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Three Modules  
+  
+  
+   Compulsory  
+  
+    Third Year Project 
+   
+   
+   
+     Engineers working in industry usually find that they become involved in extended practical or theoretical projects. This module provides an opportunity for you to work in a similar situation. You’ll indicate your project preferences then work under the supervision of an expert member of staff to write a dissertation on your work and present it publicly. You’ll have weekly individual tutorial with your project supervisor, but otherwise you’ll be expected to work alone. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Business Planning for Engineers 
+   
+   
+   
+     This module introduces a diverse set of topics that a graduate engineer is likely to encounter upon entering employment.  You’ll become equipped with the knowledge to be able to write and assess rudimentary business plans and make informed decisions about product and business development. It includes various models, tools and concepts that are common within the business community including: Belbin’s model of team formation, the appropriate use of PEST and SWOT analysis, the basics of marketing, the product life cycle, technology audits, , intellectual property, ethics and product design. You’ll have two contact sessions of one hour duration per week. These will be used for formal lectures, individual and group presentations, coursework planning and coursework feedback. 
+    
+    
+     
+    
+   
+  
+      
+   
+    Optional  
+  
+    Control Systems Design 
+   
+   
+   
+     This module enables you to design both analogue and digital controllers for linear single-input single-output systems. You’ll have access to CAD control design packages for evaluating control design. Through three 1-hour lectures per week, you’ll cover topics such as: design of analogue controllers using Root Locus Method; closed loop performance and frequency response; microprocessor implementation; practical problems in digital control; design of digital controllers using z-plane techniques and practice with CAD package. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electronic Design 
+   
+   
+   
+     Through one 2-hour lecture per week, this module aims to further your understanding of design techniques for transistor-based analogue circuits, using transistor amplifiers as a vehicle for this. Standard high-frequency models are introduced for transistors. This approach enables amplifier operation to be understood and analysed at all signal frequencies, starting with a review of mid-band operation, followed by low and high frequency operation. Finally the origins and effect of noise in electronic circuits is introduced. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Solid State Devices 
+   
+   
+   
+     This module seeks to develop a detailed understanding of the internal operating mechanisms of semiconductor electronic and opto-electronic devices. You’ll focus on devices based on pn junctions (e.g. diodes, bipolar junction transistors) and devices based on MOS capacitors (eg memory cells, CCD detectors, MOSFETs). The module will consider how the targeted application for a device impacts upon its design. (For example, signal-mixing diodes, power diodes, light-emitting diodes and solar cells are all based upon the pn diode, but provide very different functionality.) The characteristics required of these devices will be discussed in relation to their incorporation into appropriate electronic systems. You’ll have two 1-hour lectures each week for study of this module, supplemented with example sheets. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    VLSI Design 
+   
+   
+   
+     Introducing you to the principles of semi-custom and full custom design of integrated circuits (IC) for digital electronic systems, the module is based around the Complementary Metal Oxide Semiconductor (CMOS) integrated circuit process that is used to fabricate the majority of ICs in production today. The module provides insight into the issues involved in IC design through the analysis of examples based around logic gates. Layout design techniques for CMOS logic gates are covered. You’ll have one 2-hour lecture and one 2-hour CAD laboratory per week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Fields Waves and Antennas 
+   
+   
+   
+     This module presents and develops the basic analytical, computational and experimental tools used in the study of electromagnetic fields and waves at high frequency. Topics covered include: waves on transmission lines, Maxwell's equations and plane electromagnetic wave propagation, power flow, methods for electromagnetic field computation and an introduction to antennas. You’ll have  two 1-hour lectures each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Telecommunication Electronics 
+   
+   
+   
+     This module covers the design and analysis of electronic systems used in telecommunications particularly wireless devices. Systems covered include: amplifiers, oscillators, phase-locked loops and mixers. You’ll have 2 one-hour lectures and a two 1-hour practical each week to study for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Power Networks 
+   
+   
+   
+     This module provides you with an understanding of power system apparatus and their behaviour under normal and fault conditions. Through a two hour lecture each week, you’ll cover topics such as: concept and analysis of load flow, voltage/current symmetrical components, computation of fault currents, economic optimisation, power-system control and stability, power system protection and power quality. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Electrical Machines 
+   
+   
+   
+     This module provides you with an understanding of the operational characteristics of common electrical machines (dc, ac induction, ac synchronous and stepping). Both theoretical and practical characteristics are covered including: electromagnetic theory applied to electrical machines, principles and structure of dc machines - commutation effects, principles and structure of induction machines, principles and structure of synchronous machines, parameterisation for performance prediction and machine testing and evaluation. You’ll have two 1-hour lectures per week, supplemented with practical demonstrations for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Digital Communications 
+   
+   
+   
+     This module is an introduction to the operation of modern digital communication systems. During two 1-hour lectures each week, you’ll cover topics such as: communication systems, information content and channel capacity, digital modulation techniques, data compression techniques, error-correcting and line coding techniques, digital signal regeneration techniques and system examples (FAX, Teletext, NICAM and CD technologies). 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Energy Conversion for Motor and Generator Drives 
+   
+   
+   
+     Introducing you to the concepts and operating principles of variable speed electric motor drives systems, you’ll use a number of system examples to demonstrate how the drive systems are specified, designed, controlled and operated. You’ll have a two hour lecture each week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Power Electronic Design
+    
+   
+   
+   
+     Providing an understanding of the operational principles of power electronic converters and their associated systems, this module covers: 3-phase naturally commutated ac-dc/dc-ac converters, capacitive and inductive smoothing - device ratings, dc-ac PWM inverters and modulation strategies, resonant converters, high power factor utility interface circuits and power converter topologies for high power (multilevel). You’ll have two 1-hour lectures per week  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Web Based Computing 
+   
+   
+   
+     This module introduces the Java programming language, and the netBeans IDE as tools to develop applications for devices from mobile phones, to the web. You’ll have one 1-hour lecture and one 2-hour laboratory session. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Digital Video Communication Systems 
+   
+   
+   
+     Providing insight into the issues concerned with implementing a practical digital communication system, this module uses digital television as an example of a complex digital system. Topics covered include: encoding, dithering and quantization, data compression techniques, data transmission, modulation techniques and the associated technologies. You’ll spend 2 hours in lectures and have a one 1-hour practical.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Embedded Computing 
+   
+   
+   
+     This module aims to introduce principal generic and distinctive features of embedded computing, and develop practical skills in designing firmware for PIC16 microcontrollers. You’ll have a two hour lecture each week for study of this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Microwave Communications 
+   
+   
+   
+     This module provides an overview of microwave telecommunication systems. Topics cover characteristics of atmosphere and ionosphere, microwaves in free space (the link equation, satellite communications, microwave radio links, remote sensing (RADAR)), microwave waveguides and devices (coaxial cable, microstrip/ striplines, rectangular and circular waveguides, periodic structures and filters), transmission line equivalents of microwave circuits, matrix representation of microwave networks (transfer matrix, scattering matrix) and impedance matching. For this module you’ll have one 2-hour lecture per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    IT Infrastructure 
+   
+   
+   
+     Providing you with the skills required to commission a complete IT system, this module provides information on network design and implementation, services, security and management of systems. You’ll be introduced to new uses of IT infrastructure (eg VoIP) and will have one 1-hour lecture per week studying this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Software: Design and Implementation 
+   
+    
+   
+   
+   
+     Providing you with an understanding of the design patterns and data structures that are in use in modern software packages, you’ll learn to perform critical analyses of complex design tasks and to decompose them into manageable and maintainable parts. In addition, the emergence of parallel programming techniques will be discussed and practical design choices and implementations analysed. You will have one 2-hour lecture per week.

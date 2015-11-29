@@ -1,0 +1,488 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.  
+  
+   Typical Year One Modules   
+  
+  
+  
+    Fundamental Physical Chemistry
+    
+   
+   
+    In this module you'll cover units, quantities and conversions; the development of quantum theory; gases and the gas laws; intermolecular forces; an introduction to the kinetic theory of gases; an introduction to molecular orbital diagrams; an introduction to rotational and vibrational, spectroscopies; an introduction to thermodynamics (internal energy, enthalpy, entropy and free energy, and their temperature dependence); thermodynamics and equilibria; an introduction to electrochemistry; an introduction to reaction kinetics. You will spend around one hour per week studying this module.  
+   
+  
+      
+   
+  
+    Introductory Laboratory Work
+    
+   
+   
+    This module introduces you to the essential laboratory skills that are required in inorganic, organic and physical chemistry. You’ll spend around 4 hours per week in laboratory practicals performing experiments, and collecting and analysing data. You’ll present written reports of your experimental work that will form part of the assessment for this module.  
+   
+  
+      
+   
+  
+    From Newton to Einstein
+    
+   
+   
+    This module will introduce you to topics which will underpin all subsequent physics modules such as: classical mechanics; vectors; Einstein's special theory of relativity; electromagnetism; electrical circuits and quantum physics. You’ll spend around five hours per week in lectures and tutorials studying this module.   
+   
+  
+      
+   
+  
+    Computing For Physical Science
+    
+   
+   
+    You’ll receive training in basic computing techniques using MatLab, and will be introduced to their use in solving physical problems. You’ll spend three to four hours in computer classes and a one hour lecture each week.   
+   
+  
+      
+   
+  
+    Mathematics for Physics and Astronomy
+    
+   
+   
+    You’ll study a selection of mathematical techniques that are used for analysing physical behaviour. Topics will include: complex numbers; calculus of a single variable; plane geometry; differential equations; calculus of several variables; and matrix algebra. You’ll spend around three hours per week in workshops and lectures studying this module.   
+   
+  
+      
+   
+  
+ 
+     
+  
+ 
+     
+  
+  
+   Typical Year Two Modules   
+  
+  
+   Compulsory:  
+   
+   Core Laboratory Work C  
+   
+   
+    This module builds on the practical, analytical and communication skills developed in the first year and introduces experiments across the range of chemistry, based on your second year theory modules. You’ll spend around six hours per week in practicals for this module.   
+   
+  
+      
+   
+   
+   Intermediate Inorganic Chemistry  
+   
+  
+    You’ll explore the organometallic chemistry of the transition metals and will discuss the use of multinuclear NMR spectroscopy as a tool for the characterisation of molecules.
+    
+    
+   
+  
+      
+   
+  
+    Intermediate Physical Chemistry
+    
+   
+   
+    You’ll build upon the principles of thermodynamics and kinetics developed in Year 1. You’ll discuss the behaviour at liquid/gas and solid/gas interfaces and will be introduced to electrochemical cells and voltammetry.  
+   
+  
+      
+   
+  
+    Intermediate Spectroscopy and Quantum Chemistry
+    
+   
+   
+    You’ll study quantum mechanics and to show how it can be applied to confined particles, the  rotation and vibration of molecules, the hydrogen atom, and one-electron ions. You’ll be introduced to the principles of spectroscopy to predict and understand atomic and diatomic molecular spectra, and understand how electronic and molecular structure determines the appearance of spectra.  
+   
+  
+      
+   
+  
+    The Quantum World
+    
+   
+   
+    You’ll be given an introduction to the theoretical and elementary applications of quantum mechanics. Beginning with a discussion of the motion of particles and the quantum theory of angular momentum, you’ll then study the importance of symmetry, quantum statistics and matrix mechanics. You’ll have four hours of lectures and workshops each week for this module.   
+   
+  
+      
+   
+  
+    Classical Fields
+    
+   
+   
+    Building on the year one module ‘From Newton to Einstein’ you’ll be introduced to the mathematics of vector calculus and will cover various aspects of electromagnetism including the treatment of magnetic media, electromagnetic waves and various techniques for the solution of electromagnetic problems. You’ll spend around four hours per week in lectures and workshops for this module.   
+   
+  
+      
+   
+  
+    Experimental Techniques and Instrumentation
+    
+   
+   
+    You’ll be introduced to a variety of topics including: basic techniques and equipment used in experimental physics; training in the analysis and interpretation of data; and training in the skills of record keeping and writing scientific reports. You’ll have around eight hours of practicals and lectures each week to study this module.   
+   
+  
+      
+   
+    Optional:  
+  
+    Atmospheric Chemistry
+    
+   
+   
+    You’ll study topics such as the physical properties of the atmosphere, chemistry of ozone in the stratosphere, global warming, and analytical methods in atmospheric chemistry in three hours of lectures each week,   
+   
+  
+      
+   
+  
+    Principles of Analytical Chemistry
+    
+   
+   
+    You’ll be introduced to the principles of analytical chemistry, including the principal types of instrumentation used and the statistical treatment of analytical results. You’ll spend around two hours per week in lectures and workshops studying this module.   
+   
+  
+      
+   
+  
+    Health Physics
+    
+   
+   
+    In this module you’ll learn how physicists can harness the health benefits of using radiation, as well as measuring and controlling levels of radiation in the environment. You’ll examine the biological effects of radiation, the principles which govern safe exposure limits and the way issues of radiation protection are presented to the public. You’ll spend around four hours in lectures and seminars each week for this module.   
+   
+  
+      
+   
+  
+    Force and Function at the Nanoscale
+    
+   
+   
+    You’ll be given an overview of how forces at the nanoscale are different to those observed in macroscopic systems and will consider how they can be exploited in nanometre-scale processes and devices. You’ll focus on the physical basis and measurement of forces operating on the nanoscale, considering van der Waals, electrostatic, hydrophobic and hydrophilic interactions. You’ll spend around three hours per week in lectures and workshops studying this module.   
+   
+  
+      
+   
+  
+    Molecular Biophysics
+    
+   
+   
+    You’ll explore the structure of molecules which are biologically significant and their mutual interactions and dynamics. Emphasis will be placed on the physical determination of molecular structure and intermolecular forces through two hours of lectures per week.   
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Three Modules   
+  
+  
+   Compulsory:  
+  
+    Chemical Bonding and Reactivity
+    
+   
+   
+    You’ll learn about the fundamental requirements for two molecules to react and how to assess the likelihood of reactivity based on energy level structure.  You’ll learn about experiments that can probe the outcomes of reaction and experiments that can promote reaction.  You’ll learn about some theoretical methods that can be used to understand reactivity.  The module will progress at two lectures per week, with four workshops interspersed throughout the semester and regular problem sheets.      
+   
+  
+      
+   
+  
+    Solids, Interfaces and Surfaces 
+    
+   
+   
+    You’ll study the relationships between structure and properties of solids, and develop electronic structure theories that account for a wide range of properties of solids. You’ll learn about semi-conductors, photoconductivity, LEDs and solar cells and attend around two lectures per week in this module.  
+   
+  
+      
+   
+  
+    Fourier Methods
+    
+   
+   
+    You’ll be introduced to general methods for the discussion of wave propagation, specifically methods for the solution of differential equations and Fourier methods. You’ll spend around six hours each week in lectures and workshops for this module.   
+   
+  
+      
+   
+  
+    Atoms, Photons and Fundamental Particles
+    
+   
+   
+    This module will introduce you to the physics of atoms, nuclei and the fundamental components of matter. You’ll cover topics such as: particle physics; atomic physics; lasers; and nuclear physics. You’ll spend around four hours a week in lectures and workshops for this module.   
+   
+  
+      
+   
+  
+    Introduction to Solid State Physics
+    
+   
+   
+    Providing a general introduction to solid state physics, you’ll cover topics such as: bonding; crystal structures; band theory; phonons; and optical properties of solids and magnetism. You’ll spend around four hours per week in lectures and workshops studying for this module.   
+   
+  
+      
+   
+  
+    Physics Project CMP
+    
+   
+   
+    You’ll carry out a project within the areas of chemical and molecular physics, which may be experimental or theoretical in nature. Spending around two hours per week in lectures and tutorials, you’ll work in pairs to plan your project under the guidance of a project supervisor.  
+   
+  
+      
+   
+  
+    Advanced Laboratory Techniques
+    
+   
+   
+    You’ll gain experience of advanced experimental techniques , spending around 12 hours per week in practicals. You’ll study the principles upon which modern experimental methodology is based, obtain and interpret physical data, and undertake project work and report writing.  
+   
+  
+      
+   
+    Optional:  
+  
+    Chemistry and Molecular Physics Literature and Communication Skills
+    
+   
+   
+    You’ll undertake a literature review on a selected topic in the area of chemistry and molecular physics, presenting your work as a written report. You’ll also develop your communication skills through group work, presentations and writing for the general public. You’ll spend around two hours per week in workshops for this module.   
+   
+  
+      
+   
+  
+    Catalysis
+    
+   
+   
+    This module will develop your knowledge and understanding of heterogeneous and homogeneous catalysis, catalyst promotion and the concept of catalytic cycles. You’ll spend around two hours per week in lectures and seminars for this module.   
+   
+  
+      
+   
+  
+    Self-assembly and Bottom-up Approaches to Nanostructure Fabrication
+    
+   
+   
+    In this module you’ll study the approaches to the fabrication of molecular assemblies on the nanoscale. You’ll gain an understanding of the nature of intermolecular forces, paying particular attention to their application to self-assembly. You’ll spend around two hours per week studying this module.   
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Four Modules   
+  
+  
+   Compulsory:  
+   You will choose one of the following modules:  
+  
+    Chemistry Research Project
+    
+   
+   
+    You will be welcomed into one of the research groups within the School of Chemistry to undertake an in-depth research project. All projects will involve a review of relevant published work and the planning and execution of a research topic under the guidance of two supervisors.  
+   
+  
+      
+   
+  
+    Natural Science & CMP Physics Project
+    
+   
+  
+    The module will consist of a project the aim of which is to solve a practical or theoretical problem. Practical problems will be undertaken in research laboratories and typically students work in groups on their project.
+    
+    
+   
+  
+      
+   
+  
+    CMP Research Project in Continental Europe
+    
+   
+   
+    You’ll be given the opportunity to undertake a research project in chemistry and molecular physics at a university in continental Europe under the guidance of a supervisor. You’ll spend around 10 hours a week undertaking research training and laboratory and theoretical research alongside two hours per week report writing.   
+   
+  
+      
+   
+    Optional:  
+  
+    Gravity
+    
+   
+   
+    You’ll be introduced to the modern theory of gravitation, covering topics such as: specifying geometry; equivalence principle; general relativity; and Schwarzschild black hole. You’ll spend around four hours per week in lectures and workshops studying this module.   
+   
+  
+      
+   
+  
+    From Accelerators to Medical Imaging
+    
+   
+   
+    This module examines experimental high energy physics techniques such as synchrotrons and cyclotrons and their applications in medical imaging. Through two hours of lectures each week, you’ll cover topics including: cyclotrons, synchrotrons; applications to radiation detectors; X-ray imaging; and nuclear medicine.   
+   
+  
+      
+   
+  
+    Functional Medical Imaging
+    
+   
+   
+    Through two hours of lectures per week you’ll cover topics such as: NMR; introduction to MRI; physics of nerves; EEG and MEG.  
+   
+  
+      
+   
+  
+    Imaging and Manipulation at the Nanoscale
+    
+   
+   
+    You’ll consider the use of scanning probes to acquire images of surfaces with sub-atomic resolution and to investigate the phenomena which occur on the nanometre length-scale. Spending around two hours per week in lectures, you’ll examine how scanning probe microscopy has provided an enormous stimulus to nanoscience and how new research and applications are developing in this emerging discipline.   
+   
+  
+      
+   
+  
+    Imaging and Image Processing
+    
+   
+   
+    You’ll be given knowledge of the basic techniques of image processing, considering how images can be enhanced and cleaned up. Topics you’ll cover include: resolution and quantization; colour models; image filters; image transformations; and image compression. You’ll spend around four hours per week in lectures, seminars and tutorials for this module.   
+   
+  
+      
+   
+  
+    Modern Cosmology
+    
+   
+   
+    In this module, you’ll cover various topics such as: Friedmann models and hot big bang; scalar fields; Newtonian approach; dark energy; the cosmological constant; and modified gravity. You’ll spend around five to six hours each week in lectures, seminars and tutorials.   
+   
+  
+      
+   
+  
+    Magnetic Resonance Techniques
+    
+   
+   
+    You’ll be given an introduction to the principles of NMR and related techniques such as electron spin resonance, nuclear quadrupole resonance and dynamic nuclear polarization. Spending two hours in lectures each week, you’ll consider these topics, along with details of instrumentation and their applications.   
+   
+  
+      
+   
+  
+    Quantum Dynamics
+    
+   
+   
+    You’ll develop your knowledge of quantum theory, with particular emphasis on how these systems evolve over time. Within this module, you’ll cover topics such as the dynamics of operators and wavefunctions, the quantum dynamical properties of the harmonic oscillator and the quantum dynamics of composite systems. You’ll spend around four hours per week in lectures and workshops studying for this module.   
+   
+  
+      
+   
+  
+    Light and Matter
+    
+   
+   
+   Extending your knowledge of atomic and optical physics, you’ll cover topics such as: basic principles of laser action; the application and physical properties of laser emissions; quantum effects in the interaction of light and matter; and quantum phenomena in ultra-cold atomic systems. You’ll spend around five hours per week in lectures and seminars for this module.   
+   
+  
+      
+   
+  
+    Semiconductor Physics
+    
+   
+   
+    This module will explore the physics of semiconductors and some of their applications. Topics include: semiconductor materials; energy bands and band bending; quantum confinement and the density of states; electrical properties; and semiconductor devices. You’ll have around two hours of lectures each week to study for this module.   
+   
+  
+      
+   
+  
+    Theoretical Elementary Particle Physics
+    
+   
+   
+    You’ll be introduced to key ideas in modern theoretical particle physics. You’ll consider topics such as: forces of nature; conservations laws; electron-positron scattering; and neutrino oscillations. You’ll spend around two hours each week in lectures for this module.  
+   
+  
+      
+   
+  
+    Advanced Inorganic Chemistry
+    
+   
+   
+    Building on your knowledge from the previous years' modules in inorganic chemistry, you’ll study topics including: electron transfer pathways; inorganic chemistry in biological systems; the principles of molecular and supramolecular photochemistry; applications of inorganic photochemistry; and photocatalysis. You’ll spend around four hours in lectures and seminars each week for this module.   
+   
+  
+      
+   
+  
+    Contemporary Physical Chemistry
+    
+   
+   
+    You’ll learn about the properties of matter from condensed matter through to gas phase including the novel states of matter such as ultracold molecules in traps and liquid He nanodroplets, microsolvated clusters, and low dimensional carbon structures. You’ll study the dynamics of chemical processes  and the capability of modern light sources allowing for the study of time-resolved measurements on timescales ranging from pico- to attoseconds. You’ll study this module through two hours of lectures per week.  
+   
+  
+      
+   
+  
+    Special Topics in Chemistry 3
+    
+   
+   
+    You’ll select two specialised topics to study in depth from: bio-organic mechanisms; chemistry for the environment; photon molecule interactions; chemical sensors. You’ll spend around two hours a week studying for this module.  
+   
+  
+      
+   
+  
+    Self-assembly and Bottom-up Approaches to Nanostructure Fabrication
+    
+   
+  
+    In this module you’ll study the approaches to the fabrication of molecular assemblies on the nanoscale. You’ll gain an understanding of the nature of intermolecular forces, paying particular attention to their application to self-assembly. You’ll spend around two hours per week studying this module.

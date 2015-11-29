@@ -1,0 +1,619 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer. You can also view our undergraduate modules guide (PDF).  
+  Please view the Department of Russian and Slavonic Studies website for information on their modules.  
+  Typical year one modules   
+  Core economics modules  
+ 
+   Foundations of Macroeconomics 
+  
+  
+   Macroeconomics is the study of the aggregate economy. This module will focus on the determinants of aggregate output, both in the short run - addressing cyclical movements of booms and busts - and in the long run - providing an introduction to economic growth.  
+   A running theme will be debates over the role of the government in macroeconomic management, covering fiscal and monetary policy. The module will introduce a series of basic models used in modern macroeconomics.  
+   This module aims to:  
+   
+   
+    provide a sound basis in the fundamentals of macroeconomics and their application to both theoretical and real world situations  
+    develop analytical skills using the major methods of mathematics and diagrams  
+    engender the ability to communicate and report findings, particularly via tutorial essays, presentations and exercises  
+   
+  
+ 
+     
+  
+ 
+   Foundations of Microeconomics 
+  
+  
+   This module begins by analysing how the economic choices of households and firms can be understood using consumer and producer theory. It then looks at how these individual choices are aggregated into market demand and supply to be mediated through the price mechanism.  
+   A variety of market settings are considered, ranging from the paradigm of perfect competition to strategic interactions in oligopolistic markets. The module concludes by providing an introduction to the normative evaluation of economic outcomes in terms of individuals’ welfare, covering both market and government failures.  
+   This module aims to:  
+   
+   
+    provide a sound basis in the fundamentals of micro-economics and their application to both theoretical and real world situations  
+    develop analytical skills using the major methods of mathematics and diagrams  
+   
+  
+ 
+     
+  
+ 
+   Writing Economics 
+  
+  
+  
+    This module aims to introduce students to the essential skills required for writing as an economist. It will be delivered in conjunction with Libraries, Research and Learning Resources (LRLR), who will cover content on key information skills relating to the library and learning resources. 
+   
+   
+    
+   
+  
+    The module will centre around economic approaches to analysing human behaviour and provide a guide to good economics writing. It will give an introduction to the language of economics and basic research skills. Among the topics covered will be: 
+   
+   
+   
+    
+     academic integrity and plagiarism  
+     time management  
+     writing essays  
+     writing quantitative projects  
+     presentation skills  
+     referencing and using the internet  
+     revision and examinations  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce students to the issues and methods underpinning effective study at the Nottingham School of Economics  
+     highlight the resources that are available at the University and how to access them  
+     highlight the practical techniques to get the most out of study time  
+     indicate good essay technique  
+     highlight how to perform well in examinations  
+    
+   
+  
+ 
+     
+  
+  
+  Either  
+ 
+   Mathematical Economics 
+  
+  
+  
+    The module is intended to provide an introduction to mathematical techniques used in economics. In particular, examples of economic issues that can be analysed using mathematical models will be discussed in detail. 
+   
+  
+    Particular attention will be given to providing an intuitive understanding of the logic behind the formal results presented. Students who wish to pursue a higher degree in economics will find the module particularly useful. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide a rigorous grounding in certain mathematical tools and methods of argumentation used in microeconomic theory  
+     develop a clear perception of the role of mathematical tools and logical methods in the construction of the formal theory of individual decision-making  
+     develop the ability to analyse economic problems through rigorous applications of the formal theory of individual decision-making  
+    
+   
+  
+ 
+     
+  
+ 
+   Introductory Economics 
+  
+  
+  
+    Econometrics has been described as ‘’the point where economic theory confronts reality’’. Besides the comparison of economic theoretical predictions with actual outcomes, this analysis allows quantitative flesh to be put on theoretical bones. Since the subject is essentially data analytical, econometrics relies heavily on statistical methods. Of course the study of econometrics requires a firm basis in the fundamental principles of statistical methodology. 
+   
+   
+    
+   
+  
+    The purpose of this module is to introduce some of these principles, so that its subject matter is basic statistical inference rather than econometrics proper. That subject matter has been applied in many branches of the sciences, social sciences and humanities. Here we concentrate on statistical distribution theory and statistical inference in the first half of the course. The second half deals with the linear regression model, whose extensions will be analysed in detail in subsequent econometrics modules. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide a sound basis in statistical theory, appropriate to the subsequent study of econometrics  
+     introduce the principles of regression analysis, on which much of the subsequent study of econometrics is based  
+     induce familiarity with these basic concepts to ease the understanding of material in the second and third years of the course  
+    
+   
+  
+ 
+     
+  
+  
+  Or  
+ 
+   Quantitative Economics I 
+  
+  
+   
+    
+     Introduction to mathematical economics: mathematical finance  
+     Analysis of functions  
+     Supply and demand  
+     Matrix algebra  
+     Differentiation  
+     Elasticities  
+     Maximisation/minimisation  
+     Optimisation subject to constraints  
+     Langrange multipliers  
+     Integration  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide a basis in the fundamentals of Mathematics most relevant to the study of Economics  
+     allow students to see how mathematical tools can be applied in the analysis of theoretical economic problems  
+     facilitate the development of analytical skills leading to an understanding of which economic problems are susceptible to a formal treatment, and which results are capable of formal proof  
+    
+   
+  
+ 
+     
+  
+ 
+   Quantitative Economics II 
+  
+  
+  
+    The module introduces those statistical methods and concepts most applicable in Economics. The analysis of economic data necessarily proceeds in an environment where there is uncertainty about the processes that generated the data. Statistical methods provide a framework for understanding and characterising this uncertainty. These concepts are most conveniently introduced through the analysis of single-variable problems.  
+   
+   
+    
+   
+  
+    However, economists are most often concerned about relationships among variables. 
+   
+   
+    
+   
+  
+    The module builds towards the study of regression analysis, which is often applied by economists in studying such relationships. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce such fundamental statistical concepts as probability, the normal distribution, sampling distributions, point estimation, confidence intervals, and hypothesis testing  
+     introduce the ideas behind regression analysis through simple linear regression  
+    
+   
+  
+ 
+     
+  
+  
+  Core language modules include:  
+  Full year Russian Language module  
+  Optional economics modules    
+ 
+   Current Economic Issues 
+  
+  
+  
+    This module focuses on a range of current issues facing the world economy, seeks to illustrate how economists model such issues, and examines potential policy responses.  
+   
+   
+    
+   
+  
+    Example topics to be covered are: 
+   
+   
+   
+    
+     Globalisation  
+     Economic growth  
+     The global financial crisis  
+     The world economy  
+     Emerging economic superpowers  
+     Consequences of rising economic nationalism  
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     examine critically a number of current economic challenges facing the UK and the world economy  
+     use economic analysis to investigate and clarify the underlying drivers of these challenges  
+     identify potential gainers and losers and the role of economic policy in maximising the net benefits/minimizing the net costs  
+    
+   
+  
+ 
+     
+  
+ 
+   Economic Perspectives 
+  
+  
+  
+    This module is intended as a foundation for the understanding of modern economic theories and policies. It is concerned with: 
+   
+   
+   
+    
+     The different characters and workings of economies of the past  
+     The changing ways in which economic questions have been interpreted and answered over time  
+    
+   
+  
+    As will be discovered, the 21st century Western views of everyday economic concepts such as ownership, money, exchange, work, poverty, industrialisation, economic growth and government are quite different from those expressed at other times and in other places. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     explore some key ideas and concepts of economics, both historically and culturally  
+     explore both similarities and differences in solutions to economic problems, as adopted within different economic systems  
+    
+   
+  
+ 
+     
+  
+ 
+   Growth and Development in Long-Run Historical Perspective 
+  
+  
+  
+    In this module, we will explore the long-run, historical determinants of the wealth of nations. We will begin by taking a long-run view on modern economic growth, showing how this has led to dramatic changes in the relative wealth of nations over the last 500 years. 
+   
+   
+    
+   
+  
+    We will then ask two key questions: why have modern economic growth started in some places rather than others? And while have some countries been able to catch up, while others have not? These investigations will improve our understanding of why are some countries much richer than others, and will give us some important insights on how to promote sustained growth in developing countries. 
+   
+   
+    
+   
+  
+    The module draws on a vibrant new literature in economics that looks at comparative development as the outcome of a long historical process, and uses techniques originally developed in economics to improve our understanding of history.  
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce students to the key questions of comparative development, the main recent findings, and future challenges  
+     create a foundation knowledge allowing students to put current issues in growth and development in historical perspective  
+     highlight the role of modern economics in understanding history  
+     suggest students a set of applications for theoretical and empirical methods in economics  
+    
+   
+  
+ 
+     
+  
+  Typical year two modules  
+  Core economics modules     
+ 
+   Careers and Employment for Economists 
+  
+  
+  
+    This module aims to provide a means for enabling students to reflect on their personal development and the implications this might have for their future career paths. 
+   
+   
+    
+   
+  
+    It will include: 
+   
+   
+    
+   
+  
+    • Guidance on recording and evaluating skills 
+   
+  
+    • Guidance on careers from the Centre for Career Development 
+   
+  
+    • Information, guidance and advice form a range of graduate employers and alumni 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+    
+   
+  
+    • raise the profile of employability issues within the undergraduate programme 
+   
+  
+    • provide students with the opportunity to reflect formally on their learning and wider experiences while at university 
+   
+  
+    • develop skills of reflection and recording amongst the student body 
+   
+  
+ 
+     
+  
+ 
+   Principles of Macroeconomics 
+  
+  
+  
+    This module will address both the fundamental and applied aspects of macroeconomic theory. 
+   
+   
+    
+   
+  
+    In particular, the module will focus on: 
+   
+   
+   
+    
+     Introducing the modern theory of expectations and economic dynamics  
+     Using this approach to think about short run fluctuations  
+     Studying the role of macro policy on short run fluctuations  
+    
+   
+  
+    The module will review the so-called modern approach to aggregate demand and aggregate supply. This entails incorporating into the classical approach to aggregate supply and aggregate demand insights from Keynesian economics. This will serve as a base to discuss the role of macro-policy in controlling for fluctuations in output and employment. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce the students to the main issues and developments of modern macroeconomics.  
+    
+   
+  
+ 
+     
+  
+ 
+   Principles of Microeconomics 
+  
+  
+  
+    Intermediate microeconomics including general equilibrium analysis, welfare economics, elementary game theory, and strategic behaviour of firms. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     build upon the microeconomics you encountered in year 1  
+     develop analytical skills by employing standard diagrammatic analysis and reference to the underlying mathematical techniques  
+    
+   
+  
+ 
+     
+  
+  
+  Either  
+ 
+   Quantitative Economics III 
+  
+  
+  
+    An introduction to the theory and practice of econometric methods, focusing on regression analysis and its application to economic situations. The module will pay particular attention to the principles of estimation and inference in the multiple regression model, and will rely on illustrations and intuition to develop understanding of the techniques and their interpretation.  
+   
+   
+    
+   
+  
+    Students deepen their understanding of the material covered in class via a series of ‘hands-on’ computer classes using specialist econometric software (EViews) and a set of tutorials that will review worked examples. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce students to the principles, uses and interpretation of regression analysis most commonly employed in applied economics using cross-section data  
+     provide students with sufficient knowledge of regression methods to critically evaluate and interpret published empirical research  
+     enable students to undertake empirical analyses using specialist econometric software  
+    
+   
+  
+ 
+     
+  
+ 
+   Quantitative Economics IV 
+  
+  
+  
+    An introduction to the theory and practice of econometric methods, focusing on regression analysis and its application to economic situations. It will focus on practical issues relating to data modelling and issues relating to model specification and testing. It will also introduce students to regression analysis using time series data. 
+   
+   
+    
+   
+  
+    It will rely on illustrations and intuition to develop understanding of the techniques and their interpretation. Students will advance their understanding of the material covered in class via a series of ‘hands-on’ computer classes using EViews. A set of tutorials will also examine worked examples that have been set as homework. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     introduce students to the principles, uses and interpretation of regression techniques most commonly employed in applied economics using cross-section and time-series data  
+     provide students with sufficient knowledge of regression methods to critically evaluate and interpret published empirical research  
+     enable students to undertake empirical analyses using specialist econometric software  
+    
+   
+  
+ 
+     
+  
+  
+  Or  
+ 
+   Econometrics I 
+  
+  
+  
+    This module generalises and builds upon the econometric techniques covered in the Year I module, Introductory Econometrics. This will involve introducing a number of new statistical and econometric concepts, together with some further development of the methodology that was introduced in Year I. The multivariate linear regression model will again provide our main framework for analysis. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide the necessary mathematical and statistical tools needed to conduct theoretical econometric analysis at an advanced level  
+     develop the analytical skills required to demonstrate the theoretical properties of different econometric estimation and testing procedures under various modelling assumptions  
+     provide a sound understanding of the applicability and limitations of the multivariate linear regression model as a vehicle for econometric analysis for economic data  
+    
+   
+  
+ 
+     
+  
+ 
+   Econometrics II 
+  
+  
+  
+    This module introduces students to a range of statistical techniques that can be used to analyse the characteristics of univariate economic time series. The basic theoretical properties of time series models are discussed and we consider methods for fitting and checking the adequacy of empirical time series models. Methods of forecasting future values of economic time series are then considered. 
+   
+   
+    
+   
+  
+    This 
+   module aims to: 
+   
+   
+   
+    
+     provide the necessary background techniques needed to analyse the behaviour of time series processes  
+     develop the analytical skills required to characterize the theoretical properties of different time series processes  
+     provide a sound understanding of the applicability and limitations of the univariate time series methodology as a means for empirical modelling and producing forecasts of economic time series  
+    
+   
+  
+ 
+     
+  
+  
+  Core language modules include:  
+  Full year Russian Language module  
+  Typical year three modules  
+   
+  In your third year of study you will spend the academic year abroad in a Russian speaking country. You have the option to study in a language centre or undertake a work placement, or do a combination of the two.  
+  For more information, see the Department of Russian and Slavonic Studies'  Study Abroad page.   
+  Typical year four modules   
+  Core economics modules  
+ 
+   Dissertation 
+  
+  
+  
+    An independent research project, involving the application of techniques of economic analysis to a self-chosen research topic and the presentation of a written report. Lectures to provide general guidance on economic research methods and writing an undergraduate dissertation in economics. 
+   
+   
+    
+   
+  
+    Topics include: 
+   
+   
+   
+    
+     Introduction to the dissertation  
+     Types of dissertation  
+     Literature reviews  
+     Sources of data  
+     Writing up your dissertation  
+     Data entry and data management  
+     An introduction to STATA  
+     Descriptive statistics  
+     Practical issues in regression analysis  
+     Model selection  
+     Endogeneity bias  
+    
+   
+  
+    Specific dissertations will cover different learning outcomes depending on the topics chosen. 
+   
+  
+ 
+     
+  
+  
+  Core language modules include:  
+  Advanced Russian

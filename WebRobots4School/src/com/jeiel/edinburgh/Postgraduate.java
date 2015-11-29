@@ -54,7 +54,7 @@ public class Postgraduate {
 			e.printStackTrace();
 		}finally{
 			try {
-				ExcelGenerator excelGenerator = new ExcelGenerator(SCHOOL_NAME, majorList,false);
+				ExcelGenerator excelGenerator = new ExcelGenerator(SCHOOL_NAME,"pgt", majorList,false);
 				excelGenerator.exportExcel("gen_data_"+SCHOOL_NAME+"_pgt.xls");
 				long endTimeInMillis=Calendar.getInstance().getTimeInMillis();
 				System.out.println("Total seconds: " + (endTimeInMillis-startTimeInMillis)/1000 + "s");

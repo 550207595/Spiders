@@ -1,0 +1,486 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff. They’re also shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules on offer.  
+  
+  Typical Year One Modules   
+  
+  
+  Compulsory 
+   
+  
+    Engineering Mathematics 1 
+   
+   
+   
+     This module introduces the algebra of complex numbers to provide a key mathematical tool for analysis of linear mathematical and engineering problems. The complexity of solving general systems of equations is introduced and their study using matrix techniques. You’ll spend around three hours per week in lectures and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Mathematics 2 
+   
+   
+   
+     You’ll be introduced to techniques for solving selected first-order and second-order differential equations relevant to the analysis of generic engineering problems. The module also provides mathematical tools in terms of advanced differential calculus and vectors for modelling of generic engineering situations given in terms of multi-dimensional models. You’ll spend around three hours per week in lectures and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Industrial Design 
+   
+   
+   
+     This module will provide you with an introduction to Industrial Design, a brief history of its leading practitioners and its impact on popular culture, the role of the designer and ethical responsibilities, design methodology and design project case studies.  You’ll spend 1 hour in lectures and one hour in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Design and Manufacture 1 
+   
+   
+   
+     This year long module introduces students to basic concepts and practice of design and manufacture and includes the following topics: The process of design supported by practical design activities; Engineering drawing; Solid modelling and drawing generation; Machine shop practical training; Machine elements, machining processes; Metrology. You’ll spend three hours in lectures, three hours in computing, three hours in workshops and three hours in every week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Materials and Materials Forming 
+   
+   
+   
+     The module gives a broad introduction to the properties and processing of materials used in engineering applications and is intended to provide a course in engineering materials for students with no previous background in the subject. The final section of the module covers failure of materials, and seeks to cover the main failure mechanisms which a designer will be concerned with (overload, fracture, creep, fatigue etc). You’ll spend two hours in lectures and six hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mechanics of Solids 1 
+   
+   
+   
+     The aim of this module is to introduce students to fundamental concepts and principles of solid mechanics and their applications to simple engineering problems. By the end of the module you will be able to comprehend the fundamental concepts of solid mechanics and apply these concepts to simplified engineering scenarios. You’ll spend two hours in lectures, six hours in practicals and one hour in a seminar each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Professional Studies 
+   
+   
+   
+     The module covers a number of global and ethical issues relating to engineering .The module introduces many of the key transferable skills required by engineers (and others) within the context of these issues, including: report writing; literature searching and presentation skills. You’ll spend two hours in lectures and five hours in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Creative Techniques in Design 
+   
+   
+   
+     This module will teach and develop a range of creative skills for use in product design. Students will be introduced to creative theory and the creative processes central to the work of the designer. Observational studies will be undertaken to inspire and inform creative activity. You’ll spend one hour in lectures, supplemented by three hours of practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Dynamics of Mechanical Systems 
+   
+   
+   
+     The aim of this module is to introduce students to fundamental concepts and principles of dynamics and their application to mechanical engineering systems. You will recognise and construct an appropriate analysis technique to apply when presented with a simple engineering scenario in a dynamics context. You’ll spend one hour in lectures, two hours in practicals and 1 hour in tutorials each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Drawing For Design 
+   
+   
+   
+     This module will teach and develop skills in drawing. It will take students from the basics of sketching as taught in a previous module to further develop their skills in representing three dimensional forms in perspective. Students will progressively learn to add detail to their drawings in terms of form and tone and texture. This module consists of three hours of practicals each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Two Modules   
+  
+  
+  Compulsory
+   
+   
+  
+    Near Net Shape Manufacture 
+   
+   
+   
+     This module examines modern manufacturing techniques currently being exploited within industry which results in near net shape parts. You will be provided with the essential knowledge which will enable you to understand common place and emerging near net shape manufacturing techniques. You’ll spend three hours in lectures and one hour in seminars each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Automated Manufacture 
+   
+   
+   
+     This module will give an understanding of the need for automation and robotics in manufacturing industry. You will be introduced to the fundamental concepts of automated manufacture, the role of automation in manufacturing, and its advantages and limitations. You’ll spend two hours in lectures and four hours in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Design for Manufacture 
+   
+   
+   
+     The aim of this module is to develop knowledge, understanding and practical skills in Design for Manufacturing and Manufacturing and Product Development. It covers design for manufacturability, design for assembly, rapid prototyping and manufacturing, jigs and fixtures, process planning and group technology and design for cost. You’ll spend two hours in lectures and three hours in practicals each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Production and Inventory Management 
+   
+   
+   
+     This module describes the main factors which influence the needs of a manufacturing control (production and inventory control) system including the market, the manufacturing and information processing technology and the skills of the workforce. You’ll spend two hours in lectures each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Marketing B 
+   
+   
+   
+     This module is primarily intended for non-Business School students. This module aims to introduce the concept of marketing as an approach to business and to discuss the nature of marketing strategy. You’ll investigate the challenges of managing the marketing mix. You’ll spend two hours in lectures and one hour in a seminar each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Computer Modelling Systems 
+   
+   
+   
+     This module will teach and develop knowledge and skills in the uses of two types of software: Computer aided design software and computer animation and visualisation software. Students are taught free form surface modelling and other advanced modelling techniques in Pro E. In 3D Studio Max you are taught to produce photo realistic images from CAD data. You’ll spend two hours in practicals each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Design Visualisation Techniques 
+   
+   
+   
+     The module enables students to develop their visual presentation skills of design concepts and ideas. It aims to introduce students to a range of presentation techniques and media including hand rendered/drawing techniques as well as computer based digital techniques. You’ll spend three hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Second Year Design Projects 
+   
+   
+   
+     This is a project based module for Product Design and Manufacture students in their second year. Through practical design work the students will be faced with the problems of managing different constraints and producing cohesive design proposals. The students will become familiar with the process of receiving design briefs, managing time and resources and presenting design solutions. You’ll spend 12 hours in practicals and eight hours in further activity sessions each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Second Year Group Design Project 
+   
+   
+   
+     This is a project based module for Product Design and Manufacture students in their second year. The module comprises an individual and a group design project. Through practical design work the students will be faced with the problems of managing differing constraints, possibly conflicting views and workload management to produce a cohesive design proposal. You’ll spend 10 hours in practicals and four hours in further activity sessions each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Ergonomics in Design 
+   
+   
+   
+     This module aims to introduce the cognitive, physical, environmental and organisational bases of ergonomics/human factors. The course will provide knowledge and understanding of when an ergonomics intervention is required and how to manage, organise and evaluate such a programme. You’ll spend two hours in lectures each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Management Studies 1 
+   
+   
+   
+     This module introduces students to modern management methods relevant to the running of a company. Topics include: Introduction to basic economics; the essential requirements and aims of a business; preparing a business plan; accounting; interpretation of accounts; programme management; the essentials of “lean” manufacture and the management of innovation. You’ll spend two hours in lectures each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+   Typical Year Three Modules   
+  
+  
+  Compulsory
+   
+   
+  
+    Physical Ergonomics 
+   
+   
+   
+     This module aims to equip students with fundamental knowledge and skills regarding the physical characteristics of people (body size, strength, flexibility, etc.) and environments (lighting, thermal, sound, etc.) as they relate to the design of products, workplaces and tasks/jobs. You’ll spend two hours in lectures each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    RSA Design Projects 
+   
+   
+    
+    
+      The module comprises of 2 projects. In the first project, students will be able to use ‘People Centred Research’ to find creative approaches to difficult problems.. In the second project, students will be able to detail a simple product for manufacture by injection moulding. You’ll spend 12 hours in practicals and 4 hours in further activity sessions each week when studying this module. 
+     
+     
+      
+     
+    
+   
+  
+      
+   
+  
+    BEng Major Design Project 
+   
+   
+   
+     This is a project based module for Product Design and Manufacture students in their 3rd year. It is the final project of the BEng degree programme. The module comprises of 1 project, which develops and showcases the design skills of the student. This work will form the basis of the end of course exhibition. You’ll spend 20 hours working practically each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Product Design Dissertation 
+   
+   
+   
+     This is an individual report based project which seeks to develop the student’s ability to think critically, plan and present on a piece of work at a professional level. The content of the project must focus on some element of design & manufacture, but could involve experimental, theoretical, observational or practical work together with a relevant literature review. You’ll spend 1 hour in  a tutorial  each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Manufacturing Process Capability 
+   
+   
+   
+     The module will give students in depth understanding of technical capability of modern manufacturing processes in relation to product design. The aim of the module is to develop students’ abilities to understand and assess the capability of single and combined manufacturing processes. You’ll spend two hours in lectures and two hours in seminars each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+   
+  Optional Students must take 20 credits from this group.
+   
+   
+  
+    Management Studies 2 
+   
+   
+   
+     On completion of this module you will be able to understand how projects are selected and financially evaluated. You'll be able to construct and monitor the elements of an engineering or business programme and acquire an ability to manage risks and quality issues in the industrial and business context. You'll develop an understanding of the basics of English Law. You’ll spend two hours in lectures in tutorials each week when studying this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Simulation and Digital Human Modelling 
+   
+   
+   
+     This module aims to equip students with the knowledge and skills required to use digital human modelling and systems simulation approaches in Human Factors research and design/evaluation work. In addition, the module aims to provide students with an understanding of the fundamental assumptions upon which digital human modelling and simulation tools are based and their primary capabilities and limitations. You’ll spend two hours in lectures and two hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Computer Aided Engineering 
+   
+   
+   
+     This module will enable you to create, display and analyse complex forms and assemblies. Various elements of CAE will be covered including, solid & surface modelling, rendering and analysis. Review of the CAE software and industry. You’ll spend three hours in practicals each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Sustainable Manufacturing 
+   
+   
+   
+     This module aims to provide you with the knowledge of key environmental and sustainability issues that are relevant to modern manufacturing. It also aims to provide a set of tools and skills that may be used to design, analyse, and improve manufacturing processes, products, and business operations. You’ll spend two hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Polymer Engineering 
+   
+   
+   
+     This module will allow you to gain an understanding of the chemistry of polymers, the routes to polymerisation and their effect on the material; the rheology of polymer melts, the basics of the main polymer processing operations, and the interaction between rheology and processing; the mechanical properties of polymers. You’ll spend two hours in lectures and one hour in a seminar each week when studying this module. 
+     
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Cognitive Ergonomics in Design 
+   
+   
+   This module will provide you with a thorough understanding of cognitive ergonomics and the way in which the consideration of cognitive ergonomics can impact on human performance in the workplace. You’ll spend two hours in lectures each week when studying this module.

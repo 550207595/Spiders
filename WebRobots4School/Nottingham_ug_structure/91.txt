@@ -1,0 +1,379 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.   
+  
+  Typical Year One Modules 
+  
+  
+      
+   Compulsory  
+   
+   
+   Analytical and Computational Foundations 
+   
+   
+    This module is one of three linked 20-credit year-long modules introducing students to a broad range of core mathematical concepts and techniques that underpin all the School of Mathematical Sciences' degree programmes. It has three components:  
+    
+     Mathematical reasoning (the language of mathematics, the need for rigour, and methods of proof).  
+     The computer package MATLAB and its applications.  
+     Elementary analysis.  
+    
+   
+  
+      
+   
+  
+    Calculus and Linear Algebra 
+   
+   
+    The module consolidates core GCE mathematical topics in the differential and integral calculus of a function of a single variable and used to solving some classes of differential equations. Basic theory is extended to more advanced topics in the calculus of several variables. In addition, the basic concepts of complex numbers, vector and matrix algebra are established and extended to provide an introduction to vector spaces. An emphasis in the module is to develop general skills and confidence in applying the methods of calculus and developing techiniques and ideas that are widely applicable and used in subsequent modules. Major topics are:  
+    
+     differential and integral calculus of a single variable;  
+     differential equations;  
+     differential calculus of several variables;  
+     multiple integrals;  
+     complex numbers;  
+     matrix algebra;  
+     vector algebra and vector spaces.  
+    
+   
+  
+      
+   
+  
+    Computer Fundamentals 
+   
+   
+    Introduces, in a practical way, how the computer, its operating system and the network it connects to talk. You will see how a single fundamental component, the NAND gate, can be arranged to build all aspects of the computer's hardware and how that hardware can be programmed directly. You will also see how to communicate over a network to other computers. You'll spend around five hours per week in tutorials, lectures and computer classes for this module  
+    
+   
+  
+      
+   
+  
+    Databases and Interfaces 
+   
+  
+      
+    Databases are everywhere and we interact with many different databases every day, using the web, using electronic calendars, diaries or timetables, making appointments, searching for contact details, shopping online, looking up directions, and many more things. These databases need to be both easy to use and fast.  
+    This module considers both the structure of databases, including how to make them fast, efficient and reliable, and the appropriate user interfaces which will make them easy to interact with for users. You will start by looking at how to design a database, gaining an understanding of the standard features that management systems provide and how you can best utilise them, then develop an interactive application to access your database.  
+    Throughout the lectures and computing sessions you will learn how to design and implement systems using a standard database management system, web technologies and GUI interfaces through practical programming/system examples.  
+    
+   
+  
+      
+   
+  
+    Probability 
+   
+  
+    This module provides an introduction to probability by developing a mathematical framework for the logic of uncertainty. The language of set theory is used to describe random events. An axiomatic definition of probability is introduced and used as a basis for developing material such as conditional probability, independence and Bayes' Theorem. Random variables are introduced, including definitions and manipulations involving mass, density and distribution functions, and expectation and variance. Standard discrete and continuous random variables are presented. A number of additional topics are considered, such as sums of random variables, simple transformations of random variables, bivariate discrete random variables, and an introduction to the central limit theorem 
+   
+  
+      
+   
+  
+    Programming and Algorithms 
+   
+   
+    The module introduces basic principles of programming and algorithms. It covers fundamental programming constructs, such as types and variables, expressions, control structures, and functions.  The module also teaches how to design and analyse simple algorithms and data structures that allow efficient storage and manipulation of data. Finally, it familiarises students with basic software development methodology. You will spend around six hours per week in lectures, computer classes and tutorials  
+       
+   
+  
+      
+   
+  
+    Statistics 
+   
+  
+    In this module a range of statistical ideas and skills are developed, building on the foundations of probability covered in G11PRB. It describes mathematical concepts and techniques for modelling situations involving uncertainty and for analysing and interpreting data. In particular, exploratory data analysis, point estimation, confidence intervals, hypothesis testing, linear regression and analysis of categorical data are covered. Use is made of an appropriate statistical package to apply the principles and methods described in the lectures. 
+   
+  
+      
+   
+  
+ 
+     
+  
+     
+  
+  Typical Year Two Modules 
+  
+  
+   Compulsory  
+  
+ 
+     
+  
+ 
+   Algorithms, Correctness & Efficiency 
+  
+  
+   This modules covers important aspects of algorithms, namely their correctness and efficiency. To address the former we use a mathematically rigorous approach to formal verification using an interactive proof system. You’ll study topics such as: proofs in propositional logic and predicate logic; classical vs. intuitionistic reasoning; basic operations on types; verification of list based programs; and introduction to program specification and program correctness. To address the issue of efficiency we cover the use of mathematical descriptions of the computational resources needed to support algorithm design decisions. The emphasis is upon understanding data structures and algorithms so as to be able to design and select them appropriately for solving a given problem.  
+   
+  
+ 
+     
+  
+     
+ 
+   Artificial Intelligence Methods 
+  
+  
+   This module builds on the first Introduction to Artificial Intelligence. You will study some of the more important AI topics (for example search) and some of the more modern AI techniques (for example artificial neural networks). This is a practical module and you will expect to have two hours lectures and two hours computer labs per week implementing the ideas in appropriate modern software.  
+  
+ 
+     
+  
+     
+ 
+   Introduction to Numerical Methods 
+  
+  
+   This module introduces basic techniques in numerical methods and numerical analysis which can be used to generate approximate solutions to problems that may not be amenable to analysis. Specific topics include:  
+   
+    Matlab  
+    Iterative methods for nonlinear equations (simple iteration, bisection, Newton, convergence);  
+    Discussion of errors (including rounding errors);  
+    Gaussian elimination, matrix factorisation, and pivoting;  
+    Iterative methods for linear systems, matrix norms, convergence, Jacobi, Gauss-Siedel, successive over relaxation;  
+    Polynomial Interpolation;  
+    Orthogonal polynomials;  
+    Numerical Integration;  
+    Numerical Differentiation  
+   
+  
+ 
+     
+  
+     
+ 
+   Probability Models and Methods 
+  
+  
+   In the first part of this module, the ideas of probability introduced in G11PRB are extended to provide a more formal introduction to the theory of probability and random variables, with particular attention being paid to continuous random variables. Fundamental concepts, such as independence, conditioning, moments, joint distributions, transformations and generating functions are discussed in detail. This part concludes with an introduction to some famous limit theorems and the multivariate normal distribution.  
+   The second part of the module gives an introduction to stochastic processes, i.e. random processes that evolve with time. The focus is on discrete-time Markov chains, which are fundamental to the wider study of stochastic processes. Topics covered include transition matrices, recurrence and transience, irreducibility, periodicity, equilibrium distributions, ergodic theorems, absorption probabilities, mean passage times and reversibility. Discrete-time renewal processes and branching processes are considered as applications. The module finishes with an introduction to simple one-dimensional random walks, including sample path diagrams, the reflection principle, recurrence and transience, first passage probabilities and arcsine laws.  
+   
+  
+ 
+     
+  
+     
+ 
+   Stochastic Models and Methods 
+  
+  
+   The first part of this module provides an introduction to statistical concepts and methods. A wide range of statistical models will be introduced to provide an appreciation of the scope of the subject and to demonstrate the central role of parametric statistical models. The key concepts of inference including estimation and hypothesis testing will be described. Special emphasis will be placed on maximum likelihood estimation and likelihood ratio tests. While numerical examples will be used to motivate and illustrate, the content will emphasis the mathematical basis of statistics. Topics include maximum likelihood estimation, confidence intervals, likelihood ratio tests, categorical data analysis and non-parametric procedures.  
+   The second part of the module introduces a wide class of techniques such as regression, analysis of variance, analysis of covariance and experimental design which are used in a variety of quantitative subjects. Topics covered include the general linear model, least squares estimation, normal linear models, simple and multiple regression, practical data analysis, and assessment of model adequacy. As well as developing the theory, practical experience will be obtained by the use of a statistical computer package.  
+   
+  
+ 
+     
+  
+     
+  Optional  
+ 
+   Human Computer Interaction 
+  
+ 
+   Through two hours of lectures each week, you’ll be given an overview of the field of Human Computer Interaction, which aims to understand people's interaction with technology and to apply this knowledge in the design of usable interactive computer systems. The module will introduce the concept of usability and will examine different design approaches and evaluation methods. 
+  
+ 
+     
+  
+     
+ 
+   Software Quality  
+  
+ 
+   Module description to be confirmed. 
+  
+ 
+     
+  
+     
+ 
+   Languages and Computability 
+  
+ 
+   In this module you will investigate classes of formal language and the practical uses of this theory, applying this to a series of abstract machines ultimately leading to a discussion on what computation is and what can and cannot be computed. You will focus in particular on language recognition, but will study a range of topics including: finite state machines, regular expressions, context-free grammars, Turing machines and Lambda calculus. This module builds on parts of the ACE module addressing data structures and formal reasoning and introduces concepts which are important to understand the analysis of algorithms in terms of their complexity. 
+  
+ 
+     
+  
+     
+  
+  Typical Year Three Modules 
+  
+  
+  Compulsory 
+  
+ 
+     
+  
+     
+ 
+   Individual Dissertation 
+  
+  
+  Through a one hour lecture and a tutorial with your supervisor each week, you’ll develop your own independent research project and written report. Topics can range from purely theoretical studies to practical work building a system for a third party. 
+  
+ 
+     
+  
+     
+ 
+   Optimization 
+  
+  
+   In this module a variety of techniques and areas of mathematical optimization will be covered. The module will contain sections covering the following topics:  
+   
+    Lagrangian methods for optimization, overview of uses in a variety of applications – some of which appear in later sections;  
+    Linear Programming including the Simplex Algorithm;  
+    Dynamic Programming both deterministic control problems and stochastic problems;  
+    Network and Graph algorithms.  
+   
+  
+ 
+     
+  
+     
+  Optional Computer Science Modules  
+ 
+   Decision Support Methodologies 
+  
+ 
+   The main aim of this module is to provide a sound understanding of wide range of fundamental concepts, techniques and methods of Operational Research and Artificial Intelligence that can help in design of automated intelligent decision support systems. The module will present a variety of applications from industrial and service sectors. 
+  
+ 
+     
+  
+ 
+   Machine Learning  
+  
+ 
+   Providing you with an introduction to machine learning, pattern recognition, and data mining techniques, this module will enable you to consider both systems which are able to develop their own rules from trial-and-error experience to solve problems as well as systems that find patterns in data without any supervision. In the latter case, data mining techniques will make generation of new knowledge possible, including very big data sets. This is now fashionable termed 'big data' science. You’ll cover a range of topics including: machine learning foundations; pattern recognition foundations; artificial neural networks; deep learning; applications of machine learning; data mining techniques and evaluating hypotheses. You’ll spend around six hours each week in lectures and computer classes for this module. 
+  
+ 
+     
+  
+     
+ 
+   Software Quality Management 
+  
+  
+   Through a two hour lecture each week, you’ll be introduced to concepts and techniques for software testing and will be given an insight into the use of artificial and computational intelligence for automated software testing. You’ll also review recent industry trends on software quality assurance and testing.  
+  
+ 
+     
+  
+     
+ 
+   Knowledge Representation and Reasoning 
+  
+  
+   This module examines how knowledge can be represented symbolically and how it can be manipulated in an automated way by reasoning programs. Some of the topics you’ll cover include: first order logic; resolution; description logic; default reasoning; rule-based systems; belief networks and fuzzy logic. You’ll have two hours of lectures each week for this module.  
+  
+ 
+     
+  
+     
+ 
+   Fuzzy Sets and Fuzzy Logic Systems 
+  
+  
+   You’ll review classical Boolean logica and set theory, including the common operations of union, intersection and complement. Fuzzy Logic Systems (FLSs) will be introduced and illustrated in conjunction to examples of real world applications in industrial control and other areas. You’ll spend around four hours each week in lectures and workshops, and will be given the opportunity to design, programme and deploy a fuzzy logic system, providing a tangible real world example of some underlying concepts of FLSs.  
+  
+ 
+     
+  
+     
+ 
+   Computer Graphics 
+  
+  
+   You’ll examine the principles of 3D computer graphics, focusing on modelling the 3D world on the computer, projecting onto 2D display and rendering 2D display to give it realism. Through weekly two hours weekly of lectures and laboratory sessions, you’ll explore various methods and requirements in 3D computer graphics, balancing efficiency and realism.  
+  
+ 
+     
+  
+     
+ 
+   Computer Security 
+  
+ 
+   Spending four hours a week in lectures and computer classes, you’ll cover the following topics: security of the computer; security of networks; security and the internet; software and hardware security; mobile security; and basic cryptography. 
+  
+ 
+     
+  
+     
+  Optional Mathematics Modules  
+     
+ 
+   Stochastic Models 
+  
+  
+   In this module the ideas of discrete-time Markov chains, introduced in the module G12PMM, are extended to include more general discrete-state space stochastic processes evolving in continuous time and applied to a range of stochastic models for situations occurring in the natural sciences and industry. The module begins with an introduction to Poisson processes and birth-and-death processes. This is followed by more extensive studies of epidemic models and queueing models, and introductions to component and system reliability. The module finishes with a brief introduction to Stochastic Differential Equations. Students will gain experience of classical stochastic models arising in a wide variety of practical situations. In more detail, the module includes:  
+   
+    homogeneous Poisson processes and their elementary properties;  
+    birth-and-death processes - forward and backward equations, extinction probability;  
+    epidemic processes - chain-binomial models, parameter estimation, deterministic and stochastic general epidemic, threshold behaviour, carrier-borne epidemics;  
+    queueing processes - equilibrium behaviour of single server queues;  
+    queues with priorities; 
+     
+      component reliability and replacement schemes;  
+      system reliability;  
+      Stochastic differential equations and Ito's lemma.  
+      
+   
+  
+ 
+     
+  
+     
+ 
+   Game Theory 
+  
+  
+   Game theory contains many branches of mathematics (and computing); the emphasis here is primarily algorithmic. The module starts with an investigation into normal-form games, including strategic dominance, Nash equilibria, and the Prisoner’s Dilemma. We look at tree-searching, including alpha-beta pruning, the ‘killer’ heuristic and its relatives. It then turns to mathematical theory of games; exploring the connection between numbers and games, including Sprague-Grundy theory and the reduction of impartial games to Nim.  
+  
+ 
+     
+  
+ 
+   Statistical Inference 
+  
+  
+   This module is concerned with the two main theories of statistical inference, namely classical (frequentist) inference and Bayesian inference. The classical inference component of the module builds on the ideas of mathematical statistics introduced in G12SMM. Topics such as sufficiency, estimating equations, likelihood ratio tests and best-unbiased estimators are explored in detail. There is special emphasis on the exponential family of distributions, which includes many standard distributions such as the normal, Poisson, binomial and gamma. In Bayesian inference, there are three basic ingredients: a prior distribution, a likelihood and a posterior distribution, which are linked by Bayes' theorem. Inference is based on the posterior distribution, and topics including conjugacy, vague prior knowledge, marginal and predictive inference, decision theory, normal inverse gamma inference, and categorical data are pursued. Common concepts, such as likelihood and sufficiency, are used to link and contrast the two approaches to inference. Students will gain experience of the theory and concepts underlying much contemporary research in statistical inference and methodology.  
+  
+ 
+     
+  
+ 
+   Mathematical Finance 
+  
+  
+    In this module the concepts of discrete time Markov chains studied in the module G12PMM are extended and used to provide an introduction to probabilistic and stochastic modelling for investment strategies, and for the pricing of financial derivatives in risky markets. The probabilistic ideas that underlie the problems of portfolio selection, and of pricing, hedging and exercising options, are introduced. These include stochastic dynamic programming, martingales and Brownian motion. The capital asset pricing model is described and two Nobel Prize winning theories are obtained: the Markowitz mean-variance efficient frontier for portfolio selection and the Black-Scholes formula for arbitrage-free prices of European type options on stocks. Students will gain experience of a topic of considerable contemporary importance, both in research and in applications.  
+  
+ 
+     
+  
+ 
+   Topics in Statistics 
+  
+  
+   In this module three distinct topics in statistics will be introduced. These topics will build on the theory and methods introduced in the module G12SMM. It is anticipated that the topics to be covered will be sequential analysis, multivariate analysis and designed experiments. These topics may be briefly summarised as follows:  
+   
+    sequential analysis - hypothesis testing for situations where the data are collected sequentially over time, eg on a factory production line;  
+    multivariate analysis – investigation of the structure of multivariate data using principal components analysis, inference based on vectors of observations, and classification using discriminant analysis;  
+    designed experiments – methods for planning and analysing carefully designed experiments for investigating relationships between factors and a response.  
+   
+  
+ 
+     
+  
+ 
+   Medical Statistics 
+  
+ 
+   Medical statistics is one of the largest single areas of application of statistical methodology. Initially this module extends the theoretical aspects of statistical inference (first met in G12SMM or G14FOS) by developing the theory of the generalised linear model and its practical implementation. Then several application areas are considered beginning with an examination of the design and analysis of the prospective clinical trial. Thereafter, the module extends the understanding and application of statistical methodology established in previous modules to the analysis of discrete data and survival data, two frequently occurring types of data in the medical field. In the module students will be trained in the use of an appropriate high-level statistical package.

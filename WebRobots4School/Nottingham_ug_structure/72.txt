@@ -1,0 +1,331 @@
+Modules   
+ The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer. 
+  
+    Typical Year One Modules   
+  
+  
+  Compulsory 
+   
+  
+    Programming and Algorithms 
+   
+   
+    The module introduces basic principles of programming and algorithms. It covers fundamental programming constructs, such as types and variables, expressions, control structures, and functions.  The module also teaches how to design and analyse simple algorithms and data structures that allow efficient storage and manipulation of data. Finally, it familiarises students with basic software development methodology. You will spend around six hours per week in lectures, computer classes and tutorials.  
+   
+  
+      
+   
+  
+    Computer Fundamentals 
+   
+   
+    Introduces, in a practical way, how the computer, its operating system and the network it connects to talk. You will see how a single fundamental component, the NAND gate, can be arranged to build all aspects of the computer's hardware and how that hardware can be programmed directly. You will also see how to communicate over a network to other computers. You'll spend around five hours per week in tutorials, lectures and computer classes for this module.  
+   
+  
+      
+   
+  
+    Systems and Architecture   
+   
+   
+    This module runs alongside 'Computer Fundamentals' and provides an expanded view by considering how real computer systems (such as ARM, x86, Linux and *BSD) and networks work. You’ll also cover the principles of the lower level implementation of I/O using polling and interrupts, and the use of exceptions; how memory and storage is organized as well addressing the issues arising from multicore systems. You’ll spend around five hours per week in tutorials, lectures and computer classes for this module.  
+   
+  
+      
+   
+  
+    Mathematics for Computer Scientists 
+   
+   
+     You’ll cover the basic concepts in mathematics which are of relevance to the computer scientists. Topics which will be covered include: logic; sets, functions and relations; graphs; induction, basic probability and statistics; matrices. You’ll spend around four hours per week in lectures and tutorials for this module.  
+   
+  
+      
+   
+  
+    Database and Interfaces 
+   
+   
+    Databases are everywhere and we interact with many different databases every day, using the web, using electronic calendars, diaries or timetables, making appointments, searching for contact details, shopping online, looking up directions, and many more things. These databases need to be both easy to use and fast.  
+    This module considers both the structure of databases, including how to make them fast, efficient and reliable, and the appropriate user interfaces which will make them easy to interact with for users. You will start by looking at how to design a database, gaining an understanding of the standard features that management systems provide and how you can best utilise them, then develop an interactive application to access your database. Throughout the lectures and computing sessions you will learn how to design and implement systems using a standard database management system, web technologies and GUI interfaces through practical programming/system examples.  
+   
+  
+      
+   
+  
+    Software Engineering 
+   
+   
+    This modules focuses on the fact that programming is only one step of the larger Software Engineering Process. To develop -good- software, you must gather requirements, design it well, plan the development, do the programming, have a testing strategy, test the parts and the product as a whole, and have a maintenance strategy for fixing the things that no one (even the client) imagined were important until it after it was delivered.  
+    Software Engineering is a process that is much more than just programming. You will spend around 2-3 hours per week discussing the stages of the Software Engineering process in lectures, whilst carrying out activities in labs that help you understand the underlying issues.    
+   
+  
+      
+   
+  
+    Programming Paradigms 
+   
+   
+    In this module you will learn the basic principles of the object-oriented and functional approaches to programming, using the languages Java and Haskell.  You will also see how they can be used in practice to write a range of different kinds of programs.  You will spend around 5 hours per week in lectures and labs for this module.  
+   
+  
+      
+   
+  
+    Fundamentals of Artificial Intelligence 
+   
+   
+    Through a two-hour lecture once a week, this module gives you a broad overview of the fundamental theories and techniques of Artificial Intelligence (AI). You’ll explore how computers can produce intelligent behaviour, and will consider topics such as the history of AI, AI search techniques, neural networks, data mining, philosophical and ethical issues, and knowledge representation and reasoning.  
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Two Modules  
+  
+  
+   Compulsory  
+  
+    Algorithm 
+   Correctness and Efficiency 
+   
+   
+    This modules covers important aspects of algorithms, namely their correctness and efficiency. To address the former we use a mathematically rigorous approach to formal verification using an interactive proof system. You’ll study topics such as: proofs in propositional logic and predicate logic; classical vs. intuitionistic reasoning; basic operations on types; verification of list based programs; and introduction to program specification and program correctness. To address the issue of efficiency we cover the use of mathematical descriptions of the computational resources needed to support algorithm design decisions. The emphasis is upon understanding data structures and algorithms so as to be able to design and select them appropriately for solving a given problem.  
+   
+  
+      
+   
+  
+    Software Engineering Group Project 
+   
+   
+    Working in groups of around five to six people, you’ll be assigned a supervisor who will provide you with a short written description of a computer application to be designed, programmed, and documented during the course of the module. Each group will meet twice a week, once with your supervisor and once without; you’ll also have four introductory one hour lectures.  
+   
+  
+      
+   
+  
+    Operating Systems Distributed/Parallel 
+   
+   
+    This module covers a range of issues relating to operating systems, and distributed and parallel computing. Topics in operating systems include the architecture of operating systems, process and memory management, storage, I/O, and virtualisation. Topics in parallel and distributed computing include parallelism vs concurrency, task and data-parallel based decomposition, parallel architectures, parallel algorithms and programming.  
+   
+  
+      
+   
+  
+    Languages and Representations 
+   
+   
+    You'll investigate classes of formal language and the practical uses of this theory, applying this to a series of abstract machines ultimately leading to a discussion on what computation is and what can and cannot be computed. You'll focus in particular on language recognition,   but will study a range of topics including: finite state machines, regular expressions, context-free grammars, Turing machines and Lambda calculus. This module builds on parts of the ACE module addressing data structures and formal reasoning and introduces concepts which are important to understand the analysis of algorithms in terms of their complexity.  
+   
+  
+      
+   
+   
+   Software Application Design 
+   
+  
+    This module builds on and further develops basic software design practices. It covers design patterns, data processing,regression testing, networking, and GUI programming. The module teaches how to read, understand, modify and extend a large piece of software. Finally it familiarises students with GUI design guidelines and usability heuristics. You will spend around six hours per week in lectures, computer classes and tutorials. 
+   
+  
+      
+   
+  
+    Artificial Intelligence Methods 
+   
+  
+    This module builds on the first Introduction to Artificial Intelligence. You will study some of the more important AI topics (for example search) and some of the more modern AI techniques (for example artificial neural networks). This is a practical module and you will expect to have two hours lectures and two hours computer labs per week implementing the ideas in appropriate modern software. 
+   
+  
+      
+   
+   Optional  
+  
+    Graphical User Interfaces 
+   
+   
+    This module will introduce you to programming concepts and structures by considering the Java Swing packages in depth. You’ll explore a wide range of components, and will consider the other APIs, which allows easy incorporation of high-quality 2D graphics, text, and images in applications, and the use of Integrated Development Environments (IDEs), which simplify the construction of graphical user interfaces. You’ll spend around four hours each week in lectures and computer classes.  
+   
+  
+      
+   
+  
+    Advanced Functional Programming 
+   
+   
+    Building upon the introductory Functional Programming module in year one, you’ll focus on a number of more advanced topics such as:  programming with effects; reasoning about programs; control flow; advanced libraries; improving efficiency; type systems; and functional pearls. You’ll spend around four hours per week in lectures and computer classes for this module.  
+   
+  
+      
+   
+  
+    C++ Programming 
+   
+   
+    You will cover the programming material and concepts necessary to obtain an understanding of the C++ programming language. You will spend around four hours per week in lectures and computer classes for this module and will be expected to take additional time to practice and to produce your coursework.  
+   
+  
+      
+   
+  
+    Introduction to Image Processing 
+   
+   
+   
+     This module introduces the field of digital image processing, a fundamental component of digital photography, television, computer graphics and computer vision. You’ll cover topics including: image processing and its applications; fundamentals of digital images; digital image processing theory and practice; and applications of image processing. You’ll spend around three hours in lectures and computer classes each week for this module. 
+    
+   
+       
+    
+   
+  
+      
+   
+  
+    Planning Search and Artificial Intelligence Programming 
+   
+   
+        
+   
+  
+      
+   
+      
+  
+ 
+     
+  
+  
+   
+   Typical Year Four Modules  
+  
+  
+   Compulsory  
+  
+    Individual Dissertation – Artificial Intelligence 
+   
+   
+    You’ll perform an individual project on a topic in computer science with emphasis in Artificial Intelligence. You’ll produce a 15-25,000 word project report under the guidance of your supervisor, who you will meet with for an hour each week. The topic can be any area of the subject which is of mutual interest to both the student and supervisor but should involve a substantial software development component.  
+   
+  
+      
+   
+  
+    Professional Ethics 
+   
+   
+    Module description to be confirmed.  
+   
+  
+      
+   
+  
+    Computer Security 
+   
+   
+    Spending four hours a week in lectures and computer classes, you’ll cover the following topics: security of the computer; security of networks; security and the internet; software and hardware security; mobile security; and basic cryptography.  
+   
+  
+      
+   
+  
+    Software Specification 
+   
+   
+    Module description to be confirmed.  
+   
+  
+      
+   
+    Optional  
+  
+    Computability 
+   
+   
+    You’ll begin by considering the attempts to characterise the problems that can theoretically be solved by physically-possible computational processes. You’ll then consider the area of complexity theory, looking at whether or not problems can be solved under limitations on resources such as time or space. A key topic is an examination of the classes P and NP and the definition of the term NP-complete. You’ll spend around two hours a week in lectures for this module.  
+   
+  
+      
+   
+  
+    Automated Decision Support Methodologies 
+   
+   
+    The main aim of this module is to provide a sound understanding of wide range of fundamental concepts, techniques and methods of Operational Research and Artificial Intelligence that can help in design of automated intelligent decision support systems. The module will present a variety of applications from industrial and service sectors.  
+   
+  
+      
+   
+  
+    Computer Security 
+   
+   
+    Spending four hours a week in lectures and computer classes, you’ll cover the following topics: security of the computer; security of networks; security and the internet; software and hardware security; mobile security; and basic cryptography.  
+   
+  
+      
+   
+  
+    New Media Design 
+   
+   
+    This is a practical module covering the critical elements of New Media Design, with a particular focus on its use in the web. Critical elements such as colour, images, audio, video and animation will be introduced and discussed, in addition to broader issues around usability and interaction. Processes to support effective design work will also be considered. You’ll gain hands-on experience of technologies used to manipulate New Media in a professional context. Such tools will be put into context with emerging paradigms, including new media for mobile platforms.  
+   
+  
+      
+   
+  
+    Collaboration and Communication Technologies 
+   
+   
+    In this module you’ll consider the design of collaboration and communication technologies used in a variety of different contexts including workplace, domestic and leisure environments. You’ll consider the basic principles of such technologies, explore the technologies from a social perspective, consider their impact on human behaviour and critically reflect on their design from a human-centred perspective. You’ll spend around two hours per week in lectures for this module.  
+   
+  
+      
+   
+  
+    Computer Graphics 
+   
+   
+    You’ll examine the principles of 3D computer graphics, focusing on modelling the 3D world on the computer, projecting onto 2D display and rendering 2D display to give it realism. Through two hours weekly of lectures and laboratory sessions, you’ll explore various methods and requirements in 3D computer graphics, balancing efficiency and realism.  
+   
+  
+      
+   
+  
+    Software Quality Management 
+   
+   
+    Through a two hour lecture each week, you’ll be introduced to concepts and techniques for software testing and will be given an insight into the use of artificial and computational intelligence for automated software testing. You’ll also review recent industry trends on software quality assurance and testing.  
+   
+  
+      
+   
+  
+    Fuzzy Sets and Fuzzy Logic Systems 
+   
+   
+    You’ll review classical Boolean logica and set theory, including the common operations of union, intersection and complement. Fuzzy Logic Systems (FLSs) will be introduced and illustrated in conjunction to examples of real world applications in industrial control and other areas. You’ll spend around four hours each week in lectures and workshops, and will be given the opportunity to design, programme and deploy a fuzzy logic system, providing a tangible real world example of some underlying concepts of FLSs.  
+   
+  
+      
+   
+  
+    Autonomous Robotic Systems 
+   
+   
+    This module introduces you to the computer science of robotics, giving you an understanding of the hardware and software principles appropriate for control and localisation of autonomous mobile robots. A significant part of the module is laboratory-based, utilising physical robotic hardware to reinforce the theoretical principles covered. Spending around three to four hours each week in lectures and practicals, you’ll cover a range of topics including basic behavioural control architectures, programming of multiple behaviours, capabilities and limitations of sensors and actuators and filtering techniques for robot localisation.  
+   
+  
+      
+   
+  
+    Machine Learning 
+   
+   
+    Providing you with an introduction to machine learning, pattern recognition, and data mining techniques, this module will enable you to consider both systems which are able to develop their own rules from trial-and-error experience to solve problems as well as systems that find patterns in data without any supervision. In the latter case, data mining techniques will make generation of new knowledge possible, including very big data sets. This is now fashionable termed 'big data' science. You’ll cover a range of topics including: machine learning foundations; pattern recognition foundations; artificial neural networks; deep learning; applications of machine learning; data mining techniques and evaluating hypotheses. You’ll spend around six hours each week in lectures and computer classes for this module.

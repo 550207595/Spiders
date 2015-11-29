@@ -1,0 +1,435 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff and as a result, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.   
+  
+    Typical Year One Modules  
+  
+  
+  
+    Analytical and Computational Foundations 
+   
+   
+    This module will introduce you to three core concepts and techniques that underpin all maths modules in your degree. These are mathematical reasoning – the language of maths and providing concrete proof of your theories, an introduction to the computer package MATLAB – its use and application, and basic analysis methods. You will have a combination of lectures, workshops and tutorials averaging about five hours per week throughout the year.  
+   
+  
+      
+   
+  
+    Calculus 
+   
+   
+    In this module, you will begin by practicing the basic concepts and methods of calculus including limits, functions, continuity, Taylor series, and Laplace transforms. In the second semester you will move onto more advanced usage of calculus. Topics will be based around the calculus of functions of several variables and include partial derivatives, chain rules, the vector operator grad, Lagrange multipliers and multiple integrals. This module is taught in two 1-hour lectures per week as well as problem classes and three hour tutorial support per week.  
+   
+  
+      
+   
+  
+    Linear Mathematics 
+   
+   
+    This module introduces you to the methods and practices of linear mathematics that you will need in subsequent modules on your course. Complex numbers, vector algebra and matrix algebra are established. You will then expand your knowledge to include vector spaces, linear transformations and inner product spaces through two hours of lectures per week combined with problem classes and tutorial support.  
+   
+  
+      
+   
+  
+    Probability 
+   
+   
+    This module provides an introduction to probability by developing a framework for the logic of uncertainty. Random variables and the topics surrounding them will also be introduced. You will spend two hours in lectures per week.   
+   
+  
+      
+   
+  
+    Statistics 
+   
+   
+    This module offers you the chance to learn about a range of statistical ideas and skills. In addition, concepts and techniques for modelling and practical data analysis skills will be taught. You will learn to write reports based on these topics which will help you in further studies. You will have a combination of lectures, problem classes and workshops totalling around four hours per week.  
+   
+  
+      
+   
+  
+    Business Economics A 
+   
+   
+   
+     This module introduces students to the microeconomic theory of the market and the firm. Topics covered include: market demand; supply and equilibrium; firm production and costs; market structure; perfect competition; monopolistic competition; oligopoly and monopoly. For this module you will have 10 two-hour lectures and 3 one-hour tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Business Economics B1 
+   
+   
+   
+     In this module you will cover a range of topics including: exchange and trade, consumer theory, indifference analysis, market failure, public goods, factor markets and labour markets. You will have ten 2-hour lectures and three 1-hour seminars to study for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Entrepreneurship and Business 
+   
+   
+   
+     Through a series of 11 two-hour lectures, this module presents a formal analysis of entrepreneurship in theory and practice leading on to a consideration of creativity and business concept generation. The course concludes with the practical application of these theories and concepts in business planning and business concept presentation. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    People and Organisations 
+   
+   
+   
+     This module will introduce you to the basic ideas of organisational behaviour and allow you to develop an understanding of how individuals behave as members of groups and organisations. To study for this module you will have nine two-hour lectures and one 1-hour lecture as well as one two-hour computer lab-based simulation tutorial and a one-hour tutorial session. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Two Modules  
+  
+  
+  
+    Introduction to Numerical Methods 
+   
+   
+    In this year-long module you will be introduced to basic techniques in numerical methods and numerical analysis. You will build upon your core year one modules to generate approximate solutions to problems that may not be easy to analyse on paper. There will be a wide range of topics including: iterative methods for nonlinear equations, discussion of errors (including rounding errors), polynomial interpolation and orthogonal polynomials among others. You will spend two hours per week in lectures and one hour per week in computer labs.  
+   
+  
+      
+   
+  
+    Probability Models and Methods 
+   
+   
+    This module will give you an introduction to the theory of probability and random variables, with particular attention paid to continuous random variables. Fundamental concepts relating to probability will be discussed in detail including well-known limit theorems and the multivariate normal distribution. You will then progress onto complex topics such as transition matrices, one-dimensional random walks and absorption probabilities. For this module you will spend three hours per week in lectures and workshops.  
+   
+  
+      
+   
+  
+    Statistical Models and Methods 
+   
+   
+    The first part of this module provides an introduction to statistical concepts and methods and the second part introduces a wide range of techniques used in a variety of quantitative subjects. The key concepts of inference including estimation and hypothesis testing will be described as well as practical data analysis and assessment of model adequacy alongside other topics. You will have a combination of lectures, example and problem classes each week.  
+   
+  
+      
+   
+  
+    Contemporary Economic Policy 
+   
+   
+   
+     This module introduces you to the nature and scope of the macroeconomic policy agenda, and develops the analytical frameworks necessary for the evaluation of policy instruments. The module enables you to understand the economic arguments that under-lie different views and to evaluate relevant arguments. You will have 10 two-hour lectures and three 1-hour tutorials each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Designing and Managing Organisations 
+   
+   
+   
+     Introducing you to the characteristics of organisations and organisations as systems, you are provided with concepts, theories and illustrations which will help you become effective managers in a rapidly changing world. You will have eleven 90-minute lectures plus two 60-minute tutorials each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Economics of Business Decisions 
+   
+   
+   
+     The aim of this module is to introduce you to the various economic views of firms that have recently been developed. Each view has its own implications for the objectives that guide firm decisions. Particular emphasis will be given to the practical implications of the theoretical analysis. Topics covered include: managerial theory of the firm; behavioural theory, agency theory, transactions cost economics, evolutionary theory, resource-based view of the firm, horizontal and vertical firm boundaries, vertical integration, diversification mergers and divestment. You will cover material in this module through eleven 90-minute lectures and 2 one-hour tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Organising and Managing in Practice 
+   
+   
+   
+     This module will explore some of the key issues that arise when attempting to manage employees at work. It will develop understanding of the impact of management policies and behaviours on employee attitudes and behaviours. This will help you to appreciate how your activities as managers will affect organisational performance. You will be required to have 11 one-hour lectures and 4 two-hour tutorials to cover material for this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Corporate Entrepreneurship 
+   
+   
+   
+     This module develops an understanding of corporate entrepreneurship (CE) and an appreciation of how larger firms can be designed to be more entrepreneurial, flexible and innovative. You will have 11 90-minute lectures and 2 one-hour seminars each week.  
+    
+   
+  
+      
+   
+  
+    Economics of Innovation 
+   
+    
+   
+   
+   
+     In this module you will cover topics including: innovation in the history of economic thought, basic concepts in the economics of innovation, Intellectual property, economics of networks, standards and dominant designs, the entrepreneur, demand and consumption, clusters, innovation and the division of labour, Innovation, competitiveness and trade and policy for Innovation. You will have eleven 90-minute lectures and two 60-minute tutorials per semester. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introduction to Finance 
+   
+   
+   
+     This module will introduce the basic concepts of corporate and personal finance. You will explore topics such as the value of money, shares and bonds, financial risk and returns and the elements of investment among others. You will have 90-minutes of lectures weekly plus two 1-hour workshops to assist your learning. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Marketing Strategy 
+   
+   
+   
+     This module focuses on the strategic dimension of marketing with reference to the ways in which organisations compete with different product-market offers. Particular attention is paid to the processes involved in the development of a marketing strategy and to the ways in which such strategies evolve. You will study this through eleven 90-minute lectures and 2 one-hour seminars per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Three Modules  
+  
+  
+  
+    Coding and Cryptography 
+   
+   
+    In this module you will be introduced to two main topics of coding theory; error-correction codes and cryptography. Within these topics you will learn the main concepts, theorems and techniques and practise applying these with specific example. You will have two hours of lectures each week.  
+   
+  
+      
+   
+  
+    Game Theory 
+   
+   
+    In this module you will explore the connection between numbers and games and how games can be analysed. You will learn about the algorithms of gaming, stemming from many areas of mathematics and computing. You will be able to use the mathematical knowledge you have gained so far on the course to analyse various situations in a logical manner practicing strategic decision-making. You will spend two hours per week in lectures.  
+   
+  
+      
+   
+  
+    Mathematical Finance 
+   
+   
+    In this module the concepts of discrete time Markov chains are explored and used to provide an introduction to probabilistic and stochastic modelling for investment strategies, and for the pricing of financial derivatives in risky markets. You will gain well-rounded knowledge of contemporary issues which are of importance in research and applications. For this module there will be a combination of lectures, problem and example classes for around four hours each week.  
+   
+  
+      
+   
+  
+    Statistical Inference 
+   
+   
+    In this module you will explore two main concepts of statistical inference; classical (frequentist) inference and Bayesian inference. Topics include: sufficiency, estimating equations, likelihood ratio tests and best-unbiased estimators will be discussed in detail. You will gain knowledge of the theory and concepts underpinning contemporary research in statistical inference and methodology. For this module there will be a combination of lectures, problem and example classes for around four hours each week.  
+   
+  
+      
+   
+  
+    Stochastic Models 
+   
+   
+    In this module you will develop your knowledge of discrete-time Markov chains by applying them to a range of stochastic models for use in natural sciences and scientific industries. You will be introduced to Poisson and birth-and-death processes and then you will move onto more extensive studies of epidemic models and queuing models with introductions to component and system reliability. For this module there will be a combination of lectures, problem and example classes for around three hours each week.  
+   
+  
+      
+   
+  
+    Topics in Statistics  
+   
+   
+    In this module you will build your knowledge from previous modules by covering three main topics relating to statistics, sequential analysis, multivariate analysis and designed experiments. The skills you build will be of relevance to a professional statistician. You will have four hour lectures each week.  
+   
+  
+      
+   
+  
+    Human Resource Management I 
+   
+   
+   
+     This module introduces the basic concepts of Human Resource Management (HRM) and puts these concepts in broader perspective and subjects them to critical analysis. Areas covered will include: HRM models, recruitment and selection, appraisal and pay, training, job design, work-life balance and HRM and performance. You will study through eleven 90-minute lectures and two 1-hour tutorials. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Strategic Management I 
+   
+   
+   
+     This module examines the different approaches and techniques of strategic management including analysis of the external and internal environments, the nature of competitive advantage and the development of the firm. You will have eleven 90-minute lectures and two 60-minute seminars. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Business Ethics 
+   
+   
+   
+     This module explores business-society relations through the theories and practices of business ethics and social responsibility (BE&SR). The module will consist of two parts. The first part will address the concept of business ethics, a discussion of citizenship theory and the challenges of globalisation and sustainability. The second part of the module will address the issues, impacts of business on individual stakeholder groups and analyse business ethics and social responsibility in relation to each group. You will have eleven 1-hour lectures and four 1-hour seminars per week for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Corporate Finance 
+   
+   
+   
+     This module will develop your knowledge of financial decision-making and strategic financial decisions, including takeovers and mergers. You will have eleven 1-hour lectures and two 2-hour seminars per semester. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Economics of Regulation 
+   
+    
+   
+   
+   
+     Covering the two broad areas of regulation and competition policy, topics studied include: natural monopoly regulation, retail price control, access pricing, universal service obligations, public policy on inter-firm agreements and restrictive practices, abuse of monopoly power and merger control. You will have eleven 1-hour lectures and two 2-hour seminars per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Introducing Entrepreneurship 
+   
+   
+   
+     The module aims to develop an understanding of entrepreneurs and the firms they create and manage. It is designed to examine the nature and role of smaller enterprises and set the context for entrepreneurship and consider characteristics, attributes and resources of entrepreneurs. You will have eleven 60-minute lectures and three 60-minute seminars each week.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Logistics and Supply Chain Management 
+   
+   
+   
+     The module provides an introduction to logistics and supply chain management (LSCM) within the international context. As such, the module examines: how LSCM strategies contribute to businesses' competitive advantage; the relationship aspects between business partners in delighting end-customers; and supporting operational activities and the international transport of goods. The module is taught by reference to academic literature and management practice, including case-studies and application to special topics such as humanitarian logistics and international trade. You will have eleven 60-hour lectures and two 1-hour seminars each week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Risk Management Processes 
+   
+   
+   
+     This module will discuss the processes utilised by corporate enterprises to manage the risk of fortuitous loss. Once corporate risks have been identified and their impact on the firm measured, risk management attempts to control the size and frequency of loss, and to finance those fortuitous losses. You will have eleven 90-minute weekly lectures plus two 1-hour seminars per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Science, Technology & Business  
+   
+   
+   
+     This module will introduce you to the importance of, and the processes involved in the commercialisation of science and technology. The content of the course is highly relevant in the current climate where Government is placing much evidence on the wealth creation process. You will have eleven 90-minute lectures plus two 1-hour tutorials per week.

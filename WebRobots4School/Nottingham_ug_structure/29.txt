@@ -1,0 +1,240 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff. They're also shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules we offer.  
+  
+    Typical Year One Modules  
+  
+  
+    Compulsory  
+  
+    Architectural Engineering Design 1 
+   
+   
+    You will be given an overview of the construction sector covering the process of procuring buildings and the role of the Building Services Engineer as one of a number of professionals forming the team responsible for their design. You will have two hours of lectures and four hours of practicals per week and you will be introduced to CAD drafting tools and building simulation with regards to their role in the design process.  
+   
+  
+      
+   
+  
+    Architectural Engineering Design 2 
+   
+   
+    You will be given an introduction to the principles of the engineering design of building services, including heating, lighting, piping design, water supply as well as a basic understanding of CAD software, control systems and practical engineering skills relating to building services. For this module you will have one 3-hour lecture and one 6-hour lecture per week.  
+   
+  
+      
+   
+  
+    Engineering Mathematics 1 
+   
+   
+    This module introduces you to the algebra of complex numbers providing a key mathematical tool for analysis of linear mathematical and engineering problems. You will have one 3-hour lecture and workshops each week where you will study the complexity of solving general systems of equations using matrix techniques and review the calculus of a single variable.  
+   
+  
+      
+   
+  
+    Engineering Mathematics 2 
+   
+   
+    You will be introduced to techniques for solving selected first-order and second-order differential equations relevant to the analysis of generic engineering problems, spending around three hours per week in lectures and workshops.  
+   
+  
+      
+   
+  
+    Thermofluids 1 
+   
+   
+    This module introduces the principles of thermodynamics and the thermodynamic concepts relevant to the applications to building environment engineering. Topics covered include: dimensions and units, thermal properties, thermodynamic systems, energy, work and heat transfer processes, perfect gases, steady flow energy equation, 1st law and 2nd law of thermodynamics and basic modes of heat transfer. You will spend around four hours per week in lectures and practicals studying for this module.  
+   
+  
+      
+   
+  
+    Performance of Construction Materials 
+   
+   
+    This module introduces you to some of the technical knowledge and techniques for surveying buildings and structures and identifying common defects using both qualitative and quantitative methods of assessment. Through a two-hour lecture each week you will cover topics such as moisture ingress, surface and interstitial condensation, freeze/thaw resistance, rot and infestation, sulphate attack, carbonation and corrosion.  
+   
+  
+      
+   
+  
+    Electricity and the Built Environment 
+   
+   
+    You will be given an understanding of the role that electricity plays in controlling the environment within buildings and the wider built environment through two hours of lectures each week.  
+   
+  
+      
+   
+  
+    Environmental Science for Architects 1 
+   
+   
+    Introducing you to the environmental agenda as it applies to the architectural profession, you’ll explore the key bioclimatic strategies used to maintain appropriate conditions for the occupants of buildings thus tying together occupant comfort, building schedule  and climate. You will have a two hour lecture per week using both physical modelling and computer simulation techniques to gain a better understanding of the strategies involved and their relationship with building design.  
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Two Modules  
+  
+  
+    
+   Compulsory  
+  
+    Environmental Performance Modelling  
+   
+  
+    In this module, methods of examining non-steady state performance of buildings will be introduced. Starting from a theoretical exploration of transient building response, computer simulation tools are introduced and then used to explore energy flows through buildings creating awareness of the relationship between building performance and climate, design, materiality and occupant behaviour. You will spend around 8 hours per week in lectures and practicals studying for this module. 
+   
+  
+      
+   
+  
+    Differential Equations and Calculus for Engineers 
+   
+   
+    You will learn techniques for solving selected classes of ordinary differential equations (ODEs) relevant to the analysis of engineering topics This module also provides the basic calculus to help analyse engineering problems in two- or three-dimensions and special solutions of partial differential equations relevant to engineering applications. You will spend around three hours per week in lectures and workshops.  
+   
+  
+      
+   
+  
+    Acoustics and Lighting 
+   
+   
+    This module introduces you to the fundamentals of acoustic and lighting phenomena as they relate to design within the built environment. During two hours of lectures each week, you will be given an overview of the psychological and technical considerations that underpin design requirements and explore the selection of acoustic and lighting strategies relating to the design of buildings through the introduction of appropriate tools and techniques.  
+   
+  
+      
+   
+  
+    Architectural Engineering Design 3 
+   
+   
+    Introducing you to large scale building services, principally natural ventilation, air conditioning and other environmental control systems. You will discuss the reasons for resorting to and avoiding A/C and the consequent design issues. A variety of topics will be covered including: assessments of heat gains and losses, thermal comfort and relevant climatic data; system types and plant selection, location, sizing and design. For this module you will have two hours of lectures per week.  
+   
+  
+      
+   
+   
+   Architectural Engineering Design 4 
+   
+   
+    This module expands the design principles of HVAC, along with utility services, and the fire protection systems, into a co-ordinated design You will examine how engineering systems are integrated into a building at the design stage and how design calculations are carried out and sketch drawings of system layouts are produced. For this module you will have a combination of lectures and tutorials.  
+   
+  
+      
+   
+  
+    Introduction of Renewable Energy 
+   
+   
+    Examining various sources of renewable energy suitable for use in buildings, you will concentrate on wind, water waste heat, solar, geothermal and bio-mass as potential sources of energy. You will investigate the potential contribution they make to a building's energy requirement, the technology used to harness them and limitations associated with their use. For this module you will have a two hour lecture per week.  
+   
+  
+      
+   
+  
+    Thermofluids 2 
+   
+   
+    Advancing on from the year one module Thermofluids 1, you will cover topics such as: vapour compression and vapour absorption, adiabatic saturation of moist air, steady-state one-dimensional conduction of heat conduction;, convection heat transfer and introduction to radiant heat transfer. You will spend around four hours per week in lectures and laboratory classes studying for this module.   
+   
+  
+      
+   
+  
+    Project Management and Development 
+   
+   
+    Two main themes are addressed in this module: Project Development issues and Project management issues. Lectures will introduce the process of procurement of land and buildings, project management, development finance and economic factors, strategies and controls, facilities, estate and property management in relation to interests in the architectural profession and the building industry. Risk management and studies on human resources management will also be introduced.  
+   
+  
+      
+   
+  
+    Control Systems of Built Environment 
+   
+   
+    This module aims to provide you with a mix of theory and application through computer simulation of control systems with particular focus on buildings technologies. This includes deriving dynamic models of building service, block diagram presentation, time response of systems, and selection and design of a controller. You will spend two hours a week in lectures studying for this module.  
+   
+  
+      
+   
+  
+ 
+     
+  
+ 
+     
+  
+  
+    Typical Year Three Modules  
+  
+  
+   Compulsory  
+  
+    Architectural Engineering Design 5  
+   
+   
+   
+     Within this module students will work as a ‘consultancy’ team to produce a group report. The project will utilise, extend and develop the fundamental knowledge and skills which have been gained throughout the previous semesters in part 1 of the course. The initial task is to analyse a current building and based upon an assessment of the current climate and thermal comfort condition will propose a method to take the building towards net zero energy demand. Students will research the relevant standards and apply manual calculations and computer simulation. 
+    
+    
+     
+    
+   
+     The second stage will build upon the initial analysis to develop a building services solution for the building. Students will produce a professional report documenting their plan for HVAC design. The team will investigate appropriate systems and provide reasoning behind the solution they have chosen. Applicable engineering calculations will be made throughout the design process. Students will be encouraged to research the actual plant, consider the physical sizing and detail how this plant would be accommodated in the actual building. Controls will also be considered and the impact that these have upon energy demand. Students will also produce an individual report, where they investigate a particular building service technology relevant to the building.  
+    
+   
+  
+      
+   
+  
+    Research Project  
+   
+  
+    You will undertake an individual piece of original research on a topic in building/environmental services engineering. You will be allocated a supervisor and moderator who are both normally members of staff within the department in order to provide guidance in choosing and carrying out the project, while the moderator helps judge the effectiveness of your understanding and presentation of work. 
+   
+  
+      
+   
+  
+    Computational Fluid Dynamics for the Built Environment 
+   
+  
+    This module will introduce the techniques and procedures employed in Computational Fluid Dynamics (CFD). Particular attention will be given to development of hands on experience in the numerical modelling of fluid flows for the built environment. CFD, once the domain of academics, postdoctoral researchers or trained specialists, is becoming progressively more accessible to graduate engineers for research and development as well as design-orientated tasks in the built environment. Students will be introduced to the necessary operations that are involved in setting up a fluid problem, solving the numerical problem, and managing some graphical representation of the results.  
+   
+  
+      
+   
+  
+    Energy and Waste  
+   
+  
+    The aim of this module is to give you an understanding of the importance of traditional fossil fuels and biomass fuels to the current and future energy supplies, the environmental impacts of energy consumption, the benefits and types of combined heat and power, and waste treatment and disposal. You will have a two hour lecture per week.  
+   
+  
+      
+   
+  
+    Topics of Heat Transfer  
+   
+  
+    You will cover a number of topics relating to the study of engineering heat transfer including: heat exchangers, heat transfer enhancement, phase change processes, boiling and condensation, and the principles of heatpipes. You will spend around two hours in lectures and two hours in practicals each week studying for this module. 
+   
+  
+      
+   
+  
+    Principles of Refrigeration and its Applications  
+   
+  
+    This module covers the topics of refrigeration technologies which are used for cooling and air conditioning. It introduces the mechanical and heat-powered refrigeration technologies based on vapour compressions, absorption, absorption, ejector and air cycles. Some advanced multi-stage, multi-effect and combined systems aimed for efficient use of thermal energy will also be introduced. You will spend around two hours per week in lectures and tutorials studying for this module.

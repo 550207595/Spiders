@@ -1,0 +1,872 @@
+Modules  
+  The modules we offer are inspired by the research interests of our staff. They’re also shaped by new developments in industry and as a consequence, may change from year to year. The following list is therefore subject to change but should give you a flavour of the modules on offer.  
+  
+    Typical Year One Modules  
+  
+  
+  
+    Engineering Mathematics 1 
+   
+   
+   
+     This module introduces the algebra of complex numbers to provide a key mathematical tool for analysis of linear mathematical and engineering problems. The complexity of solving general systems of equations is introduced and their study using matrix techniques. You’ll spend around three hours per week in lectures and workshops. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Mathematics 2 
+   
+  
+    You’ll be introduced to techniques for solving selected first-order and second-order differential equations relevant to the analysis of generic engineering problems. The module also provides mathematical tools in terms of advanced differential calculus and vectors for modelling of generic engineering situations given in terms of multi-dimensional models. You’ll spend around three hours per week in lectures and workshops.
+    
+    
+   
+  
+      
+   
+  
+    Industry and Profession 
+   
+   
+   
+     This module introduces you to the construction industry and the civil engineering profession and how they operate. This includes focusing on matters of procurement, ethics, safety and sustainability. You’ll investigate the roles and responsibilities of civil engineers in the various common areas of employment through one 2-hour lectures per week.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Construction Issues 
+   
+   
+   
+     This module introduces you to a range of important considerations, particularly economic, safety and environmental matters, when planning the construction of infrastructure projects. You’ll outline key types of plant and equipment for construction work and be introduced to techniques for assessing the productivity of plant and gain an awareness of caring for the environment in the broadest sense. You’ll have a one 2-hour lecture per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Sustainable Transport Planning 
+   
+  
+    This module considers recent transport policy history and its effects and introduces various measures that encourage travel behavioural change.  You will spend three hours in lectures each week when studying this module.
+    
+    
+   
+  
+      
+   
+  
+    Geotechnics 1 
+   
+   
+   
+     Giving you an introduction to the core areas of geotechnics, this module covers topics such as: origin and types of soil, soil as a 3-phase material, soil description and classification, compaction, water in soils, basic mechanics, and stresses is soils and ground investigation. In an average week you’ll spend 4 hours of lectures and practicals per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Hydraulics 1 
+   
+   
+   
+     This module introduces you to the fundamental principles of hydrostatics and enables you to apply these principles to model problems relevant to civil engineering. You’ll spend around four hours in lectures each week to study for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Structural and Engineering Mechanics 
+   
+   
+   
+     This module introduces and develops the concepts of static mechanics and will help you to apply them to the analysis of statically determinate structures. You’ll spend three hours in lectures and three hours in practicals each week to study this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Communication 
+   
+   
+   
+     This module introduces topics basic to communication of design in the field of civil engineering.  You’ll spend 8 hours in seminars, 3 hours in practicals and 1 hour of lectures per week to study this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering Surveying 1 
+   
+   
+   
+     This module provides you with an introduction to engineering surveying, covering: introduction to Coordinates, fundamentals of measurement errors, and survey practice and cartography, among others. You’ll have a three hour lecture each week as well as attend a residential field course lasing 6 days during the Easter vacation. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Structural Mechanics and Vibration 
+   
+   
+   
+     Through three hours of lectures each week, this module covers the following topics: analysis of stresses and strains, virtual work method, stain energy method and analysis of arches and cables, among others. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Civil Engineering Materials 
+   
+   
+   
+     This module will introduce engineering materials and their basic properties, as well as principles in material selection and sustainability. You’ll develop a basic understanding of the behaviour of metals, in particular steel through a weekly one hour lecture and three hour practical. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Two Modules  
+  
+  
+  
+    Engineering Surveying 2 
+   
+   
+   
+     You’ll be introduced to more advanced aspects and techniques of Engineering Surveying. You’ll spend 3 hours in lectures and 3 hours in practicals each week when studying this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Differential Equations and Calculus for Engineers 
+   
+   
+   
+     This module will provide you with the techniques for solving selected classes of ordinary differential equations relevant to the analysis of engineering topics. You’ll spend around 3 hours in lectures and workshops each week to study this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Probabilistic and Statistical Techniques for Engineers 
+   
+   
+   
+     This module introduces the mathematic skill needed for use of probabilistically based models of uncertain engineering problems and to use statistical methods to interpret the solutions. You’ll spend around three hours in lectures and workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Transport Infrastructure 
+   
+  
+    The module considers particular types of transport-related construction. This module will provide students with an insight into the processes involved with the design, construction and maintenance of various forms of transport infrastructure. You will spend three hours in lectures each week when studying this module.
+    
+    
+   
+  
+      
+   
+  
+    Water in the Environment 
+   
+   
+   
+     On successfully completing the module, students will have developed a broad knowledge of the occurrence and management of water in the natural and urban environments. You’ll spend threehours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Civil Engineering Project 2 
+   
+   
+   
+     This module aims to introduce the design process in the context of civil engineering. You’ll gain knowledge in and practice the conceptual and detailed design of engineering structures. You’ll spend 8 hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Geotechnics 2 
+   
+   
+   
+     This module aims to develop further understanding of fundamental behaviour of soils and you will learn how to perform geotechnical analyses. You’ll spend five hours in lectures and two hours in practicals per week. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Hydraulics 2 
+   
+   
+   
+     On successfully completing the module, students will be able to demonstrate knowledge and understanding of the fundamental principles of fluid dynamics. You’ll be able to solve simple pipe flow problems and demonstrate awareness of open channel flows and boundary layers and drag. You’ll spend four hours in lectures and two hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Construction Project Management 1 
+   
+   
+   
+     The module provides students with a preliminary background in the field of civil engineering construction project management. You’ll spend 3 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Non-Linear Analysis of Structures 
+   
+   
+   
+     This module aims to develop an understanding of the instability of structural systems and plastic methods of analysis and design. You’ll spend three hours in lectures and three hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Indeterminate Structures 
+   
+   
+   
+     This module aims to introduce torsion and statically indeterminate structures and the flexibility and stiffness methods of solving them. You’ll spend three hours in lectures and three hours in computing sessions each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Three Modules  
+  
+  
+   Compulsory  
+  
+    Concrete and Concrete Structures 
+   
+   
+   
+     Structural design is extended into the use of concrete and more advanced techniques of analysis are introduced by this module. You’ll spend three hours in lectures, two hours in practicals and four hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Geotechnics 3 
+   
+   
+   
+     This module extends principles into the areas of steady state and transient groundwater flow and seepage. You’ll spend four hours in lectures and four hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Hydraulics 3 
+   
+   
+   
+     This module aims to introduce students to the simple mathematics models used to analyse unsteady flows in pipes, and some basic empirical models for describing the process of sediment transport. You’ll spend four hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Construction Project Management 2 
+   
+   
+   
+     This module examines the following areas for the management of construction projects: Construction productivity and project planning, Estimating and tendering for construction, Introduction to practical planning, project reporting techniques, and control of construction projects. You’ll spend three hours in lectures per week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+    Optional  
+  
+    Mathematics for Engineering Management 
+   
+   
+   
+     The module examines and classifies various (non-statistical) management and operational research problems and their formulation and techniques for solution. You’ll spend around 3 hours in lectures and workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced Mathematical Techniques in Ordinary Differential Equations for Engineers 
+   
+   
+   
+     This module covers advanced analytic mathematical techniques used to provide exact or approximate solutions to common classes of ordinary differential equations typical in Engineering. You’ll spend around three hours in lectures and workshops per week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Pavement Engineering 
+   
+   
+   
+     This module will provide students with a basic understanding of the properties of granular, bituminous and cement bound materials and their application to the structural design, evaluation and maintenance of road pavements. You’ll spend around three hours in lectures and workshops per week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Steel Structures 
+   
+   
+   
+     This module will build on the basic understanding of the behaviour and design of steel structures by considering elements and connections in more detail, by recognising the importance of fabrication and erection on economics, and by explaining the basis for new design codes. You’ll spend three hours lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Foundations and Earthworks 
+   
+   
+   
+     This module aims to develop your understanding of the theoretical and application aspects of airborne photogrammetery and airborne and mobile laser scanning. You’ll spend three hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering in Context Project 
+   
+  
+    This module is intended to form a bridge between the theoretical aspects of the course and the industry. It should provide students with the opportunity to investigate how practical aspects such as risk, health and safety, sustainability and business practice were, and are, incorporated into civil engineering projects. You’ll spend one hour in a lecture each week when studying this module.
+    
+    
+   
+  
+      
+   
+  
+    Mapping for Engineering Surveying and GIS 
+   
+  
+    The module describes the theoretical and practical aspects of photogrammetry and geometrical remote sensing. Subjects covered include: single and multi image/photograph geometry, digital imagery and processing, and data capture techniques and products, among others. You’ll have three 1-hour lectures per week.
+    
+    
+   
+  
+      
+   
+  
+    Mapping for Engineering Surveying and GIS Practical 
+   
+   
+   
+     Students work individually and in small groups on projects involving the planning and the carrying out of observational and computational aspects of surveying for engineering and/or deformation applications. Individuals and groups are also responsible for management and organisation of their projects. You’ll spend around one hour in lectures each week when studying this module.  
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Railway Engineering 
+   
+   
+   
+     This module will introduce the components of railway track structures, conventional and otherwise. It will include analysis of forces on a railway track and consequent deflections, stresses etc, alignment design principles, and an overview of the railway as a total system including operational issues, signalling and control. You’ll spend three hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Environmental Geotechnology 
+   
+  
+    This module aims to develop an understanding of soil-contaminant interactions. You will study the mechanisms of contaminant transport and be introduced to the available technologies utilised for contaminant containment. You’ll spend three hours in lectures each week when studying this module.
+    
+    
+   
+  
+      
+   
+  
+    Computerised Mathematical Methods in Engineering 
+   
+   
+   
+     The methodology and associated numerical techniques are introduced to enable a selection of mathematical operations to be evaluated with the use of computer-based software algorithms to problems that cannot be solved analytically. You’ll spend around three hours in lectures and workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Sustainable Construction 
+   
+   
+   
+     This module is designed to deliver an understanding of sustainability principles and how civil engineering and the wider construction industry can contribute to sustainable development. You’ll spend three hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Experiments in Fluid Mechanics 
+   
+   
+   
+     In small groups, the student will carry out a series of four experiments exploring a wide range of fluid mechanical applications. These experiments will be set in context by a theoretical background session. You’ll spend around eight hours in lectures and workshops each week and group study sessions. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Construction Practice 
+   
+   
+   
+     This module involves students in a scaled-down construction project by going through the stages of design appreciation, construction planning and scheduling, organisation of work, execution of the construction phase and review. You’ll spend 2 hours in lectures and fieldtrip sessions studying for this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+ 
+     
+  
+  
+    Typical Year Four Modules  
+  
+  
+   Compulsory  
+  
+    Investigative Project 
+   
+   
+   
+     This module provides opportunity for final-year students to undertake a long-term individual research project appropriate to their particular interests. It normally takes the form of an investigative, development or design project, culminating in the presentation of a detailed final report. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Group Design Project 
+   
+   
+   
+     Students work in groups on the design and planning of a Civil Engineering project, such as a large building development, energy or other utility or element of transport or other infrastructure. You’ll spend around six hours in seminars and eight hours in workshops each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+    Optional  
+  
+    Coastal Engineering 
+   
+   
+   
+     This module will describe coastal processes of relevance to civil engineering: Waves and tides, Sediment transport and beach evolution, and introductory concepts for coastal engineering and management. You’ll spend three hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced Concrete Structures 
+   
+    
+   
+   
+   
+     This module will develop the ideas introduced in a previous module and apply them to limit state design of in situ and precast concrete of buildings and bridges constructed in reinforced and pre-stressed concrete. You’ll spend five hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Critical State Soil Mechanics 
+   
+   
+   
+     This module will reinforce and advance some of the principles of soil mechanics previously learnt, and describe the principles of Critical State Soil Mechanics, a model used to predict the behaviour of soils. You’ll spend three hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Advanced Pavement Materials 
+   
+   
+   
+     The module will give students a more detailed understanding of pavement engineering materials, analytical techniques used to assess material properties and failure mechanisms, and an appreciation of different modelling approaches used with these materials. You’ll spend 3 hours in lectures and two hours in practicals each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Finite Element Analysis in Structural Mechanics 
+   
+   
+   
+     This module aims to develop knowledge about analysing civil engineering structures, namely 2D frames and continuum, using the FE method. You will learn about commercial software packages and gain hands-on experience. You’ll spend around three hours in lectures and practical sessions each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Wind Engineering and Energy 
+   
+   
+   
+     On successfully completing the module, students will have gained a comprehensive knowledge of the wind, its effects and its energy producing potential. You’ll become familiar with various methods for predicting the wind loading on basic structures. You’ll spend three hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    System Reliability Engineering 
+   
+   
+   
+     This module considers some of the most commonly-used reliability assessment techniques applied to engineering systems. The module covers the construction of reliability models that use basic component failure information to describe specific system failure modes, the qualitative and quantitative analyses of these models, and the critical evaluation of systems using the analytical results. You’ll spend three hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Sedimentation and Erosion Engineering 
+   
+   
+   
+     This module provides an overview of sedimentation and erosion engineering and the physical processes pertaining. You’ll spend three hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Mathematical Techniques in Partial Differential Equations for Engineers 
+   
+   
+   
+     This module provides a variety of analytic techniques for solving partial differential equations. You’ll spend around three hours in lectures and practical sessions each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Traffic Engineering 
+   
+  
+    You’ll be introduced to some of the theory that forms the technical basis of the management and control of urban road networks through three hours of lectures per week.
+    
+    
+   
+  
+      
+   
+  
+    Earthquake Engineering and Structural Dynamics 
+   
+   
+   
+     This module will introduce the principles of Earthquake Engineering and Structural Dynamics. You’ll spend time in lectures and tutorials while studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Geology for Civil Engineers 
+   
+   
+   
+     This module aims to introduce civil engineering aspects of geology. You will cover basic geological features and how they can affect the performance of engineering construction and the means by which such effects may be predicted and evaluated. You will spend fivehours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Plates and Shells 
+   
+  
+    This module will introduce you to the general concepts in modelling, assessing and designing two-dimensional structures known as plates and shells. You will be made aware of bending-dominated structural behaviour as opposed to a membrane-dominated one, which is crucial for the correct design of such structures. You’ll have three hours of lectures per week. 
+    
+    
+   
+  
+      
+   
+  
+    Natural Hazards and Environmental Fluid Mechanics 
+   
+   
+   
+     This module introduces hazardous fluid flow phenomena encompassing ocean turbidity currents, granular avalanches, turbulent plumes from volcanoes or from fires and hurricanes. You will spend 3 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Infrastructure Asset Management 
+   
+   
+   
+     This module considers the use of system reliability assessment techniques to support asset management decision making. The module covers the analysis of asset failure data, how to construct and analyse asset degradation models and how to use optimisation techniques to enable the selection of optimal maintenance strategies. You will spend three hours in lectures per week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Construction Planning and Processes 
+   
+   
+   
+     The module aims to introduce advanced planning techniques used in construction for complex, linear and repetitive projects including implications of assumptions. You will spend 3 hours in lectures each week when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Marine Renewable Energy 
+   
+   
+   
+     The module introduce students to the principles of ocean energy, from ocean gravity waves, tides and thermal, conversion into electrical power and to the design of energy production systems. You will spend 5 hours in lectures when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering and Deformation Surveying 
+   
+   
+   
+     This module covers selected areas of engineering and deformation surveying and includes: Principles of surveying and setting out, Metrology and industrial measurement, Terrestrial laser scanning and Engineering, and crustal deformation monitoring. You will spend three hours in lectures when studying this module. 
+    
+    
+     
+    
+   
+  
+      
+   
+  
+    Engineering and Deformation Surveying Practical 
+   
+   
+   
+     This is a practical module in engineering and deformation surveying which complements the engineering and surveying module lecture course. Students work individually and in small groups on projects involving the planning and the carrying out of observational and computational aspects of surveying for engineering and/or deformation applications.
