@@ -1,6 +1,0 @@
-Modules  This is a comprehensive programme, made up of 11 taught modules worth 120 credits, as follows, followed by a 60-credit research project.
-  
-  Semester 1 modules (taken at University of Birmingham)  
-  • Maths, Physics and Electrical Principles • Study Skills • Kinematics of Transporation • Railway Traction Systems • Energy Conversion Systems  
-  Semester 2 modules (taken at University of Nottingham)  
-  • Advances Power Conversion • Advanced AC Drives • Power Systems for Aerospace • Technologies for the Hydrogen Transport Economy • Advanced Electrical Machines

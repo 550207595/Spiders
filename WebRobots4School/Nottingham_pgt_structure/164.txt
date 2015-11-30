@@ -1,9 +1,0 @@
-Modules  
-  Advanced Gravity  
-  Black Holes  
-  Differential Geometry  
-  Gravity  
-  Gravity, Particles and Fields Dissertation  
-  Quantum Information Science  
-  Modern Cosmology  
-  Quantum Field Theory

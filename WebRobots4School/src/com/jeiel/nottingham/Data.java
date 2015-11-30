@@ -1,7 +1,17 @@
 package com.jeiel.nottingham;
 
 public class Data {
-	public static String[][] UNDERGRADUATE_DATA=new String[][]{
+	public static String[][] getData(String level){
+		if(level.equals("Undergraduate")){
+			return UNDERGRADUATE_DATA;
+		}else if(level.equals("Postgraduate")){
+			return POSTGRADUATE_DATA;
+		}else{
+			return new String[][]{};
+		}
+	}
+	
+	private static String[][] UNDERGRADUATE_DATA=new String[][]{
 		{"a","http://www.nottingham.ac.uk/ugstudy/courses/business/accountancy.aspx"},
 		{"a","http://www.nottingham.ac.uk/ugstudy/courses/contemporarychinesestudies/accounting-and-finance-in-contemporary-china.aspx"},
 		{"a","http://www.nottingham.ac.uk/ugstudy/courses/mechanicalmaterialsandmanufacturingengineering/beng-aerospace-engineering.aspx"},
@@ -360,7 +370,7 @@ public class Data {
 		{"z","http://www.nottingham.ac.uk/ugstudy/courses/biologyandzoology/msci-zoology.aspx"}
 	};
 
-	public static String[][] POSTGRADUATE_DATA=new String[][]{
+	private static String[][] POSTGRADUATE_DATA=new String[][]{
 		{"http://www.nottingham.ac.uk/PGStudy/courses/find-a-taught-course/find-a-taught-course.aspx?AZListing_AtoZLetter=a&AZListing_List_GoToPage=1","http://www.nottingham.ac.uk/pgstudy/courses/contemporary-chinese-studies/accounting-and-finance-for-contemporary-china-msc.aspx"},
 		{"http://www.nottingham.ac.uk/PGStudy/courses/find-a-taught-course/find-a-taught-course.aspx?AZListing_AtoZLetter=a&AZListing_List_GoToPage=1","http://www.nottingham.ac.uk/pgstudy/courses/business/accounting-and-finance-msc.aspx"},
 		{"http://www.nottingham.ac.uk/PGStudy/courses/find-a-taught-course/find-a-taught-course.aspx?AZListing_AtoZLetter=a&AZListing_List_GoToPage=1","http://www.nottingham.ac.uk/pgstudy/courses/nursing-midwifery-and-physiotherapy/advanced-clinical-practice-msc.aspx"},

@@ -23,7 +23,21 @@ public class Undergraduate {
 	public static final int MAX_THREAD_AMOUNT = 60;
 	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();
 	
-	public static final String SCHOOL_NAME="Nottingham";
+	public static final String SCHOOL_NAME;
+	public static final String LEVEL;
+	
+	static{
+		String className = new Object(){
+			public String getClassName(){
+				String className = this.getClass().getName();
+				className = className.replaceAll("\\$[\\s\\S]*", "");
+				return className;
+			}
+		}.getClassName();
+		LEVEL = className.substring(className.lastIndexOf(".")+1);
+		String tmpStr = className.substring("com.jeiel.".length(),className.lastIndexOf("."));
+		SCHOOL_NAME = tmpStr.substring(0, 1).toUpperCase() + tmpStr.substring(1);
+	}
 	
 	public static void main(String[] args) {
 		long startTimeInMillis = Calendar.getInstance().getTimeInMillis();
@@ -54,8 +68,8 @@ public class Undergraduate {
 			e.printStackTrace();
 		}finally{
 			try {
-				ExcelGenerator excelGenerator = new ExcelGenerator(SCHOOL_NAME,"ug",majorList,true);
-				excelGenerator.exportExcel("gen_data_"+SCHOOL_NAME+"_ug.xls");
+				ExcelGenerator excelGenerator = new ExcelGenerator(SCHOOL_NAME, LEVEL, majorList);
+				excelGenerator.exportExcel();
 				long endTimeInMillis=Calendar.getInstance().getTimeInMillis();
 				System.out.println("Total seconds: " + (endTimeInMillis-startTimeInMillis)/1000 + "s");
 			} catch (Exception e) {
@@ -123,9 +137,9 @@ public class Undergraduate {
 	public static void initMajorListWithData(){
 		
 		System.out.println("preparing majorList");
-		for(String[] singleData:Data.UNDERGRADUATE_DATA){
+		for(String[] singleData:Data.getData(LEVEL)){
 			MajorForCollection major = new MajorForCollection();
-			major.setLevel("Undergraduate");
+			major.setLevel(LEVEL);
 			major.setApplicationFee(singleData[0]);
 			major.setUrl(singleData[1]);
 			majorList.add(major);

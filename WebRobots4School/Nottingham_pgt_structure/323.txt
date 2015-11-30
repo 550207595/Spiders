@@ -1,9 +1,0 @@
-Modules  
-  Advanced Stochastic Processes  
-  Applications of Statistics  
-  Computational Statistics  
-  Fundamentals of Statistics  
-  Statistics Dissertation  
-  Stochastic Financial Modelling  
-  Stochastic Models  
-  Time Series and Forecasting

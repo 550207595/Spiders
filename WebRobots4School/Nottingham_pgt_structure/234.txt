@@ -1,7 +1,0 @@
-Modules  
-  Applied Nonlinear Dynamics  
-  Computational and Systems Biology  
-  Mathematical Medicine and Biology  
-  Mathematical Medicine and Biology Dissertation  
-  Practical Biomedical Modelling  
-  Topics in Biomedical Mathematics

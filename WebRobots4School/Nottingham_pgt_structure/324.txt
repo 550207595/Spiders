@@ -1,9 +1,0 @@
-Modules  
-  Advanced Stochastic Processes  
-  Applications of Statistics  
-  Computational Statistics  
-  Fundamentals of Statistics  
-  Medical Statistics  
-  Statistics Dissertation  
-  Time Series and Forecasting  
-  Topics in Biomedical Statistics

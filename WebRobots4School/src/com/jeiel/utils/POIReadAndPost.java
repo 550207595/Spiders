@@ -21,9 +21,8 @@ import com.jeiel.entity.Major;
 import java.util.*;
 
 public class POIReadAndPost {
-	private static String SCHOOL_NAME = Add.SCHOOL_NAME;
-	//private static String SCHOOL_NAME="Nottingham";
-	public static String filepath="gen_data_"+SCHOOL_NAME+"_pgt.xls";
+	//public static String filepath="gen_data_"++"_"++".xls";
+	public static String filepath="gen_data_"+Add.SCHOOL_NAME+"_"+Add.LEVEL+".xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -33,14 +32,14 @@ public class POIReadAndPost {
 	
 	public static void main(String[] args) throws IOException{
 		try {
-			getData(false);
+			getData();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
 	
-	public static List<Major> getData(boolean structureOverFlow) throws Exception  {
+	public static List<Major> getData() throws Exception  {
 		// TODO Auto-generated method stub
 		
 		InputStream is = new FileInputStream(filepath);
@@ -70,7 +69,23 @@ public class POIReadAndPost {
             major.setIELTS_Avg(String.valueOf(hssfRow.getCell(7)));
             major.setIELTS_Low(String.valueOf(hssfRow.getCell(8)));
             
-            if(structureOverFlow){
+            
+            /*if(structureOverFlow){
+    			File file = new File(String.valueOf(hssfRow.getCell(9)));
+    			FileInputStream fis = new FileInputStream(file);
+				StringBuilder sb = new StringBuilder();
+				byte[] bytes = new byte[10240];
+				int len = 0;
+				while((len=fis.read(bytes))>0){
+					sb.append(new String(bytes, 0, len));
+				}
+				fis.close();
+				major.setStructure(splitStructure(sb.toString()));
+    		}else{
+                major.setStructure(splitStructure(String.valueOf(hssfRow.getCell(9))));
+    		}*/
+            
+            if(hssfRow.getCell(9).getStringCellValue().matches("^[a-zA-Z]+_((ug)|(pgt))_structure/[0-9]+.txt$")){
     			File file = new File(String.valueOf(hssfRow.getCell(9)));
     			FileInputStream fis = new FileInputStream(file);
 				StringBuilder sb = new StringBuilder();
@@ -103,10 +118,12 @@ public class POIReadAndPost {
 	public static LinkedHashMap<String,String> splitStructure(String structure) throws Exception
 	{
 		LinkedHashMap<String,String> result=new LinkedHashMap<String,String>();
-		FileOutputStream o=new FileOutputStream(new File("d:/temp.txt"));
+		File file = new File("temp.txt");
+		if(!file.exists())file.createNewFile();
+		FileOutputStream o=new FileOutputStream(file);
 		o.write(structure.getBytes());
 		o.close();
-		BufferedReader fis = new BufferedReader(new FileReader("d:/temp.txt"));
+		BufferedReader fis = new BufferedReader(new FileReader(file));
 		String title="";
 		String text="";
 		String line="";
@@ -116,10 +133,11 @@ public class POIReadAndPost {
 			line=line.replace("\t", " ").trim();
 			if(line.equals(" ")||line.equals("\r"))
 				continue;
-			if(line.toLowerCase().equals("first year")||line.toLowerCase().equals("second year")||line.toLowerCase().equals("third year")||line.toLowerCase().equals("fourth year")||
-					line.toLowerCase().equals("semester 1")||line.toLowerCase().equals("semester 2")||line.toLowerCase().equals("semester 3")||line.toLowerCase().equals("semester 4")||
-					line.toLowerCase().equals("semester 5")||line.toLowerCase().equals("semester 6")||line.toLowerCase().equals("semester 7")||line.toLowerCase().equals("semester 8")||
-					line.toLowerCase().equals("year 1")||line.toLowerCase().equals("year 2")||line.toLowerCase().equals("year 3")||line.toLowerCase().equals("year 4")||line.equals("final year"))//Final Year
+			if(line.trim().toLowerCase().equals("first year")||line.trim().toLowerCase().equals("second year")||line.trim().toLowerCase().equals("third year")||line.trim().toLowerCase().equals("fourth year")||line.trim().toLowerCase().equals("fifth year")||
+					line.trim().toLowerCase().equals("semester 1")||line.trim().toLowerCase().equals("semester 2")||line.trim().toLowerCase().equals("semester 3")||line.trim().toLowerCase().equals("semester 4")||line.trim().toLowerCase().equals("semester 5")||
+					line.trim().toLowerCase().equals("semester 6")||line.trim().toLowerCase().equals("semester 7")||line.trim().toLowerCase().equals("semester 8")||line.trim().toLowerCase().equals("semester 9")||line.trim().toLowerCase().equals("semester 10")||
+					line.trim().toLowerCase().equals("year 1")||line.trim().toLowerCase().equals("year 2")||line.trim().toLowerCase().equals("year 3")||line.trim().toLowerCase().equals("year 4")||line.trim().toLowerCase().equals("year 5")||line.trim().toLowerCase().equals("final year")||//Final Year
+					line.trim().toLowerCase().equals("typical year one modules")||line.trim().toLowerCase().equals("typical year two modules")||line.trim().toLowerCase().equals("typical year three modules")||line.trim().toLowerCase().equals("typical year four modules")||line.trim().toLowerCase().equals("typical year five modules"))
 
 			{
 				if(index!=0)
@@ -137,7 +155,7 @@ public class POIReadAndPost {
 				text+=line+"\n";
 			}
 		}
-
+		fis.close();
 		result.put(title, FilterToHTML.filter(text));
 		
 		return result;
@@ -146,7 +164,7 @@ public class POIReadAndPost {
 	
 	public static LinkedHashMap<String,String> splitScholarship(String scholarship,String tuition){
 		LinkedHashMap<String,String> result=new LinkedHashMap<String,String>();
-		if(scholarship!=null||scholarship.equals(""))return result;
+		if(scholarship==null||scholarship.equals(""))return result;
 		
 		for(String scholarshipItem:scholarship.split(";")){
 			if(scholarshipItem.indexOf("$")<0){

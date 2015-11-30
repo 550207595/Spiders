@@ -28,6 +28,8 @@ public class ExcelGenerator {
 	public static final int MONTH_OF_ENTRY=11;
 	public static final int SCHOLARSHIP=12;
 	public static final int URL=13;
+	
+	public static final int MAX_LENGTH_PER_CELL = 32767;
 
 	
 	
@@ -37,13 +39,11 @@ public class ExcelGenerator {
 	private List<MajorForCollection> majorList=null;
 	private String schoolName =null;
 	private String level =null;
-	private boolean structureOverFlow = false;
 	
-	public ExcelGenerator(String schoolName,String level, List<MajorForCollection> majorList,boolean structureOverFlow){
+	public ExcelGenerator(String schoolName,String level, List<MajorForCollection> majorList){
 		this.schoolName = schoolName;
-		this.level = level;
-		this.majorList = majorList;
-		this.structureOverFlow = structureOverFlow;
+		this.level = level.replace("Undergraduate", "ug").replace("Postgraduate", "pgt");
+		this.majorList = majorList;;
 		try {
 			initExcelWriter();
 		} catch (Exception e) {
@@ -86,7 +86,7 @@ public class ExcelGenerator {
 			row = sheet.createRow((short)rowNum);
 		}
 		
-		if(col==STRUCTURE&&structureOverFlow){
+		if(col==STRUCTURE&&content.length() > MAX_LENGTH_PER_CELL){
 			File dir = new File(schoolName+"_"+level+"_structure");
 			if(!dir.exists())dir.mkdirs();
 			writeToTxt(dir.getName()+"/"+rowNum+".txt", content.replace("\n", "\r\n"));
@@ -96,7 +96,7 @@ public class ExcelGenerator {
 		}
 	}
 	
-	public void exportExcel(String fileName) throws Exception {
+	public void exportExcel() throws Exception {
 		for(int row =0;row<majorList.size();row++){
 			addToSheet(row+1, SCHOOL, majorList.get(row).getSchool());
 			addToSheet(row+1, LEVEL, majorList.get(row).getLevel());
@@ -114,7 +114,7 @@ public class ExcelGenerator {
 			addToSheet(row+1, URL, majorList.get(row).getUrl());
 		}
 		
-		File file = new File(fileName);
+		File file = new File("gen_data_"+schoolName+"_"+level+".xls");
 		if (!file.exists()) {
 			file.createNewFile();
 		}

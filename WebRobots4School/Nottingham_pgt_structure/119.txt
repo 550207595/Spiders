@@ -1,3 +1,0 @@
-Modules  
-  Core modules   Control Systems Design Renewable Energy Technology 1 Power Electronic Design Power Networks with Laboratory Energy Conversion for Motor and Generator Drives FACTS and Distributed Generation Advanced AC Drives with Project  Optional Modules  Technologies for Wind Generation Technologies for Hydrogen transport economy Renewable Energy Technology 2 Combined Heat and Power Systems  
-  For more details on our modules, please see the Module Catalogue.
