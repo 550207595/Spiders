@@ -146,6 +146,7 @@ public class Postgraduate {
 					String baseUrl="http://www.nottingham.ac.uk";
 					for(Element e:es){//major
 						MajorForCollection major = new MajorForCollection();
+						major.setTitle(e.text());
 						major.setApplicationFee(url);
 						major.setUrl(e.attr("href").startsWith("http")?e.attr("href"):baseUrl + e.attr("href"));
 						list.add(major);
@@ -191,8 +192,9 @@ public class Postgraduate {
 		for(String[] singleData:Data.getData(LEVEL)){
 			MajorForCollection major = new MajorForCollection();
 			major.setLevel(LEVEL);
-			major.setApplicationFee(singleData[0]);
-			major.setUrl(singleData[1]);
+			major.setTitle(singleData[0]);
+			major.setApplicationFee(singleData[1]);
+			major.setUrl(singleData[2]);
 			majorList.add(major);
 		}
 		System.out.println("majorList prepared");
@@ -268,6 +270,10 @@ public class Postgraduate {
 			major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml())).trim());
 		}
 		
+		if(major.getLength().length()==0){
+			major.setLength(getLastYear(major.getStructure()));
+		}
+		
 		if(doc.select("div.sys_factfileItem.sys_factfileStartDate").size()>0){
 			e=doc.select("div.sys_factfileItem.sys_factfileStartDate").get(0);
 			major.setMonthOfEntry(getMonthOfEntry(e.text()));
@@ -286,14 +292,24 @@ public class Postgraduate {
 	}
 
 
-	public static String getLastYear(Element e){
-		if(e.outerHtml().toLowerCase().contains("fifth year")||e.outerHtml().toLowerCase().contains("year 5")){
+	public static String getLastYear(String content){
+		content = content.toLowerCase()
+				.replace("one", "1")
+				.replace("two", "2")
+				.replace("three", "3")
+				.replace("four", "4")
+				.replace("five", "5")
+				.replace("six", "6")
+				.replace("semester", "year");
+		if(content.contains("sixth year")||content.contains("year 6")){
+			return "72";
+		}else if(content.contains("fifth year")||content.contains("year 5")){
 			return "60";
-		}else if(e.outerHtml().toLowerCase().contains("fourth year")||e.outerHtml().toLowerCase().contains("year 4")){
+		}else if(content.contains("fourth year")||content.contains("year 4")){
 			return "48";
-		}else if(e.outerHtml().toLowerCase().contains("third year")||e.outerHtml().toLowerCase().contains("year 3")){
+		}else if(content.contains("third year")||content.contains("year 3")){
 			return "36";
-		}else if(e.outerHtml().toLowerCase().contains("second year")||e.outerHtml().toLowerCase().contains("year 2")){
+		}else if(content.contains("second year")||content.contains("year 2")){
 			return "24";
 		}
 		return "";

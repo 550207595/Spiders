@@ -21,7 +21,7 @@ import com.jeiel.entity.Major;
 import java.util.*;
 
 public class POIReadAndPost {
-	//public static String filepath="gen_data_"++"_"++".xls";
+	//public static String filepath="gen_data_Nottingham_pgt.xls";
 	public static String filepath="gen_data_"+Add.SCHOOL_NAME+"_"+Add.LEVEL+".xls";
 	/**
 	 * @param args
@@ -105,7 +105,7 @@ public class POIReadAndPost {
             major.setScholarship(splitScholarship(String.valueOf(hssfRow.getCell(12)),major.getTuitionFee()));
             major.setUrl(hssfRow.getCell(13).getStringCellValue());
             list.add(major);
-            //System.out.println("{\""+major.getApplicationFee()+"\",\""+major.getUrl()+"\"},");
+            //System.out.println("{\""+major.getTitle()+"\",\""+major.getApplicationFee()+"\",\""+major.getUrl()+"\"},");
         }
         hssfWorkbook.close();
         is.close();
