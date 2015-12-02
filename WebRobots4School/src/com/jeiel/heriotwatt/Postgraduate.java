@@ -1,4 +1,4 @@
-package com.jeiel.nottingham;
+package com.jeiel.heriotwatt;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -19,7 +19,7 @@ import com.jeiel.entity.MajorForCollection;
 import com.jeiel.utils.ExcelGenerator;
 
 
-public class Undergraduate {
+public class Postgraduate {
 	public static final int MAX_THREAD_AMOUNT = 60;
 	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();
 	
@@ -42,8 +42,8 @@ public class Undergraduate {
 	public static void main(String[] args) {
 		long startTimeInMillis = Calendar.getInstance().getTimeInMillis();
 		try {
-			//initMajorList("http://www.nottingham.ac.uk/UGstudy/courses/a-zsearch.aspx?AZListing_AtoZLetter=");
-			initMajorListWithData();
+			initMajorList("http://www.postgraduate.hw.ac.uk/programmes/taught/");
+			//initMajorListWithData();
 			System.out.println("start");
 			ExecutorService pool=Executors.newCachedThreadPool();
 			for(int i=0;i<MAX_THREAD_AMOUNT;i++){
@@ -103,31 +103,28 @@ public class Undergraduate {
 		
 		System.out.println("preparing majorList");
 		
-		for(int i = 1;i<=26;i++){
-			boolean finish = false;
-			List<MajorForCollection> list = new ArrayList<MajorForCollection>();
-			do{
-				try {
-					list.clear();
-					Connection conn=Jsoup.connect(originalUrl + (char)(i+96));
-					System.out.println(originalUrl + (char)(i+96));
-					Document doc=conn.timeout(10000).get();
-					Elements es=doc.select("#AZListing_List > div.sys_itemslist a");
-					String baseUrl="http://www.nottingham.ac.uk";
-					for(Element e:es){//major
-						MajorForCollection major = new MajorForCollection();
-						major.setApplicationFee((char)(i+96)+"");
-						major.setUrl(e.attr("href").startsWith("http")?e.attr("href"):baseUrl + e.attr("href"));
-						list.add(major);
-					}
-					finish=true;
-				} catch (Exception e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
+		boolean finish = false;
+		do{
+			try {
+				majorList.clear();
+				Connection conn=Jsoup.connect(originalUrl);
+				Document doc=conn.timeout(10000).get();
+				Elements es=doc.select("ul.prog-list > li a");
+				String baseUrl="http://www.postgraduate.hw.ac.uk";
+				for(Element e:es){//major
+					MajorForCollection major = new MajorForCollection();
+					major.setTitle(e.select("strong").get(0).text().trim());
+					major.setType(e.ownText().replace(",", "").trim());
+					major.setLevel(LEVEL);
+					major.setUrl(e.attr("href").startsWith("http")?e.attr("href"):baseUrl + e.attr("href"));
+					majorList.add(major);
 				}
-			}while(!finish);
-			majorList.addAll(list);
-		}
+				finish=true;
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}while(!finish);
 		
 		System.out.println("majorList prepared");
 		System.out.println("majorList size: "+majorList.size());
@@ -177,49 +174,48 @@ public class Undergraduate {
 		Document doc=conn.timeout(10000).get();
 		Element e = null;
 		
-		if(doc.select("div.sys_factfileItem.sys_factfileUcas").size()>0){
-			e=doc.select("div.sys_factfileItem.sys_factfileUcas").get(0);
-			major.setApplicationFee(e.ownText());
-		}
-		
-		if(doc.select("#ugStudyFactfile > div.parentSchool > *:nth-child(2)").size()>0){
-			e=doc.select("#ugStudyFactfile > div.parentSchool > *:nth-child(2)").get(0);
-			major.setSchool(e.text().trim());
-		}
-		
-		if(doc.select("div.sys_factfileItem.sys_factfileName, div.sys_factfileItem.sys_factfileQualname").size()>0){
-			e=doc.select("div.sys_factfileItem.sys_factfileName, div.sys_factfileItem.sys_factfileQualname").get(0);
-			major.setTitle(e.ownText());
-		}
-		
-		if(doc.select("div.sys_factfileItem.sys_factfileQualification").size()>0){
-			e=doc.select("div.sys_factfileItem.sys_factfileQualification").get(0);
-			major.setType(replaceSpecialCharacter(e.ownText().indexOf(" ")>0?e.ownText().substring(0, e.ownText().indexOf(" ")).trim():e.ownText().trim()));
-		}
-		
-		if(doc.select("div.sys_factfileItem.sys_factfileType").size()>0){
-			e=doc.select("div.sys_factfileItem.sys_factfileType").get(0);
-			major.setLength(getLength(e.ownText()));
+		for(Element tmp:doc.select("#tabsNew > section")){
+			if(tmp.text().startsWith("Programme content")){
+				major.setStructure(replaceSpecialCharacter(html2Str(tmp.outerHtml())).trim());
+			}else if(tmp.text().startsWith("Entry requirements")){
+				major.setAcademicRequirements(tmp.text().indexOf("English language requirements")>0?
+						tmp.text().substring(0, tmp.text().indexOf("English language requirements")):tmp.text());
+				getIELTS(tmp.text(), major);
+			}else if(tmp.text().startsWith("Tuition fees")){
+				major.setTuitionFee(getFee(tmp.text()));
+			}
 		}
 
-		if(doc.select("#EntryRequirements").size()>0){
-			e=doc.select("#EntryRequirements").get(0);
-			major.setAcademicRequirements(e.text().indexOf("English language requirements")>0?
-					e.text().substring(0, e.text().indexOf("English language requirements")):e.text());
-			getIELTS(e.text(), major);
+		
+		if(doc.select("#crumb a").size()>3){
+			e=doc.select("#crumb a").get(3);
+			major.setSchool(e.text().trim());
+		}
+
+		if(doc.text().indexOf("Programme duration")>0){
+			major.setLength(getLength(doc.text().substring(
+					doc.text().indexOf("Programme duration"))));
 		}
 		
-		if(doc.select("#Modules").size()>0){
-			e=doc.select("#Modules").get(0);
-			major.setStructure(replaceSpecialCharacter(html2Str(e.outerHtml())).trim());
+		if(major.getLength().length()==0){
+			major.setLength(getLastYear(major.getStructure()));
 		}
+			
+		if(doc.select("#details > li:last-child").size()>0){
+			e=doc.select("#details > li:last-child").get(0);
+			major.setMonthOfEntry(getMonthOfEntry(e.ownText().trim()));
+		}
+
 		
-		/*if(doc.text().indexOf("starts in")>0){
-			major.setMonthOfEntry(doc.text().substring(doc.text().indexOf("starts in"),doc.text().indexOf("starts in")+20));
-		}*/
+		/*major.setMonthOfEntry("9");*/
 		
-		major.setMonthOfEntry("9");
+		/*if(doc.select("ul.greyBoxList").size()>0){
+			e=doc.select("ul.greyBoxList").get(0);
+			major.setScholarship(replaceSpecialCharacter(html2Str(e.outerHtml())).trim());
+		}
+		*/
 		
+		getScholarship(major);
 		
 		mark(major, true);
 	}
@@ -452,8 +448,9 @@ public class Undergraduate {
 	}
 
 	public static void getScholarship(MajorForCollection major){
-		major.setScholarship("Edinburgh Global Undergraduate Maths Scholarships$1000;"+
-		"Deutsche Post DHL Undergraduate Scholarships$2000");
+		major.setScholarship("Heriot-Watt Foundation Bursary$2250;"+
+		"Heriot-Watt University Bursary$3000;"+
+		"Heriot-Watt Academic Scholarship$1000");
 		/*if(major.getSchool().contains("Automatic Control and Systems Engineering")){
 		major.setScholarship(major.getScholarship()+";"+"Academic Achievement Scholarship$3000");
 		}
@@ -522,7 +519,6 @@ public class Undergraduate {
 		Matcher m = pY.matcher(content);
 		if(m.find()){
 			String tmp=m.group().replace("year", "");
-			System.out.println(tmp);
 			if(tmp.contains("-")){
 				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
@@ -533,7 +529,6 @@ public class Undergraduate {
 		m = pM.matcher(content);
 		if(m.find()){
 			String tmp=m.group().replace("month", "");
-			System.out.println(tmp);
 			if(tmp.contains("-")){
 				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
@@ -544,7 +539,6 @@ public class Undergraduate {
 		m = pW.matcher(content);
 		if(m.find()){
 			String tmp=m.group().replace("week", "");
-			System.out.println(tmp);
 			if(tmp.contains("-")){
 				tmp=tmp.substring(0, tmp.indexOf("-"));
 			}
@@ -593,6 +587,37 @@ public class Undergraduate {
 			}
 		}while(!finish);
 		return fee;
+	}
+	
+	public static String getType(Document doc){
+		String type="";
+		if(doc.select("#kw").size()>0){
+			Element e = doc.select("#kw").get(0);
+			StringBuilder typeURL = new StringBuilder();
+			typeURL.append("http://widget.unistats.ac.uk/Widget/");
+			typeURL.append(e.attr("data-institution")+"/");
+			typeURL.append(e.attr("data-course")+"/");
+			typeURL.append(e.attr("data-orientation")+"/");
+			typeURL.append("null/");
+			typeURL.append(e.attr("data-language")+"/");
+			typeURL.append(e.attr("data-kismode"));
+			boolean finishe = false;
+			try{
+				do{
+					Connection tmpConn = Jsoup.connect(typeURL.toString());
+					Document tmpDoc = tmpConn.timeout(10000).get();
+					if(tmpDoc.select("#kisWidget > div.widgetCourse > h1").size()>0){
+						e = tmpDoc.select("#kisWidget > div.widgetCourse > h1").get(0);
+						type = e.text().trim().indexOf(" ")>0?
+								e.text().trim().substring(0,e.text().trim().indexOf(" ")):e.text().trim();
+					}
+					finishe = true;
+				}while(!finishe);
+			}catch(Exception ex){
+				ex.printStackTrace();
+			}
+		}
+		return type;
 	}
 }
 

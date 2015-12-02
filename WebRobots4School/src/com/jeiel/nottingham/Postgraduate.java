@@ -299,18 +299,31 @@ public class Postgraduate {
 				.replace("three", "3")
 				.replace("four", "4")
 				.replace("five", "5")
-				.replace("six", "6")
-				.replace("semester", "year");
-		if(content.contains("sixth year")||content.contains("year 6")){
+				.replace("six", "6");
+		if(content.contains("sixth year")||content.contains("year 6")||content.contains("semester 12")){
 			return "72";
-		}else if(content.contains("fifth year")||content.contains("year 5")){
+		}else if(content.contains("semester 11")){
+			return "66";
+		}else if(content.contains("fifth year")||content.contains("year 5")||content.contains("semester 10")){
 			return "60";
-		}else if(content.contains("fourth year")||content.contains("year 4")){
+		}else if(content.contains("semester 9")){
+			return "54";
+		}else if(content.contains("fourth year")||content.contains("year 4")||content.contains("semester 8")){
 			return "48";
-		}else if(content.contains("third year")||content.contains("year 3")){
+		}else if(content.contains("semester 7")){
+			return "42";
+		}else if(content.contains("third year")||content.contains("year 3")||content.contains("semester 6")){
 			return "36";
-		}else if(content.contains("second year")||content.contains("year 2")){
+		}else if(content.contains("semester 5")){
+			return "30";
+		}else if(content.contains("second year")||content.contains("year 2")||content.contains("semester 4")){
 			return "24";
+		}else if(content.contains("semester 3")){
+			return "18";
+		}else if(content.contains("first year")||content.contains("year 1")||content.contains("semester 2")){
+			return "12";
+		}else if(content.contains("semester 1")){
+			return "6";
 		}
 		return "";
 	}
