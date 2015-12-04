@@ -1,0 +1,855 @@
+Course structure
+   
+   
+   
+  Each year of the BSc programme is designed around a combination of compulsory core modules, as well as opportunities to take optional modules so you can choose additional subjects of interest. The balance of compulsory to core modules depends upon the year and programme of study and is explained fully in the programme catalogue.  
+  If you opt to study abroad or to join our year in industry scheme you will pursue this at the end of Year 2, returning to your final year of study once completed. 
+   
+  
+  
+  
+  
+   
+    
+    Level 1 
+     
+      
+      
+       
+      You will study the following compulsory modules:  
+      GEOG1070: Physical Geography Tutorial 
+      This module introduces the ways in which physical geographers seek to understand the natural world around them (and the human impact on the natural world). In small groups (5-7 students) you will learn how to read and understand academic papers, the scientific process, and how to write cogent and convincing explanations of the different research approaches used in physical geography.  
+      GEOG1075: Data Analysis for Physical Geography 
+      This module will give you foundational skills in geographical information systems (GIS), statistics, and report writing that will underpin the rest of your degree. These skills are gained using a virtual geomorphological tour through the fascinating arid environment of Death Valley, California.  
+      SOEE1570: Geology 1
+      
+       What is the internal structure of the Earth?
+       How does plate tectonic behaviour act as a mechanism for plate motion, mountain building, subduction, basin formation and long-term geological evolution on a continental scale?
+       What are the processes of formation of igneous, sedimentary and metamorphic rocks?
+       How are rocks and minerals described using physical and optical properties?
+       How do we relate geological materials to their environments of formation?
+       What techniques are used in the study of fossils and trace fossils?
+       How do we decipher earth history and deep time using stratigraphic concepts?
+       What is the geological history of the British Isles?
+      
+      SOEE1580: Geology 2
+      
+       What are the mechanics of deformation?
+       How do we account for the formation of geological structures?
+       What are stereographic projection techniques?
+       How are geological maps constructed from basic stratigraphic rules?
+       What are the processes of formation of igneous and metamorphic rocks?
+       What are the main types of sedimentary rocks and how can we use sedimentary structures to understand their environments of deposition?
+       How can we apply fieldwork techniques to geological problem solving?
+      
+      Optional modules include:  
+      GEOG1040: Dynamic Landscapes
+      
+       Why are there mountains?
+       Are glaciers the most erosive features in the natural world, 'bull-dozing' all before them?
+       How much do 'slow' processes, such as soil creep, shape landscapes?
+       How does water move through the landscape and how does it affect weathering and erosion processes around the world?
+       What is a geomorphological hazard?
+      
+      GEOG1045: Living Planet
+      
+       What are biogeochemical cycles and why are they also known as 'cycles of life'?
+       What is a soil and how do soils affect life on earth?
+       What is a biome and how did the earth's biomes form?
+       Why are flamingos pink?
+       How do ecosystems respond to human disturbance?
+      
+      GEOG1055: Environmental Change: Past and Future
+      
+       Is climate change really happening?
+       How rapidly has climate changed in the past?
+       How many ice ages have there been?
+       How have humans responded/adapted to climate change in the past?
+       What does the future hold for planet earth under a changing climate?
+      
+      GEOG1065: Nature, Society and Environment
+      
+       What do we mean by sustainability?
+       What is an ecosystem service?
+       Is there such a thing as environmental justice?
+       How will climate change affect human societies?
+       What is re-wilding?
+       
+       
+      
+      
+     
+     
+    
+    
+   
+   
+  
+  
+  
+  
+   
+    
+    Level 2 
+     
+      
+      
+       
+      You will study the following compulsory modules:  
+      GEOG2115 Research project and statistical skills in physical geography 
+      SOEE2062: Sedimentary Processes
+      
+       What are the common physical processes of sedimentation?
+       How do we measure and classify flows and what governs sediment transport?
+       What types of bedforms are generated in unidirectional, oscillatory and multidirectional flows?
+       How do sediments undergo soft-sediment deformation and erosion?
+       What are the main types of depositional sedimentary environments?
+       What is facies analysis and how can it be applied to the study of alluvial, deltaic and deep-sea clastic sedimentary environments?
+       What sedimentary processes occur in carbonate reefs and mounds, shallow platform carbonate and peritidal settings?
+      
+      SOEE2094: Study Skills and Advanced Mapwork
+      
+       What are the main skills required to analyse geological features and maps and interpret some remote sensing images?
+       What are the main applications of various remote sensing tools to geological mapping?
+       How can different images from areas of active and ancient tectonics be interpreted?
+       What are the main GIS applications in geology, and how can Digital Elevation Models (DEM) be applied to geological problem solving?
+       How can remote sensing be used to study hydrogeology, fault-loss maps, isopach maps, landslides and to generate accurate cross-sections where units change in thickness?
+      
+      SOEE2103: Fieldwork for Geography/Geology
+      
+       How are skills of field observation, geological mapping, field data recording skills applied in the field?
+       What are the main techniques in the preparation and presentation of geological maps and reports?
+       How do geologists investigate the nature and history of sedimentary rocks in the field within the context of sedimentary basin development?
+       How do geologists develop hazard and safety awareness in the field?
+      
+      SOEE2145: Palaeoecology, Palaeobiology and Evolution
+      
+       What are the principles of ecology and how they can be applied in palaeoecological analysis?
+       What are the main uses of trace fossils in reconstructing palaeoenvironments?
+       What is palaeobiology?
+       How do we study reef palaeoecology and evolutionary history?
+       How do we study exceptionally preserved biotas?
+       How can we use fossils to determine ancient oxygen levels?
+       What are micro and macroevolutionary patterns?
+       What are cladograms and evolutionary trees and how are they constructed?
+       What are the main mass-extinctions in the history of life?
+      
+      Optional modules include - one of the following:  
+      GEOG2005: Field class: The dynamic environment of the C&eacute;vennes National Park (Massif Central, France)
+      
+       What physical and biological processes characterise the upland landscape of the Cevennes National Park in southern France?
+       How has the environment of the Cevennes changed over time in response to human activity and shifts in climate?
+       How can present and past processes be studied and measured in the field and the laboratory, and what research approaches and techniques are most useful?
+       What does the future hold for the Cevennes National Park, and what challenges face its environmental managers?
+      
+      GEOG2007: Fieldclass - The dynamic environment of Mallorca (Spain) 
+      GEOG2009: Field class: The dynamic environment of the Hohe Tauern National Park (Eastern Alps, Austria)
+      
+       What physical forms and processes are peculiar to Alpine environments?
+       How is a knowledge of physical geography essential to understanding Alpine environments?
+       What processes in particular have shaped the Alpine landscape (e.g. glacial and fluvial processes)?
+       How can these be studied and measured in the field, and what techniques are most useful?
+       How might climate change and human activities influence Alpine landscapes?
+       How do Alpine processes affect human resources such as hydro power and water supply?
+      
+      Optional modules - Two from the following:  
+      GEOG2060: Living within limits: natural resource management for sustainable development 
+      This module explores the interface between physical and human geography, and explores how humans 'exploit' their natural environment. Key questions that will be discussed on the module include:
+      
+       What is a natural resource?
+       What are the different approaches to natural resource management?
+       Are there limits to growth and how well does the 'technofix' model describe resource use?
+       How is environmental and resource policy developed?
+       What role do non-governmental advocacy groups and the private sector play in policy making?
+      
+      GEOG2080: Earth Surface Processes
+      
+       This module focuses on hydrological and geomorphological processes and landforms in temperate and glacierised catchments, and provides answers to questions such as:
+       How do hydrological and glacial processes respond to climate change?
+       Why do rivers flood and how can we reduce the flood hazard?
+       How do avalanches occur; how great a hazard are they?
+       What are the factors that control the magnitude and severity of glacial outburst floods?
+      
+      GEOG2085: Ecosystems: process, pattern and change
+      
+       What evolutionary processes have shaped life on earth?
+       What are mass extinctions and how do they occur?
+       How do biomes and ecosystems function?
+       How does the global carbon cycle interact with climate?
+       What is the 'Anthropocene'?
+      
+      GEOG2090: Climate Systems
+      
+       How can we conceptualise and model (using computers) the global climate system?
+       What are the most important controls on global climate?
+       What is the role of the oceans in the global climate system?
+       Why, in its recent geological past, has the earth undergone repeated glaciations and de-glaciations?
+       What are the causes and nature of recent climate change?
+      
+      Optional Modules: Two from the following or only Mineralogy and Petrology  
+      SOEE1301: Intermediate Mathematics for Environmental and Geophysical Scientists
+      
+       Differentiation and integration.
+       Manipulate complex numbers.
+       Solve ordinary differential equations, including first and second order.
+       Vector algebra and differentiation, including graphical representations.
+       Taylor series.
+       Introduction to partial derivatives.
+      
+      SOEE1311: Advanced Mathematics for Environmental and Geophysical Scientists
+      
+       Determine the partial derivatives and extrema of a function.
+       Introduction to line, surface, volume integrals.
+       Apply the grad operator (div, grad, curl).
+       Solve partial differential equations.
+       Fourier analysis.
+      
+      SOEE2010: Chemistry of the Earth
+      
+       What are the main geochemical cycles
+       What is the nature of the oxygen, water and carbon dioxide cycles?
+       What are the main chemical processes that take place in geochemical cycles?
+       What is the chemistry of surface waters?
+       What is the chemistry of deep-earth fluids - radiogenic isotopes?
+       What are Isotope tracers?
+       What are the stable isotopes of O and H?
+       How can chemistry be applied to account for Earth and planetary evolution?
+       What is the chemical evolution of the Earth?
+      
+      SOEE2050: Deformation Processes
+      
+       What are the main approaches used in the theoretical and meso-to- micro scale analysis of structures?
+       How do we undertake practical 2D strain analysis?
+       What are the main 3D strain concepts?
+       What is incremental strain, kinematics and polyphase deformation?
+       What are the main techniques used in fold construction?
+       How do we study fault and shear zone evolution and micro structures?
+      
+      SOEE2110: Introductory Oceanography
+      
+       What is the nature of the sea-floor in terms of its deposits and resources?
+       What is the hydrologic cycle; properties and circulation of sea-water?
+       What are the main oceanic environments?
+       How do we study marine food chains?
+       What are the main concerns relating to marine pollution?
+       What are hydrothermal processes?
+      
+      SOEE2460: Contaminated Land Studies: Integrating Business Skills and Science in Consultancy
+      
+       How is geological science is used to solve problems relating to minerals and mining?
+       What do environmental consultancy companies do?
+       What is the Source-Pathway-Receptor approach used by governments and regulatory agencies to identify the hazards arising from contaminated land and pollutant migration?
+       What are the main issues relating to groundwater pollution?
+       How can we remediate acid mine drainage in the UK?
+       What tasks are junior environmental consultants typically required to undertake in their investigation of a site identified by a client as potentially suitable for residential development?
+      
+      SOEE2580: Gemstones
+      
+       What is the origin of colour in gemstones?
+       How can we grow artificial gemstones?
+       What are the main occurrences of and uses of diamond, corundum and beryl minerals (industrial and domestic)?
+       What are gemstone treatments? How are gemstones processed to enhance colour and clarity?
+       What methods are used to identify crystals?
+       What are the main exploration strategies for locating gemstone deposits?
+       What is gemstone provenancing using trace chemical (destructive) and optical (non-destructive) means?
+      
+      SOEE2590: Mineralogy and Petrology
+      
+       What are the main groups of minerals and how are they classified?
+       How do we study mineral structure, chemistry, mode of formation?
+       What techniques are used to identify minerals?
+       What are the major types of crystalline rocks and how do they behave in geological processes?
+       How do common types of ores form?
+      
+      SOEE2600: Sedimentary Basins and Hydrocarbon Resources
+      
+       How do we interpret and describe the mode of origin of a range of sedimentary basins?
+       How do we characterize the structural style of sedimentary basins, including from seismic data?
+       How do we recognize and explain lateral variations of sedimentary facies in a variety of basin settings?
+       How can we derive tectonic subsidence/uplift histories from the history of base-level change and burial represented in the stratigraphic record?
+       What criteria are required for assessment of the development of thermally mature hydrocarbon source rocks?
+       How do petroleum fluids migrate through carrier beds and into reservoirs?
+       What are the main types of hydrocarbon reservoir?
+       How are seal rocks juxtaposed against reservoirs to form hydrocarbon traps?
+      
+      SOEE2620: Explosive Volcanism: Processes, Deposits and Resources
+      
+       What are the main types of explosive volcanism?
+       What is the nature of pyroclastic and volcaniclastic deposits?
+       What are pyroclastic air-fall and density currents?
+       What is the nature of the landscape responses to explosive volcanism?
+       What types of geothermal resources are associated with explosive volcanism and how are they hosted in pyroclastic/volcaniclastic deposits?
+      
+      SOEE2630: Fundamentals of Geophysics
+      
+       What are the main techniques of seismology?
+       What is the origin and form of seismic waves and how are they used to locate earthquakes, and understand earth structure?
+       How are seismic refraction and reflection surveys used to search for resources?
+       How are seismic data acquired and processed?
+       What are the main principles involved in gravity surveying?
+       What are the fundamental principles and practices employed in geomagnetism and palaeomagnetism studies?
+       What are the main types of geoelectric and electromagnetic and GPR methods?
+      
+      SOEE2650: GIS for Geosciences 
+       
+      
+      
+     
+     
+    
+    
+   
+   
+  
+  
+  
+  
+   
+    
+    Level 3 
+     
+      
+      
+      
+      
+      
+       
+        
+        Geography leaning pathway 
+         
+          
+          
+           
+          You will study the following compulsory modules:  
+          GEOG3600: Geography Dissertation 
+          The dissertation (independent research project) is your chance to tackle a geographical research question (or questions) of your choice and to put into practice the skills and subject knowledge you have acquired in the first two years.  
+          SOEE3060: Advanced Sedimentology and its Applications
+          
+           How do complex sedimentary successions arise in response to a range of both intrinsic operating processes and to a range of external controls such as sea-level change, climate change, and tectonic basin development?
+           How do sedimentary successions in a variety of settings form important economic resources including, for example, the site of hydrocarbon reserves?
+           What is the sedimentary response to global stratigraphic cyclicity driven by glacio-eustasy?
+           How can the technique of sequence stratigraphy be applied to account for complex sedimentary successions and their style of accumulation within developing sedimentary basins?
+          
+          Optional modules - one or two from the following level 3 BSc Geography modules:  
+          GEOG3062: New Zealand Fieldtrip 
+          The New Zealand field trip takes place in early December and lasts for two weeks. Initially, there is a guided tour of several glaciated parts of the Mt Cook National Park. You will then undertake an independent research project in the Matukituki valley near Wanaka, Mt Aspiring National Park. In this project you will study first-hand some of the most dynamic glacial, hydrological, geomorphological and ecological systems anywhere in the world. The module boasts an excellent staff-student ratio, exceptional resources in the form of supplementary material, and the field trip is an excellent example of research-led teaching because it capitalises on considerable staff research expertise in this area. As a student on this module, you will not be disappointed!  
+          GEOG3065: Water Science and Management
+          
+           How do the natural dynamics of river systems influence their morphology, flows, water quality and biological communities? 
+           What are the most serious issues requiring the management of rivers and their catchments?
+           How can hydrological and geomorphological alterations benefit river ecosystems by improving water quality?
+           What are the approaches to managing water sustainably, both in an environmental context and within water supply/treatment networks?
+           How do key water policies and legislation impact on the management of our rivers?
+          
+          GEOG3180: Management of Wilderness and Global Ecosystems
+          
+           What are wildernesses and why should we protect them?
+           How is the idea of wilderness linked to the rise of the 'environmental movement'?
+           Why is wilderness an essential component of the ecosystem services model?
+           How can GIS be used to identify, map and manage wilderness landscapes?
+           What is rewilding and why should we create more wilderness?
+           How does wilderness feature in world conservation policy?
+          
+          GEOG3440: Environment, Conflict and Policy
+          
+           What are the key principles underlying policies aimed at solving environmental conflicts?
+           What is the fundamental science underlying the application of these key principles?
+           How do actual environmental disputes develop and how can contrasting viewpoints of different stakeholders be reconciled?
+           When does the politics of policy sometimes override science?
+           How can negotiation skills be used in practise to manage debates on environmental conflict?
+          
+          GEOG3520: Workplace Co-operative Project 
+          This module is mutually exclusive with GEOG3820: Research Placement. The module provides students with an opportunity to:
+          
+           Work in collaboration with an outside organisation on a project that is of use to the organisation and suitable as an advanced component of a degree in Geography.
+           Design, negotiate, record and manage their work in cooperation with an academic supervisor and a member of staff from the outside organisation.
+          
+          GEOG3530: Geographers into Teaching - School Placements 
+          GEOG3690: Tropical forests and sustainable development
+          
+           How resilient have tropical rain forests been to environmental change during geological history?
+           What is the role of glacial ‘refugia’ in shaping current tropical rain forest communities?
+           How have indigenous people affected tropical rain forests landscapes?
+           What factors control the diversity of tropical rain forests?
+           How do tropical rain forests affect the climate system? 
+           Is sustainable development possible in SE Asia?
+           What constraints on economic and social development are imposed by the fragile natural environments of SE Asia?
+           How do national-governmental and international policies affect land-use in SE Asia?
+           In a land-use context, what is meant by 'good governance'?
+           What are the causes of land-use change in SE Asia and what is the relationship between land-use change and social and economic development? 
+          
+          GEOG3710: Digital worlds: computer simulation of Earth's dynamic environments
+          
+           What is an environmental model and why do scientists and environmental managers use models?
+           How can models be both wrong and useful?
+           How are models constructed?
+           How are models tested and used both by practitioners (e.g., policy makers) and scientists?
+           What is a numerical experiment and what can it tell us about an environmental system?
+          
+          GEOG3820: Research Placement 
+          This module is mutually exclusive with GEOG3012: New Zealand Research Project and GEOG3520: Workplace Co-operative Project. In this module students undertake a substantial piece of original research on a project put forward by an academic supervisor. Often, the project will be an important part of a wider research programme of the supervisor. Students will be expected to contribute to the design of the project and will gain an in-depth appreciation of how academics ‘do’ research. The module is useful for those considering a career in research through study for a higher degree (MSc or PhD).  
+          GEOG3875: Biogeochemical Cycles: Process to Policy  
+          Global biogeochemical cycles describe the movement of biologically important elements through the Earth System (the combination of atmosphere, oceans, rocks and biota). The processes which govern such cycles are fundamental to all life, and result in a complex series of interactions and feedbacks. This module takes an Earth System Science approach to the study of the global cycling of biologically important elements, such as carbon, nitrogen, and phosphorous. You will learn about the processes governing the movement of these elements, and how to represent them using simple box models and address questions such as:
+          
+           How do biogeochemical cycles combine to control Earth evolution, regulation, and climate?
+           How have humans impacted biogeochemical cycles, and what are the future implications of this?
+          
+          GEOG3885: Ecosystems of the Quaternary 
+          With a focus on the Quaternary period of Earth’s history (the last 2.6 million years), this module uses a palaeoecological approach to address the following questions:
+          
+           How have modern ecosystems come into being?
+           How do plants and animals respond biogeographically to climate change?
+           What effect have Quaternary climate cycles had on the evolution of species and communities?
+           How can we apply this knowledge to managing the ecological consequences of human impact on the environment?
+          
+          Optional modules - three to five of the following earth science modules:  
+          SOEE2460: Contaminated Land Studies: Integrating Business Skills and Science in Consultancy 
+          SOEE3040: Easter Field Class (Geological Science)
+          
+           How are pure and applied geological concepts used in field situations?
+           What are the main set of skills used by geologists for integration of field observations and synthesis of geological models?
+           How are techniques for understanding the dynamics of formation, cooling, alteration of mid-oceanic ridges, their subsequent emplacement as ophiolites and their unroofing and post-emplacement history applied in a field-based situation?
+          
+          SOEE3091: Advances in Paleontology
+          
+           What is the origin of life and what is its role in controlling Precambrian sedimentary environments?
+           What form do chemosynthetic communities take?
+           What is the form of the enigmatic Ediacaran fauna?
+           How did the Cambrian explosion lead to diversification of life on Earth?
+           What was the cause of the End-Ordovician extinction?
+           How did the evolution of Tertiary floral communities take place and lead to the rise of grasses?
+           What factors led to the rise of the hominids and H. sapiens?
+          
+          SOEE3110: Earth System Science: Biogeochemical Cycles
+          
+           What are the major biogeochemical cycles and how they can be used to understand the Earth System?
+           What are the general principles and science of biogeochemistry in relation to the Earth system?
+           How can changes in biogeochemical cycles (past, present and future) have an affect on the Earth System, and vice versa?
+          
+          SOEE3135: Engineering Geology
+          
+           What is the significance and importance of different rock and soil types, and their characteristics in engineering construction and design?
+           How do geologists determine strength and other index properties of both intact rock, rock masses, single discontinuities and soil?
+           How do geologists undertake geotechnical assessments?
+           How do geologists undertake preliminary design of a Site Investigation?
+           How do geologists provide an engineering description of rocks and soils?
+           How do geologists design slopes and underground openings?
+           How do geologists recognise and understand slope instability in soils and rocks?
+           How do geologists analyse slopes for stability?
+          
+          SOEE3171: Volcanic Processes
+          
+           What are the major types of volcanic eruptions and their products?
+           What are the physical controls on eruptive processes and the transport and deposition of eruption products?
+           What are the commonly used volcano monitoring and hazard assessment techniques?
+           What are the major impacts of volcanic activity on climate?
+          
+          SOEE3281: Physical and Chemical Hydrogeology
+          
+           How does groundwater fit into the hydrological cycle?
+           What characteristics of rocks and soils determine aquifer quality?
+           How do geologists interpret hydrogeological maps?
+           How do geologists find groundwater fluxes in aquifers from hydraulic head data?
+           How can a simple 'water balance' model of an aquifer be used to predict sustainable yields and predict the potential impacts of groundwater abstraction?
+           What are the principles and uses of aquifer pumping tests?
+           How do geologists evaluate the accuracy and completeness of a routine groundwater analysis?
+           How does the chemical composition of natural groundwaters develop?
+           What are the main mineral dissolution reactions giving rise to specific groundwater compositions?
+           How do geologists describe the behaviour of key groundwater contaminants and the major threats to groundwater quality?
+           How do geologists describe the main factors controlling aquifer vulnerability?
+          
+          SOEE3470: Plate Tectonics and Geodynamic 
+          SOEE3500: Basin Dynamics and Petroleum Systems
+          
+           What are the origins of petroleum in the context of the geodynamic evolution, and the burial and thermal histories of sedimentary basins?
+           What are the differing structural, magmatic and heat flow characteristics of continental margins?
+           How do contrasting reservoir styles and hydrocarbon trap opportunities relate to the nature and evolution of the continental margin?
+           How do teams of geologists work together to address petroleum exploration objectives within a quasi-commercial and competitive project to develop a drilling proposal?
+          
+          SOEE3720: Environmental Geology in Northern Ireland
+          
+           How can interpretation techniques benefit from field-based observations in the disciplines of igneous petrology, sedimentary petrology and Quaternary geology?
+           What was the geological development of Northern Ireland?
+           How do geologists embed professional practice in environmental geology?
+           
+           
+          
+          
+         
+         
+        
+        
+       
+       
+      
+      
+      
+      
+       
+        
+        Geology leaning pathway (non-accredited) 
+         
+          
+          
+           
+          You will study the following compulsory modules:  
+          SOEE3076: Independent Project
+          
+           How do geologists undertake independent field- or laboratory-based research-led studies?
+           How are techniques of geological mapping executed in a field-based situation?
+          
+          SOEE3060: Advanced Sedimentology and its Applications
+          
+           How do complex sedimentary successions arise in response to a range of both intrinsic operating processes and to a range of external controls such as sea-level change, climate change, and tectonic basin development?
+           How do sedimentary successions in a variety of settings form important economic resources including, for example, the site of hydrocarbon reserves?
+           What is the sedimentary response to global stratigraphic cyclicity driven by glacio-eustasy?
+           How can the technique of sequence stratigraphy be applied to account for complex sedimentary successions and their style of accumulation within developing sedimentary basins?
+          
+          Optional modules - two or three modules from the geography modules listed below:  
+          GEOG3062: New Zealand Fieldtrip 
+          The New Zealand field trip takes place in early December and lasts for two weeks. Initially, there is a guided tour of several glaciated parts of the Mt Cook National Park. You will then undertake an independent research project in the Matukituki valley near Wanaka, Mt Aspiring National Park. In this project you will study first-hand some of the most dynamic glacial, hydrological, geomorphological and ecological systems anywhere in the world. The module boasts an excellent staff-student ratio, exceptional resources in the form of supplementary material, and the field trip is an excellent example of research-led teaching because it capitalises on considerable staff research expertise in this area. As a student on this module, you will not be disappointed!  
+          GEOG3065: Water Science and Management
+          
+           How do the natural dynamics of river systems influence their morphology, flows, water quality and biological communities? 
+           What are the most serious issues requiring the management of rivers and their catchments?
+           How can hydrological and geomorphological alterations benefit river ecosystems by improving water quality?
+           What are the approaches to managing water sustainably, both in an environmental context and within water supply/treatment networks?
+           How do key water policies and legislation impact on the management of our rivers?
+          
+          GEOG3180: Management of Wilderness and Global Ecosystems
+          
+           What are wildernesses and why should we protect them?
+           How is the idea of wilderness linked to the rise of the 'environmental movement'?
+           Why is wilderness an essential component of the ecosystem services model?
+           How can GIS be used to identify, map and manage wilderness landscapes?
+           What is rewilding and why should we create more wilderness?
+           How does wilderness feature in world conservation policy?
+          
+          GEOG3440: Environment, Conflict and Policy
+          
+           What are the key principles underlying policies aimed at solving environmental conflicts?
+           What is the fundamental science underlying the application of these key principles?
+           How do actual environmental disputes develop and how can contrasting viewpoints of different stakeholders be reconciled?
+           When does the politics of policy sometimes override science?
+           How can negotiation skills be used in practise to manage debates on environmental conflict?
+          
+          GEOG3520: Workplace Co-operative Project 
+          This module is mutually exclusive with GEOG3820: Research Placement. The module provides students with an opportunity to:
+          
+           Work in collaboration with an outside organisation on a project that is of use to the organisation and suitable as an advanced component of a degree in Geography.
+           Design, negotiate, record and manage their work in cooperation with an academic supervisor and a member of staff from the outside organisation.
+          
+          GEOG3690: Tropical forests and sustainable development
+          
+           How resilient have tropical rain forests been to environmental change during geological history?
+           What is the role of glacial ‘refugia’ in shaping current tropical rain forest communities?
+           How have indigenous people affected tropical rain forests landscapes?
+           What factors control the diversity of tropical rain forests?
+           How do tropical rain forests affect the climate system? 
+           Is sustainable development possible in SE Asia?
+           What constraints on economic and social development are imposed by the fragile natural environments of SE Asia?
+           How do national-governmental and international policies affect land-use in SE Asia?
+           In a land-use context, what is meant by 'good governance'?
+           What are the causes of land-use change in SE Asia and what is the relationship between land-use change and social and economic development? 
+          
+          GEOG3710: Digital worlds: computer simulation of Earth's dynamic environments
+          
+           What is an environmental model and why do scientists and environmental managers use models?
+           How can models be both wrong and useful?
+           How are models constructed?
+           How are models tested and used both by practitioners (e.g., policy makers) and scientists?
+           What is a numerical experiment and what can it tell us about an environmental system?
+          
+          GEOG3820: Research Placement 
+          This module is mutually exclusive with GEOG3012: New Zealand Research Project and GEOG3520: Workplace Co-operative Project. In this module students undertake a substantial piece of original research on a project put forward by an academic supervisor. Often, the project will be an important part of a wider research programme of the supervisor. Students will be expected to contribute to the design of the project and will gain an in-depth appreciation of how academics ‘do’ research. The module is useful for those considering a career in research through study for a higher degree (MSc or PhD).  
+          GEOG3875: Biogeochemical Cycles: Process to Policy  
+          Global biogeochemical cycles describe the movement of biologically important elements through the Earth System (the combination of atmosphere, oceans, rocks and biota). The processes which govern such cycles are fundamental to all life, and result in a complex series of interactions and feedbacks. This module takes an Earth System Science approach to the study of the global cycling of biologically important elements, such as carbon, nitrogen, and phosphorous. You will learn about the processes governing the movement of these elements, and how to represent them using simple box models and address questions such as:
+          
+           How do biogeochemical cycles combine to control Earth evolution, regulation, and climate?
+           How have humans impacted biogeochemical cycles, and what are the future implications of this?
+          
+          GEOG3885: Ecosystems of the Quaternary 
+          With a focus on the Quaternary period of Earth’s history (the last 2.6 million years), this module uses a palaeoecological approach to address the following questions:
+          
+           How have modern ecosystems come into being?
+           How do plants and animals respond biogeographically to climate change?
+           What effect have Quaternary climate cycles had on the evolution of species and communities?
+           How can we apply this knowledge to managing the ecological consequences of human impact on the environment?
+          
+          Optional modules - one to three modules from the earth science modules listed below:  
+          SOEE2460: Contaminated Land Studies: Integrating Business Skills and Science in Consultancy 
+          SOEE3040: Easter Field Class (Geological Science)
+          
+           How are pure and applied geological concepts used in field situations?
+           What are the main set of skills used by geologists for integration of field observations and synthesis of geological models?
+           How are techniques for understanding the dynamics of formation, cooling, alteration of mid-oceanic ridges, their subsequent emplacement as ophiolites and their unroofing and post-emplacement history applied in a field-based situation?
+          
+          SOEE3091: Advances in Paleontology
+          
+           What is the origin of life and what is its role in controlling Precambrian sedimentary environments?
+           What form do chemosynthetic communities take?
+           What is the form of the enigmatic Ediacaran fauna?
+           How did the Cambrian explosion lead to diversification of life on Earth?
+           What was the cause of the End-Ordovician extinction?
+           How did the evolution of Tertiary floral communities take place and lead to the rise of grasses?
+           What factors led to the rise of the hominids and H. sapiens?
+          
+          SOEE3110: Earth System Science: Biogeochemical Cycles
+          
+           What are the major biogeochemical cycles and how they can be used to understand the Earth System?
+           What are the general principles and science of biogeochemistry in relation to the Earth system?
+           How can changes in biogeochemical cycles (past, present and future) have an affect on the Earth System, and vice versa?
+          
+          SOEE3135: Engineering Geology
+          
+           What is the significance and importance of different rock and soil types, and their characteristics in engineering construction and design?
+           How do geologists determine strength and other index properties of both intact rock, rock masses, single discontinuities and soil?
+           How do geologists undertake geotechnical assessments?
+           How do geologists undertake preliminary design of a Site Investigation?
+           How do geologists provide an engineering description of rocks and soils?
+           How do geologists design slopes and underground openings?
+           How do geologists recognise and understand slope instability in soils and rocks?
+           How do geologists analyse slopes for stability?
+          
+          SOEE3171: Volcanic Processes
+          
+           What are the major types of volcanic eruptions and their products?
+           What are the physical controls on eruptive processes and the transport and deposition of eruption products?
+           What are the commonly used volcano monitoring and hazard assessment techniques?
+           What are the major impacts of volcanic activity on climate?
+          
+          SOEE3281: Physical and Chemical Hydrogeology
+          
+           How does groundwater fit into the hydrological cycle?
+           What characteristics of rocks and soils determine aquifer quality?
+           How do geologists interpret hydrogeological maps?
+           How do geologists find groundwater fluxes in aquifers from hydraulic head data?
+           How can a simple 'water balance' model of an aquifer be used to predict sustainable yields and predict the potential impacts of groundwater abstraction?
+           What are the principles and uses of aquifer pumping tests?
+           How do geologists evaluate the accuracy and completeness of a routine groundwater analysis?
+           How does the chemical composition of natural groundwaters develop?
+           What are the main mineral dissolution reactions giving rise to specific groundwater compositions?
+           How do geologists describe the behaviour of key groundwater contaminants and the major threats to groundwater quality?
+           How do geologists describe the main factors controlling aquifer vulnerability?
+          
+          SOEE3470: Plate Tectonics and Geodynamics 
+          SOEE3500: Basin Dynamics and Petroleum Systems
+          
+           What are the origins of petroleum in the context of the geodynamic evolution, and the burial and thermal histories of sedimentary basins?
+           What are the differing structural, magmatic and heat flow characteristics of continental margins?
+           How do contrasting reservoir styles and hydrocarbon trap opportunities relate to the nature and evolution of the continental margin?
+           How do teams of geologists work together to address petroleum exploration objectives within a quasi-commercial and competitive project to develop a drilling proposal?
+          
+          SOEE3720: Environmental Geology in Northern Ireland
+          
+           How can interpretation techniques benefit from field-based observations in the disciplines of igneous petrology, sedimentary petrology and Quaternary geology?
+           What was the geological development of Northern Ireland?
+           How do geologists embed professional practice in environmental geology?
+           
+           
+          
+          
+         
+         
+        
+        
+       
+       
+      
+      
+      
+      
+       
+        
+        Geology leaning pathway (accredited) 
+         
+          
+          
+           
+          You will study the following compulsory modules:  
+          SOEE3073: Independent Project
+          
+           How do geologists undertake independent field- or laboratory-based research-led studies?
+           How are techniques of geological mapping executed in a field-based situation?
+          
+          SOEE3060: Advanced Sedimentology and its Applications
+          
+           How do complex sedimentary successions arise in response to a range of both intrinsic operating processes and to a range of external controls such as sea-level change, climate change, and tectonic basin development?
+           How do sedimentary successions in a variety of settings form important economic resources including, for example, the site of hydrocarbon reserves?
+           What is the sedimentary response to global stratigraphic cyclicity driven by glacio-eustasy?
+           How can the technique of sequence stratigraphy be applied to account for complex sedimentary successions and their style of accumulation within developing sedimentary basins?
+          
+          Plus SOEE3135, SOEE3281 & one of the fieldtrip modules (SOEE3040 or SOEE3720)  
+          SOEE3040: Easter Field Class (Geological Science)
+          
+           How are pure and applied geological concepts used in field situations?
+           What are the main set of skills used by geologists for integration of field observations and synthesis of geological models?
+           How are techniques for understanding the dynamics of formation, cooling, alteration of mid-oceanic ridges, their subsequent emplacement as ophiolites and their unroofing and post-emplacement history applied in a field-based situation?
+          
+          SOEE3135: Engineering Geology
+          
+           What is the significance and importance of different rock and soil types, and their characteristics in engineering construction and design?
+           How do geologists determine strength and other index properties of both intact rock, rock masses, single discontinuities and soil?
+           How do geologists undertake geotechnical assessments?
+           How do geologists undertake preliminary design of a Site Investigation?
+           How do geologists provide an engineering description of rocks and soils?
+           How do geologists design slopes and underground openings?
+           How do geologists recognise and understand slope instability in soils and rocks?
+           How do geologists analyse slopes for stability?
+          
+          SOEE3281: Physical and Chemical Hydrogeology
+          
+           How does groundwater fit into the hydrological cycle?
+           What characteristics of rocks and soils determine aquifer quality?
+           How do geologists interpret hydrogeological maps?
+           How do geologists find groundwater fluxes in aquifers from hydraulic head data?
+           How can a simple 'water balance' model of an aquifer be used to predict sustainable yields and predict the potential impacts of groundwater abstraction?
+           What are the principles and uses of aquifer pumping tests?
+           How do geologists evaluate the accuracy and completeness of a routine groundwater analysis?
+           How does the chemical composition of natural groundwaters develop?
+           What are the main mineral dissolution reactions giving rise to specific groundwater compositions?
+           How do geologists describe the behaviour of key groundwater contaminants and the major threats to groundwater quality?
+           How do geologists describe the main factors controlling aquifer vulnerability?
+          
+          SOEE3720: Environmental Geology in Northern Ireland
+          
+           How can interpretation techniques benefit from field-based observations in the disciplines of igneous petrology, sedimentary petrology and Quaternary geology?
+           What was the geological development of Northern Ireland?
+           How do geologists embed professional practice in environmental geology?
+          
+          Or the compulsory modules SOEE3060 and SOEE3073 listed above plus:  
+          SOEE3500: Basin Dynamics and Petroleum Systems
+          
+           What are the origins of petroleum in the context of the geodynamic evolution, and the burial and thermal histories of sedimentary basins?
+           What are the differing structural, magmatic and heat flow characteristics of continental margins?
+           How do contrasting reservoir styles and hydrocarbon trap opportunities relate to the nature and evolution of the continental margin?
+           How do teams of geologists work together to address petroleum exploration objectives within a quasi-commercial and competitive project to develop a drilling proposal?
+          
+          SOEE3560: Field Class: Petroleum Reservoir Architectures
+          
+           What are the main events in the geological evolution of the North Sea Basin, with particular reference to its hydrocarbon potential?
+           How are geological features observed across a range of scales, from seismic cross-sections to geophysical log data and to outcrop related?
+           What are the main roles and interactions of geoscientists and petroleum engineers in developing a static reservoir model?
+           What are the methods, nomenclature and parameters which are used to characterise source rock potential and the reservoir properties of rocks from outcrop and log data?
+           How do primary depositional architectures and secondary diagenetic features, and faults and fractures influence fluid flow in hydrocarbon reservoir and aquifer analogues?
+           What are the uncertainties in geological data analysis and in the modelling process with respect to a static reservoir model?
+          
+          Optional modules - students are required to study zero to one module from the Earth Science options listed below:  
+          SOEE2460: Contaminated Land Studies: Integrating Business Skills and Science in Consultancy 
+          SOEE3091: Advances in Paleontology
+          
+           What is the origin of life and what is its role in controlling Precambrian sedimentary environments?
+           What form do chemosynthetic communities take?
+           What is the form of the enigmatic Ediacaran fauna?
+           How did the Cambrian explosion lead to diversification of life on Earth?
+           What was the cause of the End-Ordovician extinction?
+           How did the evolution of Tertiary floral communities take place and lead to the rise of grasses?
+           What factors led to the rise of the hominids and H. sapiens?
+          
+          SOEE3110: Earth System Science: Biogeochemical Cycles
+          
+           What are the major biogeochemical cycles and how they can be used to understand the Earth System?
+           What are the general principles and science of biogeochemistry in relation to the Earth system?
+           How can changes in biogeochemical cycles (past, present and future) have an affect on the Earth System, and vice versa?
+          
+          SOEE3135: Engineering Geology
+          
+           What is the significance and importance of different rock and soil types, and their characteristics in engineering construction and design?
+           How do geologists determine strength and other index properties of both intact rock, rock masses, single discontinuities and soil?
+           How do geologists undertake geotechnical assessments?
+           How do geologists undertake preliminary design of a Site Investigation?
+           How do geologists provide an engineering description of rocks and soils?
+           How do geologists design slopes and underground openings?
+           How do geologists recognise and understand slope instability in soils and rocks?
+           How do geologists analyse slopes for stability?
+          
+          SOEE3171: Volcanic Processes
+          
+           What are the major types of volcanic eruptions and their products?
+           What are the physical controls on eruptive processes and the transport and deposition of eruption products?
+           What are the commonly used volcano monitoring and hazard assessment techniques?
+           What are the major impacts of volcanic activity on climate?
+          
+          SOEE3281: Physical and Chemical Hydrogeology
+          
+           How does groundwater fit into the hydrological cycle?
+           What characteristics of rocks and soils determine aquifer quality?
+           How do geologists interpret hydrogeological maps?
+           How do geologists find groundwater fluxes in aquifers from hydraulic head data?
+           How can a simple 'water balance' model of an aquifer be used to predict sustainable yields and predict the potential impacts of groundwater abstraction?
+           What are the principles and uses of aquifer pumping tests?
+           How do geologists evaluate the accuracy and completeness of a routine groundwater analysis?
+           How does the chemical composition of natural groundwaters develop?
+           What are the main mineral dissolution reactions giving rise to specific groundwater compositions?
+           How do geologists describe the behaviour of key groundwater contaminants and the major threats to groundwater quality?
+           How do geologists describe the main factors controlling aquifer vulnerability?
+          
+          SOEE3470: Plate Techtonics and Geodynamics 
+          Optional modules - students are required to study two modules from the Geography options listed below:  
+          GEOG3065: Water Science and Management
+          
+           How do the natural dynamics of river systems influence their morphology, flows, water quality and biological communities? 
+           What are the most serious issues requiring the management of rivers and their catchments?
+           How can hydrological and geomorphological alterations benefit river ecosystems by improving water quality?
+           What are the approaches to managing water sustainably, both in an environmental context and within water supply/treatment networks?
+           How do key water policies and legislation impact on the management of our rivers?
+          
+          GEOG3180: Management of Wilderness and Global Ecosystems
+          
+           What are wildernesses and why should we protect them?
+           How is the idea of wilderness linked to the rise of the 'environmental movement'?
+           Why is wilderness an essential component of the ecosystem services model?
+           How can GIS be used to identify, map and manage wilderness landscapes?
+           What is rewilding and why should we create more wilderness?
+           How does wilderness feature in world conservation policy?
+          
+          GEOG3440: Environment, Conflict and Policy
+          
+           What are the key principles underlying policies aimed at solving environmental conflicts?
+           What is the fundamental science underlying the application of these key principles?
+           How do actual environmental disputes develop and how can contrasting viewpoints of different stakeholders be reconciled?
+           When does the politics of policy sometimes override science?
+           How can negotiation skills be used in practise to manage debates on environmental conflict?
+          
+          GEOG3520: Workplace Co-operative Project 
+          This module is mutually exclusive with GEOG3820: Research Placement. The module provides students with an opportunity to:
+          
+           Work in collaboration with an outside organisation on a project that is of use to the organisation and suitable as an advanced component of a degree in Geography.
+           Design, negotiate, record and manage their work in cooperation with an academic supervisor and a member of staff from the outside organisation.
+          
+          GEOG3690: Tropical forests and sustainable development
+          
+           How resilient have tropical rain forests been to environmental change during geological history?
+           What is the role of glacial ‘refugia’ in shaping current tropical rain forest communities?
+           How have indigenous people affected tropical rain forests landscapes?
+           What factors control the diversity of tropical rain forests?
+           How do tropical rain forests affect the climate system? 
+           Is sustainable development possible in SE Asia?
+           What constraints on economic and social development are imposed by the fragile natural environments of SE Asia?
+           How do national-governmental and international policies affect land-use in SE Asia?
+           In a land-use context, what is meant by 'good governance'?
+           What are the causes of land-use change in SE Asia and what is the relationship between land-use change and social and economic development? 
+          
+          GEOG3710: Digital worlds: computer simulation of Earth's dynamic environments
+          
+           What is an environmental model and why do scientists and environmental managers use models?
+           How can models be both wrong and useful?
+           How are models constructed?
+           How are models tested and used both by practitioners (e.g., policy makers) and scientists?
+           What is a numerical experiment and what can it tell us about an environmental system?
+          
+          GEOG3820: Research Placement 
+          This module is mutually exclusive with GEOG3012: New Zealand Research Project and GEOG3520: Workplace Co-operative Project. In this module students undertake a substantial piece of original research on a project put forward by an academic supervisor. Often, the project will be an important part of a wider research programme of the supervisor. Students will be expected to contribute to the design of the project and will gain an in-depth appreciation of how academics ‘do’ research. The module is useful for those considering a career in research through study for a higher degree (MSc or PhD).  
+          GEOG3875: Biogeochemical Cycles: Process to Policy  
+          Global biogeochemical cycles describe the movement of biologically important elements through the Earth System (the combination of atmosphere, oceans, rocks and biota). The processes which govern such cycles are fundamental to all life, and result in a complex series of interactions and feedbacks. This module takes an Earth System Science approach to the study of the global cycling of biologically important elements, such as carbon, nitrogen, and phosphorous. You will learn about the processes governing the movement of these elements, and how to represent them using simple box models and address questions such as:
+          
+           How do biogeochemical cycles combine to control Earth evolution, regulation, and climate?
+           How have humans impacted biogeochemical cycles, and what are the future implications of this?
+          
+          GEOG3885: Ecosystems of the Quaternary 
+          With a focus on the Quaternary period of Earth’s history (the last 2.6 million years), this module uses a palaeoecological approach to address the following questions:
+          
+           How have modern ecosystems come into being?
+           How do plants and animals respond biogeographically to climate change?
+           What effect have Quaternary climate cycles had on the evolution of species and communities?
+           How can we apply this knowledge to managing the ecological consequences of human impact on the environment?
