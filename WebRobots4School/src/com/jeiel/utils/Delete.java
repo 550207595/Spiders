@@ -13,7 +13,7 @@ import net.sf.json.JSONObject;
 
 public class Delete {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
-	private static int index=129;
+	private static int index=486;
 	private static String SCHOOL_NAME = "";
 	/**
 	 * @param args
@@ -23,7 +23,7 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=129;){//indexΪ��ҳ����ʾ��id��
+		for(;index<=811;){//indexΪ��ҳ����ʾ��id��
 			
 			delete(postUrl,index);
 		}
@@ -38,7 +38,7 @@ public class Delete {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "connect.sid=s%3Ak_EsACf4d24EqxOtqhkZw0zQDwbPwYJm.YLYbkVneI2CjOVYVETkOApSsxUdrzmn1zeTxHeMJ1Ls; CNZZDATA1256122972=254321286-1441087693-%7C1448240003");
+	    connection.setRequestProperty("Cookie", "connect.sid=s%3AEtuM0YMHHXqQtadxgkbCMnIPNykXXK5l.XUstBnq2i6fjLqp6xh7x%2FiWd7%2FPFeTm%2FHfzCMk6zu00; CNZZDATA1256122972=254321286-1441087693-%7C1450313372");
 	    connection.connect();
 	    return connection;
 	}

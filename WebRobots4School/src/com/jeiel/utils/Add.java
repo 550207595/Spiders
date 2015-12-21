@@ -1,33 +1,25 @@
 package com.jeiel.utils;
 
 import java.io.BufferedReader;
-import java.io.DataOutputStream;
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
-import java.io.Writer;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Scanner;
 
 import com.jeiel.entity.Major;
 
-import net.sf.json.JSON;
 import net.sf.json.JSONObject;
-import net.sf.json.util.JSONStringer;
 
 public class Add {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
-	public static String SCHOOL_NAME = "";
+	public static String SCHOOL_NAME = "";//read from modified excel
 	public static String LEVEL="";//ug,pgt
+	public static String filepath="gen_data_"+SCHOOL_NAME+"_"+LEVEL+"_modified.xls";
 	private static int index=1;//web id start from 1
 	/**
 	 * @param args
@@ -39,10 +31,10 @@ public class Add {
 			System.out.println("work start");
 			List<Major> list=POIReadAndPost.getData();
 			for(;index<=list.size();){
-				if(index<=211){
+				/*if(index<=211){
 					index++;
 					continue;
-				}
+				}*/
 				add(postUrl,list.get(index-1));
 			}
 			System.out.println("work done");
@@ -63,7 +55,7 @@ public class Add {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "connect.sid=s%3AwPq_spZ1efyHGfhmD6P9gHcD925HEdSe.YLiDOc%2Br8ECkDGKqbTJXwlW8IqytwvRNQhoAeeyn2%2FE; CNZZDATA1256122972=254321286-1441087693-%7C1448504041");
+	    connection.setRequestProperty("Cookie", "connect.sid=s%3AEtuM0YMHHXqQtadxgkbCMnIPNykXXK5l.XUstBnq2i6fjLqp6xh7x%2FiWd7%2FPFeTm%2FHfzCMk6zu00; CNZZDATA1256122972=254321286-1441087693-%7C1450313372");
 	    connection.connect();
 	    return connection;
 	}

@@ -22,7 +22,7 @@ import java.util.*;
 
 public class POIReadAndPost {
 	//public static String filepath="gen_data_Nottingham_pgt.xls";
-	public static String filepath="gen_data_"+Add.SCHOOL_NAME+"_"+Add.LEVEL+".xls";
+	public static String filepath=Add.filepath;
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -137,6 +137,7 @@ public class POIReadAndPost {
 					line.trim().toLowerCase().equals("semester 1")||line.trim().toLowerCase().equals("semester 2")||line.trim().toLowerCase().equals("semester 3")||line.trim().toLowerCase().equals("semester 4")||line.trim().toLowerCase().equals("semester 5")||
 					line.trim().toLowerCase().equals("semester 6")||line.trim().toLowerCase().equals("semester 7")||line.trim().toLowerCase().equals("semester 8")||line.trim().toLowerCase().equals("semester 9")||line.trim().toLowerCase().equals("semester 10")||
 					line.trim().toLowerCase().equals("year 1")||line.trim().toLowerCase().equals("year 2")||line.trim().toLowerCase().equals("year 3")||line.trim().toLowerCase().equals("year 4")||line.trim().toLowerCase().equals("year 5")||line.trim().toLowerCase().equals("final year")||//Final Year
+					line.trim().toLowerCase().equals("year one")||line.trim().toLowerCase().equals("year two")||line.trim().toLowerCase().equals("year three")||line.trim().toLowerCase().equals("year four")||line.trim().toLowerCase().equals("year five")||
 					line.trim().toLowerCase().equals("typical year one modules")||line.trim().toLowerCase().equals("typical year two modules")||line.trim().toLowerCase().equals("typical year three modules")||line.trim().toLowerCase().equals("typical year four modules")||line.trim().toLowerCase().equals("typical year five modules"))
 
 			{
