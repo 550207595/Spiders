@@ -1,4 +1,4 @@
-package com.jeiel.adelaide;
+package com.jeiel.sydney;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -42,7 +42,7 @@ public class Postgraduate {
 	public static void main(String[] args) {
 		long startTimeInMillis = Calendar.getInstance().getTimeInMillis();
 		try {
-			initMajorList("http://www.adelaide.edu.au/degree-finder/?v__s=&search=Search&m=view&dsn=program.source_program&adv_avail_comm=1&adv_acad_career=3&adv_degree_type=0&adv_atar=0&year=2016&adv_subject=0&adv_career=0&adv_campus=0");
+			initMajorList("http://sydney.edu.au/courses/a-z/postgrad-coursework/");
 			//initMajorListWithData();
 			System.out.println("start");
 			ExecutorService pool=Executors.newCachedThreadPool();
@@ -58,7 +58,6 @@ public class Postgraduate {
 					}
 				};
 				pool.execute(r);
-				
 			}
 			pool.shutdown();
 			pool.awaitTermination(10, TimeUnit.MINUTES);
@@ -103,30 +102,37 @@ public class Postgraduate {
 		
 		System.out.println("preparing majorList");
 		
-		boolean finish = false;
-		do{
-			try {
-				majorList.clear();
-				Connection conn=Jsoup.connect(originalUrl);
-				Document doc=conn.timeout(10000).get();
-				Elements es=doc.select("div.ui-widget-search-results > ul > li > a");
-				String baseUrl = "http://www.adelaide.edu.au";
-				for(Element e:es){//major
-					MajorForCollection major = new MajorForCollection();
-					major.setLevel(LEVEL);
-					major.setTitle(e.text().trim());
-					major.setUrl(baseUrl + e.attr("href"));
-					majorList.add(major);
-				}
-				finish=true;
-			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+		majorList.clear();
+		Document doc = null;
+		for(int i = 65; i <= 90; i++){
+			doc = getDocument(originalUrl+(char)i,0);
+			Elements es=doc.select("ul.result-set a");
+			String baseUrl = "http://sydney.edu.au";
+			for(Element e:es){//major
+				MajorForCollection major = new MajorForCollection();
+				major.setLevel(LEVEL);
+				major.setTitle(e.text().trim());
+				major.setUrl(baseUrl + e.attr("href"));
+				majorList.add(major);
 			}
-		}while(!finish);
+		}
+		
 		
 		System.out.println("majorList prepared");
 		System.out.println("majorList size: "+majorList.size());
+	}
+	
+	public static Document getDocument(String url, int ms){
+		while(true){
+			Connection conn = Jsoup.connect(url);
+			try {
+				Document doc = conn.timeout(ms>0?ms:10000).get();
+				return doc;
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
 	}
 	
 
@@ -183,34 +189,38 @@ public class Postgraduate {
 		Document doc=conn.timeout(10000).followRedirects(true).get();
 		Element e = null;
 		
-		if(doc.select("div.detail-glance-degree-type > p > span.df-glance-info").size()>0){
-			e=doc.select("div.detail-glance-degree-type > p > span.df-glance-info").get(0);
-			major.setType(e.text());
+		if(doc.select("div.tab-content").size()>0){
+			e=doc.select("div.tab-content").last().select("p.message").size()==0?
+					doc.select("div.tab-content").last():doc.select("div.tab-content").first();
+			for(Element p : e.select("p")){
+				if(p.text().toLowerCase().contains("duration")){
+					major.setLength(getLength(p.text()));
+				}else if(p.text().toLowerCase().contains("fees")){
+					major.setTuitionFee(getFee(p.text()));
+				}else if(p.text().toLowerCase().contains("english language")){
+					getIELTS(p.text(), major);
+				}else if(p.text().toLowerCase().contains("commencing")){
+					major.setMonthOfEntry(getMonthOfEntry(p.text()));
+				}else if(p.text().toLowerCase().contains("faculty")){
+					major.setSchool(p.select("a").text());
+				}
+			}
 		}
-		
-		if(doc.select("div.detail-glance-duration > p > span.df-glance-info").size()>0){
-			e=doc.select("div.detail-glance-duration > p > span.df-glance-info").get(0);
-			major.setLength(getLength(e.text()));
+
+//		if(doc.select("#international_applicant > table").size()>0){
+//			e=doc.select("#international_applicant > table").get(0);
+//			major.setAcademicRequirements(e.text());
+//		}
+
+		for(Element div:doc.select("div.block.majors")){
+			if(div.text().contains("Study plan")){
+				major.setStructure(replaceSpecialCharacter(html2Str(div.outerHtml())).trim());
+				
+			}else if(div.text().contains("Admission requirements")){
+				major.setAcademicRequirements(replaceSpecialCharacter(div.text()));
+			}
+			
 		}
-		
-		if(doc.select("#international_applicant").size()>0){
-			e=doc.select("#gen_data_Adelaide_ug_modified.xls").get(0);
-			getIELTS(e.text().replace("IELTS Overall 6", "IELTS Overall 6.0").replace("IELTS Overall 7", "IELTS Overall 7.0"), major);
-		}
-		
-		if(doc.select("#international_applicant > table").size()>0){
-			e=doc.select("#international_applicant > table").get(0);
-			major.setAcademicRequirements(e.text());
-		}
-		
-		if(doc.select("#studyplan").size()>0){
-			e=doc.select("#studyplan").get(0).parent();
-			major.setStructure(replaceSpecialCharacter(html2Str(e.text().trim())));
-		}
-		
-		
-		major.setTuitionFee(getFee(major.getAcademicRequirements()));
-		
 		mark(major, true);
 	}
 
@@ -465,6 +475,8 @@ public class Postgraduate {
 			month = "1";
 		}else if(content.toLowerCase().contains("february")){
 			month = "2";
+		}else if(content.toLowerCase().contains("march")){
+			month = "3";
 		}
 		return month;
 	}
