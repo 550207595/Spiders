@@ -195,14 +195,14 @@ public class Postgraduate {
 			for(Element p : e.select("p")){
 				if(p.text().toLowerCase().contains("duration")){
 					major.setLength(getLength(p.text()));
-				}else if(p.text().toLowerCase().contains("fees")){
+				}else if(p.text().toLowerCase().contains("fee")){
 					major.setTuitionFee(getFee(p.text()));
 				}else if(p.text().toLowerCase().contains("english language")){
 					getIELTS(p.text(), major);
 				}else if(p.text().toLowerCase().contains("commencing")){
 					major.setMonthOfEntry(getMonthOfEntry(p.text()));
 				}else if(p.text().toLowerCase().contains("faculty")){
-					major.setSchool(p.select("a").text());
+					major.setSchool(p.text().split(":")[1].trim());
 				}
 			}
 		}
@@ -213,11 +213,12 @@ public class Postgraduate {
 //		}
 
 		for(Element div:doc.select("div.block.majors")){
-			if(div.text().contains("Study plan")){
+			if(div.text().contains("Study plan")||div.text().contains("Structure")){
 				major.setStructure(replaceSpecialCharacter(html2Str(div.outerHtml())).trim());
-				
 			}else if(div.text().contains("Admission requirements")){
 				major.setAcademicRequirements(replaceSpecialCharacter(div.text()));
+			}else if(div.select("a").size()>0&&div.text().contains("Unit of study")){
+				major.setStructure(div.select("a").get(0).attr("href"));
 			}
 			
 		}

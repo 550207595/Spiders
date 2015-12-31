@@ -215,9 +215,11 @@ public class Undergraduate {
 		for(Element div:doc.select("div.block.majors")){
 			if(div.text().contains("Study plan")){
 				major.setStructure(replaceSpecialCharacter(html2Str(div.outerHtml())).trim());
-				
+				major.setStructure(major.getStructure().substring(major.getStructure().indexOf("Study plan")));
 			}else if(div.text().contains("Admission requirements")){
 				major.setAcademicRequirements(replaceSpecialCharacter(div.text()));
+			}else if(div.select("a").size()>0&&div.text().contains("Unit of study")){
+				major.setStructure(div.select("a").get(0).attr("href"));
 			}
 			
 		}
