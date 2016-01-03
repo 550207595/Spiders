@@ -44,7 +44,7 @@ public class Undergraduate {
 		try {
 			initMajorList("http://www.study.monash/courses/find-a-course?domestic=true");
 			//initMajorListWithData();
-			/*System.out.println("start");
+			System.out.println("start");
 			ExecutorService pool=Executors.newCachedThreadPool();
 			for(int i=0;i<MAX_THREAD_AMOUNT;i++){
 				Runnable r = new Runnable() {
@@ -62,7 +62,7 @@ public class Undergraduate {
 			}
 			pool.shutdown();
 			pool.awaitTermination(10, TimeUnit.MINUTES);
-			System.out.println("finish");*/
+			System.out.println("finish");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -183,33 +183,61 @@ public class Undergraduate {
 		Document doc=conn.timeout(10000).followRedirects(true).get();
 		Element e = null;
 		
-		if(doc.select("div.detail-glance-degree-type > p > span.df-glance-info").size()>0){
-			e=doc.select("div.detail-glance-degree-type > p > span.df-glance-info").get(0);
-			major.setType(e.text());
+		if(doc.select("table.course-page__table-basic").size()>0){
+			e=doc.select("table.course-page__table-basic").get(0);
+			for(Element tr : e.select("tr")){
+				if(tr.text().contains("Duration")){
+					major.setLength(getLength(e.text()));
+				}else if(tr.text().contains("Start date")){
+					major.setMonthOfEntry(getMonthOfEntry(e.text()));
+				}
+			}
+			
 		}
 		
-		if(doc.select("div.detail-glance-duration > p > span.df-glance-info").size()>0){
-			e=doc.select("div.detail-glance-duration > p > span.df-glance-info").get(0);
-			major.setLength(getLength(e.text()));
+		if(doc.select("div.course-page.row a").size()>0){
+			e = doc.select("div.course-page.row a").last();
+			major.setSchool(e.attr("href"));
+			if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/design-and-architecture")){
+				major.setSchool("Monash Art Design & Architecture");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/business-and-economics")){
+				major.setSchool("Monash Business School");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/arts")){
+				major.setSchool("Faculty of Arts, Monash University");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/science")){
+				major.setSchool("Faculty of Science");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/medicine")){
+				major.setSchool("Faculty of Medicine, Nursing and Health Sciences");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/education")){
+				major.setSchool("Faculty of Education - Faculty of Education");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/engineering")){
+				major.setSchool("Faculty of Engineering, Monash University");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/information-technology")){
+				major.setSchool("Faculty of Information Technology - Monash University");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/pharmacy")){
+				major.setSchool("Faculty of Pharmacy and Pharmaceutical Sciences");
+			}else if(major.getSchool().equals("http://www.study.monash/media/links/faculty-websites/law")){
+				major.setSchool("Faculty of Law");
+			}
 		}
 		
-		if(doc.select("#international_applicant").size()>0){
-			e=doc.select("#international_applicant").get(0);
-			getIELTS(e.text().replace("IELTS Overall 6", "IELTS Overall 6.0").replace("IELTS Overall 7", "IELTS Overall 7.0"), major);
-		}
+//		if(doc.select("#international_applicant").size()>0){
+//			e=doc.select("#international_applicant").get(0);
+//			getIELTS(e.text().replace("IELTS Overall 6", "IELTS Overall 6.0").replace("IELTS Overall 7", "IELTS Overall 7.0"), major);
+//		}
 		
-		if(doc.select("#international_applicant > table").size()>0){
-			e=doc.select("#international_applicant > table").get(0);
-			major.setAcademicRequirements(e.text());
-		}
+//		if(doc.select("#international_applicant > table").size()>0){
+//			e=doc.select("#international_applicant > table").get(0);
+//			major.setAcademicRequirements(e.text());
+//		}
 		
-		if(doc.select("#studyplan").size()>0){
-			e=doc.select("#studyplan").get(0).parent();
-			major.setStructure(replaceSpecialCharacter(html2Str(e.text().trim())));
-		}
+//		if(doc.select("#studyplan").size()>0){
+//			e=doc.select("#studyplan").get(0).parent();
+//			major.setStructure(replaceSpecialCharacter(html2Str(e.text().trim())));
+//		}
 		
 		
-		major.setTuitionFee(getFee(major.getAcademicRequirements()));
+//		major.setTuitionFee(getFee(major.getAcademicRequirements()));
 		
 		mark(major, true);
 	}
