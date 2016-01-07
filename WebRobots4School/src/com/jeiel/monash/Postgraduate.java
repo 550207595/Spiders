@@ -20,7 +20,7 @@ import com.jeiel.utils.ExcelGenerator;
 import com.jeiel.utils.WebUtils;
 
 
-public class Undergraduate {
+public class Postgraduate {
 	public static final int MAX_THREAD_AMOUNT = 60;
 	public static List<MajorForCollection> majorList=new ArrayList<MajorForCollection>();
 	
@@ -110,14 +110,13 @@ public class Undergraduate {
 				majorList.clear();
 				Connection conn=Jsoup.connect(originalUrl);
 				Document doc=conn.timeout(10000).get();
-				Elements es=doc.select("#accordion__target-1 > div.course-listing__box > a, #accordion__target-2 > div.course-listing__box > a");
+				Elements es=doc.select("#accordion__target-3 > div.course-listing__box > a");
 				for(Element e:es){//major
 					MajorForCollection major = new MajorForCollection();
 					major.setLevel(LEVEL);
 					major.setTitle(e.select("h3").get(0).text().trim());
 					major.setType(e.select("p").get(0).text().replaceAll("-[\\s\\S]*", "").trim());
 					major.setUrl(e.select("a").get(0).attr("href"));
-					//major.setApplicationFee(major.getUrl().substring(major.getUrl().lastIndexOf("-") + 1, major.getUrl().lastIndexOf("?")).toUpperCase());
 					majorList.add(major);
 				};
 				finish=true;
@@ -242,7 +241,8 @@ public class Undergraduate {
 			major.setTuitionFee(e.nextElementSibling().text());
 		}
 		
-		if(!major.getApplicationFee().equals("http://www.monash.edu.au/pubs/handbooks/courses/B3701.html")){
+		if(!major.getApplicationFee().equals("http://www.monash.edu.au/pubs/handbooks/courses/A6015.html")&&
+				!major.getApplicationFee().equals("http://www.monash.edu.au/pubs/handbooks/courses/2276.html")){
 			doc = WebUtils.getDocument(major.getApplicationFee(), WebUtils.METHOD_GET, 10*1000);
 			if(doc.select("h2.black.pub_heading:containsOwn(Requirements) + div.pub_body_text").size()>0){
 				e = doc.select("h2.black.pub_heading:containsOwn(Requirements) + div.pub_body_text").get(0);

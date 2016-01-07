@@ -6,6 +6,8 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.ObjectInputStream.GetField;
 
+import org.jsoup.nodes.Document;
+
 public class Test {
 	public static final String SCHOOL_NAME;
 	public static final String LEVEL;
@@ -44,6 +46,8 @@ public class Test {
 		
 		System.out.println(SCHOOL_NAME);
 		System.out.println(LEVEL);
+		Document doc = WebUtils.getDocument("http://www.monash.edu.au/pubs/handbooks/courses/F2001.html", 1, 5*1000);
+		System.out.println(doc.select("h2.black.pub_heading:containsOwn(Requirements) + div.pub_body_text").outerHtml());
 	}
 
 }
