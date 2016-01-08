@@ -1,0 +1,326 @@
+Level 1
+    Take the following unit:
+    Availability 
+    Unit code 
+    Unit name  
+    Unit rules 
+    S2 
+    SCIE1106 
+    Molecular Biology of the Cell 
+    Prerequisites: ANHB1102 Human Biology II: Being Human or BIOL1130 Frontiers in Biology (formerly BIOL1130 Core Concepts in Biology); or ANHB1101 Human Biology I: Becoming Human; or WACE Biology 3A/3B; or WACE Human Biology 3A/3B; or TEE Biology or TEE Human Biology and WACE Chemistry 3A/3B; or TEE Chemistry or a Level 1 Chemistry unit. Students who have not completed BIOL1130 Frontiers in Biology; or ANHB1101 Human Biology I: Becoming Human are advised to contact the unit coordinator.Incompatibility: SCIE2225 Molecular Biology passed in or before 2004 
+    Take unit(s) to the value of 6 points:
+    Availability 
+    Unit code 
+    Unit name  
+    Unit rules 
+    S1 
+    ANHB1101 
+    Human Biology I: Becoming Human 
+    None 
+    S2 
+    ANHB1102 
+    Human Biology II: Being Human 
+    None 
+    Take all complementary units (12 points):
+    Availability 
+    Unit code 
+    Unit name  
+    Unit rules 
+    S2 
+    CHEM1004 
+    Biological Chemistry 
+    Prerequisites: WACE Chemistry 3A/3B or TEE Chemistry or CHEM1003 Introductory Chemistry or equivalent 
+    S1 
+    SCOM1101 
+    Introduction to Scientific Practices 
+    Prerequisites: WACE Mathematics 2C/2D or TEE Discrete Mathematics or equivalent or higherCo-requisites: MATH1720 Mathematics FundamentalsIncompatibility: SCIE1103 Science, Society and Communication 
+Level 2
+    Take all units (24 points):
+    Availability 
+    Unit code 
+    Unit name  
+    Unit rules 
+    S1 
+    ANHB2212 
+    Human Structure and Development 
+    Prerequisites: six points of ANHB1101 Human Biology I: Becoming Human; ANHB1102 Human Biology II: Being Human; BIOL1130 Frontiers in Biology (formerly BIOL1130 Core Concepts in Biology); BIOL1131 Plant and Animal Biology; SCIE1106 Molecular Biology of the Cell; SSEH1101 The Musculoskeletal System and Movement (formerly SSEH1101 Human Movement 1); or SSEH1102 Human Structure and Athletic Performance (formerly SSEH1102 Human Movement 2) Students who have not passed BOTH ANHB1101 and ANHB1102 must take a prescribed reading list available from the unit coordinator and on LMS. 
+    S1 
+    BIOC2001 
+    Biochemistry and Molecular Biology of the Cell 
+    Prerequisites: SCIE1106 Molecular Biology of the Cell and (CHEM1004 Biological Chemistry or CHEM1002 Chemistry—Structure and Reactivity)Incompatibility: BIOC2203 Biochemistry and Molecular Biology of the Cell, BIOC2201 Biochemistry of the Cell, SCIE2225 Molecular Biology 
+    S2 
+    MICR2209 
+    Introduction to Infectious Diseases and Immunology 
+    Prerequisites: SCIE1106 Molecular Biology of the Cell and one of BIOL1130 Frontiers in Biology (formerly BIOL1130 Core Concepts in Biology); ANHB1101 Human Biology I: Becoming Human; ANHB1102 Human Biology II: Being HumanIncompatibility: for pre-2012 courses: MICR2205 General and Applied Microbiology 
+    S1 
+    PHAR2210 
+    Foundations of Pharmacology 
+    Prerequisites: (CHEM1002 Chemistry—Structure and Reactivity; or CHEM1004 Biological Chemistry); and SCIE1106 Molecular Biology of the Cell 
+    Take all complementary units (12 points):
+    Availability 
+    Unit code 
+    Unit name  
+    Unit rules 
+    S2 
+    PATH2220 
+    Introduction to Human Disease 
+    Prerequisites: six points of ANHB1101 Human Biology I: Becoming Human; ANHB1102 Human Biology II: Being Human; BIOL1130 Frontiers in Biology (formerly BIOL1130 Core Concepts in Biology); BIOL1131 Plant and Animal Biology; SCIE1106 Molecular Biology of the CellIncompatibility: PATH2201 Introduction to Human Disease, or PATH2299 Special Unit: Fundamentals of Pathology and Laboratory Medicine 
+    S1 
+    PHYL2001 
+    Physiology of Human Body Systems 
+    Incompatibility: PHYL2255 Physiology of Human Body Systems 
+Level 3
+  Anatomy and Human Biology specialisation 
+      Take all units (24 points):
+      Availability 
+      Unit code 
+      Unit name  
+      Unit rules 
+      S1 
+      BIOC3004 
+      Biochemistry in Health and Disease 
+      Prerequisites: MICR2209 Introduction to Infectious Diseases and Immunology and (BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell)Incompatibility: BIOC3001 Molecular Biology, BIOC3002 Structural and Functional Biochemistry, BIOC3003 Omics—Global Approaches to Cell Function, BIOC3005 Cellular Biochemistry, PHCY3302 Nutrition, Health and Drug Development 
+      S2 
+      MICR3350 
+      Advanced Infectious Diseases 
+      Prerequisites: MICR2209 Introduction to Infectious Diseases and Immunology; and Biomedical Science major Level 2 unitsIncompatibility: MICR3310 Applied and Environmental Microbiology, MICR3320 Viruses and Viral Disease, MICR3330 Bacteria and Bacterial Disease, MICR3340 Immunity and Infection, MICR3302 Infection and Immunity, MICR3301 General Microbiology 
+      S2 
+      PATH3304 
+      Drugs and Disease B 
+      Prerequisites: Biomedical Science major Level 2 unitsIncompatibility: PHAR2220 Human Pharmacology, PHAR3310 Molecular Pharmacology, PHAR3311 Molecular Pharmacology Methods, PHAR3320 Systems Pharmacology, PATH3306 Integrated and Applied Pathology, PATH3302 Pathology: Human Oncobiology, PATH3305 Medical Genetics, PATH3354 Immunology and Immunopathology, PATH3308 Pathology and Laboratory Medicine II. 
+      S1 
+      PHAR3303 
+      Drugs and Disease A 
+      Prerequisites: SCOM1101 Introduction to Scientific Practices, ANHB2212 Human Structure and Development, PHAR2210 Foundations of Pharmacology, PHYL2001 Physiology of Human Body Systems, MICR2209 Introduction to Infectious Diseases and Immunology, BIOC2203 Biochemistry and Molecular Biology of the Cell, PATH2201 Introduction to Human DiseaseIncompatibility: PHAR2220 Systems Pharmacology, PHAR2230 Systems Pharmacology, PHAR3310 Molecular Pharmacology, PHAR3311 Molecular Pharmacology Methods, PHAR3320 Systems Pharmacology, PATH3303 Advanced Pathology and Laboratory Medicine, PATH3306 Integrated and Applied Pathology, PATH3302 Pathology: Human Oncobiology, PATH3305 Medical Genetics, PATH3311 Biotherapeutics and Regenerative Medicine, PATH3354 Immunology and Immunopathology 
+      Take unit(s) to the value of 6 points:
+      Availability 
+      Unit code 
+      Unit name  
+      Unit rules 
+      S1 
+      ANHB3310 
+      Human Biology: Applications and Investigations I 
+      Co-requisites: ANHB3321 Biological Anthropology: Genes and Society or ANHB3324 Human Structure and FunctionIncompatibility: ANHB3320 Human Biology: Applications and Investigations II 
+      S2 
+      ANHB3320 
+      Human Biology: Applications and Investigations II 
+      Co-requisites: ANHB3315 Human Evolutionary Ecology or ANHB3316 Human ReproductionIncompatibility: ANHB3310 Human Biology: Applications and Investigations I 
+      Take unit(s) to the value of 18 points:
+      Availability 
+      Unit code 
+      Unit name  
+      Unit rules 
+      N/A 
+      ANHB3315 
+      Human Evolutionary Ecology 
+      Prerequisites: at least 66 points of credit 
+      S2 
+      ANHB3316 
+      Human Reproduction 
+      Prerequisites: ANHB2216 Human Reproductive Biology or two of (ANHB2212 Human Structure and Development, ANHB2214 Human Organs and Systems, ANHB2215 Biological Anthropology: Human Adaptation and Variation) or [ANHB2212 Human Structure and Development and two of (PHYL2001 Physiology of Human Body Systems, BIOC2203 Biochemistry and Molecular Biology of the Cell, BIOC2001 Biochemistry and Molecular Biology of the Cell, MICR2209 Introduction to Infectious Diseases and Immunology, PATH2201 Introduction to Human Disease, PATH2220 Introduction to Human Disease, PHAR2210 Foundations of Pharmacology)] 
+      S1 
+      ANHB3321 
+      Biological Anthropology: Genes and Society 
+      Incompatibility: ANHB3311 Biological Anthropology 
+      S2 
+      ANHB3322 
+      Human/Primate Social Organisation 
+      Prerequisites: at least 66 points of credit in a bachelor's degree 
+      N/A 
+      ANHB3323 
+      Cells, Tissues and Development 
+      Incompatibility: ANHB3313 Cell and Tissue Organisation 
+      S1 
+      ANHB3324 
+      Human Structure and Function 
+      Prerequisites: ANHB2212 Human Structure and Development or (SSEH1101 The Musculoskeletal System and Movement and either ANHB1101 Human Biology I: Becoming Human or ANHB1102 Human Biology II: Being Human after completion of 96 points)Incompatibility: ANHB3304 Human Functional Morphology 
+  Biochemistry and Molecular Biology specialisation 
+      Take all units (48 points):
+      Availability 
+      Unit code 
+      Unit name  
+      Unit rules 
+      S1 
+      ANHB3328 
+      Communication Systems in the Human Body 
+      Prerequisites: ANHB2212 Human Structure and Development and PHYL2001 Physiology of Human Body SystemsIncompatibility: ANHB3310 Human Biology: Applications and Investigations I; ANHB3315 Human Evolutionary Ecology; ANHB3316 Human Reproduction; ANHB3320 Human Biology: Applications and Investigations II; ANHB3321 Biological Anthropology: Genes and Society; ANHB3323 Cells, Tissues and Development; ANHB3324 Human Structure and Function; ANHB3304 Human Functional Morphology; ANHB3311 Biological Anthropology; PHYL3001 Physiology of Membranes, Muscles and Signalling; PHYL3002 Physiology of Cardiovascular and Respiratory Systems; PHYL3003 Physiology of Nutrition and Metabolism; PHYL3004 Physiology of Integrated Organ Function; PHYL3340 Advanced Cellular Physiology; PHYL3350 Physiology Control Mechanisms; PHYL3300 Mammalian Cell Biology 
+      S1 
+      BIOC3001 
+      Molecular Biology 
+      Prerequisites: [(BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell) and (BIOC2202 Biochemical Regulation of Cell Function or BIOC2002 Biochemical Regulation of Cell Function)] or [(BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell) and one of MICR2209 Introduction to Infectious Diseases and Immunology, PATH2201 Introduction to Human Disease, PHAR2210 Foundations of Pharmacology, PHYL2001 Physiology of Human Body Systems, ANHB2212 Human Structure and Development]Incompatibility: SCIE2225 Molecular Biology passed in or before 2004; SCIE3325 Molecular Biology 
+      S1 
+      BIOC3002 
+      Structural and Functional Biochemistry 
+      Prerequisites: [(BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell) and (BIOC2202 Biochemical Regulation of Cell Function or BIOC2002 Biochemical Regulation of Cell Function)] or [(BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell) and one of MICR2209 Introduction to Infectious Diseases and Immunology, PATH2201 Introduction to Human Disease, PHAR2210 Foundations of Pharmacology, PHYL2001 Physiology of Human Body Systems, ANHB2212 Human Structure and Development]Incompatibility: BIOC3351 Molecular and Structural Biochemistry 
+      S2 
+      BIOC3003 
+      Omics—Global Approaches to Cell Function 
+      Prerequisites: [(BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell) and (BIOC2202 Biochemical Regulation of Cell Function or BIOC2002 Biochemical Regulation of Cell Function] or [(BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell) and one of MICR2209 Introduction to Infectious Diseases and Immunology, PATH2201 Introduction to Human Disease, PHAR2210 Foundations of Pharmacology, PHYL2001 Physiology of Human Body Systems, ANHB2212 Human Structure and Development]Incompatibility: BIOC3351 Structural and Functional Biochemistry 
+      S2 
+      BIOC3005 
+      Cellular Biochemistry 
+      Prerequisites: [(BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell) and (BIOC2202 Biochemical Regulation of Cell Function or BIOC2002 Biochemical Regulation of Cell Function)] or [BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell) and one of MICR2209 Introduction to Infectious Diseases and Immunology, PATH2201 Introduction to Human Disease, PHAR2210 Foundations of Pharmacology, PHYL2001 Physiology of Human Body Systems, ANHB2212 Human Structure and Development]Incompatibility: BIOC3352 Cellular and Metabolic Biochemistry; PHYL3300 Mammalian Cell Biology 
+      S2 
+      PATH3304 
+      Drugs and Disease B 
+      Prerequisites: Biomedical Science major Level 2 unitsIncompatibility: PHAR2220 Human Pharmacology, PHAR3310 Molecular Pharmacology, PHAR3311 Molecular Pharmacology Methods, PHAR3320 Systems Pharmacology, PATH3306 Integrated and Applied Pathology, PATH3302 Pathology: Human Oncobiology, PATH3305 Medical Genetics, PATH3354 Immunology and Immunopathology, PATH3308 Pathology and Laboratory Medicine II. 
+      S1 
+      PHAR3303 
+      Drugs and Disease A 
+      Prerequisites: SCOM1101 Introduction to Scientific Practices, ANHB2212 Human Structure and Development, PHAR2210 Foundations of Pharmacology, PHYL2001 Physiology of Human Body Systems, MICR2209 Introduction to Infectious Diseases and Immunology, BIOC2203 Biochemistry and Molecular Biology of the Cell, PATH2201 Introduction to Human DiseaseIncompatibility: PHAR2220 Systems Pharmacology, PHAR2230 Systems Pharmacology, PHAR3310 Molecular Pharmacology, PHAR3311 Molecular Pharmacology Methods, PHAR3320 Systems Pharmacology, PATH3303 Advanced Pathology and Laboratory Medicine, PATH3306 Integrated and Applied Pathology, PATH3302 Pathology: Human Oncobiology, PATH3305 Medical Genetics, PATH3311 Biotherapeutics and Regenerative Medicine, PATH3354 Immunology and Immunopathology 
+      S2 
+      PHYL3305 
+      Human Growth, Development and Ageing 
+      Prerequisites: ANHB2212 Human Structure and Development and PHYL2001 Physiology of Human Body SystemsIncompatibility: ANHB3310 Human Biology: Applications and Investigations I, ANHB3315 Human Evolutionary Ecology, ANHB3316 Human Reproduction, ANHB3320 Human Biology: Applications and Investigations II, ANHB3321 Biological Anthropology: Genes and Society, ANHB3323 Cells, Tissues and Development, ANHB3324 Human Structure and Function, ANHB3304 Human Functional Morphology, ANHB3311 Biological Anthropology, PHYL3001 Physiology of Membranes, Muscles and Signalling, PHYL3002 Physiology of Cardiovascular and Respiratory Systems, PHYL3003 Physiology of Nutrition and Metabolism, PHYL3004 Physiology of Integrated Organ Function, PHYL3340 Advanced Cellular Physiology, PHYL3350 Physiology Control Mechanisms, PHYL3300 Mammalian Cell Biology 
+  Microbiology and Immunology specialisation 
+      Take all units (48 points):
+      Availability 
+      Unit code 
+      Unit name  
+      Unit rules 
+      S1 
+      ANHB3328 
+      Communication Systems in the Human Body 
+      Prerequisites: ANHB2212 Human Structure and Development and PHYL2001 Physiology of Human Body SystemsIncompatibility: ANHB3310 Human Biology: Applications and Investigations I; ANHB3315 Human Evolutionary Ecology; ANHB3316 Human Reproduction; ANHB3320 Human Biology: Applications and Investigations II; ANHB3321 Biological Anthropology: Genes and Society; ANHB3323 Cells, Tissues and Development; ANHB3324 Human Structure and Function; ANHB3304 Human Functional Morphology; ANHB3311 Biological Anthropology; PHYL3001 Physiology of Membranes, Muscles and Signalling; PHYL3002 Physiology of Cardiovascular and Respiratory Systems; PHYL3003 Physiology of Nutrition and Metabolism; PHYL3004 Physiology of Integrated Organ Function; PHYL3340 Advanced Cellular Physiology; PHYL3350 Physiology Control Mechanisms; PHYL3300 Mammalian Cell Biology 
+      S2 
+      MICR3310 
+      Applied and Environmental Microbiology 
+      Prerequisites: (MICR2208 Introductory Microbiology, and MICR2209 Introduction to Infectious Diseases and Immunology); or Biomedical Science major Level 2 units 
+      S2 
+      MICR3320 
+      Viruses and Viral Disease 
+      Prerequisites: (MICR2208 Introductory Microbiology, and MICR2209 Introduction to Infectious Diseases and Immunology); or Biomedical Science major Level 2 unitsIncompatibility: MICR3302 Infection and Immunity 
+      S1 
+      MICR3330 
+      Bacteria and Bacterial Disease 
+      Prerequisites: (MICR2208 Introductory Microbiology, and MICR2209 Introduction to Infectious Diseases and Immunology); or Biomedical Science major Level 2 unitsIncompatibility: MICR3302 Infections and Immunity 
+      S1 
+      MICR3340 
+      Immunity and Infection 
+      Prerequisites: (MICR2208 Introductory Microbiology, and MICR2209 Introduction to Infectious Diseases and Immunology); or Biomedical Science major Level 2 unitsIncompatibility: MICR3302 Infections and Immunity 
+      S2 
+      PATH3304 
+      Drugs and Disease B 
+      Prerequisites: Biomedical Science major Level 2 unitsIncompatibility: PHAR2220 Human Pharmacology, PHAR3310 Molecular Pharmacology, PHAR3311 Molecular Pharmacology Methods, PHAR3320 Systems Pharmacology, PATH3306 Integrated and Applied Pathology, PATH3302 Pathology: Human Oncobiology, PATH3305 Medical Genetics, PATH3354 Immunology and Immunopathology, PATH3308 Pathology and Laboratory Medicine II. 
+      S1 
+      PHAR3303 
+      Drugs and Disease A 
+      Prerequisites: SCOM1101 Introduction to Scientific Practices, ANHB2212 Human Structure and Development, PHAR2210 Foundations of Pharmacology, PHYL2001 Physiology of Human Body Systems, MICR2209 Introduction to Infectious Diseases and Immunology, BIOC2203 Biochemistry and Molecular Biology of the Cell, PATH2201 Introduction to Human DiseaseIncompatibility: PHAR2220 Systems Pharmacology, PHAR2230 Systems Pharmacology, PHAR3310 Molecular Pharmacology, PHAR3311 Molecular Pharmacology Methods, PHAR3320 Systems Pharmacology, PATH3303 Advanced Pathology and Laboratory Medicine, PATH3306 Integrated and Applied Pathology, PATH3302 Pathology: Human Oncobiology, PATH3305 Medical Genetics, PATH3311 Biotherapeutics and Regenerative Medicine, PATH3354 Immunology and Immunopathology 
+      S2 
+      PHYL3305 
+      Human Growth, Development and Ageing 
+      Prerequisites: ANHB2212 Human Structure and Development and PHYL2001 Physiology of Human Body SystemsIncompatibility: ANHB3310 Human Biology: Applications and Investigations I, ANHB3315 Human Evolutionary Ecology, ANHB3316 Human Reproduction, ANHB3320 Human Biology: Applications and Investigations II, ANHB3321 Biological Anthropology: Genes and Society, ANHB3323 Cells, Tissues and Development, ANHB3324 Human Structure and Function, ANHB3304 Human Functional Morphology, ANHB3311 Biological Anthropology, PHYL3001 Physiology of Membranes, Muscles and Signalling, PHYL3002 Physiology of Cardiovascular and Respiratory Systems, PHYL3003 Physiology of Nutrition and Metabolism, PHYL3004 Physiology of Integrated Organ Function, PHYL3340 Advanced Cellular Physiology, PHYL3350 Physiology Control Mechanisms, PHYL3300 Mammalian Cell Biology 
+  Pathology and Laboratory Medicine specialisation 
+      Take all units (48 points):
+      Availability 
+      Unit code 
+      Unit name  
+      Unit rules 
+      S1 
+      ANHB3328 
+      Communication Systems in the Human Body 
+      Prerequisites: ANHB2212 Human Structure and Development and PHYL2001 Physiology of Human Body SystemsIncompatibility: ANHB3310 Human Biology: Applications and Investigations I; ANHB3315 Human Evolutionary Ecology; ANHB3316 Human Reproduction; ANHB3320 Human Biology: Applications and Investigations II; ANHB3321 Biological Anthropology: Genes and Society; ANHB3323 Cells, Tissues and Development; ANHB3324 Human Structure and Function; ANHB3304 Human Functional Morphology; ANHB3311 Biological Anthropology; PHYL3001 Physiology of Membranes, Muscles and Signalling; PHYL3002 Physiology of Cardiovascular and Respiratory Systems; PHYL3003 Physiology of Nutrition and Metabolism; PHYL3004 Physiology of Integrated Organ Function; PHYL3340 Advanced Cellular Physiology; PHYL3350 Physiology Control Mechanisms; PHYL3300 Mammalian Cell Biology 
+      S1 
+      BIOC3004 
+      Biochemistry in Health and Disease 
+      Prerequisites: MICR2209 Introduction to Infectious Diseases and Immunology and (BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell)Incompatibility: BIOC3001 Molecular Biology, BIOC3002 Structural and Functional Biochemistry, BIOC3003 Omics—Global Approaches to Cell Function, BIOC3005 Cellular Biochemistry, PHCY3302 Nutrition, Health and Drug Development 
+      S2 
+      MICR3350 
+      Advanced Infectious Diseases 
+      Prerequisites: MICR2209 Introduction to Infectious Diseases and Immunology; and Biomedical Science major Level 2 unitsIncompatibility: MICR3310 Applied and Environmental Microbiology, MICR3320 Viruses and Viral Disease, MICR3330 Bacteria and Bacterial Disease, MICR3340 Immunity and Infection, MICR3302 Infection and Immunity, MICR3301 General Microbiology 
+      S1 
+      PATH3305 
+      Medical Genetics 
+      Prerequisites: Completion of Level 2 of a major in Pathology and Laboratory Medicine, Biomedical Science or Genetics; for pre-2012 courses: GENE2230 Molecular Genetics I and GENE2250 Principles of InheritanceIncompatibility: GENE3320 Medical Genetics 
+      S1 
+      PATH3307 
+      Pathology and Laboratory Medicine I 
+      Prerequisites: completion of Level 2 of Pathology and Laboratory Medicine major or Biomedical Science majorIncompatibility: PATH3354 Immunology and Immunopathology (heritage unit) 
+      S2 
+      PATH3308 
+      Pathology and Laboratory Medicine II 
+      Prerequisites: completion of Level 2 of Pathology and Laboratory Medicine major or Biomedical Science majorIncompatibility: PATH3311 Biotherapeutics and Regenerative Medicine (heritage unit), PATH3304 Drugs and Disease B 
+      S2 
+      PATH3309 
+      Cancer Pathology 
+      Prerequisites: completion of Level 2 of Pathology and Laboratory Medicine major or Biomedical Science major; for pre-2012 courses: 12 points from ANHB2214 Human Organs and Systems, BIOC2201 Biochemistry of the Cell, BIOC2202 Biochemical Regulation of Cell Function, GENE3330 Molecular Genetics and Genomics, MICR2203 Introductory Immunology, MICR2204 Introductory Microbiology, MICR2206 Epidemiology and Infection, PATH2201 Introduction to Human DiseaseIncompatibility: PATH3302 Cancer Pathology 
+      S2 
+      PHYL3305 
+      Human Growth, Development and Ageing 
+      Prerequisites: ANHB2212 Human Structure and Development and PHYL2001 Physiology of Human Body SystemsIncompatibility: ANHB3310 Human Biology: Applications and Investigations I, ANHB3315 Human Evolutionary Ecology, ANHB3316 Human Reproduction, ANHB3320 Human Biology: Applications and Investigations II, ANHB3321 Biological Anthropology: Genes and Society, ANHB3323 Cells, Tissues and Development, ANHB3324 Human Structure and Function, ANHB3304 Human Functional Morphology, ANHB3311 Biological Anthropology, PHYL3001 Physiology of Membranes, Muscles and Signalling, PHYL3002 Physiology of Cardiovascular and Respiratory Systems, PHYL3003 Physiology of Nutrition and Metabolism, PHYL3004 Physiology of Integrated Organ Function, PHYL3340 Advanced Cellular Physiology, PHYL3350 Physiology Control Mechanisms, PHYL3300 Mammalian Cell Biology 
+  Pharmacology specialisation 
+      Take all units (48 points):
+      Availability 
+      Unit code 
+      Unit name  
+      Unit rules 
+      S1 
+      ANHB3328 
+      Communication Systems in the Human Body 
+      Prerequisites: ANHB2212 Human Structure and Development and PHYL2001 Physiology of Human Body SystemsIncompatibility: ANHB3310 Human Biology: Applications and Investigations I; ANHB3315 Human Evolutionary Ecology; ANHB3316 Human Reproduction; ANHB3320 Human Biology: Applications and Investigations II; ANHB3321 Biological Anthropology: Genes and Society; ANHB3323 Cells, Tissues and Development; ANHB3324 Human Structure and Function; ANHB3304 Human Functional Morphology; ANHB3311 Biological Anthropology; PHYL3001 Physiology of Membranes, Muscles and Signalling; PHYL3002 Physiology of Cardiovascular and Respiratory Systems; PHYL3003 Physiology of Nutrition and Metabolism; PHYL3004 Physiology of Integrated Organ Function; PHYL3340 Advanced Cellular Physiology; PHYL3350 Physiology Control Mechanisms; PHYL3300 Mammalian Cell Biology 
+      S1 
+      BIOC3004 
+      Biochemistry in Health and Disease 
+      Prerequisites: MICR2209 Introduction to Infectious Diseases and Immunology and (BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell)Incompatibility: BIOC3001 Molecular Biology, BIOC3002 Structural and Functional Biochemistry, BIOC3003 Omics—Global Approaches to Cell Function, BIOC3005 Cellular Biochemistry, PHCY3302 Nutrition, Health and Drug Development 
+      S2 
+      MICR3350 
+      Advanced Infectious Diseases 
+      Prerequisites: MICR2209 Introduction to Infectious Diseases and Immunology; and Biomedical Science major Level 2 unitsIncompatibility: MICR3310 Applied and Environmental Microbiology, MICR3320 Viruses and Viral Disease, MICR3330 Bacteria and Bacterial Disease, MICR3340 Immunity and Infection, MICR3302 Infection and Immunity, MICR3301 General Microbiology 
+      S1 
+      PHAR3310 
+      Molecular Pharmacology 
+      Prerequisites: PHAR2210 Foundations of Pharmacology, and PHAR2220 Human Pharmacology; or PHAR2210 Foundations of Pharmacology, and PHYL2001 Physiology of Human Body Systems, and BIOC2001 Biochemistry and Molecular Biology of the Cell, and one of the following units: ANHB2212 Human Structure and Development, MICR2209 Introduction to Infectious Diseases and Immunology, or PATH2220 Introduction to Human DiseaseIncompatibility: PHAR3303 Drugs and Disease A, and PATH3304 Drugs and Disease B 
+      S1 
+      PHAR3311 
+      Molecular Pharmacology Methods 
+      Prerequisites: PHAR2210 Foundations of Pharmacology, and PHAR2220 Human Pharmacology; or PHAR2210 Foundations of Pharmacology, and PHYL2001 Physiology of Human Body Systems, and BIOC2001 Biochemistry and Molecular Biology of the Cell, and one of the following units: ANHB2212 Human Structure and Development, MICR2209 Introduction to Infectious Diseases and Immunology, or PATH2220 Introduction to Human DiseaseCo-requisites: PHAR3310 Molecular Pharmacology; or Biomedical Science major level 2 unitsIncompatibility: PHAR3303 Drugs and Disease A, and PATH3304 Drugs and Disease B 
+      S2 
+      PHAR3320 
+      Systems Pharmacology 
+      Prerequisites: [PHAR2210 Foundations of Pharmacology and PHAR2220 Human Pharmacology] or [PHAR2210 Foundations of Pharmacology and PHYL2001 Physiology of Human Body Systems and BIOC2001 Biochemistry and Molecular Biology of the Cell and one of the following units: ANHB2212 Human Structure and Development, MICR2209 Introduction to Infectious Diseases and Immunology or PATH2220 Introduction to Human Disease]Incompatibility: PHAR3303 Drugs and Disease A, and PATH3304 Drugs and Disease B 
+      S2 
+      PHAR3321 
+      Systems Pharmacology Methods 
+      Prerequisites: [PHAR2210 Foundations of Pharmacology and PHAR2220 Introduction to Human Disease] or [PHAR2210 Foundations of Pharmacology and PHYL2001 Physiology of Human Body Systems and BIOC2001 Biochemistry and Molecular Biology of the Cell and one of the following units: ANHB2212 Human Structure and Development, MICR2209 Introduction to Infectious Diseases and Immunology or PATH2220 Introduction to Human Disease ]Co-requisites: PHAR3320 Systems PharmacologyIncompatibility: PHAR3303 Drugs and Disease A, and PATH3304 Drugs and Disease B 
+      S2 
+      PHYL3305 
+      Human Growth, Development and Ageing 
+      Prerequisites: ANHB2212 Human Structure and Development and PHYL2001 Physiology of Human Body SystemsIncompatibility: ANHB3310 Human Biology: Applications and Investigations I, ANHB3315 Human Evolutionary Ecology, ANHB3316 Human Reproduction, ANHB3320 Human Biology: Applications and Investigations II, ANHB3321 Biological Anthropology: Genes and Society, ANHB3323 Cells, Tissues and Development, ANHB3324 Human Structure and Function, ANHB3304 Human Functional Morphology, ANHB3311 Biological Anthropology, PHYL3001 Physiology of Membranes, Muscles and Signalling, PHYL3002 Physiology of Cardiovascular and Respiratory Systems, PHYL3003 Physiology of Nutrition and Metabolism, PHYL3004 Physiology of Integrated Organ Function, PHYL3340 Advanced Cellular Physiology, PHYL3350 Physiology Control Mechanisms, PHYL3300 Mammalian Cell Biology 
+  Physiology specialisation 
+      Take all units (48 points):
+      Availability 
+      Unit code 
+      Unit name  
+      Unit rules 
+      S1 
+      BIOC3004 
+      Biochemistry in Health and Disease 
+      Prerequisites: MICR2209 Introduction to Infectious Diseases and Immunology and (BIOC2203 Biochemistry and Molecular Biology of the Cell or BIOC2001 Biochemistry and Molecular Biology of the Cell)Incompatibility: BIOC3001 Molecular Biology, BIOC3002 Structural and Functional Biochemistry, BIOC3003 Omics—Global Approaches to Cell Function, BIOC3005 Cellular Biochemistry, PHCY3302 Nutrition, Health and Drug Development 
+      S2 
+      MICR3350 
+      Advanced Infectious Diseases 
+      Prerequisites: MICR2209 Introduction to Infectious Diseases and Immunology; and Biomedical Science major Level 2 unitsIncompatibility: MICR3310 Applied and Environmental Microbiology, MICR3320 Viruses and Viral Disease, MICR3330 Bacteria and Bacterial Disease, MICR3340 Immunity and Infection, MICR3302 Infection and Immunity, MICR3301 General Microbiology 
+      S2 
+      PATH3304 
+      Drugs and Disease B 
+      Prerequisites: Biomedical Science major Level 2 unitsIncompatibility: PHAR2220 Human Pharmacology, PHAR3310 Molecular Pharmacology, PHAR3311 Molecular Pharmacology Methods, PHAR3320 Systems Pharmacology, PATH3306 Integrated and Applied Pathology, PATH3302 Pathology: Human Oncobiology, PATH3305 Medical Genetics, PATH3354 Immunology and Immunopathology, PATH3308 Pathology and Laboratory Medicine II. 
+      S1 
+      PHAR3303 
+      Drugs and Disease A 
+      Prerequisites: SCOM1101 Introduction to Scientific Practices, ANHB2212 Human Structure and Development, PHAR2210 Foundations of Pharmacology, PHYL2001 Physiology of Human Body Systems, MICR2209 Introduction to Infectious Diseases and Immunology, BIOC2203 Biochemistry and Molecular Biology of the Cell, PATH2201 Introduction to Human DiseaseIncompatibility: PHAR2220 Systems Pharmacology, PHAR2230 Systems Pharmacology, PHAR3310 Molecular Pharmacology, PHAR3311 Molecular Pharmacology Methods, PHAR3320 Systems Pharmacology, PATH3303 Advanced Pathology and Laboratory Medicine, PATH3306 Integrated and Applied Pathology, PATH3302 Pathology: Human Oncobiology, PATH3305 Medical Genetics, PATH3311 Biotherapeutics and Regenerative Medicine, PATH3354 Immunology and Immunopathology 
+      S1 
+      PHYL3001 
+      Physiology of Membranes, Muscles and Signalling 
+      Prerequisites: PHYL2002 Physiology of Cells or PHYL2245 Physiology of Cells or (PHYL2001 Physiology of Human Body Systems and three of ANHB2212 Human Structure and Development, BIOC2203 Biochemistry and Molecular Biology of the Cell, BIOC2001 Biochemistry and Molecular Biology of the Cell, MICR2209 Introduction to Infectious Diseases and Immunology, PATH2201 Introduction to Human Disease, PHAR2210 Foundations of Pharmacology)Incompatibility: PHYL3340 Advanced Cell Physiology 
+      S1 
+      PHYL3002 
+      Physiology of Cardiovascular and Respiratory Systems 
+      Prerequisites: PHYL2001 Physiology of Human Body Systems or PHYL2255 Physiology of Human Body Systems or PHYL2260 Physiology of Adaptation and Stress or (PHYL2001 Physiology of Human Body Systems and three of ANHB2212 Human Structure and Development, BIOC2203 Biochemistry and Molecular Biology of the Cell, BIOC2001 Biochemistry and Molecular Biology of the Cell, MICR2209 Introduction to Infectious Diseases and Immunology, PATH2201 Introduction to Human Disease, PHAR2210 Foundations of Pharmacology)Incompatibility: PHYL3350 Physiological Control Mechanisms 
+      S2 
+      PHYL3003 
+      Physiology of Nutrition and Metabolism 
+      Prerequisites: 72 points and PHYL2001 Physiology of Human Body Systems or PHYL2255 Physiology of Human Body Systems or PHYL2260 Physiology of Adaptation and StressIncompatibility: PHYL3300 Mammalian Cell Biology, PHYL3350 Physiological Control Mechanisms 
+      S2 
+      PHYL3004 
+      Physiology of Integrated Organ Function 
+      Prerequisites: (PHYL2001 Physiology of Human Body Systems and PHYL2002 Physiology of Cells) or [PHYL2245 Physiology of Cells and (PHYL2255 Physiology of Human Body Systems or PHYL2260 Physiology Adaptation and Stress)] or (PHYL2001 Physiology of Human Body Systems and three of the following: ANHB2212 Human Structure and Development, BIOC2203 Biochemistry and Molecular Biology of the Cell, BIOC2001 Biochemistry and Molecular Biology of the Cell, MICR2209 Introduction to Infectious Diseases and Immunology, PATH2201 Introduction to Human Disease, PHAR2210 Foundations of Pharmacology)Incompatibility: PHYL3340 Advanced Cellular Physiology, PHYL3350 Physiological Control Mechanisms

@@ -98,20 +98,20 @@ public class ExcelGenerator {
 	
 	public void exportExcel() throws Exception {
 		for(int row =0;row<majorList.size();row++){
-			addToSheet(row+1, SCHOOL, majorList.get(row).getSchool());
+			addToSheet(row+1, SCHOOL, majorList.get(row).getSchool().trim());
 			addToSheet(row+1, LEVEL, majorList.get(row).getLevel());
-			addToSheet(row+1, TITLE, majorList.get(row).getTitle());
-			addToSheet(row+1, TYPE, majorList.get(row).getType());
-			addToSheet(row+1, APPLICATION_FEE, majorList.get(row).getApplicationFee());
-			addToSheet(row+1, TUITION_FEE, majorList.get(row).getTuitionFee());
-			addToSheet(row+1, ACADEMIC_ENTRY_REQUIREMENT, majorList.get(row).getAcademicRequirements());
-			addToSheet(row+1, IELTS_AVERAGE_REQUIREMENT, majorList.get(row).getIELTS_Avg());
-			addToSheet(row+1, IELTS_LOWEST_REQUIREMENT, majorList.get(row).getIELTS_Low());
-			addToSheet(row+1, STRUCTURE, majorList.get(row).getStructure());
-			addToSheet(row+1, LENGTH_MONTHS, majorList.get(row).getLength());
-			addToSheet(row+1, MONTH_OF_ENTRY, majorList.get(row).getMonthOfEntry());
-			addToSheet(row+1, SCHOLARSHIP, majorList.get(row).getScholarship());
-			addToSheet(row+1, URL, majorList.get(row).getUrl());
+			addToSheet(row+1, TITLE, majorList.get(row).getTitle().trim());
+			addToSheet(row+1, TYPE, majorList.get(row).getType().trim());
+			addToSheet(row+1, APPLICATION_FEE, majorList.get(row).getApplicationFee().trim());
+			addToSheet(row+1, TUITION_FEE, majorList.get(row).getTuitionFee().trim());
+			addToSheet(row+1, ACADEMIC_ENTRY_REQUIREMENT, majorList.get(row).getAcademicRequirements().trim());
+			addToSheet(row+1, IELTS_AVERAGE_REQUIREMENT, majorList.get(row).getIELTS_Avg().trim());
+			addToSheet(row+1, IELTS_LOWEST_REQUIREMENT, majorList.get(row).getIELTS_Low().trim());
+			addToSheet(row+1, STRUCTURE, majorList.get(row).getStructure().replaceAll("\\n[\\s]*\\n", "\n").trim());
+			addToSheet(row+1, LENGTH_MONTHS, majorList.get(row).getLength().trim());
+			addToSheet(row+1, MONTH_OF_ENTRY, majorList.get(row).getMonthOfEntry().trim());
+			addToSheet(row+1, SCHOLARSHIP, majorList.get(row).getScholarship().trim());
+			addToSheet(row+1, URL, majorList.get(row).getUrl().trim());
 		}
 		
 		File file = new File("gen_data_"+schoolName+"_"+level+".xls");

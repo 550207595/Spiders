@@ -46,8 +46,8 @@ public class Test {
 		
 		System.out.println(SCHOOL_NAME);
 		System.out.println(LEVEL);
-		Document doc = WebUtils.getDocument("http://www.monash.edu.au/pubs/handbooks/courses/F2001.html", 1, 5*1000);
-		System.out.println(doc.select("h2.black.pub_heading:containsOwn(Requirements) + div.pub_body_text").outerHtml());
+		Document doc = WebUtils.getDocument("http://www.studyat.uwa.edu.au/courses/aboriginal-health-and-wellbeing", 1, 5*1000);
+		System.out.println(doc.select("a[target=_blank]:containsOwn(University Handbooks)").outerHtml());
 	}
 
 }
