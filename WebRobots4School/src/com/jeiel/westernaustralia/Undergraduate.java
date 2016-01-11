@@ -242,6 +242,21 @@ public class Undergraduate {
 			major.setSchool("Faculty of Medicine, Dentistry and Health Sciences");
 		}else if(doc.text().contains("Faculty of Science")){
 			major.setSchool("Faculty of Science");
+		}else if(doc.text().contains("School of Population Health")){
+			major.setSchool("School of Population Health");
+		}
+//		else if(doc.select("a:containsOwn(Political Science discipline),"
+//				+ "a:containsOwn(Anthropology and Sociology discipline),"
+//				+ "a:containsOwn(Communication and Media Studies discipline)").size()>0){
+//			major.setSchool("School of Social Sciences");
+//		}else if(doc.select("a:containsOwn(Classics and Ancient History discipline)").size()>0){
+//			major.setSchool("School of Humanities");
+//		}
+		else if(doc.select("#SectionsSection + dd a").size()>0){
+			Document tmpDoc = WebUtils.getDocument(doc.select("#SectionsSection + dd  a").get(0).attr("abs:href"), WebUtils.METHOD_GET, 10*1000);
+			if(tmpDoc.select("#headertitle").size()>0){
+				major.setSchool(tmpDoc.select("#headertitle").get(0).text());
+			}
 		}
 			
 		

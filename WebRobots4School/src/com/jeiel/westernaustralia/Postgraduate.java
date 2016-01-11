@@ -1,4 +1,7 @@
 package com.jeiel.westernaustralia;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -11,6 +14,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.apache.poi.hssf.usermodel.HSSFRow;
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -106,27 +112,45 @@ public class Postgraduate {
 		
 		System.out.println("preparing majorList");
 		
-		boolean finish = false;
-		do{
-			try {
-				majorList.clear();
-				Connection conn=Jsoup.connect(originalUrl);
-				Document doc=conn.timeout(10000).get();
-				Elements es=doc.select("h4[id^=Postgraduate] + ul a");
-				for(Element e:es){//major
-					if(e.text().contains("Back to top"))continue;
-					MajorForCollection major = new MajorForCollection();
-					major.setLevel(LEVEL);
-					major.setTitle(e.text().trim());
-					major.setUrl(e.select("a").get(0).attr("abs:href"));
-					majorList.add(major);
-				};
-				finish=true;
-			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-		}while(!finish);
+//		boolean finish = false;
+//		do{
+//			try {
+//				majorList.clear();
+//				Connection conn=Jsoup.connect(originalUrl);
+//				Document doc=conn.timeout(10000).get();
+//				Elements es=doc.select("h4[id^=Postgraduate] + ul a");
+//				for(Element e:es){//major
+//					if(e.text().contains("Back to top"))continue;
+//					MajorForCollection major = new MajorForCollection();
+//					major.setLevel(LEVEL);
+//					major.setTitle(e.text().trim());
+//					major.setUrl(e.select("a").get(0).attr("abs:href"));
+//					majorList.add(major);
+//				};
+//				finish=true;
+//			} catch (Exception e) {
+//				// TODO Auto-generated catch block
+//				e.printStackTrace();
+//			}
+//		}while(!finish);
+		HSSFWorkbook book = null;
+		try {
+			book = new HSSFWorkbook(new FileInputStream(new File("gen_data_Westernaustralia_pgt_modified.xls")));
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		HSSFSheet sheet = book.getSheetAt(0);
+		HSSFRow row = null;
+		for(int i = 1; i < sheet.getLastRowNum(); i++){
+			row = sheet.getRow(i);
+			MajorForCollection major = new MajorForCollection();
+			major.setUrl(row.getCell(13).getStringCellValue());
+			majorList.add(major);
+		}
 		
 		System.out.println("majorList prepared");
 		System.out.println("majorList size: "+majorList.size());
@@ -239,6 +263,10 @@ public class Postgraduate {
 			major.setSchool("Faculty of Medicine, Dentistry and Health Sciences");
 		}else if(doc.text().contains("Faculty of Science")){
 			major.setSchool("Faculty of Science");
+		}else if(doc.text().contains("Faculty of Education")){
+			major.setSchool("Faculty of Education");
+		}else if(doc.select("a:containsOwn(Link to Faculty)").size()>0){
+			major.setSchool(doc.select("a:containsOwn(Link to Faculty)").get(0).attr("abs:href"));
 		}
 		
 		if(doc.select("#structure").size()>0){

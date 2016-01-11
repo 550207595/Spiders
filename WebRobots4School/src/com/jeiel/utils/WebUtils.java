@@ -26,8 +26,11 @@ public class WebUtils {
 					}
 					return doc;
 				}catch(Exception e){
-					e.printStackTrace();
-					//System.out.println(e.getMessage());
+					if(e.getMessage().contains("connect timed out")){
+						System.out.println(e.getMessage());
+					}else{
+						e.printStackTrace();
+					}
 				}
 			}
 			

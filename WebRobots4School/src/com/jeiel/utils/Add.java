@@ -55,7 +55,7 @@ public class Add {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "connect.sid=s%3AEtuM0YMHHXqQtadxgkbCMnIPNykXXK5l.XUstBnq2i6fjLqp6xh7x%2FiWd7%2FPFeTm%2FHfzCMk6zu00; CNZZDATA1256122972=254321286-1441087693-%7C1450313372");
+	    connection.setRequestProperty("Cookie", "connect.sid=s%3AK2uFLp5ra86cgRKQqSqju-H9nP9XdUsy.A9RhxZvhmpKonVqIeKCGbJD49o4DOWij162F6Bc0aJE; CNZZDATA1256122972=343858778-1451182154-%7C1452496400; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1451182880,1452149547,1452497237; Hm_lpvt_7b2d81bba29516af3254cc73cbff78b1=1452497415");
 	    connection.connect();
 	    return connection;
 	}
@@ -121,7 +121,7 @@ public class Add {
 		    os.write(entry.toString().getBytes("utf8"));
 		    os.flush();
 		    
-		    //��ȡ��Ӧ
+		    //get Return Msg
 		    
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;
