@@ -1,4 +1,6 @@
 package com.jeiel.adelaide;
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -9,6 +11,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.apache.poi.hssf.usermodel.HSSFRow;
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -42,8 +47,8 @@ public class Undergraduate {
 	public static void main(String[] args) {
 		long startTimeInMillis = Calendar.getInstance().getTimeInMillis();
 		try {
-			initMajorList("http://www.adelaide.edu.au/degree-finder/?v__s=&search=Search&m=view&dsn=program.source_program&adv_avail_comm=1&adv_acad_career=1&adv_degree_type=0&adv_atar=0&year=2016&adv_subject=0&adv_career=0&adv_campus=0");
-			//initMajorListWithData();
+			//initMajorList("http://www.adelaide.edu.au/degree-finder/?v__s=&search=Search&m=view&dsn=program.source_program&adv_avail_comm=1&adv_acad_career=1&adv_degree_type=0&adv_atar=0&year=2016&adv_subject=0&adv_career=0&adv_campus=0");
+			initMajorListWithData();
 			System.out.println("start");
 			ExecutorService pool=Executors.newCachedThreadPool();
 			for(int i=0;i<MAX_THREAD_AMOUNT;i++){
@@ -138,12 +143,36 @@ public class Undergraduate {
 	public static void initMajorListWithData(){
 		
 		System.out.println("preparing majorList");
-		for(String[] singleData:Data.getData(LEVEL)){
-			MajorForCollection major = new MajorForCollection();
-			major.setLevel(LEVEL);
-			major.setApplicationFee(singleData[0]);
-			major.setUrl(singleData[1]);
-			majorList.add(major);
+		File file = new File("gen_data_Adelaide_part2.xls");
+		try(FileInputStream fis = new FileInputStream(file);
+				HSSFWorkbook book = new HSSFWorkbook(fis)){
+			HSSFSheet sheet = book.getSheetAt(0);
+			HSSFRow row = null;
+			for(int i = 1; i<=sheet.getLastRowNum(); i++){
+				row = sheet.getRow(i);
+				if(row.getCell(1).getStringCellValue().equals(LEVEL)){
+					MajorForCollection major = new MajorForCollection();
+					major.setSchool(row.getCell(0).getStringCellValue());
+					major.setLevel(row.getCell(1).getStringCellValue());
+					major.setTitle(row.getCell(2).getStringCellValue());
+					major.setType(row.getCell(3).getStringCellValue());
+					major.setApplicationFee(row.getCell(4).getStringCellValue());
+					major.setTuitionFee(row.getCell(5).getStringCellValue());
+					major.setAcademicRequirements(row.getCell(6).getStringCellValue());
+					major.setIELTS_Avg(row.getCell(7).getStringCellValue());
+					major.setIELTS_Low(row.getCell(8).getStringCellValue());
+					major.setStructure(row.getCell(9).getStringCellValue());
+					major.setLength(row.getCell(10).getStringCellValue());
+					major.setMonthOfEntry(row.getCell(11).getStringCellValue());
+					major.setScholarship(row.getCell(12).getStringCellValue());
+					major.setUrl(row.getCell(13).getStringCellValue());
+					majorList.add(major);
+				}
+				
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 		System.out.println("majorList prepared");
 		System.out.println("majorList size: "+majorList.size());

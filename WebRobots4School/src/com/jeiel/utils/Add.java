@@ -31,10 +31,10 @@ public class Add {
 			System.out.println("work start");
 			List<Major> list=POIReadAndPost.getData();
 			for(;index<=list.size();){
-				/*if(index<=211){
+				if(index<=248){
 					index++;
 					continue;
-				}*/
+				}
 				add(postUrl,list.get(index-1));
 			}
 			System.out.println("work done");
