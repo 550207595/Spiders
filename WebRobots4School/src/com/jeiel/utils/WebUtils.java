@@ -1,5 +1,7 @@
 package com.jeiel.utils;
 
+import java.io.File;
+
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -34,6 +36,18 @@ public class WebUtils {
 				}
 			}
 			
+		}
+		return doc;
+	}
+	public static Document getDocumentFromFile(String fileName){
+		Document doc = null;
+		File file = new File(fileName);
+		if(file.exists()){
+			try{
+				doc = Jsoup.parse(file, "utf-8");
+			}catch(Exception e){
+				e.printStackTrace();
+			}
 		}
 		return doc;
 	}

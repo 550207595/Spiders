@@ -139,7 +139,6 @@ public class Add {
 		    reader.close();
 		    System.out.println("Added");
 		    index++;
-		    connection.disconnect();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			
