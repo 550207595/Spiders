@@ -28,7 +28,7 @@ public class WebUtils {
 					}
 					return doc;
 				}catch(Exception e){
-					if(e.getMessage().contains("connect timed out")){
+					if(e.getMessage().contains("timed out")){
 						System.out.println(e.getMessage());
 					}else{
 						e.printStackTrace();
