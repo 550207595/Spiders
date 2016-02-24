@@ -31,11 +31,12 @@ public class Add {
 			System.out.println("work start");
 			List<Major> list=POIReadAndPost.getData();
 			for(;index<=list.size();){
-				if(index<=248){
+				/*if(index<=248){
 					index++;
 					continue;
-				}
+				}*/
 				add(postUrl,list.get(index-1));
+				
 			}
 			System.out.println("work done");
 		} catch (Exception e) {
@@ -55,7 +56,7 @@ public class Add {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "connect.sid=s%3AK2uFLp5ra86cgRKQqSqju-H9nP9XdUsy.A9RhxZvhmpKonVqIeKCGbJD49o4DOWij162F6Bc0aJE; CNZZDATA1256122972=343858778-1451182154-%7C1452496400; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1451182880,1452149547,1452497237; Hm_lpvt_7b2d81bba29516af3254cc73cbff78b1=1452497415");
+	    connection.setRequestProperty("Cookie", "tencentSig=4079742976; CNZZDATA1256122972=343858778-1451182154-%7C1453273881; connect.sid=s%3A0xYUYnCtq0m-Nfs7_qzmZQ7ayyUTKvux.97%2Frydtt%2Bh90G%2Fq%2FS%2FA9LvQNuU6Dw3ir%2FEnus%2Bbdg6g; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1456193359; Hm_lpvt_7b2d81bba29516af3254cc73cbff78b1=1456216302; Hm_lvt_f2d08716d77a6692d1510d26ea9b72d1=1456193360; Hm_lpvt_f2d08716d77a6692d1510d26ea9b72d1=1456216302; __utmt_UA-72589077-1=1; __utma=255880599.2123860011.1456193455.1456193455.1456216350.2; __utmb=255880599.1.10.1456216350; __utmc=255880599; __utmz=255880599.1456193455.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); fromBD=false");
 	    connection.connect();
 	    return connection;
 	}
