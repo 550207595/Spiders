@@ -73,6 +73,7 @@ public class Undergraduate {
 			pool.awaitTermination(7, TimeUnit.MINUTES);
 			System.out.println("finish");
 			UtilsSet.sortMajorList(majorList);
+			//UtilsSet.mappingFee(majorList, UtilsSet.getFeeMap("gen_data_Queenmargaret_ug_modified.xls"));
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

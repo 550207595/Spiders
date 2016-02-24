@@ -13,7 +13,7 @@ import net.sf.json.JSONObject;
 
 public class Delete {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
-	private static int index=486;
+	private static int index=1;
 	private static String SCHOOL_NAME = "";
 	/**
 	 * @param args
@@ -23,7 +23,7 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=811;){//indexΪ��ҳ����ʾ��id��
+		for(;index<=362;){//indexΪ��ҳ����ʾ��id��
 			
 			delete(postUrl,index);
 		}
@@ -38,7 +38,7 @@ public class Delete {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "connect.sid=s%3AEtuM0YMHHXqQtadxgkbCMnIPNykXXK5l.XUstBnq2i6fjLqp6xh7x%2FiWd7%2FPFeTm%2FHfzCMk6zu00; CNZZDATA1256122972=254321286-1441087693-%7C1450313372");
+	    connection.setRequestProperty("Cookie", "tencentSig=4079742976; CNZZDATA1256122972=343858778-1451182154-%7C1453273881; connect.sid=s%3A0xYUYnCtq0m-Nfs7_qzmZQ7ayyUTKvux.97%2Frydtt%2Bh90G%2Fq%2FS%2FA9LvQNuU6Dw3ir%2FEnus%2Bbdg6g; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1456193359; Hm_lpvt_7b2d81bba29516af3254cc73cbff78b1=1456216302; Hm_lvt_f2d08716d77a6692d1510d26ea9b72d1=1456193360; Hm_lpvt_f2d08716d77a6692d1510d26ea9b72d1=1456216302; __utmt_UA-72589077-1=1; __utma=255880599.2123860011.1456193455.1456193455.1456216350.2; __utmb=255880599.1.10.1456216350; __utmc=255880599; __utmz=255880599.1456193455.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); fromBD=false");
 	    connection.connect();
 	    return connection;
 	}
