@@ -56,7 +56,7 @@ public class Add {
 	    connection.setRequestMethod("POST");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
-	    connection.setRequestProperty("Cookie", "tencentSig=4079742976; CNZZDATA1256122972=343858778-1451182154-%7C1453273881; connect.sid=s%3A0xYUYnCtq0m-Nfs7_qzmZQ7ayyUTKvux.97%2Frydtt%2Bh90G%2Fq%2FS%2FA9LvQNuU6Dw3ir%2FEnus%2Bbdg6g; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1456193359; Hm_lpvt_7b2d81bba29516af3254cc73cbff78b1=1456216302; Hm_lvt_f2d08716d77a6692d1510d26ea9b72d1=1456193360; Hm_lpvt_f2d08716d77a6692d1510d26ea9b72d1=1456216302; __utmt_UA-72589077-1=1; __utma=255880599.2123860011.1456193455.1456193455.1456216350.2; __utmb=255880599.1.10.1456216350; __utmc=255880599; __utmz=255880599.1456193455.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); fromBD=false");
+	    connection.setRequestProperty("Cookie", "connect.sid=s%3A6dArnIXTeYNiR8qOIw048M45CSDDvcIH.pYL5HV%2B5iP7PcDjxdfOhIhdMcp2k7rWL%2Bi8AHEKteUk; tencentSig=9862805504; __utma=255880599.1686348414.1460013587.1460013587.1460511794.2; __utmb=255880599.3.10.1460511794; __utmc=255880599; __utmz=255880599.1460013587.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); Hm_lvt_9be5940c4751a630c3c5c971cc9d090d=1460013586,1460511734; Hm_lpvt_9be5940c4751a630c3c5c971cc9d090d=1460512062; fromBD=false");
 	    connection.connect();
 	    return connection;
 	}
